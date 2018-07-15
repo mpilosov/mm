@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://www.mathematicalmichael.com/resume/</loc>
-      <lastmod>2017-06-27T17:39:21-07:00</lastmod>
-    </url>
-  
-    <url>
       <loc>https://www.mathematicalmichael.com/about/</loc>
       <lastmod>2017-06-27T17:39:21-07:00</lastmod>
     </url>
   
     <url>
       <loc>https://www.mathematicalmichael.com/more/</loc>
+      <lastmod>2017-06-27T17:39:21-07:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://www.mathematicalmichael.com/resume/</loc>
       <lastmod>2017-06-27T17:39:21-07:00</lastmod>
     </url>
   
