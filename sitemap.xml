@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://www.mathematicalmichael.com/resources/sharing/</loc>
+      <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://www.mathematicalmichael.com/resources/writing/</loc>
+      <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://www.mathematicalmichael.com/resources/python/</loc>
+      <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://www.mathematicalmichael.com/resources/machine/</loc>
+      <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://www.mathematicalmichael.com/about/</loc>
       <lastmod>2017-06-27T17:39:21-07:00</lastmod>
     </url>
@@ -23,13 +43,24 @@
     </url>
   
     <url>
-      <loc>https://www.mathematicalmichael.com/resources/</loc>
-      <lastmod>2017-02-27T17:39:21-07:00</lastmod>
+      <loc>https://www.mathematicalmichael.com/resources/general/</loc>
+      <lastmod>2017-02-11T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://www.mathematicalmichael.com/resources/bash/</loc>
+      <lastmod>2017-02-10T00:00:00+00:00</lastmod>
     </url>
   
     <url>
       <loc>https://www.mathematicalmichael.com/</loc>
-      <lastmod>2017-06-27T17:39:21-07:00</lastmod>
+      <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.mathematicalmichael.com/resources/</loc>
+      <lastmod>2018-07-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
