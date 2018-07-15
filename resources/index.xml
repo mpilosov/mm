@@ -89,7 +89,10 @@ Setting Up A Secure Ubuntu Server in the Cloud</description>
 The use of sines and cosines in programming (or, how to make pretty pictures!)
 Git (version control) The guide everyone uses to get started
 Stop Asking for Password:
-git config --global credential.helper &#39;cache --timeout 28800&#39; git credential-cache exit  or, if you&amp;rsquo;re on OSX:
+git config --global credential.helper &#39;cache --timeout 28800&#39;
+And to forget:
+git credential-cache exit
+or, if you&amp;rsquo;re on OSX:
 git config --system --unset credential.</description>
     </item>
     
