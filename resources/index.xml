@@ -12,33 +12,9 @@
     
     
     <item>
-      <title>Sharing Your Code</title>
-      <link>https://www.mathematicalmichael.com/resources/sharing/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/sharing/</guid>
-      <description>Distributing Projects with PyPy (pip)
-Unit Testing with Nose
-Some Nosetests examples
-BeakerX has a suite of tools for easy reproducibility in the browser</description>
-    </item>
-    
-    <item>
-      <title>Writing Resources</title>
-      <link>https://www.mathematicalmichael.com/resources/writing/</link>
-      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/writing/</guid>
-      <description>Markdown The comprehensive guide in which I ctrl+F almost everything
-Someone made a good walkthrough that I often refer to
-Cheat Sheet from Assemble.io
-On Writing Jordan B Peterson\&amp;rsquo;s Guide to Writing an Essay is remarkably helpful when dealing with writers block. Most of the advice generalizes well beyond topics in the humanities.</description>
-    </item>
-    
-    <item>
       <title>Python</title>
       <link>https://www.mathematicalmichael.com/resources/python/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/resources/python/</guid>
       <description>My favorite programming language. Things I Have Written How to set up anaconda - gists.github.com/mpilosov/
@@ -54,9 +30,33 @@ Using *args and **kwargs in Python</description>
     </item>
     
     <item>
+      <title>Sharing Your Code</title>
+      <link>https://www.mathematicalmichael.com/resources/sharing/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/resources/sharing/</guid>
+      <description>Distributing Projects with PyPy (pip)
+Unit Testing with Nose
+Some Nosetests examples
+BeakerX has a suite of tools for easy reproducibility in the browser</description>
+    </item>
+    
+    <item>
+      <title>Writing Resources</title>
+      <link>https://www.mathematicalmichael.com/resources/writing/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/resources/writing/</guid>
+      <description>Markdown The comprehensive guide in which I ctrl+F almost everything
+Someone made a good walkthrough that I often refer to
+Cheat Sheet from Assemble.io
+On Writing Jordan B Peterson\&amp;rsquo;s Guide to Writing an Essay is remarkably helpful when dealing with writers block. Most of the advice generalizes well beyond topics in the humanities.</description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>https://www.mathematicalmichael.com/resources/machine/</link>
-      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/resources/machine/</guid>
       <description>Machine Learning is Fun! (a series)
@@ -68,9 +68,21 @@ Tensorflow Models</description>
     </item>
     
     <item>
+      <title>Linux and Bash</title>
+      <link>https://www.mathematicalmichael.com/resources/bash/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/resources/bash/</guid>
+      <description>Bash For Loops
+Digital Ocean has a great writeup to get you started
+Linux Restarting Networking
+Setting Up A Secure Ubuntu Server in the Cloud</description>
+    </item>
+    
+    <item>
       <title>General Resources</title>
       <link>https://www.mathematicalmichael.com/resources/general/</link>
-      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/resources/general/</guid>
       <description>My Gists on Github are a good place to see what I have found useful to write down for future reference.
@@ -79,18 +91,6 @@ Git (version control) The guide everyone uses to get started
 Stop Asking for Password:
 git config --global credential.helper &#39;cache --timeout 28800&#39; git credential-cache exit  or, if you&amp;rsquo;re on OSX:
 git config --system --unset credential.</description>
-    </item>
-    
-    <item>
-      <title>Linux and Bash</title>
-      <link>https://www.mathematicalmichael.com/resources/bash/</link>
-      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/bash/</guid>
-      <description>Bash For Loops
-Digital Ocean has a great writeup to get you started
-Linux Restarting Networking
-Setting Up A Secure Ubuntu Server in the Cloud</description>
     </item>
     
   </channel>

@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mathematical Michael</title>
-    <link>https://www.mathematicalmichael.com/</link>
-    <description>Recent content on Mathematical Michael</description>
+    <title>Resumes on Mathematical Michael</title>
+    <link>https://www.mathematicalmichael.com/resume/</link>
+    <description>Recent content in Resumes on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.mathematicalmichael.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.mathematicalmichael.com/resume/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -80,122 +79,6 @@ Showing, not telling the limitless potential of applied mathematics.</descriptio
       <guid>https://www.mathematicalmichael.com/resume/publications/</guid>
       <description>Group-level events are catalysts in the evolution of cooperation Journal of Theoretical Biology 410 (2016) pp. 125-136 (Elsevier), available on Science Direct
 My co-author made it available FOR FREE on his website</description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://www.mathematicalmichael.com/resources/python/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/python/</guid>
-      <description>My favorite programming language. Things I Have Written How to set up anaconda - gists.github.com/mpilosov/
-String Formatting (making titles out of lowercase strings) 
-Plotting Quick Marginal Distribution Visualization with Seaborn
-Piecewise-defined functions and 3D Matplotlib Plots
-Drawing Lines atop scatterplots
-Plotting a circle
-Three-Dimensional Projections (with Linear Algebra)
-Things Others Have Written Learning Pandas (like R&amp;hellip; for Python)
-Scraping Webpages with Pandas
-Using *args and **kwargs in Python</description>
-    </item>
-    
-    <item>
-      <title>Sharing Your Code</title>
-      <link>https://www.mathematicalmichael.com/resources/sharing/</link>
-      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/sharing/</guid>
-      <description>Distributing Projects with PyPy (pip)
-Unit Testing with Nose
-Some Nosetests examples
-BeakerX has a suite of tools for easy reproducibility in the browser</description>
-    </item>
-    
-    <item>
-      <title>Writing Resources</title>
-      <link>https://www.mathematicalmichael.com/resources/writing/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/writing/</guid>
-      <description>Markdown The comprehensive guide in which I ctrl+F almost everything
-Someone made a good walkthrough that I often refer to
-Cheat Sheet from Assemble.io
-On Writing Jordan B Peterson\&amp;rsquo;s Guide to Writing an Essay is remarkably helpful when dealing with writers block. Most of the advice generalizes well beyond topics in the humanities.</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://www.mathematicalmichael.com/resources/machine/</link>
-      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/machine/</guid>
-      <description>Machine Learning is Fun! (a series)
-Image Classification with Keras
-Transfer Learning and Image Recognition (repo)
-A Good Intro to Machine Learning (defunct series but good)
-Tensorflow Tutorial
-Tensorflow Models</description>
-    </item>
-    
-    <item>
-      <title>Linux and Bash</title>
-      <link>https://www.mathematicalmichael.com/resources/bash/</link>
-      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/bash/</guid>
-      <description>Bash For Loops
-Digital Ocean has a great writeup to get you started
-Linux Restarting Networking
-Setting Up A Secure Ubuntu Server in the Cloud</description>
-    </item>
-    
-    <item>
-      <title>General Resources</title>
-      <link>https://www.mathematicalmichael.com/resources/general/</link>
-      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/general/</guid>
-      <description>My Gists on Github are a good place to see what I have found useful to write down for future reference.
-The use of sines and cosines in programming (or, how to make pretty pictures!)
-Git (version control) The guide everyone uses to get started
-Stop Asking for Password:
-git config --global credential.helper &#39;cache --timeout 28800&#39; git credential-cache exit  or, if you&amp;rsquo;re on OSX:
-git config --system --unset credential.</description>
-    </item>
-    
-    <item>
-      <title>Michael Pilosov</title>
-      <link>https://www.mathematicalmichael.com/about/</link>
-      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/about/</guid>
-      <description>MS, Applied Mathematics Mathematics of Sciences and Engineering PhD Candidate Uncertainty Quantification digital résumé I work on collecting useful information from scientific experiments, describing and minimizing uncertainty.
-After graduation, I will work on diverse problems in a variety of fields that serve a humanitarian purpose.
-If you are curious about whether you have a problem that can benefit from risk assessment or experimental design, let&amp;rsquo;s talk about how.</description>
-    </item>
-    
-    <item>
-      <title>More Information About What I Do</title>
-      <link>https://www.mathematicalmichael.com/more/</link>
-      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/more/</guid>
-      <description>I work in the field of Uncertainty Quantification, specifically on inverse problems (usually with models involving physics).
-I am concerned about how experimental data impacts predictions.
-Sometimes that means getting the most out of what limited data is available.
-Other times it involves designing the experiment so that each measurement is as informative as possible.
-Not all data are equally useful. I help decide what is worth measuring.
-The applications of my academic research are numerous.</description>
-    </item>
-    
-    <item>
-      <title>Blog Index</title>
-      <link>https://www.mathematicalmichael.com/blog/</link>
-      <pubDate>Mon, 27 Feb 2017 17:39:21 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/blog/</guid>
-      <description>There&amp;rsquo;s nothing here yet, sorry.</description>
     </item>
     
   </channel>
