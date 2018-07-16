@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Mathematical Michael</title>
+    <link>https://www.mathematicalmichael.com/blog/</link>
+    <description>Recent content in Blogs on Mathematical Michael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.mathematicalmichael.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Rocky Opportunity</title>
+      <link>https://www.mathematicalmichael.com/blog/blog1/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/blog/blog1/</guid>
+      <description>Dr. Kyle Mandli&amp;rsquo;s presentation at a minisymposium at the 2018 SIAM Annual Meeting began differently than most. Shaky footage from an antiquated cellphone filled the first slide and was captioned with an ominous harbinger for the rest of the talk: &amp;ldquo;Can we model this?&amp;rdquo; On screen the audience is witness to a rocky river basin bordered by lush jungle. In the distance a faint mist is visible, and the footage slowly zooms in towards it.</description>
+    </item>
+    
+  </channel>
+</rss>

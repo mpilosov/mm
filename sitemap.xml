@@ -31,6 +31,11 @@
     </url>
   
     <url>
+      <loc>https://www.mathematicalmichael.com/blog/blog1/</loc>
+      <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://www.mathematicalmichael.com/resources/python/</loc>
       <lastmod>2018-07-15T00:00:00+00:00</lastmod>
     </url>
@@ -71,8 +76,14 @@
     </url>
   
     <url>
+      <loc>https://www.mathematicalmichael.com/blog/</loc>
+      <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mathematicalmichael.com/</loc>
-      <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+      <lastmod>2018-07-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
