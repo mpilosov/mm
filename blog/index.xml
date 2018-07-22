@@ -18,7 +18,7 @@
       
       <guid>https://www.mathematicalmichael.com/blog/poker/</guid>
       <description>This was a really fun project I undertook for a Math Club game night in 2016 with my friend Elliott Regan.
- current  min  max   New Game   var canvas = document.getElementById(&#39;plotCanvas&#39;); var ctx = canvas.getContext(&#39;2d&#39;); var num, maxnum, minnum; var interval = 5; var B = [0] var brakes = 10; var ht = canvas.height; var n = canvas.width; var alpha = 20; initPlot(); drawWalk(); function reset() { B = [0]; var id = window.</description>
+ current  min  max   New Game   var canvas = document.getElementById(&#39;plotCanvas&#39;); var ctx = canvas.getContext(&#39;2d&#39;); var num, maxnum, minnum; var interval = 5; var B = [0] var brakes = 100; var ht = canvas.height; var n = canvas.width; var alpha = 20; initPlot(); drawWalk(); function reset() { B = [0]; var id = window.</description>
     </item>
     
     <item>
