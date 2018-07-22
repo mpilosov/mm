@@ -127,8 +127,11 @@ h1, h2, h3 {
   color: $storm;
   margin-bottom: $vertical-rhythm;
 }
+.plot-canvas { 
+    max-width: 100%; 
+}
 .content {
-  text-align: left;
+  text-align: left; 
   width: 100%;
   time {
     margin-left: 3px;

@@ -152,7 +152,7 @@ if (!doNotTrack) {
 
 
 <div class="plot-container">
-  <canvas id="plotCanvas" class="plot-canvas" width="600" height="600"></canvas>
+  <canvas id="plotCanvas" class="plot-canvas" height="200px"></canvas>
   
   <div class="printout">
 
@@ -185,7 +185,7 @@ var B = [0]
 var brakes = 100; 
 var ht = canvas.height;
 var n = canvas.width;
-var alpha = 20;
+var alpha = 5;
 
 initPlot();
 drawWalk();
@@ -207,9 +207,9 @@ function reset() {
 function initPlot() {
   ctx.font = "16px sans-serif";
   ctx.filStyle = "light";
-  ctx.fillText("Game concept by Dr. Burt Simon. Copyright 2016 E. Regan & M. Pilosov", 4, canvas.height - 4);
+  
   ctx.font = "36px serif";
-  ctx.fillText("Brownian Poker", canvas.width / 3 + 32, 36);
+  
 
   ctx.beginPath();
   ctx.moveTo(0, canvas.height / 2)
@@ -281,7 +281,6 @@ function drawWalk() {
 
 
 </script>
-<br>
 
 Flip a coin, heads you earn a point, tails you lose one. 
 <br>
@@ -291,6 +290,11 @@ This webpage is your hand.
 <br>
 <br>
 Your opponents each have one of their own and bet on their hands.
+<br>
+<br>
+<br>
+Game concept by Dr. Burt Simon. Copyright 2016 E. Regan & M. Pilosov.
+
 
 <p>Enjoy.</p>
 
