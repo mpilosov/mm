@@ -6,11 +6,11 @@
   <title>
     
     
-        Blogs | Mathematical Michael
+        A New Game of Poker | Mathematical Michael
     
   </title>
 
-  <meta name="title" content="Blogs | Mathematical Michael">
+  <meta name="title" content="A New Game of Poker | Mathematical Michael">
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -35,7 +35,7 @@
     <meta name="twitter:creator" content="@Mathematical_MP">
   
 
-  <meta property="og:title" content="Blogs | Mathematical Michael">
+  <meta property="og:title" content="A New Game of Poker | Mathematical Michael">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.mathematicalmichael.com">
 
@@ -52,10 +52,8 @@
     <meta name="theme-color" content="#FFF">
   
 
-  <link rel="canonical" href="https://www.mathematicalmichael.com/blog/">
+  <link rel="canonical" href="https://www.mathematicalmichael.com/blog/poker/">
 
-  
-    <link href="https://www.mathematicalmichael.com/blog/index.xml" rel="alternate" type="application/rss+xml" title="Mathematical Michael">
   
 
   <link rel="stylesheet" href="https://www.mathematicalmichael.com/styles/main.css" type="text/css">
@@ -140,87 +138,218 @@ if (!doNotTrack) {
 
     <main>
 
-      <section class="blog" id="blog">
-          <div class="container">
-              <div class="row center-xs">
-                  <div class="col-xs-12"><h1>Blog</h1></div>
+      <section class="container">
+          <section class="content">
+              <h1> A New Game of Poker </h1>
+
+            
+              <div class="sub-header">
+                  
               </div>
-              <div class="row">
-                  <div class="col-xs-12 posts-list">
-                      
-                          <article>
-                              <h2><a href="https://www.mathematicalmichael.com/blog/poker/">A New Game of Poker</a></h2>
-                              <div class=sub-header>
-                              
-                              </div>
-                          </article>
-                      
-                          <article>
-                              <h2><a href="https://www.mathematicalmichael.com/blog/rocky/">A Rocky Opportunity</a></h2>
-                              <div class=sub-header>
-                              
-                              </div>
-                          </article>
-                      
-                          <article>
-                              <h2><a href="https://www.mathematicalmichael.com/blog/skillsgap/">Bridging the Skills Gap</a></h2>
-                              <div class=sub-header>
-                              
-                              </div>
-                          </article>
-                      
-                          <article>
-                              <h2><a href="https://www.mathematicalmichael.com/blog/function/">What The Function?</a></h2>
-                              <div class=sub-header>
-                              
-                              </div>
-                          </article>
-                      
-                          <article>
-                              <h2><a href="https://www.mathematicalmichael.com/blog/process/">The Process</a></h2>
-                              <div class=sub-header>
-                              
-                              </div>
-                          </article>
-                      
-                          <article>
-                              <h2><a href="https://www.mathematicalmichael.com/blog/honda/">Lessons from Honda</a></h2>
-                              <div class=sub-header>
-                              
-                              </div>
-                          </article>
-                      
-                          <article>
-                              <h2><a href="https://www.mathematicalmichael.com/blog/deadlines/">When Deadlines Aren&#39;t Really Deadlines</a></h2>
-                              <div class=sub-header>
-                              
-                              </div>
-                          </article>
-                      
-                          <article>
-                              <h2><a href="https://www.mathematicalmichael.com/blog/advising3/">The Importance of Good Advising: Part 3</a></h2>
-                              <div class=sub-header>
-                              
-                              </div>
-                          </article>
-                      
-                          <article>
-                              <h2><a href="https://www.mathematicalmichael.com/blog/advising2/">The Importance of Good Advising: Part 2</a></h2>
-                              <div class=sub-header>
-                              
-                              </div>
-                          </article>
-                      
-                          <article>
-                              <h2><a href="https://www.mathematicalmichael.com/blog/advising1/">The Importance of Good Advising: Part 1</a></h2>
-                              <div class=sub-header>
-                              
-                              </div>
-                          </article>
-                      
-                  </div>
+
+              <article class="entry-content">
+                  <p>This was a really fun project I undertook for a Math Club game night in 2016 with my friend <a href="http://elliottregan.com">Elliott Regan</a>.</p>
+
+
+<div class="plot-container">
+  <canvas id="plotCanvas" class="plot-canvas" width="600" height="600"></canvas>
+  
+  <div class="printout">
+
+    <div class="value_group">
+      <label>current</label>
+      <input type="text" id="mytext">
+    </div>
+    <div class="value_group">
+      <label>min</label>
+      <input type="text" id="mytext2">
+    </div>
+    <div class="value_group">
+      <label>max</label>
+      <input type="text" id="mytext3">
+    </div>
+  </div>
+  <button type="button" class="reset-btn" onclick="reset()">New Game</button>
+</div>
+
+
+<script> 
+var canvas = document.getElementById('plotCanvas');
+var ctx = canvas.getContext('2d');
+
+var num, maxnum, minnum;
+
+var interval = 5;
+
+var B = [0]
+var brakes = 10; 
+var ht = canvas.height;
+var n = canvas.width;
+var alpha = 20;
+
+initPlot();
+drawWalk();
+
+function reset() {
+  B = [0];
+  var id = window.setTimeout(function() {}, 0);
+  while (id--) {
+    window.clearTimeout(id); 
+  }
+  document.getElementById("mytext2").value = 0;
+  document.getElementById("mytext3").value = 0;
+
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  initPlot()
+  drawWalk();
+}
+
+function initPlot() {
+  ctx.font = "16px sans-serif";
+  ctx.filStyle = "light";
+  ctx.fillText("Game concept by Dr. Burt Simon. Copyright 2016 E. Regan & M. Pilosov", 4, canvas.height - 4);
+  ctx.font = "36px serif";
+  ctx.fillText("Brownian Poker", canvas.width / 3 + 32, 36);
+
+  ctx.beginPath();
+  ctx.moveTo(0, canvas.height / 2)
+  ctx.lineTo(canvas.width, canvas.height / 2)
+  ctx.stroke();
+
+  var tick_length = 7;
+  var tick_its = 8;
+
+  for (var i = 1; i < tick_its; i++) {
+    
+    ctx.moveTo(i * canvas.width / tick_its, canvas.height / 2 - tick_length)
+    ctx.lineTo(i * canvas.width / tick_its, canvas.height / 2 + tick_length)
+    ctx.stroke();
+    
+    
+    
+    
+  }
+}
+
+function drawWalk() {
+  function plot(delay) {
+
+    window.setTimeout(function() {
+      
+      if (Math.random() < 0.5) {
+        B.push(B[delay] - alpha / n);
+      } else {
+        B.push(B[delay] + alpha / n);
+      }
+      
+      ctx.lineTo(delay, B[delay] * 100 + ht / 2);
+      ctx.stroke();
+
+      num = (-ht / 8 * B[delay]).toFixed(); 
+      maxnum = (-ht / 8 * Math.min.apply(null, B)).toFixed(); 
+      minnum = (-ht / 8 * Math.max.apply(null, B)).toFixed(); 
+      document.getElementById("mytext").value = num;
+      var txtbox = document.getElementById("mytext");
+      txtbox.style["width"] = "60px";
+      txtbox.style["height"] = "40px";
+      txtbox.style.fontSize = "large";
+
+      document.getElementById("mytext2").value = minnum;
+      var txtbox2 = document.getElementById("mytext2");
+      txtbox2.style["width"] = "60px";
+      txtbox2.style["height"] = "30px";
+      txtbox2.style.fontSize = "small";
+
+      document.getElementById("mytext3").value = maxnum;
+      var txtbox3 = document.getElementById("mytext3");
+      txtbox3.style["width"] = "60px";
+      txtbox3.style["height"] = "30px";
+      txtbox3.style.fontSize = "small";
+
+    }, delay * brakes);
+  }
+
+  ctx.beginPath();
+
+  for (var i = 0; i < n; i++) {
+    plot(i);
+  }
+}
+
+
+
+
+
+</script>
+<br>
+
+Flip a coin, heads you earn a point, tails you lose one. 
+<br>
+<br>
+Now repeat this rapidly–no, in fact, let the computer do it–and keep your running score hidden to yourself. 
+This webpage is your hand. 
+<br>
+<br>
+Your opponents each have one of their own and bet on their hands.
+
+<p>Enjoy.</p>
+
+<p>If you have any questions&hellip;</p>
+
+<p><section class="contact" id="contact">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-xs-12">
+        <h1>Let's Chat</h1>
+      </div>
+    </div>
+
+    <form id="form-contact" action="https://formspree.io/mpilosov@gmail.com" method="POST">
+      <div class="row center-xs">
+        <div class="col-xs-12 col-sm-6"><input type="text" name="name" placeholder="Name" required></div>
+        <div class="col-xs-12 col-sm-6"><input type="email" name="email" placeholder="Email" required></div>
+        <div class="col-xs-12"><input type="text" name="_subject" placeholder="Subject" required></div>
+        <div class="col-xs-12"><textarea name="message" placeholder="Message" required></textarea></div>
+        <input type="text" name="_gotcha" style="display:none">
+        <input type="hidden" name="_next" value="/">
+        <div class="col-xs-12 contact-submit">
+          <input id="form-submit" type="submit" value="Send">
+          <span id="form-thankyou" style="visibility:hidden">Thanks for your email! I'll be in touch shortly.</span>
+        </div>
+      </div>
+    </form>
+
+  </div>
+</section></p>
+
+              </article>
+
+              <div class="pagination">
+                  
+                      <a href="https://www.mathematicalmichael.com/blog/rocky/">&laquo; A Rocky Opportunity</a>
+                  
+                  
               </div>
-          </div>
+          </section>
+          <br>
+          <section class="disqus">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    (function() {
+      
+      
+      if (window.location.hostname == "localhost")
+        return;
+      var disqus_shortname = '';
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view comments powered by <a href="http://disqus.com/?ref_noscript">Disqus</a>.</noscript>
+</section>
+
       </section>
 
     </main>

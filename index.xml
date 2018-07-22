@@ -6,7 +6,7 @@
     <description>Recent content on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -80,6 +80,16 @@ Showing, not telling the limitless potential of applied mathematics.</descriptio
       <guid>https://www.mathematicalmichael.com/resume/publications/</guid>
       <description>Group-level events are catalysts in the evolution of cooperation Journal of Theoretical Biology 410 (2016) pp. 125-136 (Elsevier), available on Science Direct
 My co-author made it available FOR FREE on his website</description>
+    </item>
+    
+    <item>
+      <title>A New Game of Poker</title>
+      <link>https://www.mathematicalmichael.com/blog/poker/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/blog/poker/</guid>
+      <description>This was a really fun project I undertook for a Math Club game night in 2016 with my friend Elliott Regan.
+ current  min  max   New Game   var canvas = document.getElementById(&#39;plotCanvas&#39;); var ctx = canvas.getContext(&#39;2d&#39;); var num, maxnum, minnum; var interval = 5; var B = [0] var brakes = 10; var ht = canvas.height; var n = canvas.width; var alpha = 20; initPlot(); drawWalk(); function reset() { B = [0]; var id = window.</description>
     </item>
     
     <item>
