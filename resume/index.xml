@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resumes on Mathematical Michael</title>
-    <link>https://www.mathematicalmichael.com/resume/</link>
+    <link>https://mathematicalmichael.com/resume/</link>
     <description>Recent content in Resumes on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://www.mathematicalmichael.com/resume/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mathematicalmichael.com/resume/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Education</title>
-      <link>https://www.mathematicalmichael.com/resume/education/</link>
+      <link>https://mathematicalmichael.com/resume/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/education/</guid>
+      <guid>https://mathematicalmichael.com/resume/education/</guid>
       <description> 2014-19: University of Colorado: Denver  Master of Science in Applied Mathematics Mathematics of Science &amp;amp; Engineering, Spring 2017 Doctor of Philosophy in Applied Mathematics, Uncertainty Quantification, (Anticipated) Fall 2019  2010-14: State University of New York: Geneseo College  BA in Mathematics, Magna Cum Laude  2006-10: The Baccalaureate School for Global Education  NY State Honors Regents Diploma (2010) International Baccalaureate Diploma (2010) Middle Years Programme Diploma (2008)  </description>
     </item>
     
     <item>
       <title>Presentations</title>
-      <link>https://www.mathematicalmichael.com/resume/presentations/</link>
+      <link>https://mathematicalmichael.com/resume/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/presentations/</guid>
+      <guid>https://mathematicalmichael.com/resume/presentations/</guid>
       <description>- In Chronological Order - SIAM Conference on Uncertainty Quantification April 16-19, 2018  Poster: &amp;ldquo;Optimal Experimental Design of Time-Series Data in a Consistent Bayesian Framework&amp;rdquo;  14th Annual SIAM Front Range Student Conference March 5, 2018  Talk: &amp;ldquo;What is an Inverse Problem?&amp;rdquo;   13th Annual SIAM Front Range Student Conference March 4, 2017  Primary Organizer as President of SIAM Student Chapter  SIAM Conference on Computational Science and Engineering Feb 27-Mar 3, 2017  Poster: &amp;ldquo;Advancements in Simulation-Based Optimal Experimental Design&amp;rdquo;   SIAM Front Range Student Conference March 5, 2016  Assisted with Organization as Vice President of SIAM Student Chapter   Rocky Mountain Summer Workshop on Uncertainty Quantification July 15-17, 2015  Attendee   SIAM Conference on Computational Science and Engineering March 14-18, 2015  Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  SIAM Front Range Student Conference February 28, 2015  Talk: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  UP-STAT 2014 Mini-Conference (Upstate NY Chapters of the American Statistical Association) April 13, 2014  Talk: &amp;ldquo;State of Pharma Mutuals&amp;rdquo; Talk: &amp;ldquo;Art with Probability Distributions&amp;rdquo; (Award: Best Fun Statistics Presentation)  Geneseo Recognizing Excellence, Achievement, and Talent (GREAT Day) April 8, 2014  Talk: &amp;ldquo;Pharma Mutuals&amp;rdquo; Talk: &amp;ldquo;Making Art with Probability Distributions&amp;rdquo; Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  Joint Mathematics Meetings 2014 Jan 15-18, 2014  Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo; Talk: MAA Contributed Papers Session - At the Intersection of Mathematics and the Arts  COPLAC Northeast Regional Undergraduate Research Conference Oct 25-26, 2013  Poster: &amp;ldquo;Moving Pictures?</description>
     </item>
     
     <item>
       <title>Technical</title>
-      <link>https://www.mathematicalmichael.com/resume/techskills/</link>
+      <link>https://mathematicalmichael.com/resume/techskills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/techskills/</guid>
+      <guid>https://mathematicalmichael.com/resume/techskills/</guid>
       <description>Python  lead developer of cbayes contributor and researcher on BET extensive experience generating technical notebooks with varying levels of interactivity familiarity with JupyterHub, JupyterLab deep interest in reproducible open science and removing all friction towards such an end  Matlab  first language, used for countless projects. I have since moved away from it in favor of open-source alternatives.  Git  familiarity with basic repository management have used Github, Bitbucket, and Gitlab I use it to track changes to nearly all the work I do  LaTeX  preferred document-generation language (pdfs) basic familiarity with publishing formatting for large documents extensive experience writing technical reports  Terminal (Bash/Shell)  Almost everything I do with respect to programming happens in a bash shell Much of my work is done remotely through ssh  Vim  My preferred text-editor and distraction-free organizational tool  Adobe Suite  experienced in Photoshop for general graphic design (posters, figures) familiar with Illustrator  Microsoft Suite  comfortable in Excel, though I prefer not to use it for anything related to analyzing data.</description>
     </item>
     
     <item>
       <title>Honors</title>
-      <link>https://www.mathematicalmichael.com/resume/honors/</link>
+      <link>https://mathematicalmichael.com/resume/honors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/honors/</guid>
+      <guid>https://mathematicalmichael.com/resume/honors/</guid>
       <description>2018 Lynn Bateman Fellowship (CU Denver) Phi Beta Kappa Society 2014, SUNY Geneseo, Alpha Omega Chapter
 Pi Mu Epsilon Mathematics Honor Society 2014, SUNY Geneseo
 Golden Key International Honor Society 2014, SUNY Geneseo
@@ -54,29 +54,29 @@ Score: 10
     
     <item>
       <title>Employment</title>
-      <link>https://www.mathematicalmichael.com/resume/employment/</link>
+      <link>https://mathematicalmichael.com/resume/employment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/employment/</guid>
+      <guid>https://mathematicalmichael.com/resume/employment/</guid>
       <description> (only showing academic jobs) University of Colorado: Denver (Downtown Campus)  Student Teaching Assistant, Calculus I (Aug-Dec 2016) Student Research Assistant (Jan-Aug 2016) &amp;ldquo;DiaMonD: An Integrated Multifaceted Approach to Mathematics at the Interfaces of Data, Models, and Decisions,&amp;rdquo; DE-SC0009279 Student Teaching Assistant, Calculus I (Aug-Dec 2015) Tutor, Mathematics Education Research Center (Aug-Dec 2015) Student Research Assistant (Aug 2014-May 2015) &amp;ldquo;CAREER: Foundations for Understanding and Reaching the Limits of Standard Numerical Linear Algebra,&amp;rdquo; NSF CCF 1054864 Student Research Assistant (Jun-Aug 2014) &amp;ldquo;SI2-SSI: Collaborative Research: Sustained Innovation for Linear Algebra Software (SILAS),&amp;rdquo; NSF ACI 1339797  State University of New York: College at Geneseo  Teaching Assistant for Linear Programming &amp;amp; Operations Research (Jan-May 2014) Geneseo Research Foundation Undergraduate STEM Summer Research Fellow (Jun-Aug 2013) Volunteer Data Analyst for As Green As It Gets (Nov-Dec 2012) Private Tutor in Mathematics (Summer-Fall 2013)  </description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://www.mathematicalmichael.com/resume/research/</link>
+      <link>https://mathematicalmichael.com/resume/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/research/</guid>
+      <guid>https://mathematicalmichael.com/resume/research/</guid>
       <description>Solving problems of paramount importance to humanity.
 Showing, not telling the limitless potential of applied mathematics.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://www.mathematicalmichael.com/resume/publications/</link>
+      <link>https://mathematicalmichael.com/resume/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/publications/</guid>
+      <guid>https://mathematicalmichael.com/resume/publications/</guid>
       <description>Group-level events are catalysts in the evolution of cooperation Journal of Theoretical Biology 410 (2016) pp. 125-136 (Elsevier), available on Science Direct
 My co-author made it available FOR FREE on his website</description>
     </item>

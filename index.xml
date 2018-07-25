@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematical Michael</title>
-    <link>https://www.mathematicalmichael.com/</link>
+    <link>https://mathematicalmichael.com/</link>
     <description>Recent content on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 21 Jul 2018 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://www.mathematicalmichael.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mathematicalmichael.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Education</title>
-      <link>https://www.mathematicalmichael.com/resume/education/</link>
+      <link>https://mathematicalmichael.com/resume/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/education/</guid>
+      <guid>https://mathematicalmichael.com/resume/education/</guid>
       <description> 2014-19: University of Colorado: Denver  Master of Science in Applied Mathematics Mathematics of Science &amp;amp; Engineering, Spring 2017 Doctor of Philosophy in Applied Mathematics, Uncertainty Quantification, (Anticipated) Fall 2019  2010-14: State University of New York: Geneseo College  BA in Mathematics, Magna Cum Laude  2006-10: The Baccalaureate School for Global Education  NY State Honors Regents Diploma (2010) International Baccalaureate Diploma (2010) Middle Years Programme Diploma (2008)  </description>
     </item>
     
     <item>
       <title>Presentations</title>
-      <link>https://www.mathematicalmichael.com/resume/presentations/</link>
+      <link>https://mathematicalmichael.com/resume/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/presentations/</guid>
+      <guid>https://mathematicalmichael.com/resume/presentations/</guid>
       <description>- In Chronological Order - SIAM Conference on Uncertainty Quantification April 16-19, 2018  Poster: &amp;ldquo;Optimal Experimental Design of Time-Series Data in a Consistent Bayesian Framework&amp;rdquo;  14th Annual SIAM Front Range Student Conference March 5, 2018  Talk: &amp;ldquo;What is an Inverse Problem?&amp;rdquo;   13th Annual SIAM Front Range Student Conference March 4, 2017  Primary Organizer as President of SIAM Student Chapter  SIAM Conference on Computational Science and Engineering Feb 27-Mar 3, 2017  Poster: &amp;ldquo;Advancements in Simulation-Based Optimal Experimental Design&amp;rdquo;   SIAM Front Range Student Conference March 5, 2016  Assisted with Organization as Vice President of SIAM Student Chapter   Rocky Mountain Summer Workshop on Uncertainty Quantification July 15-17, 2015  Attendee   SIAM Conference on Computational Science and Engineering March 14-18, 2015  Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  SIAM Front Range Student Conference February 28, 2015  Talk: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  UP-STAT 2014 Mini-Conference (Upstate NY Chapters of the American Statistical Association) April 13, 2014  Talk: &amp;ldquo;State of Pharma Mutuals&amp;rdquo; Talk: &amp;ldquo;Art with Probability Distributions&amp;rdquo; (Award: Best Fun Statistics Presentation)  Geneseo Recognizing Excellence, Achievement, and Talent (GREAT Day) April 8, 2014  Talk: &amp;ldquo;Pharma Mutuals&amp;rdquo; Talk: &amp;ldquo;Making Art with Probability Distributions&amp;rdquo; Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  Joint Mathematics Meetings 2014 Jan 15-18, 2014  Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo; Talk: MAA Contributed Papers Session - At the Intersection of Mathematics and the Arts  COPLAC Northeast Regional Undergraduate Research Conference Oct 25-26, 2013  Poster: &amp;ldquo;Moving Pictures?</description>
     </item>
     
     <item>
       <title>Technical</title>
-      <link>https://www.mathematicalmichael.com/resume/techskills/</link>
+      <link>https://mathematicalmichael.com/resume/techskills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/techskills/</guid>
+      <guid>https://mathematicalmichael.com/resume/techskills/</guid>
       <description>Python  lead developer of cbayes contributor and researcher on BET extensive experience generating technical notebooks with varying levels of interactivity familiarity with JupyterHub, JupyterLab deep interest in reproducible open science and removing all friction towards such an end  Matlab  first language, used for countless projects. I have since moved away from it in favor of open-source alternatives.  Git  familiarity with basic repository management have used Github, Bitbucket, and Gitlab I use it to track changes to nearly all the work I do  LaTeX  preferred document-generation language (pdfs) basic familiarity with publishing formatting for large documents extensive experience writing technical reports  Terminal (Bash/Shell)  Almost everything I do with respect to programming happens in a bash shell Much of my work is done remotely through ssh  Vim  My preferred text-editor and distraction-free organizational tool  Adobe Suite  experienced in Photoshop for general graphic design (posters, figures) familiar with Illustrator  Microsoft Suite  comfortable in Excel, though I prefer not to use it for anything related to analyzing data.</description>
     </item>
     
     <item>
       <title>Honors</title>
-      <link>https://www.mathematicalmichael.com/resume/honors/</link>
+      <link>https://mathematicalmichael.com/resume/honors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/honors/</guid>
+      <guid>https://mathematicalmichael.com/resume/honors/</guid>
       <description>2018 Lynn Bateman Fellowship (CU Denver) Phi Beta Kappa Society 2014, SUNY Geneseo, Alpha Omega Chapter
 Pi Mu Epsilon Mathematics Honor Society 2014, SUNY Geneseo
 Golden Key International Honor Society 2014, SUNY Geneseo
@@ -55,59 +55,59 @@ Score: 10
     
     <item>
       <title>Employment</title>
-      <link>https://www.mathematicalmichael.com/resume/employment/</link>
+      <link>https://mathematicalmichael.com/resume/employment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/employment/</guid>
+      <guid>https://mathematicalmichael.com/resume/employment/</guid>
       <description> (only showing academic jobs) University of Colorado: Denver (Downtown Campus)  Student Teaching Assistant, Calculus I (Aug-Dec 2016) Student Research Assistant (Jan-Aug 2016) &amp;ldquo;DiaMonD: An Integrated Multifaceted Approach to Mathematics at the Interfaces of Data, Models, and Decisions,&amp;rdquo; DE-SC0009279 Student Teaching Assistant, Calculus I (Aug-Dec 2015) Tutor, Mathematics Education Research Center (Aug-Dec 2015) Student Research Assistant (Aug 2014-May 2015) &amp;ldquo;CAREER: Foundations for Understanding and Reaching the Limits of Standard Numerical Linear Algebra,&amp;rdquo; NSF CCF 1054864 Student Research Assistant (Jun-Aug 2014) &amp;ldquo;SI2-SSI: Collaborative Research: Sustained Innovation for Linear Algebra Software (SILAS),&amp;rdquo; NSF ACI 1339797  State University of New York: College at Geneseo  Teaching Assistant for Linear Programming &amp;amp; Operations Research (Jan-May 2014) Geneseo Research Foundation Undergraduate STEM Summer Research Fellow (Jun-Aug 2013) Volunteer Data Analyst for As Green As It Gets (Nov-Dec 2012) Private Tutor in Mathematics (Summer-Fall 2013)  </description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://www.mathematicalmichael.com/resume/research/</link>
+      <link>https://mathematicalmichael.com/resume/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/research/</guid>
+      <guid>https://mathematicalmichael.com/resume/research/</guid>
       <description>Solving problems of paramount importance to humanity.
 Showing, not telling the limitless potential of applied mathematics.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://www.mathematicalmichael.com/resume/publications/</link>
+      <link>https://mathematicalmichael.com/resume/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resume/publications/</guid>
+      <guid>https://mathematicalmichael.com/resume/publications/</guid>
       <description>Group-level events are catalysts in the evolution of cooperation Journal of Theoretical Biology 410 (2016) pp. 125-136 (Elsevier), available on Science Direct
 My co-author made it available FOR FREE on his website</description>
     </item>
     
     <item>
       <title>A New Game of Poker</title>
-      <link>https://www.mathematicalmichael.com/blog/poker/</link>
+      <link>https://mathematicalmichael.com/blog/poker/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/blog/poker/</guid>
+      <guid>https://mathematicalmichael.com/blog/poker/</guid>
       <description>This was a really fun project I undertook for a Math Club game night in 2016 with my friend Elliott Regan.
  current  min  max   Start New Game   var canvas = document.getElementById(&#39;plotCanvas&#39;); var ctx = canvas.getContext(&#39;2d&#39;); var num, maxnum, minnum; var interval = 5; var B = [0] var brakes = 200; var ht = canvas.height; var n = canvas.width; var alpha = 5; initPlot(); drawWalk(); function reset() { B = [0]; var id = window.</description>
     </item>
     
     <item>
       <title>A Rocky Opportunity</title>
-      <link>https://www.mathematicalmichael.com/blog/rocky/</link>
+      <link>https://mathematicalmichael.com/blog/rocky/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/blog/rocky/</guid>
+      <guid>https://mathematicalmichael.com/blog/rocky/</guid>
       <description>I recently wrote up a blog post on SIAM News about the importance of Uncertainty Quantification, particularly in the context of storm surge threats to coastal communities.
 Check it out! </description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://www.mathematicalmichael.com/resources/python/</link>
+      <link>https://mathematicalmichael.com/resources/python/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resources/python/</guid>
+      <guid>https://mathematicalmichael.com/resources/python/</guid>
       <description>My favorite programming language. Things I Have Written How to set up anaconda - gists.github.com/mpilosov/
 String Formatting (making titles out of lowercase strings) 
 Plotting Quick Marginal Distribution Visualization with Seaborn
@@ -122,10 +122,10 @@ Using *args and **kwargs in Python</description>
     
     <item>
       <title>Bridging the Skills Gap</title>
-      <link>https://www.mathematicalmichael.com/blog/skillsgap/</link>
+      <link>https://mathematicalmichael.com/blog/skillsgap/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/blog/skillsgap/</guid>
+      <guid>https://mathematicalmichael.com/blog/skillsgap/</guid>
       <description>I live and breathe applied mathematics. Challenge problems are what I thrive on.
 As such, programming comprises the vast majority of the &amp;ldquo;work&amp;rdquo; that I do. Theories are nothing without evidence, and my laboratory is the computer. I am a computational scientist, being trained as a mathematician.
 Programming has enabled me to do so much more than the research I perform as part of my dissertation work. One can argue that my most marketable skill after graduation will be my software development experience.</description>
@@ -133,10 +133,10 @@ Programming has enabled me to do so much more than the research I perform as par
     
     <item>
       <title>Sharing Your Code</title>
-      <link>https://www.mathematicalmichael.com/resources/sharing/</link>
+      <link>https://mathematicalmichael.com/resources/sharing/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resources/sharing/</guid>
+      <guid>https://mathematicalmichael.com/resources/sharing/</guid>
       <description>Distributing Projects with PyPy (pip)
 Unit Testing with Nose
 Some Nosetests examples
@@ -145,10 +145,10 @@ BeakerX has a suite of tools for easy reproducibility in the browser</descriptio
     
     <item>
       <title>Writing Resources</title>
-      <link>https://www.mathematicalmichael.com/resources/writing/</link>
+      <link>https://mathematicalmichael.com/resources/writing/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resources/writing/</guid>
+      <guid>https://mathematicalmichael.com/resources/writing/</guid>
       <description>Markdown The comprehensive guide in which I ctrl+F almost everything
 Someone made a good walkthrough that I often refer to
 Cheat Sheet from Assemble.io
@@ -157,10 +157,10 @@ On Writing Jordan B Peterson&amp;rsquo;s Guide to Writing an Essay is remarkably
     
     <item>
       <title>Machine Learning</title>
-      <link>https://www.mathematicalmichael.com/resources/machine/</link>
+      <link>https://mathematicalmichael.com/resources/machine/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resources/machine/</guid>
+      <guid>https://mathematicalmichael.com/resources/machine/</guid>
       <description>Real-Time Object Recognition (YOLO)
 Machine Learning is Fun! (a series)
 Image Classification with Keras
@@ -172,40 +172,40 @@ Tensorflow Models</description>
     
     <item>
       <title>What The Function?</title>
-      <link>https://www.mathematicalmichael.com/blog/function/</link>
+      <link>https://mathematicalmichael.com/blog/function/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/blog/function/</guid>
+      <guid>https://mathematicalmichael.com/blog/function/</guid>
       <description>To supplement my graduate student income, I have been tutoring in my department for several years. Many know how to manipulate them, but have never actually considered&amp;hellip; What is a function?  Metaphor allows us to explain that which is novel with that which is familiar.
  Imagine you have a blender. If you put in ingredients for a smoothie, you better get a smoothie out. If pancake batter magically appeared instead, you&amp;rsquo;d either be elated (because, pancakes), or really really upset.</description>
     </item>
     
     <item>
       <title>The Process</title>
-      <link>https://www.mathematicalmichael.com/blog/process/</link>
+      <link>https://mathematicalmichael.com/blog/process/</link>
       <pubDate>Sun, 04 Mar 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/blog/process/</guid>
+      <guid>https://mathematicalmichael.com/blog/process/</guid>
       <description> The Process  You’re not lost in life, you’re just early in the process
   Gary Vaynerchuck  </description>
     </item>
     
     <item>
       <title>Lessons from Honda</title>
-      <link>https://www.mathematicalmichael.com/blog/honda/</link>
+      <link>https://mathematicalmichael.com/blog/honda/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/blog/honda/</guid>
+      <guid>https://mathematicalmichael.com/blog/honda/</guid>
       <description>The Individual and the Group There has always been something about group-work in school that I resisted during childhood. I resented the forced pace of it all.
 I now have the vantage point of a teacher, and understand the difficulty of running a classroom that caters to a wide range of student capabilities and backgrounds. Group-work is a way that I now attempt to stimulate collaboration and force those who &amp;ldquo;get it&amp;rdquo; to examine their understanding by explaining it.</description>
     </item>
     
     <item>
       <title>Linux and Bash</title>
-      <link>https://www.mathematicalmichael.com/resources/bash/</link>
+      <link>https://mathematicalmichael.com/resources/bash/</link>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resources/bash/</guid>
+      <guid>https://mathematicalmichael.com/resources/bash/</guid>
       <description>Bash For Loops
 Digital Ocean has a great writeup to get you started
 Linux Restarting Networking
@@ -214,10 +214,10 @@ Setting Up A Secure Ubuntu Server in the Cloud</description>
     
     <item>
       <title>When Deadlines Aren&#39;t Really Deadlines</title>
-      <link>https://www.mathematicalmichael.com/blog/deadlines/</link>
+      <link>https://mathematicalmichael.com/blog/deadlines/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/blog/deadlines/</guid>
+      <guid>https://mathematicalmichael.com/blog/deadlines/</guid>
       <description>I have always been the kind of person who takes deadlines seriously. I like to set deadlines for myself well ahead of the real ones just in case I want to make last minute revisions.
 Despite years of applying for/to all sorts of academia-related things, I still often end up working on final tweaks at the last minute. Who knows if these are beneficial or not?
 In one sense, I&amp;rsquo;m a big believer in deadlines.</description>
@@ -225,10 +225,10 @@ In one sense, I&amp;rsquo;m a big believer in deadlines.</description>
     
     <item>
       <title>General Resources</title>
-      <link>https://www.mathematicalmichael.com/resources/general/</link>
+      <link>https://mathematicalmichael.com/resources/general/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resources/general/</guid>
+      <guid>https://mathematicalmichael.com/resources/general/</guid>
       <description>My Gists on Github are a good place to see what I have found useful to write down for future reference.
 The use of sines and cosines in programming (or, how to make pretty pictures!)
 Git (version control) The guide everyone uses to get started
@@ -242,10 +242,10 @@ git config --system --unset credential.</description>
     
     <item>
       <title>The Importance of Good Advising: Part 3</title>
-      <link>https://www.mathematicalmichael.com/blog/advising3/</link>
+      <link>https://mathematicalmichael.com/blog/advising3/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/blog/advising3/</guid>
+      <guid>https://mathematicalmichael.com/blog/advising3/</guid>
       <description>You have to find someone you want to learn from.
 That is what can make the difference between five years in graduate school and seven years. It can mean the difference between being lost and being directed in a productive manner.
 Maybe I got lucky, but my present advisor has rarely let me go in a research direction that didn&amp;rsquo;t bear fruit of some kind or another. He knew when to shield me from complexity and when to implore me to pursue deeper understanding.</description>
@@ -253,29 +253,29 @@ Maybe I got lucky, but my present advisor has rarely let me go in a research dir
     
     <item>
       <title>The Importance of Good Advising: Part 2</title>
-      <link>https://www.mathematicalmichael.com/blog/advising2/</link>
+      <link>https://mathematicalmichael.com/blog/advising2/</link>
       <pubDate>Sun, 04 Feb 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/blog/advising2/</guid>
+      <guid>https://mathematicalmichael.com/blog/advising2/</guid>
       <description>Getting to Grad School As an undergraduate, I first experienced the extent to which mathematics could be broadly applied to &amp;ldquo;real world&amp;rdquo; problems, and recognized the potential to make substantive change. I set my sights on a job in industry, with vague hopes and aspirations as to what such a thing might look like. I had been applying to summer programs that would potentially expose me to application areas every.</description>
     </item>
     
     <item>
       <title>The Importance of Good Advising: Part 1</title>
-      <link>https://www.mathematicalmichael.com/blog/advising1/</link>
+      <link>https://mathematicalmichael.com/blog/advising1/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/blog/advising1/</guid>
+      <guid>https://mathematicalmichael.com/blog/advising1/</guid>
       <description>Opportunistic Disparity and Serendipity This past summer I worked at a national laboratory that sees several thousand students come through its doors each year to develop their skills and networks. Orientation blew my mind. When my group was surveyed regarding where we were academically, I realized that graduate students made up something like a tenth of the room.
  Wait&amp;hellip; how did these kids get jobs here so early on?</description>
     </item>
     
     <item>
       <title>Michael Pilosov</title>
-      <link>https://www.mathematicalmichael.com/about/</link>
+      <link>https://mathematicalmichael.com/about/</link>
       <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/about/</guid>
+      <guid>https://mathematicalmichael.com/about/</guid>
       <description>MS, Applied Mathematics Mathematics of Sciences and Engineering PhD Candidate Uncertainty Quantification digital résumé I work on collecting useful information from scientific experiments, describing and minimizing uncertainty.
 After graduation, I will work on diverse problems in a variety of fields that serve a humanitarian purpose.
 If you are curious about whether you have a problem that can benefit from risk assessment or experimental design, let&amp;rsquo;s talk about how.</description>
@@ -283,10 +283,10 @@ If you are curious about whether you have a problem that can benefit from risk a
     
     <item>
       <title>More Information About What I Do</title>
-      <link>https://www.mathematicalmichael.com/more/</link>
+      <link>https://mathematicalmichael.com/more/</link>
       <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/more/</guid>
+      <guid>https://mathematicalmichael.com/more/</guid>
       <description>I work in the field of Uncertainty Quantification, specifically on inverse problems (usually with models involving physics).
 I am concerned about how experimental data impacts predictions.
 Sometimes that means getting the most out of what limited data is available.
