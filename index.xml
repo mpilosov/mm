@@ -6,7 +6,6 @@
     <description>Recent content on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>false</copyright>
     <lastBuildDate>Wed, 01 Aug 2018 12:16:43 -0600</lastBuildDate>
     
 	<atom:link href="https://mathematicalmichael.com/index.xml" rel="self" type="application/rss+xml" />
@@ -100,7 +99,7 @@ My co-author made it available FOR FREE on his website</description>
     <item>
       <title>A New Game of Poker</title>
       <link>https://mathematicalmichael.com/blog/poker/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
       
       <guid>https://mathematicalmichael.com/blog/poker/</guid>
       <description>This was a really fun project I undertook for a Math Club game night in 2016 with my friend Elliott Regan.
@@ -138,7 +137,7 @@ Using *args and **kwargs in Python</description>
     <item>
       <title>Bridging the Skills Gap</title>
       <link>https://mathematicalmichael.com/blog/skillsgap/</link>
-      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 -0600</pubDate>
       
       <guid>https://mathematicalmichael.com/blog/skillsgap/</guid>
       <description>I live and breathe applied mathematics. Challenge problems are what I thrive on.
@@ -189,7 +188,7 @@ Tensorflow Models</description>
     <item>
       <title>What The Function?</title>
       <link>https://mathematicalmichael.com/blog/function/</link>
-      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0600</pubDate>
       
       <guid>https://mathematicalmichael.com/blog/function/</guid>
       <description>To supplement my graduate student income, I have been tutoring in my department for several years. Many know how to manipulate them, but have never actually considered&amp;hellip; What is a function?  Metaphor allows us to explain that which is novel with that which is familiar.
@@ -199,7 +198,7 @@ Tensorflow Models</description>
     <item>
       <title>The Process</title>
       <link>https://mathematicalmichael.com/blog/process/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 -0700</pubDate>
       
       <guid>https://mathematicalmichael.com/blog/process/</guid>
       <description> The Process  You’re not lost in life, you’re just early in the process
@@ -209,7 +208,7 @@ Tensorflow Models</description>
     <item>
       <title>Lessons from Honda</title>
       <link>https://mathematicalmichael.com/blog/honda/</link>
-      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 -0700</pubDate>
       
       <guid>https://mathematicalmichael.com/blog/honda/</guid>
       <description>The Individual and the Group There has always been something about group-work in school that I resisted during childhood. I resented the forced pace of it all.
@@ -231,7 +230,7 @@ Setting Up A Secure Ubuntu Server in the Cloud</description>
     <item>
       <title>When Deadlines Aren&#39;t Really Deadlines</title>
       <link>https://mathematicalmichael.com/blog/deadlines/</link>
-      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 -0700</pubDate>
       
       <guid>https://mathematicalmichael.com/blog/deadlines/</guid>
       <description>I have always been the kind of person who takes deadlines seriously. I like to set deadlines for myself well ahead of the real ones just in case I want to make last minute revisions.
@@ -259,7 +258,7 @@ git config --system --unset credential.</description>
     <item>
       <title>The Importance of Good Advising: Part 3</title>
       <link>https://mathematicalmichael.com/blog/advising3/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 -0700</pubDate>
       
       <guid>https://mathematicalmichael.com/blog/advising3/</guid>
       <description>You have to find someone you want to learn from.
@@ -270,7 +269,7 @@ Maybe I got lucky, but my present advisor has rarely let me go in a research dir
     <item>
       <title>The Importance of Good Advising: Part 2</title>
       <link>https://mathematicalmichael.com/blog/advising2/</link>
-      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 -0700</pubDate>
       
       <guid>https://mathematicalmichael.com/blog/advising2/</guid>
       <description>Getting to Grad School As an undergraduate, I first experienced the extent to which mathematics could be broadly applied to &amp;ldquo;real world&amp;rdquo; problems, and recognized the potential to make substantive change. I set my sights on a job in industry, with vague hopes and aspirations as to what such a thing might look like. I had been applying to summer programs that would potentially expose me to application areas every.</description>
@@ -279,7 +278,7 @@ Maybe I got lucky, but my present advisor has rarely let me go in a research dir
     <item>
       <title>The Importance of Good Advising: Part 1</title>
       <link>https://mathematicalmichael.com/blog/advising1/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0700</pubDate>
       
       <guid>https://mathematicalmichael.com/blog/advising1/</guid>
       <description>Opportunistic Disparity and Serendipity This past summer I worked at a national laboratory that sees several thousand students come through its doors each year to develop their skills and networks. Orientation blew my mind. When my group was surveyed regarding where we were academically, I realized that graduate students made up something like a tenth of the room.
@@ -309,20 +308,6 @@ Sometimes that means getting the most out of what limited data is available.
 Other times it involves designing the experiment so that each measurement is as informative as possible.
 Not all data are equally useful. I help decide what is worth measuring.
 The applications of my academic research are numerous.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mathematicalmichael.com/description/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mathematicalmichael.com/description/</guid>
-      <description>++ title = &amp;ldquo;PhD Description&amp;rdquo; date = &amp;ldquo;2018-08-04&amp;rdquo; draft = false +++
-I work in the field of Uncertainty Quantification, specifically on inverse problems (usually with models involving physics).
-I am concerned about how experimental data impacts predictions.
-Sometimes that means getting the most out of what limited data is available.
-Other times it involves designing the experiment so that each measurement is as informative as possible.
-Not all data are equally useful.</description>
     </item>
     
   </channel>
