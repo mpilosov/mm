@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on Mathematical Michael</title>
-    <link>https://mathematicalmichael.com/resources/</link>
+    <link>https://www.mathematicalmichael.com/resources/</link>
     <description>Recent content in Resources on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mathematicalmichael.com/resources/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.mathematicalmichael.com/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Python</title>
-      <link>https://mathematicalmichael.com/resources/python/</link>
+      <link>https://www.mathematicalmichael.com/resources/python/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.com/resources/python/</guid>
+      <guid>https://www.mathematicalmichael.com/resources/python/</guid>
       <description>My favorite programming language. Things I Have Written How to set up anaconda - gists.github.com/mpilosov/
 String Formatting (making titles out of lowercase strings) 
 Plotting Quick Marginal Distribution Visualization with Seaborn
@@ -31,10 +31,10 @@ Using *args and **kwargs in Python</description>
     
     <item>
       <title>Sharing Your Code</title>
-      <link>https://mathematicalmichael.com/resources/sharing/</link>
+      <link>https://www.mathematicalmichael.com/resources/sharing/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.com/resources/sharing/</guid>
+      <guid>https://www.mathematicalmichael.com/resources/sharing/</guid>
       <description>Distributing Projects with PyPy (pip)
 Unit Testing with Nose
 Some Nosetests examples
@@ -43,10 +43,10 @@ BeakerX has a suite of tools for easy reproducibility in the browser</descriptio
     
     <item>
       <title>Writing Resources</title>
-      <link>https://mathematicalmichael.com/resources/writing/</link>
+      <link>https://www.mathematicalmichael.com/resources/writing/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.com/resources/writing/</guid>
+      <guid>https://www.mathematicalmichael.com/resources/writing/</guid>
       <description>Vim How to map keys (avoid using Esc)
 Markdown The comprehensive guide in which I ctrl+F almost everything
 Someone made a good walkthrough that I often refer to
@@ -56,10 +56,10 @@ On Writing Jordan B Peterson&amp;rsquo;s Guide to Writing an Essay is remarkably
     
     <item>
       <title>Machine Learning</title>
-      <link>https://mathematicalmichael.com/resources/machinelearning/</link>
+      <link>https://www.mathematicalmichael.com/resources/machinelearning/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.com/resources/machinelearning/</guid>
+      <guid>https://www.mathematicalmichael.com/resources/machinelearning/</guid>
       <description>Reading List: The Mathematics of Machine Learning
 Real-Time Object Recognition (YOLO)
 Machine Learning is Fun! (a series)
@@ -72,10 +72,10 @@ Tensorflow Models</description>
     
     <item>
       <title>Linux and Bash</title>
-      <link>https://mathematicalmichael.com/resources/bash/</link>
+      <link>https://www.mathematicalmichael.com/resources/bash/</link>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.com/resources/bash/</guid>
+      <guid>https://www.mathematicalmichael.com/resources/bash/</guid>
       <description>Bash For Loops
 Digital Ocean has a great writeup to get you started
 Linux Restarting Networking
@@ -84,10 +84,10 @@ Setting Up A Secure Ubuntu Server in the Cloud</description>
     
     <item>
       <title>General Resources</title>
-      <link>https://mathematicalmichael.com/resources/general/</link>
+      <link>https://www.mathematicalmichael.com/resources/general/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.com/resources/general/</guid>
+      <guid>https://www.mathematicalmichael.com/resources/general/</guid>
       <description>My Gists on Github are a good place to see what I have found useful to write down for future reference.
 The use of sines and cosines in programming (or, how to make pretty pictures!)
 Git (version control) The guide everyone uses to get started
