@@ -5,7 +5,8 @@
     <link>https://www.mathematicalmichael.com/resources/</link>
     <description>Recent content in Resources on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/resources/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +18,7 @@
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/resources/python/</guid>
-      <description>My favorite programming language. Things I Have Written How to set up anaconda - gists.github.com/mpilosov/
+      <description>Things I Have Written How to set up anaconda - gists.github.com/mpilosov/
 String Formatting (making titles out of lowercase strings) 
 Plotting Quick Marginal Distribution Visualization with Seaborn
 Piecewise-defined functions and 3D Matplotlib Plots
@@ -26,7 +27,8 @@ Plotting a circle
 Three-Dimensional Projections (with Linear Algebra)
 Things Others Have Written Learning Pandas (like R&amp;hellip; for Python)
 Scraping Webpages with Pandas
-Using *args and **kwargs in Python</description>
+Using *args and **kwargs in Python
+Package for SUPER EASY, unordered command-line flag/options/argument parsing.</description>
     </item>
     
     <item>
@@ -88,6 +90,23 @@ Setting Up A Secure Ubuntu Server in the Cloud</description>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/resources/general/</guid>
+      <description>My Gists on Github are a good place to see what I have found useful to write down for future reference.
+The use of sines and cosines in programming (or, how to make pretty pictures!)
+Git (version control) The guide everyone uses to get started
+Stop Asking for Password:
+git config --global credential.helper &#39;cache --timeout 28800&#39;
+And to forget:
+git credential-cache exit
+or, if you&amp;rsquo;re on OSX:
+git config --system --unset credential.</description>
+    </item>
+    
+    <item>
+      <title>Git &amp; Github</title>
+      <link>https://www.mathematicalmichael.com/resources/git/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/resources/git/</guid>
       <description>My Gists on Github are a good place to see what I have found useful to write down for future reference.
 The use of sines and cosines in programming (or, how to make pretty pictures!)
 Git (version control) The guide everyone uses to get started

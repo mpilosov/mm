@@ -1,230 +1,497 @@
 <!DOCTYPE html>
-<html lang="en-US">
-  <head>
-  
-
-  <title>
-    
-    
-        Linux and Bash | Mathematical Michael
-    
-  </title>
-
-  <meta name="title" content="Linux and Bash | Mathematical Michael">
+<html lang="en-us">
+<head>
 
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="chrome=1">
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="referrer" content="no-referrer-when-downgrade">
-  <meta name="generator" content="">
-  <base href="https://www.mathematicalmichael.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 2.4.0">
+  <meta name="generator" content="Hugo 0.45.1" />
+  <meta name="author" content="Michael Pilosov">
 
   
-    <meta name="description" content="(applied) math nerd on a mission. Based in Denver, CO.">
   
+  
+  
+    
+  
+  <meta name="description" content="Bash For Loops
+Digital Ocean has a great writeup to get you started
+Linux Restarting Networking
+Setting Up A Secure Ubuntu Server in the Cloud">
 
   
-    <meta name="author" content="Michael Pilosov">
-  
+  <link rel="alternate" hreflang="en-us" href="https://www.mathematicalmichael.com/resources/bash/">
 
   
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@Mathematical_MP">
-    <meta name="twitter:creator" content="@Mathematical_MP">
-  
 
-  <meta property="og:title" content="Linux and Bash | Mathematical Michael">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.mathematicalmichael.com">
 
-  
-    <meta property="og:image" content="https://www.mathematicalmichael.com/images/logo.png">
   
 
   
-    <meta property="og:description" content="(applied) math nerd on a mission. Based in Denver, CO.">
+  
+  
+  <meta name="theme-color" content="hsl(339, 90%, 58%)">
   
 
   
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-32x32.png">
-    <meta name="theme-color" content="#FFF">
   
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="https://www.mathematicalmichael.com/index.xml" type="application/rss+xml" title="Mathematical Michael">
+  <link rel="feed" href="https://www.mathematicalmichael.com/index.xml" type="application/rss+xml" title="Mathematical Michael">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://www.mathematicalmichael.com/resources/bash/">
 
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@Mathematical_MP">
+  <meta property="twitter:creator" content="@Mathematical_MP">
+  
+  <meta property="og:site_name" content="Mathematical Michael">
+  <meta property="og:url" content="https://www.mathematicalmichael.com/resources/bash/">
+  <meta property="og:title" content="Linux and Bash | Mathematical Michael">
+  <meta property="og:description" content="Bash For Loops
+Digital Ocean has a great writeup to get you started
+Linux Restarting Networking
+Setting Up A Secure Ubuntu Server in the Cloud">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2018-02-23T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2018-02-23T00:00:00&#43;00:00">
   
 
   
 
   
-    
-<link rel="stylesheet" href="https://www.mathematicalmichael.com/sass/main.min.8e35758f9b712e98ea8fea6e3f86ed16b95b21fb0ae22524efc0fcb45514f6fc.css">
-  
 
-  
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-  
+  <title>Linux and Bash | Mathematical Michael</title>
 
-  
-    
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-122657370-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-
-  
-  
- 
 </head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
 
-  <body>
-    
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
 
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/"><img src="/img/logo.png" alt="Mathematical Michael"></a>
+    </div>
 
+    
+    <div class="collapse navbar-collapse">
 
-<nav class="row middle-xs center-xs">
-  <div class="col-xs-6 col-sm-2 logo">
-    <a href="https://www.mathematicalmichael.com#"><img src="https://www.mathematicalmichael.com/images/logo_sm.png" alt="Mathematical Michael"></a>
-  </div>
-    
-      <div class="col-xs-2 center-xs">
-        <h3><a href="https://www.mathematicalmichael.com/#about">About</a></h3>
-      </div>
-    
-      <div class="col-xs-2 center-xs">
-        <h3><a href="https://www.mathematicalmichael.com/#resources">Resources</a></h3>
-      </div>
-    
-      <div class="col-xs-2 center-xs">
-        <h3><a href="https://www.mathematicalmichael.com/#blog">Blog</a></h3>
-      </div>
-    
-      <div class="col-xs-2 center-xs">
-        <h3><a href="https://www.mathematicalmichael.com/#contact">Contact</a></h3>
-      </div>
-    
-  <div class="col-xs-6 col-sm-2 nav-toggle">
-      <a href="" class="nav-icon" onclick="return false"><img src="https://www.mathematicalmichael.com/images/icon-menu.png" alt="Open Menu"><img src="https://www.mathematicalmichael.com/images/icon-x.png" alt="Close Menu" style="display: none;"></a>
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/post">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#resources">
+            
+            <span>Resources</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
   </div>
 </nav>
 
-<section class="nav-full row middle-xs center-xs">
-  <div class="col-xs-12">
-    <div class="row middle-xs center-xs">
-      
-        <div class="col-xs-12"><h1><a href="https://www.mathematicalmichael.com/#about">About</a></h1></div>
-      
-        <div class="col-xs-12"><h1><a href="https://www.mathematicalmichael.com/#resources">Resources</a></h1></div>
-      
-        <div class="col-xs-12"><h1><a href="https://www.mathematicalmichael.com/#blog">Blog</a></h1></div>
-      
-        <div class="col-xs-12"><h1><a href="https://www.mathematicalmichael.com/#contact">Contact</a></h1></div>
-      
-    </div>
-  </div>
-</section>
 
-    <main>
+<article class="article" itemscope itemtype="http://schema.org/Article">
 
-      <section class="container">
-          <section class="content">
-              <h1> Linux and Bash </h1>
+  
 
-            
-              <div class="sub-header">
-                  
-              </div>
 
-              <article class="entry-content">
-                  
+  <div class="article-container">
+    <h1 itemprop="name">Linux and Bash</h1>
+
+    
+
+<div class="article-metadata">
+
+  
+  
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Michael Pilosov">
+  </span>
+  
+
+  <span class="article-date">
+    
+    <meta content="2018-02-23 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2018-02-23 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      Feb 23, 2018
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Michael Pilosov">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Linux%20and%20Bash&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fbash%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fbash%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fbash%2f&amp;title=Linux%20and%20Bash"
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fbash%2f&amp;title=Linux%20and%20Bash"
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Linux%20and%20Bash&amp;body=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fbash%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+    <div class="article-style" itemprop="articleBody">
+      
 
 <h2 id="bash">Bash</h2>
 
-<p><a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html">For Loops</a></p>
+<p><a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html" target="_blank">For Loops</a></p>
 
-<p><a href="https://www.digitalocean.com/community/tutorials/how-to-use-bash-s-job-control-to-manage-foreground-and-background-processes">Digital Ocean has a great writeup to get you started</a></p>
+<p><a href="https://www.digitalocean.com/community/tutorials/how-to-use-bash-s-job-control-to-manage-foreground-and-background-processes" target="_blank">Digital Ocean has a great writeup to get you started</a></p>
 
 <h2 id="linux">Linux</h2>
 
-<p><a href="https://www.cyberciti.biz/faq/unix-network-service-restart-stop/">Restarting Networking</a></p>
+<p><a href="https://www.cyberciti.biz/faq/unix-network-service-restart-stop/" target="_blank">Restarting Networking</a></p>
 
-<p><a href="https://fearby.com/article/securing-ubuntu-cloud/">Setting Up A Secure Ubuntu Server in the Cloud</a></p>
+<p><a href="https://fearby.com/article/securing-ubuntu-cloud/" target="_blank">Setting Up A Secure Ubuntu Server in the Cloud</a></p>
 
-              </article>
+    </div>
 
-              <div class="pagination">
-                  
-                      <a href="https://www.mathematicalmichael.com/resources/general/">&laquo; General Resources</a>
-                  
-                  
-                      <a href="https://www.mathematicalmichael.com/resources/machinelearning/">Machine Learning &raquo;</a>
-                  
-              </div>
-          </section>
-          <br>
-          <section class="disqus">
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-    (function() {
-      
-      
-      if (window.location.hostname == "localhost")
-        return;
-      var disqus_shortname = '';
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-  </script>
-  <noscript>Please enable JavaScript to view comments powered by <a href="http://disqus.com/?ref_noscript">Disqus</a>.</noscript>
-</section>
+    
 
-      </section>
 
-    </main>
-    <footer class="row middle-xs center-xs" id="footer">
-    
-      <div class="col-xs-2 col-md-2"><a target="_blank" href="https://linkedin.com/in/mathematicalmichael"><span class="inline-svg" ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="white" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
-</span></a></div>
+
+
+
     
     
+
     
-      <div class="col-xs-2 col-md-2"><a target="_blank" href="https://github.com/mpilosov"><span class="inline-svg" ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="white" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
-</span></a></div>
-    
-    
-    
-      <div class="col-xs-2 col-md-2"><a target="_blank" href="https://instagram.com/mathematicalmichael"><span class="inline-svg" ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="white" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
-</span></a></div>
-    
-    
-      
-        <div class="col-xs-2 col-md-2"><a target="_blank" href="https://twitter.com/Mathematical_MP"><span class="inline-svg" ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="white" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
-</span></a></div>
-      
-      
-    
-        <div class="col-xs-2 col-md-2"><a target="_blank" href="https://facebook.com/mathematicalmichael"><span class="inline-svg" ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="white" d="M448 56.7v398.5c0 13.7-11.1 24.7-24.7 24.7H309.1V306.5h58.2l8.7-67.6h-67v-43.2c0-19.6 5.4-32.9 33.5-32.9h35.8v-60.5c-6.2-.8-27.4-2.7-52.2-2.7-51.6 0-87 31.5-87 89.4v49.9h-58.4v67.6h58.4V480H24.7C11.1 480 0 468.9 0 455.3V56.7C0 43.1 11.1 32 24.7 32h398.5c13.7 0 24.8 11.1 24.8 24.7z"/></svg>
-</span></a></div>
-        
+    <div class="article-widget">
+      <div class="post-nav">
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Next</div>
+    <a href="https://www.mathematicalmichael.com/resources/machinelearning/" rel="next">Machine Learning</a>
+  </div>
   
   
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="https://www.mathematicalmichael.com/resources/general/" rel="prev">General Resources</a>
+  </div>
+  
+</div>
 
+    </div>
+    
+
+    
+
+
+  </div>
+</article>
+
+<footer class="site-footer">
+  <div class="container">
+
+    
+    <p class="powered-by">
+      <a href="https://www.mathematicalmichael.com/privacy/">Privacy Policy</a>
+    </p>
+    
+
+    <p class="powered-by">
+
+      &copy; 2018 &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
 </footer>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
 
-  <script src="https://www.mathematicalmichael.com/scripts/main.min.js" type="text/javascript"></script>
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    <script src="/js/hugo-academic.js"></script>
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/search.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="/js/search.js"></script>
+    
+
+    
+    
 
   </body>
 </html>
+
