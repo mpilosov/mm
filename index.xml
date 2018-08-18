@@ -426,7 +426,15 @@ Score: 10&lt;/p&gt;
 
 &lt;!-- &lt;img src=&#34;post/flamingos.gif&#34; width=&#34;480px&#34;&gt;&lt;/img&gt; --&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../post/flamingos.gif&#34; alt=&#34;flamingos&#34; /&gt;&lt;/p&gt;
+&lt;!-- ![flamingos](../../post/flamingos.gif) --&gt;
+
+&lt;p&gt;It&amp;rsquo;s nice to see everyone back on campus again.&lt;/p&gt;
+
+&lt;p&gt;Come say hi!&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+(Student Commons 4th floor)
+&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -436,13 +444,11 @@ Score: 10&lt;/p&gt;
       <pubDate>Mon, 06 Aug 2018 00:00:00 -0600</pubDate>
       
       <guid>https://www.mathematicalmichael.com/post/hallucinating/</guid>
-      <description>&lt;p&gt;+++&lt;/p&gt;
-
-&lt;p&gt;I found this article incredibly fascinating. I just had to post it here for posterity.&lt;/p&gt;
+      <description>&lt;p&gt;I found this article incredibly fascinating. I just had to post it here for posterity.&lt;/p&gt;
 
 &lt;p&gt;From &lt;a href=&#34;https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/&#34; target=&#34;_blank&#34;&gt;Quanta Magazine&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/07/Hallucination_2880_v2-2880x1620.jpg&#34; alt=&#34;cover-photo&#34; /&gt;&lt;/p&gt;
+&lt;!-- ![cover-photo](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/07/Hallucination_2880_v2-2880x1620.jpg) --&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;There is still much more to understand about hallucinations. Jean-Paul Sartre experimented with mescaline in Paris in 1935 and found it distorted his visual perception for weeks. Houses appeared to have “leering faces, all eyes and jaws,” clock faces looked like owls, and he saw crabs following him around all the time. These are much higher-level hallucinations than Klüver’s simple form constants. “The early stages of visual hallucination are very simple — these geometric patterns,” Ermentrout said. But when higher cognitive functions kick in, such as memory, he said, “you start to see more complex hallucinations and you try and make sense of them. I believe that all you’re seeing is the spontaneous emergence of [stored memories] as the higher brain areas become more excited.”&lt;/p&gt;

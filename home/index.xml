@@ -100,18 +100,9 @@ Latest release
     </item>
     
     <item>
-      <title>Recent Thoughts</title>
-      <link>https://www.mathematicalmichael.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Resources</title>
       <link>https://www.mathematicalmichael.com/home/resources/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 -0600</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/resources/</guid>
       <description></description>
@@ -123,6 +114,15 @@ Latest release
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Thoughts</title>
+      <link>https://www.mathematicalmichael.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/home/posts/</guid>
       <description></description>
     </item>
     
