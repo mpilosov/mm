@@ -707,7 +707,7 @@ Game concept by Dr. Burt Simon. Copyright 2016 E. Regan &amp; M. Pilosov.
 
 
 
-    &lt;form id=&#34;form-contact&#34; action=&#34;https://formspree.io/&#34; method=&#34;POST&#34;&gt;
+    &lt;form id=&#34;form-contact&#34; action=&#34;https://formspree.io/mpilosov@gmail.com&#34; method=&#34;POST&#34;&gt;
       
         &lt;div class=&#34;col-xs-12 col-sm-6&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;Name&#34; required&gt;&lt;/div&gt;
         &lt;div class=&#34;col-xs-12 col-sm-6&#34;&gt;&lt;input type=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Email&#34; required&gt;&lt;/div&gt;
