@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://www.mathematicalmichael.com/home/logohead/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/logohead/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>https://www.mathematicalmichael.com/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/about/</guid>
       <description>Biography I work on collecting useful information from scientific experiments, describing and minimizing uncertainty.
@@ -35,7 +35,7 @@ If you are curious about whether you have a problem that can benefit from risk a
     <item>
       <title>Selected Publications</title>
       <link>https://www.mathematicalmichael.com/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/publications_selected/</guid>
       <description></description>
@@ -53,7 +53,7 @@ If you are curious about whether you have a problem that can benefit from risk a
     <item>
       <title></title>
       <link>https://www.mathematicalmichael.com/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/hero_carousel/</guid>
       <description></description>
@@ -62,7 +62,7 @@ If you are curious about whether you have a problem that can benefit from risk a
     <item>
       <title>Recent Publications</title>
       <link>https://www.mathematicalmichael.com/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/publications/</guid>
       <description></description>
@@ -71,7 +71,7 @@ If you are curious about whether you have a problem that can benefit from risk a
     <item>
       <title>Selected Talks</title>
       <link>https://www.mathematicalmichael.com/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/talks_selected/</guid>
       <description></description>
@@ -80,7 +80,7 @@ If you are curious about whether you have a problem that can benefit from risk a
     <item>
       <title>Consistent Bayes</title>
       <link>https://www.mathematicalmichael.com/home/consistentbayes/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/consistentbayes/</guid>
       <description>A Measure-Theoretic Method for Stochastic Inverse Problems.
@@ -93,7 +93,7 @@ Latest release
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://www.mathematicalmichael.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/talks/</guid>
       <description></description>
@@ -102,7 +102,7 @@ Latest release
     <item>
       <title>Recent Thoughts</title>
       <link>https://www.mathematicalmichael.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/posts/</guid>
       <description></description>
@@ -111,7 +111,7 @@ Latest release
     <item>
       <title>Resources</title>
       <link>https://www.mathematicalmichael.com/home/resources/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/resources/</guid>
       <description></description>
@@ -120,7 +120,7 @@ Latest release
     <item>
       <title>Projects</title>
       <link>https://www.mathematicalmichael.com/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/projects/</guid>
       <description></description>
@@ -129,7 +129,7 @@ Latest release
     <item>
       <title>Teaching</title>
       <link>https://www.mathematicalmichael.com/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -140,7 +140,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Tags</title>
       <link>https://www.mathematicalmichael.com/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/tags/</guid>
       <description></description>
@@ -149,7 +149,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Search</title>
       <link>https://www.mathematicalmichael.com/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/search/</guid>
       <description></description>
@@ -158,7 +158,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Get in Touch</title>
       <link>https://www.mathematicalmichael.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/contact/</guid>
       <description>    Thanks for your email! I&#39;ll be in touch shortly.    </description>
