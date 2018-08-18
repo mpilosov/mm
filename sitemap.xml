@@ -189,14 +189,6 @@
     
     <url>
     
-      <loc>https://www.mathematicalmichael.com/resources/general/</loc>
-      <lastmod>2018-02-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.mathematicalmichael.com/resources/git/</loc>
       <lastmod>2018-02-11T00:00:00+00:00</lastmod>
     </url>
@@ -246,6 +238,22 @@
     <url>
     
       <loc>https://www.mathematicalmichael.com/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/talk/template-talk/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/talk/template-talk2/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     

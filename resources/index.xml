@@ -85,23 +85,6 @@ Setting Up A Secure Ubuntu Server in the Cloud</description>
     </item>
     
     <item>
-      <title>General Resources</title>
-      <link>https://www.mathematicalmichael.com/resources/general/</link>
-      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/general/</guid>
-      <description>My Gists on Github are a good place to see what I have found useful to write down for future reference.
-The use of sines and cosines in programming (or, how to make pretty pictures!)
-Git (version control) The guide everyone uses to get started
-Stop Asking for Password:
-git config --global credential.helper &#39;cache --timeout 28800&#39;
-And to forget:
-git credential-cache exit
-or, if you&amp;rsquo;re on OSX:
-git config --system --unset credential.</description>
-    </item>
-    
-    <item>
       <title>Git &amp; Github</title>
       <link>https://www.mathematicalmichael.com/resources/git/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>

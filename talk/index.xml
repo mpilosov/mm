@@ -21,5 +21,23 @@
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
+    <item>
+      <title>Example Talk</title>
+      <link>https://www.mathematicalmichael.com/talk/template-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/talk/template-talk/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://www.mathematicalmichael.com/talk/template-talk2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/talk/template-talk2/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
   </channel>
 </rss>
