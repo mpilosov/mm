@@ -91,15 +91,6 @@ Latest release
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.mathematicalmichael.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Resources</title>
       <link>https://www.mathematicalmichael.com/home/resources/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 -0600</pubDate>
@@ -114,6 +105,15 @@ Latest release
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Talks</title>
+      <link>https://www.mathematicalmichael.com/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/home/talks/</guid>
       <description></description>
     </item>
     

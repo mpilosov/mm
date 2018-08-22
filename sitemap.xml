@@ -4,13 +4,6 @@
     
     <url>
     
-      <loc>https://www.mathematicalmichael.com/resume/education/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.mathematicalmichael.com/resume/presentations/</loc>
     </url>
     
@@ -47,6 +40,7 @@
     <url>
     
       <loc>https://www.mathematicalmichael.com/resume/publications/</loc>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -93,6 +87,14 @@
     
     <url>
     
+      <loc>https://www.mathematicalmichael.com/project/contaminant-transport/</loc>
+      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.mathematicalmichael.com/post/rocky/</loc>
       <lastmod>2018-07-17T00:00:00-06:00</lastmod>
     </url>
@@ -111,6 +113,14 @@
     
       <loc>https://www.mathematicalmichael.com/post/skillsgap/</loc>
       <lastmod>2018-07-14T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/talk/siam_an18/</loc>
+      <lastmod>2018-07-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -229,14 +239,6 @@
     
     <url>
     
-      <loc>https://www.mathematicalmichael.com/about/</loc>
-      <lastmod>2017-06-27T17:39:21-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.mathematicalmichael.com/more/</loc>
       <lastmod>2017-06-27T17:39:21-07:00</lastmod>
     </url>
@@ -245,31 +247,7 @@
     
     <url>
     
-      <loc>https://www.mathematicalmichael.com/talk/example-talk/</loc>
-      <lastmod>2017-01-01T03:15:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.mathematicalmichael.com/talk/template-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.mathematicalmichael.com/post/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.mathematicalmichael.com/publication/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -285,6 +263,14 @@
     
     <url>
     
+      <loc>https://www.mathematicalmichael.com/publication/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.mathematicalmichael.com/project/consistentbayes/</loc>
       <lastmod>2016-04-27T00:00:00-06:00</lastmod>
     </url>
@@ -293,7 +279,26 @@
     
     <url>
     
+      <loc>https://www.mathematicalmichael.com/categories/academia/</loc>
+      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/tags/advising/</loc>
+      <lastmod>2018-02-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.mathematicalmichael.com/categories/</loc>
+      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -310,8 +315,44 @@
     
     <url>
     
+      <loc>https://www.mathematicalmichael.com/tags/computation/</loc>
+      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/categories/environment/</loc>
+      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/tags/geology/</loc>
+      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.mathematicalmichael.com/</loc>
       <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/tags/national-lab/</loc>
+      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -346,6 +387,7 @@
     <url>
     
       <loc>https://www.mathematicalmichael.com/resume/</loc>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -354,7 +396,7 @@
     <url>
     
       <loc>https://www.mathematicalmichael.com/tags/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+      <lastmod>2018-02-05T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

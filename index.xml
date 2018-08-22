@@ -11,37 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Education</title>
-      <link>https://www.mathematicalmichael.com/resume/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resume/education/</guid>
-      <description>
-
-&lt;h3 id=&#34;2014-19-university-of-colorado-denver&#34;&gt;2014-19: University of Colorado: Denver&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Master of Science in Applied Mathematics &lt;em&gt;Mathematics of Science &amp;amp; Engineering&lt;/em&gt;, Spring 2017&lt;/li&gt;
-&lt;li&gt;Doctor of Philosophy in Applied Mathematics, &lt;em&gt;Uncertainty Quantification&lt;/em&gt;, (Anticipated) Fall 2019&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;2010-14-state-university-of-new-york-geneseo-college&#34;&gt;2010-14: State University of New York: Geneseo College&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BA in Mathematics,  &lt;em&gt;Magna Cum Laude&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;2006-10-the-baccalaureate-school-for-global-education&#34;&gt;2006-10: The Baccalaureate School for Global Education&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;NY State Honors Regents Diploma (2010)&lt;/li&gt;
-&lt;li&gt;International Baccalaureate Diploma (2010)&lt;/li&gt;
-&lt;li&gt;Middle Years Programme Diploma (2008)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Presentations</title>
       <link>https://www.mathematicalmichael.com/resume/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -399,7 +368,7 @@ Score: 10&lt;/p&gt;
     <item>
       <title>Publications</title>
       <link>https://www.mathematicalmichael.com/resume/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/resume/publications/</guid>
       <description>
@@ -730,6 +699,16 @@ Game concept by Dr. Burt Simon. Copyright 2016 E. Regan &amp; M. Pilosov.
 
 &lt;/section&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>Tracking Toxins</title>
+      <link>https://www.mathematicalmichael.com/project/contaminant-transport/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/project/contaminant-transport/</guid>
+      <description>&lt;p&gt;More to Come Soon.&lt;/p&gt;
 </description>
     </item>
     
