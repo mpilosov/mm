@@ -384,6 +384,64 @@ Score: 10&lt;/p&gt;
     </item>
     
     <item>
+      <title>Assets for SIAM Advertising</title>
+      <link>https://www.mathematicalmichael.com/resources/advertising-siam/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/resources/advertising-siam/</guid>
+      <description>
+
+&lt;p&gt;I have been advertising events hosted by SIAM for several years now as part of my dedication to service to my graduate department at CU Denver.
+One thing I consistently struggled with was finding high-quality versions of the SIAM logo for use in the posters I was making.&lt;/p&gt;
+
+&lt;p&gt;I still do not understand why their website assets are consistently ranked as irrelevant on Google image search
+For the longest time I was pulling images from other people&amp;rsquo;s websites that Google was scraping more successfully.
+I am writing this resource page in hopes that it will show up when people search for it in the future and that I can link you directly to the source and do SIAM a service by ending the &lt;em&gt;days of low-resolution logos on advertising materials.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;So, once and for all, here is where you can find downloads of all of their logo variants:&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;siam-logo-guide-logo&#34;&gt;&lt;a href=&#34;https://www.siam.org/Newsroom/Logo-Guide&#34; target=&#34;_blank&#34;&gt;SIAM Logo Guide&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;(I have provided the one-click downloads below)&lt;/em&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;The best thing to do&lt;/strong&gt; is to directly &lt;a href=&#34;https://www.siam.org/Portals/0/Newsroom/SIAM-Logo-PNG.zip&#34; target=&#34;_blank&#34;&gt;download PNG&lt;/a&gt; files since they are vector files that preserve details at any scale.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you want to use Illustrator or Inkscape, the &lt;a href=&#34;https://www.siam.org/Portals/0/Newsroom/SIAM-Logo-EPS.zip&#34; target=&#34;_blank&#34;&gt;EPS versions&lt;/a&gt; may be of interest to you. They are also infinitely scalable but are significantly larger files.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;But if you insist on using lossy-compression JPEGs, &lt;a href=&#34;https://www.siam.org/Portals/0/Newsroom/SIAM-Logo-JPG.zip&#34; target=&#34;_blank&#34;&gt;here is the download&lt;/a&gt; for that.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mathematicalmichael.com/siam_logo.png&#34; alt=&#34;siam-logo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Note: I have also uploaded these files to my website in the event that SIAM&amp;rsquo;s download links experience a problem.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mathematicalmichael.com/data/SIAM-Logo-PNG.zip&#34;&gt;Download PNG zip&lt;/a&gt; file directly.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.mathematicalmichael.com/data/SIAM-Logo-JPG.zip&#34;&gt;Download JPG zip&lt;/a&gt; file directly.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Also, do note that SIAM&amp;rsquo;s website has a &lt;a href=&#34;https://www.siam.org/Portals/0/Books%20-For%20Authors/SIAM%20Style%20Manual.pdf?ver=2017-11-21-112335-700&#34; target=&#34;_blank&#34;&gt;style manual&lt;/a&gt; that answers useful questions such as&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;When do I capitalize the first word of a list item?&lt;/li&gt;
+&lt;li&gt;How do I properly abbreviate and use acronyms?&lt;/li&gt;
+&lt;li&gt;What are SIAM&amp;rsquo;s feelings towards commas?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and much, much more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Start of the Semester</title>
       <link>https://www.mathematicalmichael.com/post/start/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 -0600</pubDate>
@@ -772,85 +830,6 @@ Game concept by Dr. Burt Simon. Copyright 2016 E. Regan &amp; M. Pilosov.
 &lt;p&gt;&lt;a href=&#34;https://python-graph-gallery.com/2d-density-plot/&#34; target=&#34;_blank&#34;&gt;Plotting Options in Python (2D Density Plots and more)&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/sympy/sympy/wiki/Quick-examples&#34; target=&#34;_blank&#34;&gt;Some SymPy examples&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bridging the Skills Gap</title>
-      <link>https://www.mathematicalmichael.com/post/skillsgap/</link>
-      <pubDate>Sat, 14 Jul 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/post/skillsgap/</guid>
-      <description>
-
-&lt;p&gt;I live and breathe applied mathematics.
-Challenge problems are what I thrive on.&lt;/p&gt;
-
-&lt;p&gt;As such, programming comprises the vast majority of the &amp;ldquo;work&amp;rdquo; that I do.
-Theories are nothing without evidence, and my laboratory is the computer.
-I am a computational scientist, being trained as a mathematician.&lt;/p&gt;
-
-&lt;p&gt;Programming has enabled me to do so much more than the research I perform as part of my dissertation work.
-One can argue that my most marketable skill after graduation will be my software development experience.
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;simply-put-being-able-to-program-has-opened-up-endless-possibilities&#34;&gt;Simply put, being able to program has opened up endless possibilities.&lt;/h2&gt;
-
-&lt;p&gt;&lt;br&gt;
-After learning the first language, picking up others is much easier.
-I did not have formal instruction; rather I picked up style and knowledge piecemeal as I took on projects that interested me.
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;what-i-have-come-to-realize-is-that-computers-are-really-stupid&#34;&gt;What I have come to realize is that computers are really stupid.&lt;/h1&gt;
-
-&lt;p&gt;&lt;br&gt;
-The way I learned programming&amp;ndash;as a tool, rather than a language with which to instruct dumb machines&amp;ndash;made computers seem utterly magical.
-They are not.
-Computers are profoundly stupid.&lt;/p&gt;
-
-&lt;p&gt;I finally came to understand that &lt;em&gt;everything&lt;/em&gt; on a computer is pretty much just text files.
-&lt;em&gt;All those fancy programming languages are just text files that in turn interpret other text files.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;All those applications are just layers and layers of text files referencing one another and communicating with the brains of your computer.&lt;/p&gt;
-
-&lt;p&gt;Programming has opened up a door to the world of machines.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;this-is-our-superpower-as-humans&#34;&gt;This is our superpower as humans.&lt;/h1&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;I learned to program as a problem-solving tool.
-This was life-changing on its own, and I fully &lt;strong&gt;encourage every student studying a science to learn some kind of programming language,&lt;/strong&gt; even if only to familiarize oneself with the modality of thinking.&lt;/p&gt;
-
-&lt;p&gt;But I have to point out the inadequacy of all the &amp;ldquo;hiding of complexity&amp;rdquo; that occurs during the teaching of a programming language.
-I think it is worth spending a little time reviewing some very core fundamentals of how a computer operates.&lt;/p&gt;
-
-&lt;p&gt;These skills generalize to all languages, and should be able to enable a student to know &lt;em&gt;just enough&lt;/em&gt; to be able to use the internet to search for what they need.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;learning-what-question-to-ask-is-half-the-battle&#34;&gt;Learning what question to ask is half the battle&lt;/h2&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;And I realize now that I spent so much wasted time in my life asking the wrong questions because I did not really understand how a computer works.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;em&gt;That&amp;rsquo;s all I was missing: the knowledge that computers are DUMB&lt;/em&gt;.
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;And this finally brings me to the topic I want to discuss at length: how can we bridge the gap between the use of programming as a &lt;em&gt;problem solving tool&lt;/em&gt; and the use of it as a means of &lt;em&gt;communication&lt;/em&gt; with your machine.&lt;/p&gt;
-
-&lt;p&gt;For this reason, I encourage everyone to pick up a UNIX distribution and learn how to set up a programming environment in one to achieve whatever goal one may have.&lt;/p&gt;
-
-&lt;p&gt;I realize this is a big ask for busy students, and the learning curve can be steep if there isn&amp;rsquo;t some amount of hand-holding and guidance. But &amp;hellip;&lt;/p&gt;
-
-&lt;p align=&#34;center&#34;&gt;
-it has a 10X reward,&lt;br&gt;
-(I promise)
-&lt;/p&gt;
 </description>
     </item>
     
