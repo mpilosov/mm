@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -384,6 +384,65 @@ Score: 10&lt;/p&gt;
     </item>
     
     <item>
+      <title>Curated Science Communication</title>
+      <link>https://www.mathematicalmichael.com/resources/scicomm/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/resources/scicomm/</guid>
+      <description>
+
+&lt;p&gt;It is really difficult for content creators to figure out how to balance creative storytelling and scientific communication.
+Here are some channels on youtube that I believe are doing a great job at it. Do feel free to contact me and suggest more!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-verge-verge-verge-science-vergesci&#34;&gt;&lt;a href=&#34;[vergesci]:&#34; target=&#34;_blank&#34;&gt;The Verge&lt;/a&gt; | [Verge Science][vergesci]&lt;/h2&gt;
+
+&lt;p&gt;A division of &lt;a href=&#34;[3blue1brown]:&#34; target=&#34;_blank&#34;&gt;Vox&lt;/a&gt;, they do very compelling work and have engaging hosts.&lt;/p&gt;
+
+&lt;h2 id=&#34;scishow-scishow-affiliates-scishow-network&#34;&gt;&lt;a href=&#34;[scishow-network]:&#34; target=&#34;_blank&#34;&gt;SciShow&lt;/a&gt; | [Affiliates][scishow-network]&lt;/h2&gt;
+
+&lt;p&gt;Science of all kinds. Daily news show and several subject-specific branches (psych, space, kids).&lt;/p&gt;
+
+&lt;h2 id=&#34;3blue1brown-3blue1brown&#34;&gt;[3Blue1Brown][3blue1brown]&lt;/h2&gt;
+
+&lt;p&gt;The most beautiful (visual and audio) mathematics videos on the planet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&#34; rel=&#34;&#34;&gt;&lt;img src=&#34;https://static1.squarespace.com/static/54f63048e4b0a47e92eb5234/t/58e967223a0411706acc702d/1508530564584/Thumbnail.png?format=750w&#34; alt=&#34;calculus&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;smartereveryday-smarter&#34;&gt;[SmarterEveryDay][smarter]&lt;/h2&gt;
+
+&lt;p&gt;A rocket engineer trying to make sure he learns alongside his four children on a daily basis. Amazing slow-motion footage and great explanations of physics.&lt;/p&gt;
+
+&lt;h2 id=&#34;vsauce-vsauce&#34;&gt;[Vsauce][vsauce]&lt;/h2&gt;
+
+&lt;p&gt;Hard to define what this is&amp;hellip;
+But it is INCREDIBLY addictingly good and thought-provoking.&lt;/p&gt;
+
+&lt;h2 id=&#34;thebrainscoop-brainscoop&#34;&gt;[thebrainscoop][brainscoop]&lt;/h2&gt;
+
+&lt;p&gt;Natural History done in a way I never thought would be as popular as it has become.
+It is now an inside look into the Field Museum (of Chicago) and shows what life in the field is like.
+Includes full-length animal dissections, complete with humorous commentary to deal with the morbidity (and the smell).&lt;/p&gt;
+
+&lt;h2 id=&#34;veritasium-veritasium&#34;&gt;&lt;a href=&#34;[smarter]:&#34; target=&#34;_blank&#34;&gt;Veritasium&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A physist who has been at the science communication game since the early(ish) days of youtube. He has a broad audience and has a knack for going viral.&lt;/p&gt;
+
+&lt;h2 id=&#34;hfs-podcast-hfs&#34;&gt;&lt;a href=&#34;[vsauce]:&#34; target=&#34;_blank&#34;&gt;HFS Podcast&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;(filmed and uploaded to youtube).
+Now retired (the title prevented it from being promoted on many publishing platforms due to the language).
+It is hilarious.&lt;/p&gt;
+
+&lt;h2 id=&#34;wendover-productions-wendover-half-as-interesting-hai&#34;&gt;&lt;a href=&#34;[hai]:&#34; target=&#34;_blank&#34;&gt;Wendover Productions&lt;/a&gt; | [Half as Interesting][hai]&lt;/h2&gt;
+
+&lt;p&gt;Half as Interesting started out as a recurring series on the first channel based on the concept of turning a set of esoteric Wikipedia pages into videos.
+Most are transportation (train, plane, car, etc.) themed, which sounds boring, I know.
+But trust me, if anyone could make something that boring into an absolutely captivating video (mind you, with no live footage, mostly relying on stock video and animations), this is the guy.
+There is a lot to learn from his skillset, regardless of what subject is the topic of the content.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Assets for SIAM Advertising</title>
       <link>https://www.mathematicalmichael.com/resources/siam/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
@@ -444,7 +503,7 @@ I am writing this resource page in hopes that it will show up when people search
     <item>
       <title>Start of the Semester</title>
       <link>https://www.mathematicalmichael.com/post/start/</link>
-      <pubDate>Wed, 15 Aug 2018 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/post/start/</guid>
       <description>
@@ -468,7 +527,7 @@ I am writing this resource page in hopes that it will show up when people search
     <item>
       <title>The Mathematics of Hallucination</title>
       <link>https://www.mathematicalmichael.com/post/hallucinating/</link>
-      <pubDate>Mon, 06 Aug 2018 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/post/hallucinating/</guid>
       <description>&lt;p&gt;I found this article incredibly fascinating. I just had to post it here for posterity.&lt;/p&gt;
@@ -500,7 +559,7 @@ I am writing this resource page in hopes that it will show up when people search
     <item>
       <title>Mathematics for Machine Learning</title>
       <link>https://www.mathematicalmichael.com/post/machinelearning/</link>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/post/machinelearning/</guid>
       <description>
@@ -558,7 +617,7 @@ Lastly, the &lt;a href=&#34;https://github.com/3b1b/manim&#34; target=&#34;_blan
     <item>
       <title>Download your Linkedin Contacts</title>
       <link>https://www.mathematicalmichael.com/post/linkedin-contacts/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/post/linkedin-contacts/</guid>
       <description>&lt;p&gt;This is a really useful feature if you want to mine your network for possible leads and resources.&lt;/p&gt;
@@ -580,7 +639,7 @@ Lastly, the &lt;a href=&#34;https://github.com/3b1b/manim&#34; target=&#34;_blan
     <item>
       <title>A New Game of Poker</title>
       <link>https://www.mathematicalmichael.com/project/poker/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/poker/</guid>
       <description>&lt;p&gt;This was a really fun project I undertook for a Math Club game night in 2016 with my friend &lt;a href=&#34;http://elliottregan.com&#34; target=&#34;_blank&#34;&gt;Elliott Regan&lt;/a&gt;.&lt;/p&gt;
@@ -763,7 +822,7 @@ Game concept by Dr. Burt Simon. Copyright 2016 E. Regan &amp; M. Pilosov.
     <item>
       <title>Tracking Toxins</title>
       <link>https://www.mathematicalmichael.com/project/contaminant-transport/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/contaminant-transport/</guid>
       <description>&lt;p&gt;More to Come Soon.&lt;/p&gt;
@@ -773,7 +832,7 @@ Game concept by Dr. Burt Simon. Copyright 2016 E. Regan &amp; M. Pilosov.
     <item>
       <title>A Rocky Opportunity</title>
       <link>https://www.mathematicalmichael.com/post/rocky/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/post/rocky/</guid>
       <description>&lt;p&gt;I recently wrote up a blog post on SIAM News about the importance of Uncertainty Quantification, particularly in the context of storm surge threats to coastal communities.&lt;/p&gt;
@@ -781,55 +840,6 @@ Game concept by Dr. Burt Simon. Copyright 2016 E. Regan &amp; M. Pilosov.
 &lt;p align=&#34;center&#34;&gt;
 &lt;a href=&#34;https://sinews.siam.org/Details-Page/a-rocky-opportunity&#34;&gt;Check it out!&lt;/a&gt;
 &lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://www.mathematicalmichael.com/resources/python/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resources/python/</guid>
-      <description>
-
-&lt;h1 id=&#34;things-i-have-written&#34;&gt;Things I Have Written&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/233ccfae58d182d43f690be209b58ba5&#34; target=&#34;_blank&#34;&gt;How to set up anaconda - gists.github.com/mpilosov/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/ec4bfdf41f5196812fe8efca96683cbe&#34; target=&#34;_blank&#34;&gt;String Formatting (making titles out of lowercase strings)&lt;/a&gt;
-&lt;script src=&#34;https://gist.github.com/mpilosov/ec4bfdf41f5196812fe8efca96683cbe.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;plotting&#34;&gt;Plotting&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/eed1040215fec8455a2f1633db83f598&#34; target=&#34;_blank&#34;&gt;Quick Marginal Distribution Visualization with Seaborn&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/26fba49424e404dcd12cb5665fb08dd8&#34; target=&#34;_blank&#34;&gt;Piecewise-defined functions and 3D Matplotlib Plots&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/736438173407fc8a26488eeeb567c3b0&#34; target=&#34;_blank&#34;&gt;Drawing Lines atop scatterplots&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/17f3e9372b612de135523519b2048172&#34; target=&#34;_blank&#34;&gt;Plotting a circle&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/2af9eb6bf8dd0259c99bb0306ffa84f9&#34; target=&#34;_blank&#34;&gt;Three-Dimensional Projections (with Linear Algebra)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;things-others-have-written&#34;&gt;Things Others Have Written&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955&#34; target=&#34;_blank&#34;&gt;Learning Pandas (like R&amp;hellip; for Python)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58&#34; target=&#34;_blank&#34;&gt;Scraping Webpages with Pandas&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.saltycrane.com/blog/2008/01/how-to-use-args-and-kwargs-in-python/&#34; target=&#34;_blank&#34;&gt;Using *args and **kwargs in Python&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/dmulholland/janus&#34; target=&#34;_blank&#34;&gt;Package for SUPER EASY, unordered command-line flag/options/argument parsing. Make your Python apps slick AF&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html&#34; target=&#34;_blank&#34;&gt;Jupyter Notebook Math Examples - Markdown Syntax&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ipython.readthedocs.io/en/stable/interactive/magics.html&#34; target=&#34;_blank&#34;&gt;Magic in Jupyter - ctrl+F almost anything you can think of&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://python-graph-gallery.com/2d-density-plot/&#34; target=&#34;_blank&#34;&gt;Plotting Options in Python (2D Density Plots and more)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/sympy/sympy/wiki/Quick-examples&#34; target=&#34;_blank&#34;&gt;Some SymPy examples&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
