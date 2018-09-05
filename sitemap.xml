@@ -287,8 +287,25 @@
     
     <url>
     
+      <loc>https://www.mathematicalmichael.com/publication/cooperation/</loc>
+      <lastmod>2016-08-15T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.mathematicalmichael.com/project/consistentbayes/</loc>
       <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/publication_types/2/</loc>
+      <lastmod>2016-08-15T00:00:00-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -315,6 +332,15 @@
     
       <loc>https://www.mathematicalmichael.com/tags/advising/</loc>
       <lastmod>2018-02-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/tags/biology/</loc>
+      <lastmod>2016-08-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -351,6 +377,15 @@
     
       <loc>https://www.mathematicalmichael.com/categories/environment/</loc>
       <lastmod>2018-07-21T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/tags/evolution/</loc>
+      <lastmod>2016-08-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -404,6 +439,7 @@
     <url>
     
       <loc>https://www.mathematicalmichael.com/publication_types/</loc>
+      <lastmod>2016-08-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
