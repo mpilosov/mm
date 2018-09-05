@@ -110,15 +110,6 @@ Latest release
     </item>
     
     <item>
-      <title>Recent Thoughts</title>
-      <link>https://www.mathematicalmichael.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teaching</title>
       <link>https://www.mathematicalmichael.com/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
@@ -139,12 +130,12 @@ I am a teaching instructor for the following courses at University X:
     </item>
     
     <item>
-      <title>Get in Touch</title>
-      <link>https://www.mathematicalmichael.com/home/contact/</link>
+      <title>Recent Thoughts</title>
+      <link>https://www.mathematicalmichael.com/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/home/contact/</guid>
-      <description>    Thanks for your email! I&#39;ll be in touch shortly.    </description>
+      <guid>https://www.mathematicalmichael.com/home/posts/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -154,6 +145,15 @@ I am a teaching instructor for the following courses at University X:
       
       <guid>https://www.mathematicalmichael.com/home/resume/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Get in Touch</title>
+      <link>https://www.mathematicalmichael.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/home/contact/</guid>
+      <description>    Thanks for your email! I&#39;ll be in touch shortly.    </description>
     </item>
     
     <item>
