@@ -22,14 +22,6 @@
 &lt;i&gt;- In Chronological Order -&lt;/i&gt;
 &lt;/p&gt;
 
-&lt;h3 id=&#34;siam-conference-on-uncertainty-quantification&#34;&gt;SIAM Conference on Uncertainty Quantification&lt;/h3&gt;
-
-&lt;h4 id=&#34;april-16-19-2018&#34;&gt;April 16-19, 2018&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Poster: &amp;ldquo;Optimal Experimental Design of Time-Series Data in a Consistent Bayesian Framework&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h3 id=&#34;14th-annual-siam-front-range-student-conference&#34;&gt;14th Annual SIAM Front Range Student Conference&lt;/h3&gt;
 
 &lt;h4 id=&#34;march-5-2018&#34;&gt;March 5, 2018&lt;/h4&gt;
@@ -158,7 +150,7 @@
 &lt;h2 id=&#34;matlab&#34;&gt;Matlab&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;first language, used for countless projects. I have since moved away from it in favor of open-source alternatives.&lt;/li&gt;
+&lt;li&gt;first language, used for countless projects. I have since moved away from it in favor of open-source alternatives&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
@@ -207,24 +199,24 @@
 &lt;h2 id=&#34;clangs&#34;&gt;CLangs&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;I have coded in C++ in the past, but these days mostly use it when programming Arduinos.&lt;/li&gt;
-&lt;li&gt;Look, give me a piece of code in any C language, and I&amp;rsquo;ll be able to tell you what it does, but I don&amp;rsquo;t program in it. For scientific computing, Python is just more preferable overall.&lt;/li&gt;
-&lt;li&gt;I can bind C libraries to Python wrappers&lt;/li&gt;
-&lt;li&gt;I can manipulate an existing codebase, but writing one from scratch is a poor use of my time and skillsets at this point.&lt;/li&gt;
+&lt;li&gt;I have coded in C++ in the past, but these days mostly use it when programming Arduinos&lt;/li&gt;
+&lt;li&gt;Look, give me a piece of code in any C language, and I&amp;rsquo;ll likely be able to tell you what it does, but I don&amp;rsquo;t program in it (anymore). For scientific computing, Python is just more preferable overall&lt;/li&gt;
+&lt;li&gt;Given some time, I can bind C libraries to Python wrappers if need be&lt;/li&gt;
+&lt;li&gt;I can manipulate an existing codebase, but writing one from scratch is a poor use of my time and skillsets at this point (I would rather collaborate with someone more proficient in the language)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;I have used it a lot over the years but these days prefer Python for anything that I would have once done in R.&lt;/li&gt;
-&lt;li&gt;Basically, if asked, I could translate ConsistentBayes into a non-optimized R-library in a couple weeks, I would just prefer not to.&lt;/li&gt;
+&lt;li&gt;I have used it a lot over the years but these days prefer Python for anything that I would have once done in R&lt;/li&gt;
+&lt;li&gt;Basically, if asked, I could translate ConsistentBayes into a non-optimized R-library in a couple weeks, I would just prefer not to&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;wolfram&#34;&gt;Wolfram&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;I use WolframAlpha (free) a bit, but I resist learning it because I cannot afford their licenses.&lt;/li&gt;
-&lt;li&gt;I wish nothing more than for them to open their code base. I fear that if they do not, their innovative notebooks will soon be associated primarily with Jupyter.&lt;/li&gt;
+&lt;li&gt;I use WolframAlpha (free) a bit, but I resist learning it because I cannot afford their licenses&lt;/li&gt;
+&lt;li&gt;I wish nothing more than for them to open their code base. I fear that if they do not, their innovative notebooks will soon be associated primarily with Jupyter&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;web-lanugages&#34;&gt;Web-lanugages&lt;/h2&gt;
@@ -362,24 +354,6 @@ Score: 10&lt;/p&gt;
       <description>&lt;p&gt;Solving problems of paramount importance to humanity.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Showing,&lt;/em&gt; not telling the limitless potential of applied mathematics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://www.mathematicalmichael.com/resume/publications/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resume/publications/</guid>
-      <description>
-
-&lt;h3 id=&#34;group-level-events-are-catalysts-in-the-evolution-of-cooperation&#34;&gt;Group-level events are catalysts in the evolution of cooperation&lt;/h3&gt;
-
-&lt;h4 id=&#34;journal-of-theoretical-biology-410-2016&#34;&gt;Journal of Theoretical Biology 410 (2016)&lt;/h4&gt;
-
-&lt;p&gt;pp. 125-136 (Elsevier), available on &lt;a href=&#34;https://doi.org/10.1016/j.jtbi.2016.08.021&#34; target=&#34;_blank&#34;&gt;Science Direct&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;My co-author made it available FOR FREE on &lt;a href=&#34;http://math.ucdenver.edu/~bsimon/CatalystJournalVersion.pdf&#34; target=&#34;_blank&#34;&gt;his website&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -936,6 +910,55 @@ Game concept by Dr. Burt Simon. Copyright 2016 E. Regan &amp; M. Pilosov.
 &lt;p align=&#34;center&#34;&gt;
 &lt;a href=&#34;https://sinews.siam.org/Details-Page/a-rocky-opportunity&#34;&gt;Check it out!&lt;/a&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://www.mathematicalmichael.com/resources/python/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/resources/python/</guid>
+      <description>
+
+&lt;h1 id=&#34;things-i-have-written&#34;&gt;Things I Have Written&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/233ccfae58d182d43f690be209b58ba5&#34; target=&#34;_blank&#34;&gt;How to set up anaconda - gists.github.com/mpilosov/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/ec4bfdf41f5196812fe8efca96683cbe&#34; target=&#34;_blank&#34;&gt;String Formatting (making titles out of lowercase strings)&lt;/a&gt;
+&lt;script src=&#34;https://gist.github.com/mpilosov/ec4bfdf41f5196812fe8efca96683cbe.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;plotting&#34;&gt;Plotting&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/eed1040215fec8455a2f1633db83f598&#34; target=&#34;_blank&#34;&gt;Quick Marginal Distribution Visualization with Seaborn&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/26fba49424e404dcd12cb5665fb08dd8&#34; target=&#34;_blank&#34;&gt;Piecewise-defined functions and 3D Matplotlib Plots&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/736438173407fc8a26488eeeb567c3b0&#34; target=&#34;_blank&#34;&gt;Drawing Lines atop scatterplots&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/17f3e9372b612de135523519b2048172&#34; target=&#34;_blank&#34;&gt;Plotting a circle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/2af9eb6bf8dd0259c99bb0306ffa84f9&#34; target=&#34;_blank&#34;&gt;Three-Dimensional Projections (with Linear Algebra)&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;things-others-have-written&#34;&gt;Things Others Have Written&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955&#34; target=&#34;_blank&#34;&gt;Learning Pandas (like R&amp;hellip; for Python)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58&#34; target=&#34;_blank&#34;&gt;Scraping Webpages with Pandas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.saltycrane.com/blog/2008/01/how-to-use-args-and-kwargs-in-python/&#34; target=&#34;_blank&#34;&gt;Using *args and **kwargs in Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dmulholland/janus&#34; target=&#34;_blank&#34;&gt;Package for SUPER EASY, unordered command-line flag/options/argument parsing. Make your Python apps slick AF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html&#34; target=&#34;_blank&#34;&gt;Jupyter Notebook Math Examples - Markdown Syntax&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ipython.readthedocs.io/en/stable/interactive/magics.html&#34; target=&#34;_blank&#34;&gt;Magic in Jupyter - ctrl+F almost anything you can think of&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://python-graph-gallery.com/2d-density-plot/&#34; target=&#34;_blank&#34;&gt;Plotting Options in Python (2D Density Plots and more)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/sympy/sympy/wiki/Quick-examples&#34; target=&#34;_blank&#34;&gt;Some SymPy examples&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

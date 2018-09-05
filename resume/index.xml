@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/resume/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/resume/presentations/</guid>
-      <description>- In Chronological Order - SIAM Conference on Uncertainty Quantification April 16-19, 2018  Poster: &amp;ldquo;Optimal Experimental Design of Time-Series Data in a Consistent Bayesian Framework&amp;rdquo;  14th Annual SIAM Front Range Student Conference March 5, 2018  Talk: &amp;ldquo;What is an Inverse Problem?&amp;rdquo;   13th Annual SIAM Front Range Student Conference March 4, 2017  Primary Organizer as President of SIAM Student Chapter  SIAM Conference on Computational Science and Engineering Feb 27-Mar 3, 2017  Poster: &amp;ldquo;Advancements in Simulation-Based Optimal Experimental Design&amp;rdquo;   SIAM Front Range Student Conference March 5, 2016  Assisted with Organization as Vice President of SIAM Student Chapter   Rocky Mountain Summer Workshop on Uncertainty Quantification July 15-17, 2015  Attendee   SIAM Conference on Computational Science and Engineering March 14-18, 2015  Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  SIAM Front Range Student Conference February 28, 2015  Talk: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  UP-STAT 2014 Mini-Conference (Upstate NY Chapters of the American Statistical Association) April 13, 2014  Talk: &amp;ldquo;State of Pharma Mutuals&amp;rdquo; Talk: &amp;ldquo;Art with Probability Distributions&amp;rdquo; (Award: Best Fun Statistics Presentation)  Geneseo Recognizing Excellence, Achievement, and Talent (GREAT Day) April 8, 2014  Talk: &amp;ldquo;Pharma Mutuals&amp;rdquo; Talk: &amp;ldquo;Making Art with Probability Distributions&amp;rdquo; Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  Joint Mathematics Meetings 2014 Jan 15-18, 2014  Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo; Talk: MAA Contributed Papers Session - At the Intersection of Mathematics and the Arts  COPLAC Northeast Regional Undergraduate Research Conference Oct 25-26, 2013  Poster: &amp;ldquo;Moving Pictures?</description>
+      <description>- In Chronological Order - 14th Annual SIAM Front Range Student Conference March 5, 2018  Talk: &amp;ldquo;What is an Inverse Problem?&amp;rdquo;   13th Annual SIAM Front Range Student Conference March 4, 2017  Primary Organizer as President of SIAM Student Chapter  SIAM Conference on Computational Science and Engineering Feb 27-Mar 3, 2017  Poster: &amp;ldquo;Advancements in Simulation-Based Optimal Experimental Design&amp;rdquo;   SIAM Front Range Student Conference March 5, 2016  Assisted with Organization as Vice President of SIAM Student Chapter   Rocky Mountain Summer Workshop on Uncertainty Quantification July 15-17, 2015  Attendee   SIAM Conference on Computational Science and Engineering March 14-18, 2015  Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  SIAM Front Range Student Conference February 28, 2015  Talk: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  UP-STAT 2014 Mini-Conference (Upstate NY Chapters of the American Statistical Association) April 13, 2014  Talk: &amp;ldquo;State of Pharma Mutuals&amp;rdquo; Talk: &amp;ldquo;Art with Probability Distributions&amp;rdquo; (Award: Best Fun Statistics Presentation)  Geneseo Recognizing Excellence, Achievement, and Talent (GREAT Day) April 8, 2014  Talk: &amp;ldquo;Pharma Mutuals&amp;rdquo; Talk: &amp;ldquo;Making Art with Probability Distributions&amp;rdquo; Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;  Joint Mathematics Meetings 2014 Jan 15-18, 2014  Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo; Talk: MAA Contributed Papers Session - At the Intersection of Mathematics and the Arts  COPLAC Northeast Regional Undergraduate Research Conference Oct 25-26, 2013  Poster: &amp;ldquo;Moving Pictures?</description>
     </item>
     
     <item>
@@ -27,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/resume/techskills/</guid>
-      <description>Python  lead developer of cbayes contributor and researcher on BET extensive experience generating technical notebooks with varying levels of interactivity familiarity with JupyterHub, JupyterLab deep interest in reproducible open science and removing all friction towards such an end  Matlab  first language, used for countless projects. I have since moved away from it in favor of open-source alternatives.  Git  familiarity with basic repository management have used Github, Bitbucket, and Gitlab I use it to track changes to nearly all the work I do  LaTeX  preferred document-generation language (pdfs) basic familiarity with publishing formatting for large documents extensive experience writing technical reports  Terminal (Bash/Shell)  Almost everything I do with respect to programming happens in a bash shell Much of my work is done remotely through ssh  Vim  My preferred text-editor and distraction-free organizational tool  Adobe Suite  experienced in Photoshop for general graphic design (posters, figures) familiar with Illustrator  Microsoft Suite  comfortable in Excel, though I prefer not to use it for anything related to analyzing data.</description>
+      <description>Python  lead developer of cbayes contributor and researcher on BET extensive experience generating technical notebooks with varying levels of interactivity familiarity with JupyterHub, JupyterLab deep interest in reproducible open science and removing all friction towards such an end  Matlab  first language, used for countless projects. I have since moved away from it in favor of open-source alternatives  Git  familiarity with basic repository management have used Github, Bitbucket, and Gitlab I use it to track changes to nearly all the work I do  LaTeX  preferred document-generation language (pdfs) basic familiarity with publishing formatting for large documents extensive experience writing technical reports  Terminal (Bash/Shell)  Almost everything I do with respect to programming happens in a bash shell Much of my work is done remotely through ssh  Vim  My preferred text-editor and distraction-free organizational tool  Adobe Suite  experienced in Photoshop for general graphic design (posters, figures) familiar with Illustrator  Microsoft Suite  comfortable in Excel, though I prefer not to use it for anything related to analyzing data.</description>
     </item>
     
     <item>
@@ -62,16 +61,6 @@ Score: 10
       <guid>https://www.mathematicalmichael.com/resume/research/</guid>
       <description>Solving problems of paramount importance to humanity.
 Showing, not telling the limitless potential of applied mathematics.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://www.mathematicalmichael.com/resume/publications/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resume/publications/</guid>
-      <description>Group-level events are catalysts in the evolution of cooperation Journal of Theoretical Biology 410 (2016) pp. 125-136 (Elsevier), available on Science Direct
-My co-author made it available FOR FREE on his website</description>
     </item>
     
   </channel>
