@@ -15,12 +15,11 @@
   
     
   
-  <meta name="description" content="In one sense, I&#39;m a big believer in deadlines.
-However, what I really want to talk about is when deadlines impose on opportunities.
+  <meta name="description" content="The  animated  GIF  image  format  is  pervasive  throughout  the  Internet  community.  However,  to the best of my knowledge, no one has created animated GIFs solely from  a single still image.  I believe  this  is  because  current  technology  requires  tedious  manual  alteration  of  successive frames  to  create  such  animations.  I  investigated  whether  it  is  possible  to  automate  this  manual process  with  digital  image  transformations  by  working  at  the  interdisciplinary  intersection  of mathematics,  computer  science,  and  art.I  developed  a  mathematical  framework  wherein  I defined  “animations”  as  sequences  of  still  images,  and  “transformations”  as  composable functions  that  work  on  such  sequences.  To  implement  these  concepts,  I  built  a  library  of MATLAB functions that simplify and streamline the entire creative process by requiring only the input  of  a  few  parameters. Examples  include  manipulation  of  contrast,  intensity,  and  colors  of pixels,  as  well  as  warps  of  contours,  positions,  and  size  of  select  regions.  The  transformations allow for easy animation of regions of interest, giving some semblance of life to still images by turning  them  into  animated  GIFS.I  will  showcase  some  of  the  potential  of  this  work  when artistic layering of effects is performed.
 ">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://www.mathematicalmichael.com/post/deadlines/">
+  <link rel="alternate" hreflang="en-us" href="https://www.mathematicalmichael.com/talk/coplac13/">
 
   
 
@@ -48,13 +47,6 @@ However, what I really want to talk about is when deadlines impose on opportunit
     
       
     
-    
-      
-      
-        
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
-        
-      
     
 
     
@@ -98,7 +90,7 @@ However, what I really want to talk about is when deadlines impose on opportunit
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://www.mathematicalmichael.com/post/deadlines/">
+  <link rel="canonical" href="https://www.mathematicalmichael.com/talk/coplac13/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -106,23 +98,22 @@ However, what I really want to talk about is when deadlines impose on opportunit
   <meta property="twitter:creator" content="@Mathematical_MP">
   
   <meta property="og:site_name" content="Mathematical Michael">
-  <meta property="og:url" content="https://www.mathematicalmichael.com/post/deadlines/">
-  <meta property="og:title" content="When Deadlines Aren&#39;t Really Deadlines | Mathematical Michael">
-  <meta property="og:description" content="In one sense, I&#39;m a big believer in deadlines.
-However, what I really want to talk about is when deadlines impose on opportunities.
-">
+  <meta property="og:url" content="https://www.mathematicalmichael.com/talk/coplac13/">
+  <meta property="og:title" content="Moving Pictures?! Animating Still Images | Mathematical Michael">
+  <meta property="og:description" content="The  animated  GIF  image  format  is  pervasive  throughout  the  Internet  community.  However,  to the best of my knowledge, no one has created animated GIFs solely from  a single still image.  I believe  this  is  because  current  technology  requires  tedious  manual  alteration  of  successive frames  to  create  such  animations.  I  investigated  whether  it  is  possible  to  automate  this  manual process  with  digital  image  transformations  by  working  at  the  interdisciplinary  intersection  of mathematics,  computer  science,  and  art.I  developed  a  mathematical  framework  wherein  I defined  “animations”  as  sequences  of  still  images,  and  “transformations”  as  composable functions  that  work  on  such  sequences.  To  implement  these  concepts,  I  built  a  library  of MATLAB functions that simplify and streamline the entire creative process by requiring only the input  of  a  few  parameters. Examples  include  manipulation  of  contrast,  intensity,  and  colors  of pixels,  as  well  as  warps  of  contours,  positions,  and  size  of  select  regions.  The  transformations allow for easy animation of regions of interest, giving some semblance of life to still images by turning  them  into  animated  GIFS.I  will  showcase  some  of  the  potential  of  this  work  when artistic layering of effects is performed.
+"><meta property="og:image" content="https://www.mathematicalmichael.com/img/coplac.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-02-12T00:00:00-07:00">
+  <meta property="article:published_time" content="2014-01-16T00:00:00-07:00">
   
-  <meta property="article:modified_time" content="2018-02-12T00:00:00-07:00">
-  
-
+  <meta property="article:modified_time" content="2014-01-16T00:00:00-07:00">
   
 
   
 
-  <title>When Deadlines Aren&#39;t Really Deadlines | Mathematical Michael</title>
+  
+
+  <title>Moving Pictures?! Animating Still Images | Mathematical Michael</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -255,80 +246,55 @@ However, what I really want to talk about is when deadlines impose on opportunit
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/Event">
 
   
+<div class="article-header">
+  
+  
+    <img src="/img/coplac.jpg" class="article-banner" itemprop="image">
+  
+
+  
+</div>
+
 
 
   <div class="article-container">
-    <h1 itemprop="name">When Deadlines Aren&#39;t Really Deadlines</h1>
 
-    
-
-<div class="article-metadata">
-
-  
-  
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Michael Pilosov">
-  </span>
-  
-
-  <span class="article-date">
-    
-    <meta content="2018-02-12 00:00:00 -0700 MST" itemprop="datePublished">
-    <time datetime="2018-02-12 00:00:00 -0700 MST" itemprop="dateModified">
-      Feb 12, 2018
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Michael Pilosov">
-  </span>
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    3 min read
-  </span>
-  
-
-  
-  
-
-  
-  
-  
-  
-
-  
-  
+    <div class="pub-title">
+      <h1 itemprop="name">Moving Pictures?! Animating Still Images</h1>
+      <span class="pub-authors" itemprop="author">
+        
+      </span>
+      <span class="pull-right">
+        
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=When%20Deadlines%20Aren%27t%20Really%20Deadlines&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2fpost%2fdeadlines%2f"
+         href="https://twitter.com/intent/tweet?text=Moving%20Pictures%3f%21%20Animating%20Still%20Images&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2ftalk%2fcoplac13%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.mathematicalmichael.com%2fpost%2fdeadlines%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.mathematicalmichael.com%2ftalk%2fcoplac13%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2fpost%2fdeadlines%2f&amp;title=When%20Deadlines%20Aren%27t%20Really%20Deadlines"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2ftalk%2fcoplac13%2f&amp;title=Moving%20Pictures%3f%21%20Animating%20Still%20Images"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
    <li>
       <a class="email"
-         href="mailto:?subject=When%20Deadlines%20Aren%27t%20Really%20Deadlines&amp;body=https%3a%2f%2fwww.mathematicalmichael.com%2fpost%2fdeadlines%2f">
+         href="mailto:?subject=Moving%20Pictures%3f%21%20Animating%20Still%20Images&amp;body=https%3a%2f%2fwww.mathematicalmichael.com%2ftalk%2fcoplac13%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -336,108 +302,99 @@ However, what I really want to talk about is when deadlines impose on opportunit
 </div>
 
 
-  
+      </span>
+    </div>
 
-</div>
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">The  animated  GIF  image  format  is  pervasive  throughout  the  Internet  community.  However,  to the best of my knowledge, no one has created animated GIFs solely from  a single still image.  I believe  this  is  because  current  technology  requires  tedious  manual  alteration  of  successive frames  to  create  such  animations.  I  investigated  whether  it  is  possible  to  automate  this  manual process  with  digital  image  transformations  by  working  at  the  interdisciplinary  intersection  of mathematics,  computer  science,  and  art.I  developed  a  mathematical  framework  wherein  I defined  “animations”  as  sequences  of  still  images,  and  “transformations”  as  composable functions  that  work  on  such  sequences.  To  implement  these  concepts,  I  built  a  library  of MATLAB functions that simplify and streamline the entire creative process by requiring only the input  of  a  few  parameters. Examples  include  manipulation  of  contrast,  intensity,  and  colors  of pixels,  as  well  as  warps  of  contours,  positions,  and  size  of  select  regions.  The  transformations allow for easy animation of regions of interest, giving some semblance of life to still images by turning  them  into  animated  GIFS.I  will  showcase  some  of  the  potential  of  this  work  when artistic layering of effects is performed.</p>
+    
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            
+            Oct 25, 2013
+            <div class="talk-time">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Event</div>
+          <div class="col-xs-12 col-sm-9">
+            
+            COPLAC Northeast Regional Undergraduate Research Conference
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Location</div>
+          <div class="col-xs-12 col-sm-9">North Adams, Massachusetts</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    
+    <div class="row" style="padding-top: 0px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
 
 
-    <div class="article-style" itemprop="articleBody">
-      
 
-<p>I have always been the kind of person who takes deadlines seriously. I like to set deadlines for myself well ahead of the real ones just in case I want to make last minute revisions.</p>
 
-<p>Despite years of applying for/to all sorts of academia-related things, <em>I still often end up working on final tweaks at the last minute.</em> Who knows if these are beneficial or not?</p>
 
-<p>In one sense, I&rsquo;m a big believer in deadlines. Once something is submitted, it is completely off my mind and out of my control.</p>
 
-<blockquote>
-<p>However, what I really want to talk about is when deadlines impose on opportunities</p>
-</blockquote>
 
-<p>Particularly when it just happens out of circumstance.</p>
 
-<p>For example, let&rsquo;s say you find out about a college program that didn&rsquo;t come up at all in your search (maybe it was classified differently, or under an unusual department). Or maybe it&rsquo;s that scholarship solicitation that&rsquo;s calling your name.</p>
 
-<p>In all your excitement, you rush to the <code>APPLY NOW</code> button, only to find that (somehow despite the forms still being open), they are no longer accepting applications.</p>
 
-<p><center>
-What do you do in this situation?
-</center></p>
+<a class="btn btn-primary btn-outline" href="https://slidex.tips/download/council-of-public-liberal-arts-colleges">
+  Conference Program
+</a>
 
-<hr />
 
-<p><center>
-(I know what I would have done, I would have <em>sighed and moved on.</em>)
-</center></p>
 
-<p>However, I now believe that <em>when the opportunity speaks to you, speak back.</em></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
 
-<h3 id="call-someone-find-a-contact-point-and-try-reaching-out">Call someone. Find a contact point and try reaching out.</h3>
+    <div class="space-below"></div>
 
-<p><br>
-Try to find someone involved with whatever thing you are looking at, and get in touch.</p>
-
-<p><strong>Stay calm, express your interest</strong> <em>(a little institutional flattery doesn&rsquo;t hurt)</em>, <strong>and ask if they would be willing to be gracious enough to consider you</strong> <em>despite the deadline</em>.</p>
-
-<hr />
-
-<h2 id="you-ll-be-amazed-how-often-deadlines-are-totally-arbitrary">You&rsquo;ll be amazed how often deadlines are totally arbitrary.</h2>
-
-<p><br>
-Often they aren&rsquo;t. Still, it is worth finding out.</p>
-
-<hr />
-
-<p>This may be hyperbolic, but I&rsquo;ll go ahead and say it on the record:</p>
-
-<p><center>
-No one (worth working with) turns down great talent because of a deadline.
-</center></p>
-
-<p>Neil Gaiman said in his <a href="https://www.youtube.com/watch?v=plWexCID-kA" target="_blank">Make Good Art Commencement Address</a> that as far as successful employment goes (in the arts and freelancing), you must be</p>
-
-<ul>
-<li>Good</li>
-<li>On Time,
-and</li>
-<li>Likeable</li>
-</ul>
-
-<p><em>But fortunately, you only need two of these three</em>. I now quote Mr. Gaiman directly:</p>
-
-<hr />
-
-<blockquote>
-<p>People will tolerate how unpleasant you are if your work is good and you deliver it on time.</p>
-
-<p>People will forgive the lateness of your work if its good and they like you.</p>
-
-<p>And you don&rsquo;t have to be as good if you&rsquo;re on time and it&rsquo;s always a pleasure to hear from you.</p>
-</blockquote>
-
-<hr />
-
-<p>If you are a good candidate and can get <em>someone</em> to vouch for you, you can get around a deadline (from time to time).</p>
-
-<hr />
-
-<h2 id="more-details">More Details</h2>
-
-<p><br>
-There are times when not enough good applications have come in, and committee members send out emails to their colleagues soliciting new submissions well past the deadlines.</p>
-
-<p>Advertising emails go unsent, attention wavers, and sometimes plain oversight just gets the best of us.</p>
-
-<p><center>
-<em>You simply never know what&rsquo;s actually going on, especially in an academic department </em>
-</center></p>
-
-<p>So it it always worth trying to reach out to someone and asking if you can submit something past a deadline.</p>
-
-<p>I have far more than my fair share of anecdotal evidence to support this.
-I do not hold that this is indicative of academic disciplines in general, just that trying to reach out is a low risk action for a high potential reward.</p>
-
-<h2 id="it-is-irresponsible-to-not-try">It is irresponsible to not try.</h2>
+    <div class="article-style">
+      <p>I was selected as one of eight students from the liberal arts college to attend this regional conference on behalf of SUNY Geneseo. I was the representative for the Department of Mathematics.</p>
 
     </div>
 
@@ -447,34 +404,28 @@ I do not hold that this is indicative of academic disciplines in general, just t
 
 
 
-    
-    
+  </div>
+</div>
 
-    
-    <div class="article-widget">
-      <div class="post-nav">
+
+<div class="article-container article-widget">
+  <div class="post-nav">
   
   <div class="post-nav-item">
     <div class="meta-nav">Next</div>
-    <a href="https://www.mathematicalmichael.com/post/honda/" rel="next">Lessons from Honda</a>
+    <a href="https://www.mathematicalmichael.com/talk/jmm14/" rel="next">Animating Still Images</a>
   </div>
   
   
   <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="https://www.mathematicalmichael.com/post/advising3/" rel="prev">The Importance of Good Advising: Part 3</a>
+    <a href="https://www.mathematicalmichael.com/talk/upstat14-art/" rel="prev">Making Art with Probability Distributions</a>
   </div>
   
 </div>
 
-    </div>
-    
+</div>
 
-    
-
-
-  </div>
-</article>
 
 <footer class="site-footer">
   <div class="container">
@@ -544,14 +495,6 @@ I do not hold that this is indicative of academic disciplines in general, just t
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
 
       
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
-        
-        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
-        
-        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
-        
-      
 
       
       
@@ -568,8 +511,6 @@ I do not hold that this is indicative of academic disciplines in general, just t
     
 
     
-    
-    <script>hljs.initHighlightingOnLoad();</script>
     
 
     

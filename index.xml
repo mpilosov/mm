@@ -11,274 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Presentations</title>
-      <link>https://www.mathematicalmichael.com/resume/presentations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resume/presentations/</guid>
-      <description>
-
-&lt;p align=&#34;center&#34;&gt;
-&lt;i&gt;- In Chronological Order -&lt;/i&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;rocky-mountain-summer-workshop-on-uncertainty-quantification&#34;&gt;Rocky Mountain Summer Workshop on Uncertainty Quantification&lt;/h3&gt;
-
-&lt;h4 id=&#34;july-15-17-2015&#34;&gt;July 15-17, 2015&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Attendee
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;joint-mathematics-meetings-2014&#34;&gt;Joint Mathematics Meetings 2014&lt;/h3&gt;
-
-&lt;h4 id=&#34;jan-15-18-2014&#34;&gt;Jan 15-18, 2014&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Poster: &amp;ldquo;Moving Pictures: Animating Still Images&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Talk: MAA Contributed Papers Session - At the Intersection of Mathematics and the Arts&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;coplac-northeast-regional-undergraduate-research-conference&#34;&gt;COPLAC Northeast Regional Undergraduate Research Conference&lt;/h3&gt;
-
-&lt;h4 id=&#34;oct-25-26-2013&#34;&gt;Oct 25-26, 2013&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Poster: &amp;ldquo;Moving Pictures?! Animating Still Images&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Technical</title>
-      <link>https://www.mathematicalmichael.com/resume/techskills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resume/techskills/</guid>
-      <description>
-
-&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;lead developer of &lt;a href=&#34;www.github.com/mpilosov/cbayes&#34; target=&#34;_blank&#34;&gt;cbayes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;contributor and researcher on &lt;a href=&#34;www.github.com/UT-CHG/BET&#34; target=&#34;_blank&#34;&gt;BET&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;extensive experience generating technical notebooks with varying levels of interactivity&lt;/li&gt;
-&lt;li&gt;familiarity with JupyterHub, JupyterLab&lt;/li&gt;
-&lt;li&gt;deep interest in reproducible open science and removing all friction towards such an end&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;matlab&#34;&gt;Matlab&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;first language, used for countless projects. I have since moved away from it in favor of open-source alternatives&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;familiarity with basic repository management&lt;/li&gt;
-&lt;li&gt;have used Github, Bitbucket, and Gitlab&lt;/li&gt;
-&lt;li&gt;I use it to track changes to nearly all the work I do&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;latex&#34;&gt;LaTeX&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;preferred document-generation language (pdfs)&lt;/li&gt;
-&lt;li&gt;basic familiarity with publishing formatting for large documents&lt;/li&gt;
-&lt;li&gt;extensive experience writing technical reports&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;terminal-bash-shell&#34;&gt;Terminal (Bash/Shell)&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Almost everything I do with respect to programming happens in a bash shell&lt;/li&gt;
-&lt;li&gt;Much of my work is done remotely through ssh&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;vim&#34;&gt;Vim&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;My preferred text-editor and distraction-free organizational tool&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;adobe-suite&#34;&gt;Adobe Suite&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;experienced in Photoshop for general graphic design (posters, figures)&lt;/li&gt;
-&lt;li&gt;familiar with Illustrator&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;microsoft-suite&#34;&gt;Microsoft Suite&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;comfortable in Excel, though I prefer not to use it for anything related to analyzing data. I mostly use it for data entry.&lt;/li&gt;
-&lt;li&gt;comfortable with Microsoft Word, but prefer to use LaTeX for its type-setting flexibility.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;clangs&#34;&gt;CLangs&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I have coded in C++ in the past, but these days mostly use it when programming Arduinos&lt;/li&gt;
-&lt;li&gt;Look, give me a piece of code in any C language, and I&amp;rsquo;ll likely be able to tell you what it does, but I don&amp;rsquo;t program in it (anymore). For scientific computing, Python is just more preferable overall&lt;/li&gt;
-&lt;li&gt;Given some time, I can bind C libraries to Python wrappers if need be&lt;/li&gt;
-&lt;li&gt;I can manipulate an existing codebase, but writing one from scratch is a poor use of my time and skillsets at this point (I would rather collaborate with someone more proficient in the language)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I have used it a lot over the years but these days prefer Python for anything that I would have once done in R&lt;/li&gt;
-&lt;li&gt;Basically, if asked, I could translate ConsistentBayes into a non-optimized R-library in a couple weeks, I would just prefer not to&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;wolfram&#34;&gt;Wolfram&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I use WolframAlpha (free) a bit, but I resist learning it because I cannot afford their licenses&lt;/li&gt;
-&lt;li&gt;I wish nothing more than for them to open their code base. I fear that if they do not, their innovative notebooks will soon be associated primarily with Jupyter&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;web-lanugages&#34;&gt;Web-lanugages&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I can manipulate HTML but cannot really write anything for the web from scratch.&lt;/li&gt;
-&lt;li&gt;Pretty clueless with CSS but can guess-and-check my way around when necessary&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Can read it, have used it, just not in a long time. I have no desire to pick it back up unless someone makes a compelling argument to me for why I should. =)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&#34;center&#34;&gt;
-... And that about summarizes my experience with programming languages.
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Honors</title>
-      <link>https://www.mathematicalmichael.com/resume/honors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resume/honors/</guid>
-      <description>
-
-&lt;h3 id=&#34;2018-lynn-bateman-fellowship-cu-denver&#34;&gt;2018 Lynn Bateman Fellowship (CU Denver)&lt;/h3&gt;
-
-&lt;h3 id=&#34;phi-beta-kappa-society&#34;&gt;Phi Beta Kappa Society&lt;/h3&gt;
-
-&lt;p&gt;2014, SUNY Geneseo, Alpha Omega Chapter&lt;/p&gt;
-
-&lt;h3 id=&#34;pi-mu-epsilon-mathematics-honor-society&#34;&gt;Pi Mu Epsilon Mathematics Honor Society&lt;/h3&gt;
-
-&lt;p&gt;2014, SUNY Geneseo&lt;/p&gt;
-
-&lt;h3 id=&#34;golden-key-international-honor-society&#34;&gt;Golden Key International Honor Society&lt;/h3&gt;
-
-&lt;p&gt;2014, SUNY Geneseo&lt;/p&gt;
-
-&lt;h3 id=&#34;suny-geneseo-award-for-excellence-in-mathematics&#34;&gt;SUNY Geneseo Award for Excellence in Mathematics&lt;/h3&gt;
-
-&lt;p&gt;2014&lt;/p&gt;
-
-&lt;h3 id=&#34;74th-annual-william-lowell-putnam-math-competition&#34;&gt;74th annual William Lowell Putnam Math Competition&lt;/h3&gt;
-
-&lt;p&gt;First Place, Pi Mu Epsilon Alpha Delta Chapter&lt;br&gt;
-Score: 10&lt;/p&gt;
-
-&lt;h3 id=&#34;2014-university-of-rochester-math-olympiad&#34;&gt;2014 University of Rochester Math Olympiad&lt;/h3&gt;
-
-&lt;p&gt;First Place, Pi Mu Epsilon Alpha Delta Chapter&lt;/p&gt;
-
-&lt;h3 id=&#34;president-s-list&#34;&gt;President&amp;rsquo;s List&lt;/h3&gt;
-
-&lt;p&gt;Spring 2014&lt;/p&gt;
-
-&lt;h3 id=&#34;dean-s-list&#34;&gt;Dean&amp;rsquo;s List&lt;/h3&gt;
-
-&lt;p&gt;Fall 2011, 13; Spring 2012, 13&lt;/p&gt;
-
-&lt;h3 id=&#34;full-scholarship-to-partake-in-the-summer-suny-oswego-global-laboratory-project-in-brazil&#34;&gt;Full Scholarship to partake in the Summer SUNY Oswego Global Laboratory Project in Brazil&lt;/h3&gt;
-
-&lt;p&gt;2014, (declined)&lt;/p&gt;
-
-&lt;h3 id=&#34;geneseo-foundation-stem-undergraduate-summer-research-fellowship-grant&#34;&gt;Geneseo Foundation STEM Undergraduate Summer Research Fellowship Grant&lt;/h3&gt;
-
-&lt;p&gt;2013&lt;/p&gt;
-
-&lt;h3 id=&#34;suny-research-foundation-summer-research-assistantship-grant&#34;&gt;SUNY Research Foundation Summer Research Assistantship Grant&lt;/h3&gt;
-
-&lt;p&gt;2012, (declined)&lt;/p&gt;
-
-&lt;h3 id=&#34;geneseo-open-chess-tournament-unrated-section&#34;&gt;Geneseo Open Chess Tournament (unrated section)&lt;/h3&gt;
-
-&lt;p&gt;1st place (Spring &amp;lsquo;13)&lt;br&gt;
-2nd place (Fall &amp;lsquo;13)&lt;/p&gt;
-
-&lt;h3 id=&#34;sarah-lawrence-college-poetry-festival-public-school-initiative&#34;&gt;Sarah Lawrence College Poetry Festival Public School Initiative&lt;/h3&gt;
-
-&lt;p&gt;First Place, 2009 Contest&lt;/p&gt;
-
-&lt;h3 id=&#34;mathematics-league-certificate-of-merit-for-superior-achievement-in-the-high-school-contest&#34;&gt;Mathematics League Certificate of Merit for Superior Achievement in the High School Contest&lt;/h3&gt;
-
-&lt;p&gt;2009-10&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Employment</title>
-      <link>https://www.mathematicalmichael.com/resume/employment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resume/employment/</guid>
-      <description>
-
-&lt;p align=&#34;center&#34;&gt;
-(only showing academic jobs)
-&lt;/p&gt;
-
-&lt;h2 id=&#34;university-of-colorado-denver-downtown-campus&#34;&gt;University of Colorado: Denver (Downtown Campus)&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Student Teaching Assistant, Calculus I (Aug-Dec 2016)&lt;/li&gt;
-&lt;li&gt;Student Research Assistant (Jan-Aug 2016)&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;DiaMonD: An Integrated Multifaceted Approach to Mathematics at the Interfaces of Data, Models, and Decisions,&amp;rdquo; DE-SC0009279&lt;/li&gt;
-&lt;li&gt;Student Teaching Assistant, Calculus I (Aug-Dec 2015)&lt;/li&gt;
-&lt;li&gt;Tutor, Mathematics Education Research Center (Aug-Dec 2015)&lt;/li&gt;
-&lt;li&gt;Student Research Assistant (Aug 2014-May 2015)&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;CAREER: Foundations for Understanding and Reaching the Limits of Standard Numerical Linear Algebra,&amp;rdquo; NSF CCF 1054864&lt;/li&gt;
-&lt;li&gt;Student Research Assistant (Jun-Aug 2014)&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;SI2-SSI: Collaborative Research: Sustained Innovation for Linear Algebra Software (SILAS),&amp;rdquo; NSF ACI 1339797&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;state-university-of-new-york-college-at-geneseo&#34;&gt;State University of New York: College at Geneseo&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Teaching Assistant for Linear Programming &amp;amp; Operations Research (Jan-May 2014)&lt;/li&gt;
-&lt;li&gt;Geneseo Research Foundation Undergraduate STEM Summer Research Fellow (Jun-Aug 2013)&lt;/li&gt;
-&lt;li&gt;Volunteer Data Analyst for As Green As It Gets (Nov-Dec 2012)&lt;/li&gt;
-&lt;li&gt;Private Tutor in Mathematics (Summer-Fall 2013)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://www.mathematicalmichael.com/resume/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/resume/research/</guid>
-      <description>&lt;p&gt;Solving problems of paramount importance to humanity.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Showing,&lt;/em&gt; not telling the limitless potential of applied mathematics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Curated Science Communication</title>
       <link>https://www.mathematicalmichael.com/resources/scicomm/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
@@ -880,6 +612,148 @@ Game concept by Dr. Burt Simon. Copyright 2016 E. Regan &amp; M. Pilosov.
 &lt;p&gt;&lt;a href=&#34;https://python-graph-gallery.com/2d-density-plot/&#34; target=&#34;_blank&#34;&gt;Plotting Options in Python (2D Density Plots and more)&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/sympy/sympy/wiki/Quick-examples&#34; target=&#34;_blank&#34;&gt;Some SymPy examples&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bridging the Skills Gap</title>
+      <link>https://www.mathematicalmichael.com/post/skillsgap/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/post/skillsgap/</guid>
+      <description>
+
+&lt;p&gt;I live and breathe applied mathematics.
+Challenge problems are what I thrive on.&lt;/p&gt;
+
+&lt;p&gt;As such, programming comprises the vast majority of the &amp;ldquo;work&amp;rdquo; that I do.
+Theories are nothing without evidence, and my laboratory is the computer.
+I am a computational scientist, being trained as a mathematician.&lt;/p&gt;
+
+&lt;p&gt;Programming has enabled me to do so much more than the research I perform as part of my dissertation work.
+One can argue that my most marketable skill after graduation will be my software development experience.
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;simply-put-being-able-to-program-has-opened-up-endless-possibilities&#34;&gt;Simply put, being able to program has opened up endless possibilities.&lt;/h2&gt;
+
+&lt;p&gt;&lt;br&gt;
+After learning the first language, picking up others is much easier.
+I did not have formal instruction; rather I picked up style and knowledge piecemeal as I took on projects that interested me.
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;what-i-have-come-to-realize-is-that-computers-are-really-stupid&#34;&gt;What I have come to realize is that computers are really stupid.&lt;/h1&gt;
+
+&lt;p&gt;&lt;br&gt;
+The way I learned programming&amp;ndash;as a tool, rather than a language with which to instruct dumb machines&amp;ndash;made computers seem utterly magical.
+They are not.
+Computers are profoundly stupid.&lt;/p&gt;
+
+&lt;p&gt;I finally came to understand that &lt;em&gt;everything&lt;/em&gt; on a computer is pretty much just text files.
+&lt;em&gt;All those fancy programming languages are just text files that in turn interpret other text files.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;All those applications are just layers and layers of text files referencing one another and communicating with the brains of your computer.&lt;/p&gt;
+
+&lt;p&gt;Programming has opened up a door to the world of machines.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;this-is-our-superpower-as-humans&#34;&gt;This is our superpower as humans.&lt;/h1&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I learned to program as a problem-solving tool.
+This was life-changing on its own, and I fully &lt;strong&gt;encourage every student studying a science to learn some kind of programming language,&lt;/strong&gt; even if only to familiarize oneself with the modality of thinking.&lt;/p&gt;
+
+&lt;p&gt;But I have to point out the inadequacy of all the &amp;ldquo;hiding of complexity&amp;rdquo; that occurs during the teaching of a programming language.
+I think it is worth spending a little time reviewing some very core fundamentals of how a computer operates.&lt;/p&gt;
+
+&lt;p&gt;These skills generalize to all languages, and should be able to enable a student to know &lt;em&gt;just enough&lt;/em&gt; to be able to use the internet to search for what they need.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-what-question-to-ask-is-half-the-battle&#34;&gt;Learning what question to ask is half the battle&lt;/h2&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;And I realize now that I spent so much wasted time in my life asking the wrong questions because I did not really understand how a computer works.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;em&gt;That&amp;rsquo;s all I was missing: the knowledge that computers are DUMB&lt;/em&gt;.
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;And this finally brings me to the topic I want to discuss at length: how can we bridge the gap between the use of programming as a &lt;em&gt;problem solving tool&lt;/em&gt; and the use of it as a means of &lt;em&gt;communication&lt;/em&gt; with your machine.&lt;/p&gt;
+
+&lt;p&gt;For this reason, I encourage everyone to pick up a UNIX distribution and learn how to set up a programming environment in one to achieve whatever goal one may have.&lt;/p&gt;
+
+&lt;p&gt;I realize this is a big ask for busy students, and the learning curve can be steep if there isn&amp;rsquo;t some amount of hand-holding and guidance. But &amp;hellip;&lt;/p&gt;
+
+&lt;p align=&#34;center&#34;&gt;
+it has a 10X reward,&lt;br&gt;
+(I promise)
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Consistent Bayesian Inference Problem with Time Series Data</title>
+      <link>https://www.mathematicalmichael.com/talk/siam_an18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/talk/siam_an18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://www.mathematicalmichael.com/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/privacy/</guid>
+      <description>&lt;p&gt;This website uses no cookies and has no tracking enabled whatsoever.
+Except Google Analytics, which already knows everything about you. 😆&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sharing Your Code</title>
+      <link>https://www.mathematicalmichael.com/resources/sharing/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/resources/sharing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://packaging.python.org/tutorials/distributing-packages/#packaging-your-project&#34; target=&#34;_blank&#34;&gt;Distributing Projects with PyPy (pip)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nose.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;Unit Testing with Nose&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pythontesting.net/framework/nose/nose-introduction/&#34; target=&#34;_blank&#34;&gt;Some Nosetests examples&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/twosigma/beakerx&#34; target=&#34;_blank&#34;&gt;BeakerX has a suite of tools for easy reproducibility in the browser&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing Resources</title>
+      <link>https://www.mathematicalmichael.com/resources/writing/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/resources/writing/</guid>
+      <description>
+
+&lt;h2 id=&#34;vim&#34;&gt;Vim&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vim.wikia.com/wiki/Avoid_the_escape_key&#34; target=&#34;_blank&#34;&gt;How to map keys (avoid using Esc)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourceforge.net/p/jupiter/wiki/markdown_syntax/&#34; target=&#34;_blank&#34;&gt;The comprehensive guide in which I ctrl+F almost everything&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/0150b69694a7a78d64bb914506c35a17&#34; target=&#34;_blank&#34;&gt;Someone made a good walkthrough that I often refer to&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://assemble.io/docs/Cheatsheet-Markdown.html&#34; target=&#34;_blank&#34;&gt;Cheat Sheet from Assemble.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;on-writing&#34;&gt;On Writing&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jordanbpeterson.com/docs/430_docs/Template.docx&#34; target=&#34;_blank&#34;&gt;Jordan B Peterson&amp;rsquo;s Guide to Writing an Essay&lt;/a&gt; is remarkably helpful when dealing with writers block.
+Most of the advice generalizes well beyond topics in the humanities.&lt;/p&gt;
 </description>
     </item>
     
