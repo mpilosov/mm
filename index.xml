@@ -6,7 +6,7 @@
     <description>Recent content in Mathematical Michael on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -534,21 +534,13 @@ Game concept by Dr. Burt Simon. Copyright 2016 E. Regan &amp; M. Pilosov.
           &lt;input id=&#34;form-submit&#34; type=&#34;submit&#34; value=&#34;Send&#34;&gt;
           &lt;span id=&#34;form-thankyou&#34; style=&#34;visibility:hidden&#34;&gt;Thanks for your email! I&#39;ll be in touch shortly.&lt;/span&gt;
         &lt;/div&gt;
-      
+        
+        &amp;zwnj;
+          
     &lt;/form&gt;
 
 &lt;/section&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>Tracking Toxins</title>
-      <link>https://www.mathematicalmichael.com/project/contaminant-transport/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/project/contaminant-transport/</guid>
-      <description>&lt;p&gt;More to Come Soon.&lt;/p&gt;
 </description>
     </item>
     
@@ -589,13 +581,15 @@ Game concept by Dr. Burt Simon. Copyright 2016 E. Regan &amp; M. Pilosov.
 
 &lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/736438173407fc8a26488eeeb567c3b0&#34; target=&#34;_blank&#34;&gt;Drawing Lines atop scatterplots&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/17f3e9372b612de135523519b2048172&#34; target=&#34;_blank&#34;&gt;Plotting a circle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/17f3e9372b612de135523519b2048172&#34; target=&#34;_blank&#34;&gt;Basics: Plotting a circle&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/2af9eb6bf8dd0259c99bb0306ffa84f9&#34; target=&#34;_blank&#34;&gt;Three-Dimensional Projections (with Linear Algebra)&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h1 id=&#34;things-others-have-written&#34;&gt;Things Others Have Written&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/&#34; target=&#34;_blank&#34;&gt;Jupyter Shortcuts&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955&#34; target=&#34;_blank&#34;&gt;Learning Pandas (like R&amp;hellip; for Python)&lt;/a&gt;&lt;/p&gt;
 
@@ -755,6 +749,15 @@ Except Google Analytics, which already knows everything about you. 😆&lt;/p&gt
 &lt;p&gt;&lt;a href=&#34;http://jordanbpeterson.com/docs/430_docs/Template.docx&#34; target=&#34;_blank&#34;&gt;Jordan B Peterson&amp;rsquo;s Guide to Writing an Essay&lt;/a&gt; is remarkably helpful when dealing with writers block.
 Most of the advice generalizes well beyond topics in the humanities.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Optimal Experimental Design of Time Series Data in a Consistent Bayesian Framework</title>
+      <link>https://www.mathematicalmichael.com/talk/siam_uq18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/talk/siam_uq18/</guid>
+      <description></description>
     </item>
     
   </channel>

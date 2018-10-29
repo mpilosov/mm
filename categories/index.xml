@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -22,20 +22,20 @@
     </item>
     
     <item>
-      <title>Environment</title>
-      <link>https://www.mathematicalmichael.com/categories/environment/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/categories/environment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Outreach</title>
       <link>https://www.mathematicalmichael.com/categories/outreach/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/categories/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://www.mathematicalmichael.com/categories/random/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/categories/random/</guid>
       <description></description>
     </item>
     

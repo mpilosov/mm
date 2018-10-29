@@ -60,14 +60,6 @@
     
     <url>
     
-      <loc>https://www.mathematicalmichael.com/project/contaminant-transport/</loc>
-      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.mathematicalmichael.com/post/rocky/</loc>
       <lastmod>2018-07-17T00:00:00-06:00</lastmod>
     </url>
@@ -236,6 +228,14 @@
     
     <url>
     
+      <loc>https://www.mathematicalmichael.com/art/lines-1/</loc>
+      <lastmod>2018-02-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.mathematicalmichael.com/post/advising1/</loc>
       <lastmod>2018-02-01T00:00:00-07:00</lastmod>
     </url>
@@ -244,8 +244,32 @@
     
     <url>
     
-      <loc>https://www.mathematicalmichael.com/more/</loc>
-      <lastmod>2017-06-27T17:39:21-07:00</lastmod>
+      <loc>https://www.mathematicalmichael.com/art/lines-2/</loc>
+      <lastmod>2018-02-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/art/lines-3/</loc>
+      <lastmod>2018-02-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/art/</loc>
+      <lastmod>2017-10-28T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/art/random/</loc>
+      <lastmod>2017-10-28T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -294,14 +318,6 @@
     
       <loc>https://www.mathematicalmichael.com/publication/cooperation/</loc>
       <lastmod>2016-08-15T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.mathematicalmichael.com/project/consistentbayes/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -466,33 +482,6 @@
     
     <url>
     
-      <loc>https://www.mathematicalmichael.com/tags/code/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.mathematicalmichael.com/tags/computation/</loc>
-      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.mathematicalmichael.com/categories/environment/</loc>
-      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.mathematicalmichael.com/tags/evolution/</loc>
       <lastmod>2016-08-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
@@ -502,8 +491,8 @@
     
     <url>
     
-      <loc>https://www.mathematicalmichael.com/tags/geology/</loc>
-      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
+      <loc>https://www.mathematicalmichael.com/tags/lines/</loc>
+      <lastmod>2018-02-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -513,15 +502,6 @@
     
       <loc>https://www.mathematicalmichael.com/</loc>
       <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.mathematicalmichael.com/tags/national-lab/</loc>
-      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -549,6 +529,24 @@
     
       <loc>https://www.mathematicalmichael.com/publication_types/</loc>
       <lastmod>2016-08-15T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/tags/python/</loc>
+      <lastmod>2018-02-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/categories/random/</loc>
+      <lastmod>2018-02-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

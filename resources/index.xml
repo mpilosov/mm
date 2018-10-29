@@ -6,7 +6,7 @@
     <description>Recent content in Resources on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/resources/index.xml" rel="self" type="application/rss+xml" />
@@ -45,9 +45,10 @@ String Formatting (making titles out of lowercase strings)
 Plotting Quick Marginal Distribution Visualization with Seaborn
 Piecewise-defined functions and 3D Matplotlib Plots
 Drawing Lines atop scatterplots
-Plotting a circle
+Basics: Plotting a circle
 Three-Dimensional Projections (with Linear Algebra)
-Things Others Have Written Learning Pandas (like R&amp;hellip; for Python)
+Things Others Have Written Jupyter Shortcuts
+Learning Pandas (like R&amp;hellip; for Python)
 Scraping Webpages with Pandas
 Using *args and **kwargs in Python
 Package for SUPER EASY, unordered command-line flag/options/argument parsing.</description>

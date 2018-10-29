@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     <lastBuildDate>Sat, 21 Jul 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/project/index.xml" rel="self" type="application/rss+xml" />
@@ -20,24 +20,6 @@
       <guid>https://www.mathematicalmichael.com/project/poker/</guid>
       <description>This was a really fun project I undertook for a Math Club game night in 2016 with my friend Elliott Regan.
  current  min  max   Start New Game   var canvas = document.getElementById(&#39;plotCanvas&#39;); var ctx = canvas.getContext(&#39;2d&#39;); var num, maxnum, minnum; var interval = 5; var B = [0] var brakes = 200; var ht = canvas.height; var n = canvas.width; var alpha = 5; initPlot(); drawWalk(); function reset() { B = [0]; var id = window.</description>
-    </item>
-    
-    <item>
-      <title>Tracking Toxins</title>
-      <link>https://www.mathematicalmichael.com/project/contaminant-transport/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/project/contaminant-transport/</guid>
-      <description>More to Come Soon.</description>
-    </item>
-    
-    <item>
-      <title>Consistent Bayes</title>
-      <link>https://www.mathematicalmichael.com/project/consistentbayes/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/project/consistentbayes/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/home/index.xml" rel="self" type="application/rss+xml" />
@@ -27,19 +27,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/about/</guid>
-      <description>Biography I work on collecting useful information from scientific experiments, describing and minimizing uncertainty.
-After graduation, I will work on diverse problems in a variety of fields that serve a humanitarian purpose.
-If you are curious about whether you have a problem that can benefit from risk assessment or experimental design, let&amp;rsquo;s talk about how.
- Click here for my digital resume.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://www.mathematicalmichael.com/home/resources/</link>
-      <pubDate>Fri, 20 Apr 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/home/resources/</guid>
-      <description></description>
+      <description>Biography In my academic life, I work on a number of related problems in applied mathematics. In my artistic life, I explore the intersection of randomness and human proclivity towards pattern recognition.
+My research is very much rooted in theory, but my day-to-day involves a lot of coding. The computer is my laboratory. At the heart of the questions I answer is how can we infer truth?
+Investigating the approaches to this question will depend on the availability of information.</description>
     </item>
     
     <item>
@@ -53,41 +43,19 @@ If you are curious about whether you have a problem that can benefit from risk a
     
     <item>
       <title></title>
-      <link>https://www.mathematicalmichael.com/home/hero_carousel/</link>
+      <link>https://www.mathematicalmichael.com/home/project_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/home/hero_carousel/</guid>
+      <guid>https://www.mathematicalmichael.com/home/project_carousel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Presentations</title>
-      <link>https://www.mathematicalmichael.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <title>Resources</title>
+      <link>https://www.mathematicalmichael.com/home/resources/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Consistent Bayes</title>
-      <link>https://www.mathematicalmichael.com/home/consistentbayes/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/home/consistentbayes/</guid>
-      <description>A Measure-Theoretic Method for Stochastic Inverse Problems.
-Tackle the uncertainty in the natural variation inherent to input parameters with rigorous theory and simple implementation.
-
-Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/mpilosov/consistentbayes/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
-    </item>
-    
-    <item>
-      <title>Selected Talks</title>
-      <link>https://www.mathematicalmichael.com/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/home/talks_selected/</guid>
+      <guid>https://www.mathematicalmichael.com/home/resources/</guid>
       <description></description>
     </item>
     
@@ -121,15 +89,6 @@ I am a teaching instructor for the following courses at University X:
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>https://www.mathematicalmichael.com/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent Thoughts</title>
       <link>https://www.mathematicalmichael.com/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
@@ -153,7 +112,16 @@ I am a teaching instructor for the following courses at University X:
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/contact/</guid>
-      <description>    Thanks for your email! I&#39;ll be in touch shortly.    </description>
+      <description>    Thanks for your email! I&#39;ll be in touch shortly.  &amp;zwnj;   </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://www.mathematicalmichael.com/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/home/tags/</guid>
+      <description></description>
     </item>
     
     <item>

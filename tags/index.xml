@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -40,24 +40,6 @@
     </item>
     
     <item>
-      <title>Code</title>
-      <link>https://www.mathematicalmichael.com/tags/code/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computation</title>
-      <link>https://www.mathematicalmichael.com/tags/computation/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/tags/computation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evolution</title>
       <link>https://www.mathematicalmichael.com/tags/evolution/</link>
       <pubDate>Mon, 15 Aug 2016 00:00:00 -0600</pubDate>
@@ -67,20 +49,20 @@
     </item>
     
     <item>
-      <title>Geology</title>
-      <link>https://www.mathematicalmichael.com/tags/geology/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
+      <title>Lines</title>
+      <link>https://www.mathematicalmichael.com/tags/lines/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/geology/</guid>
+      <guid>https://www.mathematicalmichael.com/tags/lines/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>National lab</title>
-      <link>https://www.mathematicalmichael.com/tags/national-lab/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
+      <title>Python</title>
+      <link>https://www.mathematicalmichael.com/tags/python/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/national-lab/</guid>
+      <guid>https://www.mathematicalmichael.com/tags/python/</guid>
       <description></description>
     </item>
     
