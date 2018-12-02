@@ -71,6 +71,8 @@ I won a cash prize for &lt;a href=&#34;https://www.michaelpilosov.com/talk/great
       <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000093902/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[8160_013_2500]_r[Betax100_130000_[1192_320]_t[Beta360_8161_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;8160-sided polygon with vertices chosen from 13 distance(s) from the origin.&lt;/p&gt;
+
 &lt;p&gt;$$ s = .00093902, \; $$
 $$ | \lbrace \theta \rbrace | = 8160, $$
 $$  | \lbrace r \rbrace | = 13,$$
@@ -88,6 +90,8 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
       
       <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000879983/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[010_013]_r[Betax200_001_[1000_1000]_t[Beta180_60000_[1753_058]]_S879983L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;130 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 1 size(s).&lt;/p&gt;
 
 &lt;p&gt;$$ s = .00879983, \; $$
 $$ | \lbrace \theta \rbrace | = 6, $$
@@ -107,6 +111,8 @@ $$\theta \sim \beta(1.753, 0.058). $$&lt;/p&gt;
       <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0006636300/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_012_6636300]_r[Betax056_001_[1000_1000]_t[Beta360_012_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;250 steps in 12 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
+
 &lt;p&gt;$$ s = .06636300, \; $$
 $$ | \lbrace \theta \rbrace | = 12, $$
 $$  | \lbrace r \rbrace | = 1,$$
@@ -124,6 +130,8 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
       
       <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0002272903/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_006_2272903]_r[Betax019_001_[1000_1000]_t[Beta360_006_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;250 steps in 6 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
 
 &lt;p&gt;$$ s = .02272903, \; $$
 $$ | \lbrace \theta \rbrace | = 6, $$
@@ -143,6 +151,8 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
       <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000207881/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[010_014]_r[Betax400_001_[1000_1000]_t[Beta360_20000_[1091_099]]_S207881L0V0C1s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;13 circles drawn in 2 shade(s) chosen from 1 unique size(s).&lt;/p&gt;
+
 &lt;p&gt;$$ s = .00207881, \; $$
 $$ | \lbrace \theta \rbrace | = 2, $$
 $$  | \lbrace r \rbrace | = 1,$$
@@ -160,6 +170,8 @@ $$\theta \sim \beta(1.092, 0.099). $$&lt;/p&gt;
       
       <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000082433/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[7004_018_2500]_r[Betax100_180000_[38000_105000]_t[Beta360_7005_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;7004-sided polygon with vertices chosen from 18 distance(s) from the origin.&lt;/p&gt;
 
 &lt;p&gt;$$ s = .00082433, \; $$
 $$ | \lbrace \theta \rbrace | = 7004, $$
@@ -179,6 +191,8 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
       <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001562293/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[043_041]_r[Betax200_50000_[326_1882]_t[Beta360_80000_[752_1242]]_S1562293L0V0C1s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;33 circles drawn in 8 shade(s) chosen from 5 unique size(s).&lt;/p&gt;
+
 &lt;p&gt;$$ s = .01562293, \; $$
 $$ | \lbrace \theta \rbrace | = 8, $$
 $$  | \lbrace r \rbrace | = 5,$$
@@ -196,6 +210,8 @@ $$\theta \sim \beta(0.752, 1.242). $$&lt;/p&gt;
       
       <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0002500175/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[043_006]_r[Betax075_70000_[1678_1777]_t[Beta180_70000_[1892_237]]_S2500175L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;258 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 6 size(s).&lt;/p&gt;
 
 &lt;p&gt;$$ s = .02500175, \; $$
 $$ | \lbrace \theta \rbrace | = 7, $$
@@ -215,6 +231,8 @@ $$\theta \sim \beta(1.892, 0.237). $$&lt;/p&gt;
       <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000152334/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[073_035]_r[Betax300_001_[1000_1000]_t[Beta180_50000_[1904_1708]]_S152334L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;2555 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).&lt;/p&gt;
+
 &lt;p&gt;$$ s = .00152334, \; $$
 $$ | \lbrace \theta \rbrace | = 5, $$
 $$  | \lbrace r \rbrace | = 1,$$
@@ -233,6 +251,8 @@ $$\theta \sim \beta(1.904, 1.709). $$&lt;/p&gt;
       <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000053581/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[028_013_2500]_r[Betax100_130000_[492_379]_t[Beta360_029_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;28-sided polygon with vertices chosen from 13 distance(s) from the origin.&lt;/p&gt;
+
 &lt;p&gt;$$ s = .00053581, \; $$
 $$ | \lbrace \theta \rbrace | = 28, $$
 $$  | \lbrace r \rbrace | = 13,$$
@@ -250,6 +270,8 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
       
       <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002847596/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[6213_005_2500]_r[Betax100_50000_[585_1740]_t[Beta360_6214_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;6213-sided polygon with vertices chosen from 5 distance(s) from the origin.&lt;/p&gt;
 
 &lt;p&gt;$$ s = .02847596, \; $$
 $$ | \lbrace \theta \rbrace | = 6213, $$
