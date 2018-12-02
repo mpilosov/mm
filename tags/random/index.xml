@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 09:21:58 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 Dec 2018 09:35:21 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Calendar</title>
       <link>https://www.mathematicalmichael.com/project/cal/</link>
-      <pubDate>Sun, 02 Dec 2018 09:21:58 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 09:35:21 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/cal/</guid>
       <description>A polygon is made with the number of sides corresponding to the year.
@@ -28,7 +28,7 @@ Taking requests for special dates to host on this page as examples.</description
     <item>
       <title>Random Art Baby</title>
       <link>https://www.mathematicalmichael.com/project/rab/</link>
-      <pubDate>Sun, 02 Dec 2018 09:21:58 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 09:35:21 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/rab/</guid>
       <description>This once existed as a twitter bot. It will exist again shortly in another manifestation on this website soon.
@@ -38,7 +38,7 @@ Please contact me if you would like to participate and have your own piece of ar
     <item>
       <title>Random || Not Random</title>
       <link>https://www.mathematicalmichael.com/project/rnr/</link>
-      <pubDate>Sun, 02 Dec 2018 09:21:58 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 09:35:21 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/rnr/</guid>
       <description>More description to come soon.
@@ -50,7 +50,7 @@ It is a lengthy process. Please be patient.</description>
     <item>
       <title>Trump in Wonderland</title>
       <link>https://www.mathematicalmichael.com/project/won/</link>
-      <pubDate>Sun, 02 Dec 2018 09:21:58 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 09:35:21 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/won/</guid>
       <description>Thousands of lines of Trump stump speeches mixed with the entirety of Lewis Carol&amp;rsquo;s Alice in Wonderland. More weight is given to Trump&amp;rsquo;s speeches. If you have more you would like me to include, please feel free to contact me.
@@ -3079,7 +3079,7 @@ Soon I will post a more complete story here and link to examples.</description>
       <pubDate>Mon, 01 Jan 2018 06:51:28 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000067524/</guid>
-      <description>$$ s = 000067524, \; | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1, r_0 = 0.0000, R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(9.000, 8.000). $$</description>
+      <description>$$ s = .00067524, \; | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1, r_0 = 0.0000, R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(9.000, 8.000). $$</description>
     </item>
     
   </channel>
