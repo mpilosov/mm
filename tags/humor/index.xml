@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humor on Mathematical Michael</title>
+    <link>https://www.mathematicalmichael.com/tags/humor/</link>
+    <description>Recent content in Humor on Mathematical Michael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
+    <lastBuildDate>Sun, 02 Dec 2018 00:40:40 -0700</lastBuildDate>
+    
+	<atom:link href="https://www.mathematicalmichael.com/tags/humor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Daily Ye</title>
+      <link>https://www.mathematicalmichael.com/project/dye/</link>
+      <pubDate>Sun, 02 Dec 2018 00:40:40 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/project/dye/</guid>
+      <description>This project is a work in progress. Mostly I am in need of help sorting through lyrics and removing contributions from collaborators, which Mr. West has many of.</description>
+    </item>
+    
+    <item>
+      <title>Trump in Wonderland</title>
+      <link>https://www.mathematicalmichael.com/project/won/</link>
+      <pubDate>Sun, 02 Dec 2018 00:40:40 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/project/won/</guid>
+      <description>Thousands of lines of Trump stump speeches mixed with the entirety of Lewis Carol&amp;rsquo;s Alice in Wonderland. More weight is given to Trump&amp;rsquo;s speeches. If you have more you would like me to include, please feel free to contact me</description>
+    </item>
+    
+  </channel>
+</rss>

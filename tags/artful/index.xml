@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artful on Mathematical Michael</title>
+    <link>https://www.mathematicalmichael.com/tags/artful/</link>
+    <description>Recent content in Artful on Mathematical Michael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
+    <lastBuildDate>Sun, 02 Dec 2018 00:40:40 -0700</lastBuildDate>
+    
+	<atom:link href="https://www.mathematicalmichael.com/tags/artful/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Calendar</title>
+      <link>https://www.mathematicalmichael.com/project/cal/</link>
+      <pubDate>Sun, 02 Dec 2018 00:40:40 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/project/cal/</guid>
+      <description>A polygon is made with the number of sides corresponding to the year. The number of distinct distances between the vertices of this shape and the origin are determined by the day. The month influences the open-ness of the shape. In some instances, it appears to function like an aperature.</description>
+    </item>
+    
+    <item>
+      <title>Moving Pictures</title>
+      <link>https://www.mathematicalmichael.com/project/mov/</link>
+      <pubDate>Sun, 02 Dec 2018 00:40:40 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/project/mov/</guid>
+      <description>Please watch this space in the coming weeks.
+I am reviving an old project that I have presented at a few conferences as an undergraduate. This work kickstarted (well, more like it really developed) my deep love for coding.
+I am now transcribing work into Python to get away from the limitations of Matlab&amp;rsquo;s licensing structure.
+It is a lengthy process. Please be patient.</description>
+    </item>
+    
+  </channel>
+</rss>
