@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 09:03:43 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 Dec 2018 09:17:02 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/tags/daily/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Calendar</title>
       <link>https://www.mathematicalmichael.com/project/cal/</link>
-      <pubDate>Sun, 02 Dec 2018 09:03:43 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 09:17:02 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/cal/</guid>
       <description>A polygon is made with the number of sides corresponding to the year.
