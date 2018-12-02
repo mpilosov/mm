@@ -32,11 +32,11 @@ My research is very much rooted in theory, but my day-to-day involves a lot of c
     </item>
     
     <item>
-      <title>About Mathematics</title>
-      <link>https://www.mathematicalmichael.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <title></title>
+      <link>https://www.mathematicalmichael.com/home/project_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/home/posts/</guid>
+      <guid>https://www.mathematicalmichael.com/home/project_carousel/</guid>
       <description></description>
     </item>
     
@@ -46,15 +46,6 @@ My research is very much rooted in theory, but my day-to-day involves a lot of c
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.mathematicalmichael.com/home/project_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/home/project_carousel/</guid>
       <description></description>
     </item>
     
@@ -112,6 +103,15 @@ My research is very much rooted in theory, but my day-to-day involves a lot of c
       <description>This is an example of using the custom widget to create your own homepage section.
 I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+    <item>
+      <title>About Mathematics</title>
+      <link>https://www.mathematicalmichael.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/home/posts/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 21:55:35 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 Dec 2018 00:03:46 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Random || Not Random</title>
       <link>https://www.mathematicalmichael.com/project/rnr/</link>
-      <pubDate>Sat, 01 Dec 2018 21:55:35 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 00:03:46 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/rnr/</guid>
       <description>Some obligatory test content for Random || Not Random.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Trump in Wonderland</title>
       <link>https://www.mathematicalmichael.com/project/won/</link>
-      <pubDate>Sat, 01 Dec 2018 21:55:35 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 00:03:46 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/won/</guid>
       <description>Thousands of lines of Trump stump speeches mixed with the entirety of Lewis Carol&amp;rsquo;s Alice in Wonderland.</description>
@@ -38,96 +38,6 @@
       <guid>https://www.mathematicalmichael.com/project/poker/</guid>
       <description>This was a really fun project I undertook for a Math Club game night in 2016 with my friend Elliott Regan.
  current  min  max   Start New Game   var canvas = document.getElementById(&#39;plotCanvas&#39;); var ctx = canvas.getContext(&#39;2d&#39;); var num, maxnum, minnum; var interval = 5; var B = [0] var brakes = 200; var ht = canvas.height; var n = canvas.width; var alpha = 5; initPlot(); drawWalk(); function reset() { B = [0]; var id = window.</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 10</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000105663/</link>
-      <pubDate>Wed, 10 Jan 2018 06:17:03 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000105663/</guid>
-      <description>$$ s = 0000105663, \; | \lbrace \theta \rbrace | = 10, $$ $$ | \lbrace r \rbrace | = 1, r_0 = 0.0000, R = 0.98, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 9</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000498705/</link>
-      <pubDate>Tue, 09 Jan 2018 02:36:50 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000498705/</guid>
-      <description>$$ s = 0000498705, \; | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1, r_0 = 0.0000, R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.707, 0.857). $$</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 8</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000294041/</link>
-      <pubDate>Mon, 08 Jan 2018 14:50:43 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000294041/</guid>
-      <description>$$ s = 0000294041, \; | \lbrace \theta \rbrace | = 7160, $$ $$ | \lbrace r \rbrace | = 21, r_0 = 0.2500, R = 1.00, $$ $$r \sim \beta(35.000, 63.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 7</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000025226/</link>
-      <pubDate>Sun, 07 Jan 2018 09:27:59 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000025226/</guid>
-      <description>$$ s = 0000025226, \; | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 2, r_0 = 0.2500, R = 1.00, $$ $$r \sim \beta(15.000, 52.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 6</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000052077/</link>
-      <pubDate>Sat, 06 Jan 2018 21:43:24 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000052077/</guid>
-      <description>$$ s = 0000052077, \; | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 7, r_0 = 0.0000, R = 3.00, $$ $$r \sim \beta(0.325, 1.309), $$ $$\theta \sim \beta(1.956, 1.197). $$</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 5</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000022848/</link>
-      <pubDate>Fri, 05 Jan 2018 01:59:20 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000022848/</guid>
-      <description>$$ s = 0000022848, \; | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 2, r_0 = 0.0500, R = 3.00, $$ $$r \sim \beta(1.179, 1.720), $$ $$\theta \sim \beta(1.377, 0.664). $$</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 4</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000583781/</link>
-      <pubDate>Thu, 04 Jan 2018 20:01:23 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000583781/</guid>
-      <description>$$ s = 0000583781, \; | \lbrace \theta \rbrace | = 10, $$ $$ | \lbrace r \rbrace | = 1, r_0 = 0.0000, R = 0.03, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 3</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000106212/</link>
-      <pubDate>Wed, 03 Jan 2018 10:23:52 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000106212/</guid>
-      <description>$$ s = 0000106212, \; | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1, r_0 = 0.0000, R = 0.21, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 2</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000362981/</link>
-      <pubDate>Tue, 02 Jan 2018 20:38:57 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000362981/</guid>
-      <description>$$ s = 0000362981, \; | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1, r_0 = 0.0500, R = 1.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.236, 0.479). $$</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 1</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000067524/</link>
-      <pubDate>Mon, 01 Jan 2018 06:51:28 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000067524/</guid>
-      <description>$$ s = 0000067524, \; | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1, r_0 = 0.0000, R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(9.000, 8.000). $$</description>
     </item>
     
   </channel>
