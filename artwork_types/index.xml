@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artwork_types on Mathematical Michael</title>
+    <link>https://www.mathematicalmichael.com/artwork_types/</link>
+    <description>Recent content in Artwork_types on Mathematical Michael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
+    <lastBuildDate>Mon, 19 Mar 2018 23:28:48 -0600</lastBuildDate>
+    
+	<atom:link href="https://www.mathematicalmichael.com/artwork_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>10</title>
+      <link>https://www.mathematicalmichael.com/artwork_types/10/</link>
+      <pubDate>Mon, 19 Mar 2018 23:28:48 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork_types/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>https://www.mathematicalmichael.com/artwork_types/7/</link>
+      <pubDate>Mon, 26 Mar 2018 07:32:08 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork_types/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8</title>
+      <link>https://www.mathematicalmichael.com/artwork_types/8/</link>
+      <pubDate>Fri, 23 Mar 2018 21:57:02 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork_types/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>9</title>
+      <link>https://www.mathematicalmichael.com/artwork_types/9/</link>
+      <pubDate>Sun, 25 Mar 2018 01:26:41 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork_types/9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
