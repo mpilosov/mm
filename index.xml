@@ -11,25 +11,9 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Calendar</title>
-      <link>https://www.mathematicalmichael.com/project/cal/</link>
-      <pubDate>Sun, 02 Dec 2018 11:25:58 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/project/cal/</guid>
-      <description>&lt;p&gt;A polygon is made with the number of sides corresponding to the year.&lt;br /&gt;
-The number of distinct distances between the vertices of this shape and the origin are determined by the day.&lt;br /&gt;
-The month influences the open-ness of the shape. In some instances, it appears to function like an aperature.&lt;/p&gt;
-
-&lt;p&gt;Hang Tight. This project will be live very soon.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Taking requests for special dates to host on this page as examples.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Daily Ye</title>
       <link>https://www.mathematicalmichael.com/project/dye/</link>
-      <pubDate>Sun, 02 Dec 2018 11:25:58 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 13:22:50 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/dye/</guid>
       <description>&lt;p&gt;This project is a work in progress. Mostly I am in need of help sorting through lyrics and removing contributions from collaborators, which Mr. West has many of.&lt;/p&gt;
@@ -39,7 +23,7 @@ The month influences the open-ness of the shape. In some instances, it appears t
     <item>
       <title>Moving Pictures</title>
       <link>https://www.mathematicalmichael.com/project/mov/</link>
-      <pubDate>Sun, 02 Dec 2018 11:25:58 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 13:22:50 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/mov/</guid>
       <description>&lt;p&gt;Please watch this space in the coming weeks.&lt;/p&gt;
@@ -55,7 +39,7 @@ This work kickstarted (well, more like it really developed) my deep love for cod
     <item>
       <title>Random Art Baby</title>
       <link>https://www.mathematicalmichael.com/project/rab/</link>
-      <pubDate>Sun, 02 Dec 2018 11:25:58 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 13:22:50 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/rab/</guid>
       <description>&lt;p&gt;This once existed as a twitter bot. It will exist again shortly in another manifestation on this website soon.&lt;br /&gt;
@@ -66,7 +50,7 @@ Please &lt;a href=&#34;https://www.mathematicalmichael.com/contact&#34; target=&
     <item>
       <title>Random || Not Random</title>
       <link>https://www.mathematicalmichael.com/project/rnr/</link>
-      <pubDate>Sun, 02 Dec 2018 11:25:58 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 13:22:50 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/rnr/</guid>
       <description>&lt;p&gt;More description to come soon.&lt;/p&gt;
@@ -76,20 +60,6 @@ I won a cash prize for &lt;a href=&#34;https://www.michaelpilosov.com/talk/great
 
 &lt;p&gt;I am now transcribing work into Python to get away from the limitations of Matlab&amp;rsquo;s licensing structure.&lt;br /&gt;
 &lt;em&gt;It is a lengthy process.&lt;/em&gt; Please be patient.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trump in Wonderland</title>
-      <link>https://www.mathematicalmichael.com/project/won/</link>
-      <pubDate>Sun, 02 Dec 2018 11:25:58 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/project/won/</guid>
-      <description>&lt;p&gt;Thousands of lines of Trump stump speeches mixed with the entirety of Lewis Carol&amp;rsquo;s &lt;em&gt;Alice in Wonderland&lt;/em&gt;.
-More weight is given to Trump&amp;rsquo;s speeches.
-If you have more you would like me to include, please feel free to &lt;a href=&#34;https://www.mathematicalmichael.com/contact&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Soon I will post a more complete story here and link to examples.&lt;/p&gt;
 </description>
     </item>
     
@@ -252,6 +222,42 @@ $$ r_0 = 0.0000,$$
 $$ R = 3.00, $$
 $$r \sim \beta(1.000, 1.000), $$
 $$\theta \sim \beta(1.904, 1.709). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 326: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000053581/</link>
+      <pubDate>Thu, 22 Nov 2018 20:16:22 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000053581/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[028_013_2500]_r[Betax100_130000_[492_379]_t[Beta360_029_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;$$ s = .00053581, \; $$
+$$ | \lbrace \theta \rbrace | = 28, $$
+$$  | \lbrace r \rbrace | = 13,$$
+$$ r_0 = 0.2500,$$
+$$ R = 1.00, $$
+$$r \sim \beta(0.492, 0.379), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 325: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002847596/</link>
+      <pubDate>Wed, 21 Nov 2018 11:15:23 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002847596/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[6213_005_2500]_r[Betax100_50000_[585_1740]_t[Beta360_6214_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;$$ s = .02847596, \; $$
+$$ | \lbrace \theta \rbrace | = 6213, $$
+$$  | \lbrace r \rbrace | = 5,$$
+$$ r_0 = 0.2500,$$
+$$ R = 1.00, $$
+$$r \sim \beta(0.585, 1.741), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
 </description>
     </item>
     
