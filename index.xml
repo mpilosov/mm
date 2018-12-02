@@ -729,45 +729,32 @@ Except Google Analytics, which already knows everything about you. 😆&lt;/p&gt
     </item>
     
     <item>
-      <title>Sharing Your Code</title>
-      <link>https://www.mathematicalmichael.com/resources/sharing/</link>
-      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      <title>Random || Not Random Test 130</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_3177787/</link>
+      <pubDate>Thu, 10 May 2018 13:30:51 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resources/sharing/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://packaging.python.org/tutorials/distributing-packages/#packaging-your-project&#34; target=&#34;_blank&#34;&gt;Distributing Projects with PyPy (pip)&lt;/a&gt;&lt;/p&gt;
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_3177787/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[2681_12_2500]_r[Betax100_120000_[38_68]_t[Beta360_2682_[1_1]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://nose.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;Unit Testing with Nose&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://pythontesting.net/framework/nose/nose-introduction/&#34; target=&#34;_blank&#34;&gt;Some Nosetests examples&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/twosigma/beakerx&#34; target=&#34;_blank&#34;&gt;BeakerX has a suite of tools for easy reproducibility in the browser&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$$ s = 3177787, \;  | \lbrace \theta \rbrace | = 2681, $$
+$$  | \lbrace r \rbrace | = 12, r_0 = 0.2500, R = 1.00, $$
+$$r \sim \beta(38.000, 68.000), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Writing Resources</title>
-      <link>https://www.mathematicalmichael.com/resources/writing/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Random || Not Random Test 129</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_22667/</link>
+      <pubDate>Wed, 09 May 2018 08:18:11 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/resources/writing/</guid>
-      <description>
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_22667/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[42_17]_r[Betax100_1_[1000_1000]_t[Beta180_20000_[7000_2000]]_S22667L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;vim&#34;&gt;Vim&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://vim.wikia.com/wiki/Avoid_the_escape_key&#34; target=&#34;_blank&#34;&gt;How to map keys (avoid using Esc)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourceforge.net/p/jupiter/wiki/markdown_syntax/&#34; target=&#34;_blank&#34;&gt;The comprehensive guide in which I ctrl+F almost everything&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mpilosov/0150b69694a7a78d64bb914506c35a17&#34; target=&#34;_blank&#34;&gt;Someone made a good walkthrough that I often refer to&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://assemble.io/docs/Cheatsheet-Markdown.html&#34; target=&#34;_blank&#34;&gt;Cheat Sheet from Assemble.io&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;on-writing&#34;&gt;On Writing&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jordanbpeterson.com/docs/430_docs/Template.docx&#34; target=&#34;_blank&#34;&gt;Jordan B Peterson&amp;rsquo;s Guide to Writing an Essay&lt;/a&gt; is remarkably helpful when dealing with writers block.
-Most of the advice generalizes well beyond topics in the humanities.&lt;/p&gt;
+&lt;p&gt;$$ s = 22667, \;  | \lbrace \theta \rbrace | = 2, $$
+$$  | \lbrace r \rbrace | = 1, r_0 = 0.0000, R = 1.00, $$
+$$r \sim \beta(1.000, 1.000), $$
+$$\theta \sim \beta(7.000, 2.000). $$&lt;/p&gt;
 </description>
     </item>
     
