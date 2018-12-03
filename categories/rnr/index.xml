@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 09:38:16 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Dec 2018 04:42:39 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/categories/rnr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 337: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000064348/</link>
+      <pubDate>Mon, 03 Dec 2018 04:42:39 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000064348/</guid>
+      <description>70-sided polygon with vertices chosen from 20 distance(s) from the origin.
+$$ s = .00064348, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 20,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(40.000, 80.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 336: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000000430/</link>
+      <pubDate>Sun, 02 Dec 2018 23:34:43 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000000430/</guid>
+      <description>28 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00000430, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(5.000, 2.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 335: Polygon</title>
