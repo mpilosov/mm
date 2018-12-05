@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 21:58:28 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 Dec 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Regularization</title>
+      <link>https://www.mathematicalmichael.com/project/regular/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/project/regular/</guid>
+      <description>.container{ max-width: 750px; }   MathJax.Hub.Config({ tex2jax: { inlineMath: [ [&#39;$&#39;,&#39;$&#39;], [&#34;\\(&#34;,&#34;\\)&#34;] ], displayMath: [ [&#39;$$&#39;,&#39;$$&#39;], [&#34;\\[&#34;,&#34;\\]&#34;] ], processEscapes: true, processEnvironments: true }, // Center justify equations in code and markdown cells. Elsewhere // we use CSS to left justify single line equations in code cells. displayAlign: &#39;center&#39;, &#34;HTML-CSS&#34;: { styles: {&#39;.MathJax_Display&#39;: {&#34;margin&#34;: 0}}, linebreaks: { automatic: true } } });   .cell.nbinteract-left { width: 50%; float: left; } .</description>
+    </item>
     
     <item>
       <title>Daily Ye</title>
@@ -63,15 +72,6 @@ It is a lengthy process. Please be patient.</description>
       <guid>https://www.mathematicalmichael.com/project/poker/</guid>
       <description>This was a really fun project I undertook for a Math Club game night in 2016 with my friend Elliott Regan.
  current  min  max   Start New Game   var canvas = document.getElementById(&#39;plotCanvas&#39;); var ctx = canvas.getContext(&#39;2d&#39;); var num, maxnum, minnum; var interval = 5; var B = [0] var brakes = 200; var ht = canvas.height; var n = canvas.width; var alpha = 5; initPlot(); drawWalk(); function reset() { B = [0]; var id = window.</description>
-    </item>
-    
-    <item>
-      <title>Regularization</title>
-      <link>https://www.mathematicalmichael.com/project/regular/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/project/regular/</guid>
-      <description>.container{ max-width: 750px; }   MathJax.Hub.Config({ tex2jax: { inlineMath: [ [&#39;$&#39;,&#39;$&#39;], [&#34;\\(&#34;,&#34;\\)&#34;] ], displayMath: [ [&#39;$$&#39;,&#39;$$&#39;], [&#34;\\[&#34;,&#34;\\]&#34;] ], processEscapes: true, processEnvironments: true }, // Center justify equations in code and markdown cells. Elsewhere // we use CSS to left justify single line equations in code cells. displayAlign: &#39;center&#39;, &#34;HTML-CSS&#34;: { styles: {&#39;.MathJax_Display&#39;: {&#34;margin&#34;: 0}}, linebreaks: { automatic: true } } });   .cell.nbinteract-left { width: 50%; float: left; } .</description>
     </item>
     
   </channel>
