@@ -1430,7 +1430,7 @@ $$ s = .00410145, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rb
       <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
       
       <guid>https://www.mathematicalmichael.com/project/regular/</guid>
-      <description>Regularization html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; } body { margin: 0; } article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; } audio, canvas, progress, video { display: inline-block; vertical-align: baseline; } audio:not([controls]) { display: none; height: 0; } [hidden], template { display: none; } a { background-color: transparent; } a:active, a:hover { outline: 0; } abbr[title] { border-bottom: 1px dotted; } b, strong { font-weight: bold; } dfn { font-style: italic; } h1 { font-size: 2em; margin: 0.</description>
+      <description>.container{ max-width: 750px; }   MathJax.Hub.Config({ tex2jax: { inlineMath: [ [&#39;$&#39;,&#39;$&#39;], [&#34;\\(&#34;,&#34;\\)&#34;] ], displayMath: [ [&#39;$$&#39;,&#39;$$&#39;], [&#34;\\[&#34;,&#34;\\]&#34;] ], processEscapes: true, processEnvironments: true }, // Center justify equations in code and markdown cells. Elsewhere // we use CSS to left justify single line equations in code cells. displayAlign: &#39;center&#39;, &#34;HTML-CSS&#34;: { styles: {&#39;.MathJax_Display&#39;: {&#34;margin&#34;: 0}}, linebreaks: { automatic: true } } });   .cell.nbinteract-left { width: 100%; float: left; } .</description>
     </item>
     
     <item>
