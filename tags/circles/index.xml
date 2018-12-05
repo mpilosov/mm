@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 23:34:43 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 04 Dec 2018 22:43:38 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/tags/circles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 338: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001195386/</link>
+      <pubDate>Tue, 04 Dec 2018 22:43:38 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001195386/</guid>
+      <description>12 circles drawn in 1 shade(s) chosen from 2 unique size(s).
+$$ s = .01195386, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(0.525, 1.260), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 336: Circle</title>

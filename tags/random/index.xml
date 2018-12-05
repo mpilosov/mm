@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Mon, 03 Dec 2018 04:42:39 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 Dec 2018 03:28:21 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 339: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000038014/</link>
+      <pubDate>Wed, 05 Dec 2018 03:28:21 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000038014/</guid>
+      <description>112-sided polygon with vertices chosen from 14 distance(s) from the origin.
+$$ s = .00038014, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 14,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.514, 0.861), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 338: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001195386/</link>
+      <pubDate>Tue, 04 Dec 2018 22:43:38 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001195386/</guid>
+      <description>12 circles drawn in 1 shade(s) chosen from 2 unique size(s).
+$$ s = .01195386, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(0.525, 1.260), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 337: Polygon</title>
@@ -1402,6 +1422,15 @@ $$ s = .00410145, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rb
       <guid>https://www.mathematicalmichael.com/project/poker/</guid>
       <description>This was a really fun project I undertook for a Math Club game night in 2016 with my friend Elliott Regan.
  current  min  max   Start New Game   var canvas = document.getElementById(&#39;plotCanvas&#39;); var ctx = canvas.getContext(&#39;2d&#39;); var num, maxnum, minnum; var interval = 5; var B = [0] var brakes = 200; var ht = canvas.height; var n = canvas.width; var alpha = 5; initPlot(); drawWalk(); function reset() { B = [0]; var id = window.</description>
+    </item>
+    
+    <item>
+      <title>Regularization</title>
+      <link>https://www.mathematicalmichael.com/project/regular/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/project/regular/</guid>
+      <description>Regularization html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; } body { margin: 0; } article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; } audio, canvas, progress, video { display: inline-block; vertical-align: baseline; } audio:not([controls]) { display: none; height: 0; } [hidden], template { display: none; } a { background-color: transparent; } a:active, a:hover { outline: 0; } abbr[title] { border-bottom: 1px dotted; } b, strong { font-weight: bold; } dfn { font-style: italic; } h1 { font-size: 2em; margin: 0.</description>
     </item>
     
     <item>

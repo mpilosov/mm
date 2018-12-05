@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Mon, 03 Dec 2018 04:42:39 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 Dec 2018 03:28:21 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/artwork_types/10/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 339: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000038014/</link>
+      <pubDate>Wed, 05 Dec 2018 03:28:21 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000038014/</guid>
+      <description>112-sided polygon with vertices chosen from 14 distance(s) from the origin.
+$$ s = .00038014, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 14,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.514, 0.861), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 337: Polygon</title>

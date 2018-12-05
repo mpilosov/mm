@@ -11,6 +11,46 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Random || Not Random # 339: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000038014/</link>
+      <pubDate>Wed, 05 Dec 2018 03:28:21 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000038014/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[112_014_2500]_r[Betax100_140000_[1513_861]_t[Beta360_113_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;112-sided polygon with vertices chosen from 14 distance(s) from the origin.&lt;/p&gt;
+
+&lt;p&gt;$$ s = .00038014, \; $$
+$$ | \lbrace \theta \rbrace | = 112, $$
+$$  | \lbrace r \rbrace | = 14,$$
+$$ r_0 = 0.2500,$$
+$$ R = 1.00, $$
+$$r \sim \beta(1.514, 0.861), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 338: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001195386/</link>
+      <pubDate>Tue, 04 Dec 2018 22:43:38 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001195386/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[044_012]_r[Betax200_20000_[525_1259]_t[Beta_001_[1000_1000]]_S1195386L0V0C1s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;12 circles drawn in 1 shade(s) chosen from 2 unique size(s).&lt;/p&gt;
+
+&lt;p&gt;$$ s = .01195386, \; $$
+$$ | \lbrace \theta \rbrace | = 1, $$
+$$  | \lbrace r \rbrace | = 2,$$
+$$ r_0 = 0.0500,$$
+$$ R = 2.00, $$
+$$r \sim \beta(0.525, 1.260), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Random || Not Random # 337: Polygon</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000064348/</link>
       <pubDate>Mon, 03 Dec 2018 04:42:39 -0700</pubDate>
@@ -240,46 +280,6 @@ $$ r_0 = 0.0500,$$
 $$ R = 2.00, $$
 $$r \sim \beta(0.326, 1.883), $$
 $$\theta \sim \beta(0.752, 1.242). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 328: Line</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0002500175/</link>
-      <pubDate>Sat, 24 Nov 2018 11:14:58 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0002500175/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[043_006]_r[Betax075_70000_[1678_1777]_t[Beta180_70000_[1892_237]]_S2500175L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;258 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 6 size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .02500175, \; $$
-$$ | \lbrace \theta \rbrace | = 7, $$
-$$  | \lbrace r \rbrace | = 6,$$
-$$ r_0 = 0.0000,$$
-$$ R = 0.75, $$
-$$r \sim \beta(1.679, 1.777), $$
-$$\theta \sim \beta(1.892, 0.237). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 327: Line</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000152334/</link>
-      <pubDate>Fri, 23 Nov 2018 15:05:07 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000152334/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[073_035]_r[Betax300_001_[1000_1000]_t[Beta180_50000_[1904_1708]]_S152334L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;2555 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00152334, \; $$
-$$ | \lbrace \theta \rbrace | = 5, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 3.00, $$
-$$r \sim \beta(1.000, 1.000), $$
-$$\theta \sim \beta(1.904, 1.709). $$&lt;/p&gt;
 </description>
     </item>
     
