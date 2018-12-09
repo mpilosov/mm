@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Fri, 07 Dec 2018 01:54:34 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 06:45:51 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/categories/rnr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 343: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000018514/</link>
+      <pubDate>Sun, 09 Dec 2018 06:45:51 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000018514/</guid>
+      <description>250 steps in 10 direction(s) chosen from 1 possible step size(s).
+$$ s = .00018514, \; $$ $$ | \lbrace \theta \rbrace | = 10, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.85, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 342: Line</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000701258/</link>
+      <pubDate>Sat, 08 Dec 2018 22:12:12 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000701258/</guid>
+      <description>3807 lines draw from each origin in one of 2 direction(s) with lengths chosen from 6 size(s).
+$$ s = .00701258, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(0.328, 0.068), $$ $$\theta \sim \beta(1.813, 1.499). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 341: Line</title>
