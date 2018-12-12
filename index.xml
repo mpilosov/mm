@@ -11,6 +11,46 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Random || Not Random # 345: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000717112/</link>
+      <pubDate>Tue, 11 Dec 2018 09:29:24 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000717112/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_004_717112]_r[Betax075_001_[1000_1000]_t[Beta360_004_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;250 steps in 4 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
+
+&lt;p&gt;$$ s = .00717112, \; $$
+$$ | \lbrace \theta \rbrace | = 4, $$
+$$  | \lbrace r \rbrace | = 1,$$
+$$ r_0 = 0.0000,$$
+$$ R = 0.76, $$
+$$r \sim \beta(1.000, 1.000), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 344: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0004352794/</link>
+      <pubDate>Mon, 10 Dec 2018 20:43:56 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0004352794/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[070_010_2500]_r[Betax100_100000_[785_1952]_t[Beta360_071_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;70-sided polygon with vertices chosen from 10 distance(s) from the origin.&lt;/p&gt;
+
+&lt;p&gt;$$ s = .04352794, \; $$
+$$ | \lbrace \theta \rbrace | = 70, $$
+$$  | \lbrace r \rbrace | = 10,$$
+$$ r_0 = 0.2500,$$
+$$ R = 1.00, $$
+$$r \sim \beta(0.785, 1.953), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Random || Not Random # 343: Walk</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000018514/</link>
       <pubDate>Sun, 09 Dec 2018 06:45:51 -0700</pubDate>
@@ -601,46 +641,6 @@ I won a cash prize for &lt;a href=&#34;https://www.michaelpilosov.com/talk/great
 
 &lt;p&gt;I am now transcribing work into Python to get away from the limitations of Matlab&amp;rsquo;s licensing structure.&lt;br /&gt;
 &lt;em&gt;It is a lengthy process.&lt;/em&gt; Please be patient.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 335: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000093902/</link>
-      <pubDate>Sat, 01 Dec 2018 09:38:16 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000093902/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[8160_013_2500]_r[Betax100_130000_[1192_320]_t[Beta360_8161_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;8160-sided polygon with vertices chosen from 13 distance(s) from the origin.&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00093902, \; $$
-$$ | \lbrace \theta \rbrace | = 8160, $$
-$$  | \lbrace r \rbrace | = 13,$$
-$$ r_0 = 0.2500,$$
-$$ R = 1.00, $$
-$$r \sim \beta(1.193, 0.320), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 334: Line</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000879983/</link>
-      <pubDate>Fri, 30 Nov 2018 19:38:34 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000879983/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[010_013]_r[Betax200_001_[1000_1000]_t[Beta180_60000_[1753_058]]_S879983L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;130 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 1 size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00879983, \; $$
-$$ | \lbrace \theta \rbrace | = 6, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 2.00, $$
-$$r \sim \beta(1.000, 1.000), $$
-$$\theta \sim \beta(1.753, 0.058). $$&lt;/p&gt;
 </description>
     </item>
     

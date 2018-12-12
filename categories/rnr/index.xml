@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Sun, 09 Dec 2018 06:45:51 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 Dec 2018 09:29:24 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/categories/rnr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 345: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000717112/</link>
+      <pubDate>Tue, 11 Dec 2018 09:29:24 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000717112/</guid>
+      <description>250 steps in 4 direction(s) chosen from 1 possible step size(s).
+$$ s = .00717112, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.76, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 344: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0004352794/</link>
+      <pubDate>Mon, 10 Dec 2018 20:43:56 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0004352794/</guid>
+      <description>70-sided polygon with vertices chosen from 10 distance(s) from the origin.
+$$ s = .04352794, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 10,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.785, 1.953), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 343: Walk</title>
