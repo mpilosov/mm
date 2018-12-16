@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Thu, 13 Dec 2018 02:44:13 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 00:52:45 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/categories/rnr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 349: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000039754/</link>
+      <pubDate>Sat, 15 Dec 2018 00:52:45 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000039754/</guid>
+      <description>250 steps in 5 direction(s) chosen from 1 possible step size(s).
+$$ s = .00039754, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 348: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000120988/</link>
+      <pubDate>Fri, 14 Dec 2018 03:17:36 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000120988/</guid>
+      <description>250 steps in 4 direction(s) chosen from 1 possible step size(s).
+$$ s = .00120988, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.09, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 347: Walk</title>

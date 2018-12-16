@@ -11,6 +11,46 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Random || Not Random # 349: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000039754/</link>
+      <pubDate>Sat, 15 Dec 2018 00:52:45 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000039754/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_005_39754]_r[Betax099_001_[1000_1000]_t[Beta360_005_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;250 steps in 5 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
+
+&lt;p&gt;$$ s = .00039754, \; $$
+$$ | \lbrace \theta \rbrace | = 5, $$
+$$  | \lbrace r \rbrace | = 1,$$
+$$ r_0 = 0.0000,$$
+$$ R = 1.00, $$
+$$r \sim \beta(1.000, 1.000), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 348: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000120988/</link>
+      <pubDate>Fri, 14 Dec 2018 03:17:36 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000120988/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_004_120988]_r[Betax008_001_[1000_1000]_t[Beta360_004_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;250 steps in 4 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
+
+&lt;p&gt;$$ s = .00120988, \; $$
+$$ | \lbrace \theta \rbrace | = 4, $$
+$$  | \lbrace r \rbrace | = 1,$$
+$$ r_0 = 0.0000,$$
+$$ R = 0.09, $$
+$$r \sim \beta(1.000, 1.000), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Random || Not Random # 347: Walk</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000079545/</link>
       <pubDate>Thu, 13 Dec 2018 02:44:13 -0700</pubDate>
@@ -628,32 +668,6 @@ $$ r_0 = 0.0500,$$
 $$ R = 3.00, $$
 $$r \sim \beta(1.000, 1.000), $$
 $$\theta \sim \beta(5.000, 2.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Ye</title>
-      <link>https://www.mathematicalmichael.com/project/dye/</link>
-      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/project/dye/</guid>
-      <description>&lt;p&gt;This project is a work in progress. Mostly I am in need of help sorting through lyrics and removing contributions from collaborators, which Mr. West has many of.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Moving Pictures</title>
-      <link>https://www.mathematicalmichael.com/project/mov/</link>
-      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/project/mov/</guid>
-      <description>&lt;p&gt;Please watch this space in the coming weeks.&lt;/p&gt;
-
-&lt;p&gt;I am reviving an &lt;a href=&#34;https://www.michaelpilosov.com/talk/jmm14/&#34; target=&#34;_blank&#34;&gt;old project&lt;/a&gt; that I have presented at a few conferences as an undergraduate.
-This work kickstarted (well, more like it really developed) my deep love for coding.&lt;/p&gt;
-
-&lt;p&gt;I am now transcribing work into Python to get away from the limitations of Matlab&amp;rsquo;s licensing structure.&lt;br /&gt;
-&lt;em&gt;It is a lengthy process.&lt;/em&gt; Please be patient.&lt;/p&gt;
 </description>
     </item>
     
