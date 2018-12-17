@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Random || Not Random # 351: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000068800/</link>
+      <pubDate>Mon, 17 Dec 2018 04:36:42 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000068800/</guid>
+      <description>70-sided polygon with vertices chosen from 7 distance(s) from the origin.
+$$ s = .00068800, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.902, 1.305), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
       <title>Random || Not Random # 350: Polygon</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0004748394/</link>
       <pubDate>Sun, 16 Dec 2018 04:48:56 -0700</pubDate>
