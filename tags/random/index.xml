@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Fri, 21 Dec 2018 09:42:33 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 22 Dec 2018 08:48:57 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 356: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001438360/</link>
+      <pubDate>Sat, 22 Dec 2018 08:48:57 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0001438360/</guid>
+      <description>250 steps in 12 direction(s) chosen from 1 possible step size(s).
+$$ s = .01438360, \; $$ $$ | \lbrace \theta \rbrace | = 12, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.24, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 355: Line</title>
