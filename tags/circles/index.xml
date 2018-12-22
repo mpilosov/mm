@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>circles on Mathematical Michael</title>
+    <link>https://www.mathematicalmichael.com/tags/circles/</link>
+    <description>Recent content in circles on Mathematical Michael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
+    <lastBuildDate>Thu, 06 Dec 2018 17:32:15 -0700</lastBuildDate>
+    
+	<atom:link href="https://www.mathematicalmichael.com/tags/circles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Random || Not Random # 340: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000056140/</link>
+      <pubDate>Thu, 06 Dec 2018 17:32:15 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000056140/</guid>
+      <description>11 circles drawn in 2 shade(s) chosen from 5 unique size(s).
+$$ s = .00056140, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(0.584, 1.592), $$ $$\theta \sim \beta(1.919, 0.670). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 338: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001195386/</link>
+      <pubDate>Tue, 04 Dec 2018 22:43:38 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001195386/</guid>
+      <description>12 circles drawn in 1 shade(s) chosen from 2 unique size(s).
+$$ s = .01195386, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(0.525, 1.260), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 336: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000000430/</link>
+      <pubDate>Sun, 02 Dec 2018 23:34:43 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000000430/</guid>
+      <description>28 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00000430, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(5.000, 2.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random</title>
+      <link>https://www.mathematicalmichael.com/project/rnr/</link>
+      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/project/rnr/</guid>
+      <description>More description to come soon.
+I am reviving an old project that I have presented at a few conferences as an undergraduate. I won a cash prize for a talk I gave demonstrating an early version of this which involved my first graphical user interface.
+I am now transcribing work into Python to get away from the limitations of Matlab&amp;rsquo;s licensing structure.
+It is a lengthy process. Please be patient.</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 331: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000207881/</link>
+      <pubDate>Tue, 27 Nov 2018 06:13:14 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000207881/</guid>
+      <description>13 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00207881, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 4.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.092, 0.099). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 329: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001562293/</link>
+      <pubDate>Sun, 25 Nov 2018 12:25:46 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001562293/</guid>
+      <description>33 circles drawn in 8 shade(s) chosen from 5 unique size(s).
+$$ s = .01562293, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(0.326, 1.883), $$ $$\theta \sim \beta(0.752, 1.242). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 302: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000330152/</link>
+      <pubDate>Mon, 29 Oct 2018 03:25:57 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000330152/</guid>
+      <description>18 circles drawn in 1 shade(s) chosen from 8 unique size(s).
+$$ s = .00330152, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.924, 1.863), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 293: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000120992/</link>
+      <pubDate>Sat, 20 Oct 2018 01:00:46 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000120992/</guid>
+      <description>15 circles drawn in 1 shade(s) chosen from 2 unique size(s).
+$$ s = .00120992, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0500,$$ $$ R = 1.88, $$ $$r \sim \beta(32.000, 109.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 291: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0003881292/</link>
+      <pubDate>Thu, 18 Oct 2018 09:06:32 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0003881292/</guid>
+      <description>14 circles drawn in 2 shade(s) chosen from 6 unique size(s).
+$$ s = .03881292, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(0.524, 1.739), $$ $$\theta \sim \beta(0.778, 0.939). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 290: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001463968/</link>
+      <pubDate>Wed, 17 Oct 2018 13:30:54 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001463968/</guid>
+      <description>9 circles drawn in 1 shade(s) chosen from 1 unique size(s).
+$$ s = .01463968, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 1.12, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 289: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000106052/</link>
+      <pubDate>Tue, 16 Oct 2018 15:03:51 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000106052/</guid>
+      <description>29 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00106052, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.341, 0.455). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 272: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0005018513/</link>
+      <pubDate>Sat, 29 Sep 2018 17:20:48 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0005018513/</guid>
+      <description>42 circles drawn in 1 shade(s) chosen from 5 unique size(s).
+$$ s = .05018513, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(4.000, 77.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 269: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001034219/</link>
+      <pubDate>Wed, 26 Sep 2018 16:42:58 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001034219/</guid>
+      <description>0 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .01034219, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.022, 0.356). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 265: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000184943/</link>
+      <pubDate>Sat, 22 Sep 2018 14:08:52 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000184943/</guid>
+      <description>30 circles drawn in 2 shade(s) chosen from 6 unique size(s).
+$$ s = .00184943, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(0.054, 1.768), $$ $$\theta \sim \beta(1.337, 0.556). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 263: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000061721/</link>
+      <pubDate>Thu, 20 Sep 2018 03:53:22 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000061721/</guid>
+      <description>3 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00061721, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.624, 1.044). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 257: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000109293/</link>
+      <pubDate>Fri, 14 Sep 2018 07:17:24 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000109293/</guid>
+      <description>12 circles drawn in 8 shade(s) chosen from 4 unique size(s).
+$$ s = .00109293, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0500,$$ $$ R = 0.88, $$ $$r \sim \beta(1.363, 0.955), $$ $$\theta \sim \beta(1.893, 1.233). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 245: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000001981/</link>
+      <pubDate>Sun, 02 Sep 2018 00:51:29 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000001981/</guid>
+      <description>1 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00001981, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.219, 1.110). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 239: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0004665656/</link>
+      <pubDate>Mon, 27 Aug 2018 18:37:32 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0004665656/</guid>
+      <description>46 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .04665656, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.207, 0.012). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 232: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000171610/</link>
+      <pubDate>Mon, 20 Aug 2018 11:49:13 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000171610/</guid>
+      <description>24 circles drawn in 8 shade(s) chosen from 5 unique size(s).
+$$ s = .00171610, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0500,$$ $$ R = 1.88, $$ $$r \sim \beta(0.518, 0.846), $$ $$\theta \sim \beta(0.985, 1.122). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 231: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000030738/</link>
+      <pubDate>Sun, 19 Aug 2018 02:29:30 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000030738/</guid>
+      <description>17 circles drawn in 8 shade(s) chosen from 7 unique size(s).
+$$ s = .00030738, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.587, 1.052), $$ $$\theta \sim \beta(1.756, 1.696). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 230: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0002025794/</link>
+      <pubDate>Sat, 18 Aug 2018 10:14:23 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0002025794/</guid>
+      <description>16 circles drawn in 2 shade(s) chosen from 7 unique size(s).
+$$ s = .02025794, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.947, 1.297), $$ $$\theta \sim \beta(1.130, 1.287). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 227: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000333080/</link>
+      <pubDate>Wed, 15 Aug 2018 09:04:22 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000333080/</guid>
+      <description>39 circles drawn in 1 shade(s) chosen from 1 unique size(s).
+$$ s = .00333080, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 226: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000429924/</link>
+      <pubDate>Tue, 14 Aug 2018 02:32:05 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000429924/</guid>
+      <description>43 circles drawn in 8 shade(s) chosen from 4 unique size(s).
+$$ s = .00429924, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0500,$$ $$ R = 1.62, $$ $$r \sim \beta(0.183, 0.663), $$ $$\theta \sim \beta(1.530, 0.625). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 223: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000046486/</link>
+      <pubDate>Sat, 11 Aug 2018 03:18:19 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000046486/</guid>
+      <description>10 circles drawn in 8 shade(s) chosen from 7 unique size(s).
+$$ s = .00046486, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0500,$$ $$ R = 1.38, $$ $$r \sim \beta(18.000, 20.000), $$ $$\theta \sim \beta(3.000, 7.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 222: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001120150/</link>
+      <pubDate>Fri, 10 Aug 2018 11:04:05 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001120150/</guid>
+      <description>21 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .01120150, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(4.000, 5.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 214: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000247494/</link>
+      <pubDate>Thu, 02 Aug 2018 21:20:05 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000247494/</guid>
+      <description>32 circles drawn in 1 shade(s) chosen from 1 unique size(s).
+$$ s = .00247494, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 211: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000082509/</link>
+      <pubDate>Mon, 30 Jul 2018 18:41:40 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000082509/</guid>
+      <description>11 circles drawn in 8 shade(s) chosen from 1 unique size(s).
+$$ s = .00082509, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 1.38, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(8.000, 3.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 205: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000586515/</link>
+      <pubDate>Tue, 24 Jul 2018 22:36:27 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000586515/</guid>
+      <description>24 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00586515, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(8.000, 3.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 196: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0002824674/</link>
+      <pubDate>Sun, 15 Jul 2018 14:56:21 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0002824674/</guid>
+      <description>21 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .02824674, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.101, 0.176). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 195: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0002736931/</link>
+      <pubDate>Sat, 14 Jul 2018 13:25:44 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0002736931/</guid>
+      <description>14 circles drawn in 1 shade(s) chosen from 2 unique size(s).
+$$ s = .02736931, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(7.000, 48.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 189: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001447379/</link>
+      <pubDate>Sun, 08 Jul 2018 14:56:22 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001447379/</guid>
+      <description>11 circles drawn in 8 shade(s) chosen from 1 unique size(s).
+$$ s = .01447379, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 1.12, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.609, 1.456). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 183: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000009823/</link>
+      <pubDate>Mon, 02 Jul 2018 00:23:14 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000009823/</guid>
+      <description>15 circles drawn in 2 shade(s) chosen from 7 unique size(s).
+$$ s = .00009823, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0500,$$ $$ R = 4.00, $$ $$r \sim \beta(1.139, 0.155), $$ $$\theta \sim \beta(1.554, 0.608). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 172: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000152401/</link>
+      <pubDate>Thu, 21 Jun 2018 09:18:16 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000152401/</guid>
+      <description>50 circles drawn in 1 shade(s) chosen from 5 unique size(s).
+$$ s = .00152401, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(41.000, 25.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 169: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000756232/</link>
+      <pubDate>Mon, 18 Jun 2018 20:47:54 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000756232/</guid>
+      <description>26 circles drawn in 2 shade(s) chosen from 4 unique size(s).
+$$ s = .00756232, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(35.000, 65.000), $$ $$\theta \sim \beta(6.000, 5.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 168: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000019808/</link>
+      <pubDate>Sun, 17 Jun 2018 01:40:34 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000019808/</guid>
+      <description>18 circles drawn in 2 shade(s) chosen from 3 unique size(s).
+$$ s = .00019808, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(28.000, 118.000), $$ $$\theta \sim \beta(5.000, 3.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 167: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000064216/</link>
+      <pubDate>Sat, 16 Jun 2018 21:58:26 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000064216/</guid>
+      <description>42 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00064216, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.029, 0.222). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 161: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000111648/</link>
+      <pubDate>Sun, 10 Jun 2018 12:27:47 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000111648/</guid>
+      <description>14 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00111648, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 2.50, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(6.000, 8.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 154: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000035599/</link>
+      <pubDate>Sun, 03 Jun 2018 14:30:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000035599/</guid>
+      <description>32 circles drawn in 8 shade(s) chosen from 1 unique size(s).
+$$ s = .00035599, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.506, 0.034). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 153: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000011394/</link>
+      <pubDate>Sat, 02 Jun 2018 17:46:40 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000011394/</guid>
+      <description>25 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00011394, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.097, 0.752). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 143: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0002218542/</link>
+      <pubDate>Wed, 23 May 2018 12:03:35 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0002218542/</guid>
+      <description>12 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .02218542, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 2.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(4.000, 3.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 142: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0007089577/</link>
+      <pubDate>Tue, 22 May 2018 21:51:16 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0007089577/</guid>
+      <description>22 circles drawn in 1 shade(s) chosen from 2 unique size(s).
+$$ s = .07089577, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(0.188, 1.165), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 140: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000111057/</link>
+      <pubDate>Sun, 20 May 2018 01:04:28 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000111057/</guid>
+      <description>4 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00111057, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(2.000, 6.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 135: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000110147/</link>
+      <pubDate>Tue, 15 May 2018 13:30:57 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000110147/</guid>
+      <description>46 circles drawn in 2 shade(s) chosen from 3 unique size(s).
+$$ s = .00110147, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.635, 1.595), $$ $$\theta \sim \beta(1.613, 0.179). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 134: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0002033857/</link>
+      <pubDate>Mon, 14 May 2018 12:52:41 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0002033857/</guid>
+      <description>8 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .02033857, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 4.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.248, 0.378). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 133: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000013987/</link>
+      <pubDate>Sun, 13 May 2018 03:52:22 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000013987/</guid>
+      <description>15 circles drawn in 2 shade(s) chosen from 4 unique size(s).
+$$ s = .00013987, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(0.853, 1.724), $$ $$\theta \sim \beta(1.859, 1.896). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 132: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001542461/</link>
+      <pubDate>Sat, 12 May 2018 11:24:51 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001542461/</guid>
+      <description>7 circles drawn in 8 shade(s) chosen from 2 unique size(s).
+$$ s = .01542461, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.998, 0.437), $$ $$\theta \sim \beta(0.547, 1.084). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 128: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000003301/</link>
+      <pubDate>Tue, 08 May 2018 12:58:18 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000003301/</guid>
+      <description>44 circles drawn in 8 shade(s) chosen from 1 unique size(s).
+$$ s = .00003301, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.636, 0.822). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 127: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000009688/</link>
+      <pubDate>Mon, 07 May 2018 16:48:19 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000009688/</guid>
+      <description>24 circles drawn in 2 shade(s) chosen from 7 unique size(s).
+$$ s = .00009688, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(0.997, 0.051), $$ $$\theta \sim \beta(1.565, 1.259). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 121: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000007249/</link>
+      <pubDate>Tue, 01 May 2018 23:35:24 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000007249/</guid>
+      <description>6 circles drawn in 1 shade(s) chosen from 3 unique size(s).
+$$ s = .00007249, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0500,$$ $$ R = 0.75, $$ $$r \sim \beta(29.000, 32.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 120: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000507066/</link>
+      <pubDate>Mon, 30 Apr 2018 20:49:44 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000507066/</guid>
+      <description>38 circles drawn in 2 shade(s) chosen from 6 unique size(s).
+$$ s = .00507066, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.438, 1.152), $$ $$\theta \sim \beta(1.229, 0.047). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 119: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000284527/</link>
+      <pubDate>Sun, 29 Apr 2018 01:50:40 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000284527/</guid>
+      <description>33 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00284527, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.152, 0.629). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 110: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0004769026/</link>
+      <pubDate>Fri, 20 Apr 2018 19:30:09 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0004769026/</guid>
+      <description>1 circles drawn in 2 shade(s) chosen from 8 unique size(s).
+$$ s = .04769026, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.573, 0.643), $$ $$\theta \sim \beta(0.125, 1.623). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 103: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000043629/</link>
+      <pubDate>Fri, 13 Apr 2018 15:24:39 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000043629/</guid>
+      <description>33 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00043629, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.741, 0.038). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 98: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000066618/</link>
+      <pubDate>Sun, 08 Apr 2018 09:29:18 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000066618/</guid>
+      <description>14 circles drawn in 2 shade(s) chosen from 5 unique size(s).
+$$ s = .00066618, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(21.000, 61.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 97: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000031377/</link>
+      <pubDate>Sat, 07 Apr 2018 02:54:39 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000031377/</guid>
+      <description>5 circles drawn in 2 shade(s) chosen from 4 unique size(s).
+$$ s = .00031377, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0500,$$ $$ R = 2.25, $$ $$r \sim \beta(3.000, 10.000), $$ $$\theta \sim \beta(4.000, 6.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 96: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000149226/</link>
+      <pubDate>Fri, 06 Apr 2018 05:44:31 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000149226/</guid>
+      <description>5 circles drawn in 1 shade(s) chosen from 1 unique size(s).
+$$ s = .00149226, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 0.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 95: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000611331/</link>
+      <pubDate>Thu, 05 Apr 2018 11:43:04 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000611331/</guid>
+      <description>46 circles drawn in 2 shade(s) chosen from 3 unique size(s).
+$$ s = .00611331, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.664, 1.236), $$ $$\theta \sim \beta(1.154, 0.020). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 91: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000003843/</link>
+      <pubDate>Sun, 01 Apr 2018 22:21:50 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000003843/</guid>
+      <description>16 circles drawn in 2 shade(s) chosen from 2 unique size(s).
+$$ s = .00003843, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(13.000, 68.000), $$ $$\theta \sim \beta(8.000, 9.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 86: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000188758/</link>
+      <pubDate>Tue, 27 Mar 2018 06:28:41 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000188758/</guid>
+      <description>7 circles drawn in 1 shade(s) chosen from 4 unique size(s).
+$$ s = .00188758, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0500,$$ $$ R = 0.88, $$ $$r \sim \beta(1.140, 1.694), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 82: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001954917/</link>
+      <pubDate>Fri, 23 Mar 2018 21:57:02 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001954917/</guid>
+      <description>9 circles drawn in 1 shade(s) chosen from 7 unique size(s).
+$$ s = .01954917, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0500,$$ $$ R = 1.00, $$ $$r \sim \beta(21.000, 33.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 81: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000386595/</link>
+      <pubDate>Thu, 22 Mar 2018 02:17:24 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000386595/</guid>
+      <description>32 circles drawn in 1 shade(s) chosen from 4 unique size(s).
+$$ s = .00386595, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(0.963, 1.134), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 77: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000515359/</link>
+      <pubDate>Sun, 18 Mar 2018 13:52:05 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000515359/</guid>
+      <description>9 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00515359, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 2.38, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.983, 1.845). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 71: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000447103/</link>
+      <pubDate>Mon, 12 Mar 2018 21:54:21 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000447103/</guid>
+      <description>18 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00447103, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.868, 0.396). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 68: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000040564/</link>
+      <pubDate>Fri, 09 Mar 2018 08:35:32 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000040564/</guid>
+      <description>22 circles drawn in 2 shade(s) chosen from 8 unique size(s).
+$$ s = .00040564, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(0.607, 0.798), $$ $$\theta \sim \beta(1.417, 1.952). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 65: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000546103/</link>
+      <pubDate>Tue, 06 Mar 2018 07:35:37 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000546103/</guid>
+      <description>38 circles drawn in 2 shade(s) chosen from 4 unique size(s).
+$$ s = .00546103, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(25.000, 39.000), $$ $$\theta \sim \beta(5.000, 2.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 63: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000136683/</link>
+      <pubDate>Sun, 04 Mar 2018 02:19:23 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000136683/</guid>
+      <description>22 circles drawn in 8 shade(s) chosen from 2 unique size(s).
+$$ s = .00136683, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(0.743, 1.796), $$ $$\theta \sim \beta(1.400, 1.225). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 57: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000047104/</link>
+      <pubDate>Mon, 26 Feb 2018 07:38:17 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000047104/</guid>
+      <description>5 circles drawn in 2 shade(s) chosen from 3 unique size(s).
+$$ s = .00047104, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0500,$$ $$ R = 4.00, $$ $$r \sim \beta(2.000, 95.000), $$ $$\theta \sim \beta(9.000, 4.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 54: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000166955/</link>
+      <pubDate>Fri, 23 Feb 2018 05:15:28 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000166955/</guid>
+      <description>35 circles drawn in 1 shade(s) chosen from 1 unique size(s).
+$$ s = .00166955, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 1.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 46: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000168029/</link>
+      <pubDate>Thu, 15 Feb 2018 02:48:36 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000168029/</guid>
+      <description>5 circles drawn in 1 shade(s) chosen from 1 unique size(s).
+$$ s = .00168029, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 0.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 42: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000048675/</link>
+      <pubDate>Sun, 11 Feb 2018 05:07:26 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000048675/</guid>
+      <description>11 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00048675, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 2.25, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(5.000, 6.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 38: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000330157/</link>
+      <pubDate>Wed, 07 Feb 2018 12:56:52 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000330157/</guid>
+      <description>19 circles drawn in 8 shade(s) chosen from 1 unique size(s).
+$$ s = .00330157, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 1.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.344, 0.745). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 30: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000221823/</link>
+      <pubDate>Tue, 30 Jan 2018 13:02:00 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000221823/</guid>
+      <description>5 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .00221823, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(3.000, 5.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 29: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000235455/</link>
+      <pubDate>Mon, 29 Jan 2018 02:00:34 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000235455/</guid>
+      <description>2 circles drawn in 2 shade(s) chosen from 7 unique size(s).
+$$ s = .00235455, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0500,$$ $$ R = 2.12, $$ $$r \sim \beta(9.000, 41.000), $$ $$\theta \sim \beta(2.000, 8.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 24: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000141633/</link>
+      <pubDate>Wed, 24 Jan 2018 07:34:34 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000141633/</guid>
+      <description>2 circles drawn in 2 shade(s) chosen from 8 unique size(s).
+$$ s = .00141633, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0500,$$ $$ R = 2.12, $$ $$r \sim \beta(19.000, 56.000), $$ $$\theta \sim \beta(3.000, 6.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 22: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000044803/</link>
+      <pubDate>Mon, 22 Jan 2018 06:08:23 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000044803/</guid>
+      <description>11 circles drawn in 1 shade(s) chosen from 1 unique size(s).
+$$ s = .00044803, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 0.88, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 21: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000033801/</link>
+      <pubDate>Sun, 21 Jan 2018 12:40:28 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000033801/</guid>
+      <description>11 circles drawn in 8 shade(s) chosen from 3 unique size(s).
+$$ s = .00033801, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0500,$$ $$ R = 2.00, $$ $$r \sim \beta(10.000, 106.000), $$ $$\theta \sim \beta(2.000, 7.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 16: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0001997761/</link>
+      <pubDate>Tue, 16 Jan 2018 21:28:17 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0001997761/</guid>
+      <description>18 circles drawn in 2 shade(s) chosen from 1 unique size(s).
+$$ s = .01997761, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 2.75, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.113, 0.121). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 12: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0003492837/</link>
+      <pubDate>Fri, 12 Jan 2018 20:01:19 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0003492837/</guid>
+      <description>9 circles drawn in 8 shade(s) chosen from 1 unique size(s).
+$$ s = .03492837, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 1.12, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.965, 0.127). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 5: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000022848/</link>
+      <pubDate>Fri, 05 Jan 2018 01:59:20 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000022848/</guid>
+      <description>21 circles drawn in 2 shade(s) chosen from 2 unique size(s).
+$$ s = .00022848, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0500,$$ $$ R = 3.00, $$ $$r \sim \beta(1.179, 1.720), $$ $$\theta \sim \beta(1.377, 0.664). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 2: Circle</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_circles_0000362981/</link>
+      <pubDate>Tue, 02 Jan 2018 20:38:57 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_circles_0000362981/</guid>
+      <description>13 circles drawn in 8 shade(s) chosen from 1 unique size(s).
+$$ s = .00362981, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0500,$$ $$ R = 1.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.236, 0.479). $$</description>
+    </item>
+    
+  </channel>
+</rss>

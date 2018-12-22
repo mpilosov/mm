@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>animation on Mathematical Michael</title>
+    <link>https://www.mathematicalmichael.com/tags/animation/</link>
+    <description>Recent content in animation on Mathematical Michael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
+    <lastBuildDate>Sun, 02 Dec 2018 21:58:28 -0700</lastBuildDate>
+    
+	<atom:link href="https://www.mathematicalmichael.com/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moving Pictures</title>
+      <link>https://www.mathematicalmichael.com/project/mov/</link>
+      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/project/mov/</guid>
+      <description>Please watch this space in the coming weeks.
+I am reviving an old project that I have presented at a few conferences as an undergraduate. This work kickstarted (well, more like it really developed) my deep love for coding.
+I am now transcribing work into Python to get away from the limitations of Matlab&amp;rsquo;s licensing structure.
+It is a lengthy process. Please be patient.</description>
+    </item>
+    
+  </channel>
+</rss>
