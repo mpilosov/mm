@@ -106,11 +106,20 @@ I am a teaching instructor for the following courses at University X:
     </item>
     
     <item>
-      <title>About Mathematics</title>
+      <title>Blog Posts</title>
       <link>https://www.mathematicalmichael.com/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.mathematicalmichael.com/home/contact/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/home/contact/</guid>
       <description></description>
     </item>
     
@@ -120,24 +129,6 @@ I am a teaching instructor for the following courses at University X:
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.mathematicalmichael.com/home/resume/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Get in Touch</title>
-      <link>https://www.mathematicalmichael.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/home/contact/</guid>
-      <description>    Thanks for your email! I&#39;ll be in touch shortly.  &amp;zwnj;   </description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://www.mathematicalmichael.com/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/home/search/</guid>
       <description></description>
     </item>
     

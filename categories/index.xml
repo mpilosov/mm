@@ -7,13 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academia</title>
+      <title>academia</title>
       <link>https://www.mathematicalmichael.com/categories/academia/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
@@ -22,7 +21,7 @@
     </item>
     
     <item>
-      <title>Outreach</title>
+      <title>outreach</title>
       <link>https://www.mathematicalmichael.com/categories/outreach/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
@@ -31,9 +30,9 @@
     </item>
     
     <item>
-      <title>Rnr</title>
+      <title>rnr</title>
       <link>https://www.mathematicalmichael.com/categories/rnr/</link>
-      <pubDate>Mon, 17 Dec 2018 04:36:42 -0700</pubDate>
+      <pubDate>Fri, 21 Dec 2018 09:42:33 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/categories/rnr/</guid>
       <description></description>
