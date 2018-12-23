@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Sat, 22 Dec 2018 08:48:57 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Dec 2018 04:04:53 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/categories/rnr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 357: Line</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000150620/</link>
+      <pubDate>Sun, 23 Dec 2018 04:04:53 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000150620/</guid>
+      <description>1452 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00150620, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(23.000, 117.000), $$ $$\theta \sim \beta(8.000, 3.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 356: Walk</title>
