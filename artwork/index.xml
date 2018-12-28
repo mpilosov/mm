@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Random || Not Random # 361: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000126595/</link>
+      <pubDate>Thu, 27 Dec 2018 23:46:24 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000126595/</guid>
+      <description>250 steps in 8 direction(s) chosen from 1 possible step size(s).
+$$ s = .00126595, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.34, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
       <title>Random || Not Random # 360: Walk</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0004183970/</link>
       <pubDate>Wed, 26 Dec 2018 16:23:02 -0700</pubDate>
