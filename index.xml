@@ -11,6 +11,46 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Random || Not Random # 364: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000292954/</link>
+      <pubDate>Sun, 30 Dec 2018 01:11:41 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000292954/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[1834_009_2500]_r[Betax100_90000_[25000_44000]_t[Beta360_1835_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1834-sided polygon with vertices chosen from 9 distance(s) from the origin.&lt;/p&gt;
+
+&lt;p&gt;$$ s = .00292954, \; $$
+$$ | \lbrace \theta \rbrace | = 1834, $$
+$$  | \lbrace r \rbrace | = 9,$$
+$$ r_0 = 0.2500,$$
+$$ R = 1.00, $$
+$$r \sim \beta(25.000, 44.000), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 363: Line</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000035708/</link>
+      <pubDate>Sat, 29 Dec 2018 23:02:58 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000035708/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[054_038]_r[Betax300_90000_[857_597]_t[Beta180_20000_[1442_790]]_S35708L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2052 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 8 size(s).&lt;/p&gt;
+
+&lt;p&gt;$$ s = .00035708, \; $$
+$$ | \lbrace \theta \rbrace | = 2, $$
+$$  | \lbrace r \rbrace | = 8,$$
+$$ r_0 = 0.0000,$$
+$$ R = 3.00, $$
+$$r \sim \beta(0.857, 0.597), $$
+$$\theta \sim \beta(1.442, 0.790). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Random || Not Random # 362: Walk</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001240218/</link>
       <pubDate>Fri, 28 Dec 2018 13:36:33 -0700</pubDate>
@@ -266,46 +306,6 @@ $$  | \lbrace r \rbrace | = 10,$$
 $$ r_0 = 0.2500,$$
 $$ R = 1.00, $$
 $$r \sim \beta(0.547, 1.153), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 349: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000039754/</link>
-      <pubDate>Sat, 15 Dec 2018 00:52:45 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000039754/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_005_39754]_r[Betax099_001_[1000_1000]_t[Beta360_005_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;250 steps in 5 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00039754, \; $$
-$$ | \lbrace \theta \rbrace | = 5, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 1.00, $$
-$$r \sim \beta(1.000, 1.000), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 348: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000120988/</link>
-      <pubDate>Fri, 14 Dec 2018 03:17:36 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000120988/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_004_120988]_r[Betax008_001_[1000_1000]_t[Beta360_004_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;250 steps in 4 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00120988, \; $$
-$$ | \lbrace \theta \rbrace | = 4, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 0.09, $$
-$$r \sim \beta(1.000, 1.000), $$
 $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
 </description>
     </item>
