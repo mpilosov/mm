@@ -11,6 +11,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Random || Not Random # 362: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001240218/</link>
+      <pubDate>Fri, 28 Dec 2018 13:36:33 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0001240218/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_012_1240218]_r[Betax019_001_[1000_1000]_t[Beta360_012_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;250 steps in 12 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
+
+&lt;p&gt;$$ s = .01240218, \; $$
+$$ | \lbrace \theta \rbrace | = 12, $$
+$$  | \lbrace r \rbrace | = 1,$$
+$$ r_0 = 0.0000,$$
+$$ R = 0.20, $$
+$$r \sim \beta(1.000, 1.000), $$
+$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Random || Not Random # 361: Walk</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000126595/</link>
       <pubDate>Thu, 27 Dec 2018 23:46:24 -0700</pubDate>
@@ -285,26 +305,6 @@ $$ | \lbrace \theta \rbrace | = 4, $$
 $$  | \lbrace r \rbrace | = 1,$$
 $$ r_0 = 0.0000,$$
 $$ R = 0.09, $$
-$$r \sim \beta(1.000, 1.000), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 347: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000079545/</link>
-      <pubDate>Thu, 13 Dec 2018 02:44:13 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000079545/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_008_79545]_r[Betax095_001_[1000_1000]_t[Beta360_008_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;250 steps in 8 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00079545, \; $$
-$$ | \lbrace \theta \rbrace | = 8, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 0.96, $$
 $$r \sim \beta(1.000, 1.000), $$
 $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
 </description>
