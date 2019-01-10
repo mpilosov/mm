@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Thu, 20 Dec 2018 21:52:50 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 30 Dec 2018 01:11:41 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/tags/polygons/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 364: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000292954/</link>
+      <pubDate>Sun, 30 Dec 2018 01:11:41 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000292954/</guid>
+      <description>1834-sided polygon with vertices chosen from 9 distance(s) from the origin.
+$$ s = .00292954, \; $$ $$ | \lbrace \theta \rbrace | = 1834, $$ $$ | \lbrace r \rbrace | = 9,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(25.000, 44.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 358: Polygon</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003993850/</link>
+      <pubDate>Mon, 24 Dec 2018 16:08:34 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003993850/</guid>
+      <description>70-sided polygon with vertices chosen from 7 distance(s) from the origin.
+$$ s = .03993850, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(32.000, 20.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 354: Polygon</title>

@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Wed, 19 Dec 2018 01:24:06 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 31 Dec 2018 04:10:58 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/tags/walks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 365: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001422527/</link>
+      <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0001422527/</guid>
+      <description>250 steps in 6 direction(s) chosen from 1 possible step size(s).
+$$ s = .01422527, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.58, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 362: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001240218/</link>
+      <pubDate>Fri, 28 Dec 2018 13:36:33 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0001240218/</guid>
+      <description>250 steps in 12 direction(s) chosen from 1 possible step size(s).
+$$ s = .01240218, \; $$ $$ | \lbrace \theta \rbrace | = 12, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.20, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 361: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000126595/</link>
+      <pubDate>Thu, 27 Dec 2018 23:46:24 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000126595/</guid>
+      <description>250 steps in 8 direction(s) chosen from 1 possible step size(s).
+$$ s = .00126595, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.34, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 360: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0004183970/</link>
+      <pubDate>Wed, 26 Dec 2018 16:23:02 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0004183970/</guid>
+      <description>250 steps in 10 direction(s) chosen from 8 possible step size(s).
+$$ s = .04183970, \; $$ $$ | \lbrace \theta \rbrace | = 10, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 0.09, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 356: Walk</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001438360/</link>
+      <pubDate>Sat, 22 Dec 2018 08:48:57 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0001438360/</guid>
+      <description>250 steps in 12 direction(s) chosen from 1 possible step size(s).
+$$ s = .01438360, \; $$ $$ | \lbrace \theta \rbrace | = 12, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.24, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 353: Walk</title>

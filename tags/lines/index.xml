@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Fri, 21 Dec 2018 09:42:33 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 29 Dec 2018 23:02:58 -0700</lastBuildDate>
     
 	<atom:link href="https://www.mathematicalmichael.com/tags/lines/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random || Not Random # 363: Line</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000035708/</link>
+      <pubDate>Sat, 29 Dec 2018 23:02:58 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000035708/</guid>
+      <description>2052 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 8 size(s).
+$$ s = .00035708, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(0.857, 0.597), $$ $$\theta \sim \beta(1.442, 0.790). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 359: Line</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0002575604/</link>
+      <pubDate>Tue, 25 Dec 2018 09:34:49 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0002575604/</guid>
+      <description>207 lines drawn through each origin in one of 8 direction(s) with lengths chosen from 8 size(s).
+$$ s = .02575604, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 4.00, $$ $$r \sim \beta(37.000, 84.000), $$ $$\theta \sim \beta(3.000, 5.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Random || Not Random # 357: Line</title>
+      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000150620/</link>
+      <pubDate>Sun, 23 Dec 2018 04:04:53 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000150620/</guid>
+      <description>1452 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00150620, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(23.000, 117.000), $$ $$\theta \sim \beta(8.000, 3.000). $$</description>
+    </item>
     
     <item>
       <title>Random || Not Random # 355: Line</title>
