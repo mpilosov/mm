@@ -39,7 +39,13 @@ The primary repository is my thesis. I will gradually add public-facing projects
 &lt;script&gt;
     new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
 &lt;/script&gt;
+
+&lt;script&gt;
+    new GitHubCalendar(&#34;.calendar&#34;, &#34;mpilosov&#34;);
+&lt;/script&gt;
 &lt;/p&gt;
+
+&lt;p&gt;The second summary is my legacy username.&lt;/p&gt;
 </description>
     </item>
     
