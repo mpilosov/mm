@@ -85,26 +85,6 @@ The primary repository is my thesis. I will gradually add public-facing projects
     new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
 &lt;/script&gt;
 &lt;/p&gt;
-
-&lt;p&gt;The second summary is my legacy username:&lt;/p&gt;
-
-
-&lt;script
-  src=&#34;https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js&#34;
-&gt;
-&lt;/script&gt;
-
-
-
-&lt;div class=&#34;calendar-m&#34;&gt;
-    
-    Loading the data just for you.
-&lt;/div&gt;
-
-&lt;script&gt;
-    new GitHubCalendar(&#34;.calendar-m&#34;, &#34;mpilosov&#34;);
-&lt;/script&gt;
-
 </description>
     </item>
     
