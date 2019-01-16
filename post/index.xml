@@ -13,6 +13,18 @@
     
     
     <item>
+      <title>Active Subspaces</title>
+      <link>https://www.mathematicalmichael.com/post/activesubspaces/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/post/activesubspaces/</guid>
+      <description>I ran a series of tests and google searches to convert a repository to Python 3 from Python 2.
+2to3 was a good starting point but the imports needed a lot of restructuring.
+Then the other problems were all related to division operations. The default type is now Float, so 1/2 returns 0.5, whereas in Python 2 it returns 0 since the numerator is interpreted as an integer.
+Drank coffee WAY too late in the evening and converted @DrPaulynomial&amp;#39;s #ActiveSubspaces repo to #Python3.</description>
+    </item>
+    
+    <item>
       <title>Advertising Mathematics</title>
       <link>https://www.mathematicalmichael.com/post/advertising/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 -0700</pubDate>

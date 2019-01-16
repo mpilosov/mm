@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://www.mathematicalmichael.com/post/activesubspaces/</loc>
+      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.mathematicalmichael.com/activity/</loc>
       <lastmod>2019-01-15T00:00:00-07:00</lastmod>
     </url>
@@ -3551,6 +3559,15 @@
     
       <loc>https://www.mathematicalmichael.com/tags/deterministic/</loc>
       <lastmod>2018-12-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/categories/documentation/</loc>
+      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

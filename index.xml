@@ -11,6 +11,52 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Active Subspaces</title>
+      <link>https://www.mathematicalmichael.com/post/activesubspaces/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/post/activesubspaces/</guid>
+      <description>&lt;p&gt;I ran a series of tests and google searches to convert a repository to Python 3 from Python 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;2to3&lt;/code&gt; was a good starting point but the &lt;code&gt;imports&lt;/code&gt; needed a lot of restructuring.&lt;/p&gt;
+
+&lt;p&gt;Then the other problems were all related to division operations. The default type is now Float, so &lt;code&gt;1/2&lt;/code&gt; returns &lt;code&gt;0.5&lt;/code&gt;, whereas in Python 2 it returns &lt;code&gt;0&lt;/code&gt; since the numerator is interpreted as an integer.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Drank coffee WAY too late in the evening and converted &lt;a href=&#34;https://twitter.com/DrPaulynomial?ref_src=twsrc%5Etfw&#34;&gt;@DrPaulynomial&lt;/a&gt;&amp;#39;s &lt;a href=&#34;https://twitter.com/hashtag/ActiveSubspaces?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ActiveSubspaces&lt;/a&gt; repo to &lt;a href=&#34;https://twitter.com/hashtag/Python3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Python3&lt;/a&gt;. Got to use my hub at &lt;a href=&#34;https://t.co/cYaLs3Qabi&#34;&gt;https://t.co/cYaLs3Qabi&lt;/a&gt; for development in a fresh environment, too! &lt;a href=&#34;https://twitter.com/hashtag/mathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#mathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/appliedmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#appliedmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/computationalmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#computationalmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/python2to3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#python2to3&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/dev?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#dev&lt;/a&gt; &lt;a href=&#34;https://t.co/30bprcephv&#34;&gt;pic.twitter.com/30bprcephv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mathematical Michael (@Mathematical_MP) &lt;a href=&#34;https://twitter.com/Mathematical_MP/status/1085431034261336065?ref_src=twsrc%5Etfw&#34;&gt;January 16, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The &lt;a href=&#34;https://github.com/paulcon/active_subspaces/pull/52&#34; target=&#34;_blank&#34;&gt;pull request&lt;/a&gt; in that image now needs to be merged, and likely amended with some Travis CI instructions to test for Python 3.6. At the very least, my passing status reflects backwards compatibility.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+
+&lt;script
+  src=&#34;https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js&#34;
+&gt;
+&lt;/script&gt;
+
+
+
+
+
+&lt;div class=&#34;calendar&#34;&gt;
+    
+    Loading the data just for you.
+&lt;/div&gt;
+
+&lt;script&gt;
+    new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
+&lt;/script&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;These set of commits mark my 20th contribution.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>GitHub Activity</title>
       <link>https://www.mathematicalmichael.com/activity/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
@@ -315,26 +361,6 @@ $$ | \lbrace \theta \rbrace | = 6, $$
 $$  | \lbrace r \rbrace | = 1,$$
 $$ r_0 = 0.0000,$$
 $$ R = 0.41, $$
-$$r \sim \beta(1.000, 1.000), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Probably Art # 352: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001580626/</link>
-      <pubDate>Tue, 18 Dec 2018 23:45:23 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0001580626/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_012_1580626]_r[Betax008_001_[1000_1000]_t[Beta360_012_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;250 steps in 12 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .01580626, \; $$
-$$ | \lbrace \theta \rbrace | = 12, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 0.08, $$
 $$r \sim \beta(1.000, 1.000), $$
 $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
 </description>
