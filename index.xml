@@ -16,7 +16,9 @@
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
       
       <guid>https://www.mathematicalmichael.com/activity/</guid>
-      <description>
+      <description>&lt;p&gt;Here is a summary of my activity on Github from my new username.
+The primary repository is my thesis. I will gradually add public-facing projects here as well.
+
 &lt;script
   src=&#34;https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js&#34;
 &gt;
@@ -37,9 +39,7 @@
 &lt;script&gt;
     new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
 &lt;/script&gt;
-
-
-&lt;p&gt;The primary repository I contribute to is my thesis.&lt;/p&gt;
+&lt;/p&gt;
 </description>
     </item>
     
