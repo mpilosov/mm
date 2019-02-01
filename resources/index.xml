@@ -103,8 +103,8 @@ Tensorflow Models</description>
       <guid>https://www.mathematicalmichael.com/resources/bash/</guid>
       <description>Bash For Loops
 Digital Ocean has a great writeup to get you started
-Linux Restarting Networking
-Setting Up A Secure Ubuntu Server in the Cloud</description>
+sed: String Replacement
+Here is an illustrative example. We want to change a folder&amp;rsquo;s permissions, but the path name is surrounded in quotation marks and needs to be extracted from the output of another command (docker ps). Our desired path is the second string in the output of grep, so we pass it to awk before sed:</description>
     </item>
     
     <item>

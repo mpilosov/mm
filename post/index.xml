@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Matplotlib Scatter Plots</title>
+      <link>https://www.mathematicalmichael.com/post/matplotlib/</link>
+      <pubDate>Fri, 01 Feb 2019 07:41:48 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/post/matplotlib/</guid>
+      <description>I ran into a problem while upgrading code from Python 2 to Python 3 that required me to downgrade matplotlib to version 2.2.3 in order to get the functionality in place (all tests were passing except for plotting). Once that dust settled, I attempted to individually upgrade to matplotlib==3.0.2 and ran into trouble with how scatter parses color sequences.
+I had a lot of trouble finding a good solution online, but after sifting through a lot of forums and GitHub issues1, and trying many permutations of different syntaxes, I finally came around to a &amp;ldquo;clean&amp;rdquo; solution that passed the tests as they were written.</description>
+    </item>
+    
+    <item>
       <title>Active Subspaces</title>
       <link>https://www.mathematicalmichael.com/post/activesubspaces/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>

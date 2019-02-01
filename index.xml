@@ -11,6 +11,43 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Matplotlib Scatter Plots</title>
+      <link>https://www.mathematicalmichael.com/post/matplotlib/</link>
+      <pubDate>Fri, 01 Feb 2019 07:41:48 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/post/matplotlib/</guid>
+      <description>&lt;p&gt;I ran into a problem while upgrading code from Python 2 to Python 3 that required me to downgrade &lt;code&gt;matplotlib&lt;/code&gt; to version &lt;code&gt;2.2.3&lt;/code&gt; in order to get the functionality in place (all tests were passing except for plotting).
+Once that dust settled, I attempted to individually upgrade to &lt;code&gt;matplotlib==3.0.2&lt;/code&gt; and ran into trouble with how &lt;code&gt;scatter&lt;/code&gt; parses color sequences.&lt;/p&gt;
+
+&lt;p&gt;I had a lot of trouble finding a good solution online, but after sifting through a lot of forums and GitHub issues&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:github&#34;&gt;&lt;a href=&#34;#fn:github&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, and trying many permutations of different syntaxes, I finally came around to a &amp;ldquo;clean&amp;rdquo; solution that passed the tests as they were written.
+The issue was that the &lt;code&gt;color&lt;/code&gt; argument must match the type of the &lt;code&gt;x&lt;/code&gt; and &lt;code&gt;y&lt;/code&gt; inputs into &lt;code&gt;scatter&lt;/code&gt;, which was not the case before.&lt;/p&gt;
+
+&lt;p&gt;The code I was working with formed &lt;code&gt;x&lt;/code&gt; and &lt;code&gt;y&lt;/code&gt; by indexing a 2-d &lt;code&gt;np.array&lt;/code&gt; (call it &lt;code&gt;data&lt;/code&gt;), and I found that using &lt;code&gt;np.reshape&lt;/code&gt; as follows led to the easiest backwards-compatible solution:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# inds represents indices
+x = data[inds, 0]
+y = data[inds, 1]
+c = colors[inds] # colors is passed to be height of some function that takes x and y as inputs.
+plt.scatter(np.reshape(x,-1), 
+            np.reshape(y,-1), 
+            c=np.reshape(c,-1),
+            cmap=color_map) # color_map defined elsewhere
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If &lt;code&gt;inds&lt;/code&gt; is length-1 or length-N, this syntax still works and respects the new requirements for coloring scatterplots.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:github&#34;&gt;Places where the issue is mentioned or discussed: &lt;a href=&#34;https://github.com/matplotlib/matplotlib/issues/12429&#34; target=&#34;_blank&#34;&gt;#12429&lt;/a&gt;, &lt;a href=&#34;https://github.com/matplotlib/matplotlib/issues/10365&#34; target=&#34;_blank&#34;&gt;#10365&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:github&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Active Subspaces</title>
       <link>https://www.mathematicalmichael.com/post/activesubspaces/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
@@ -85,6 +122,8 @@ The primary repository is my thesis. I will gradually add public-facing projects
     new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
 &lt;/script&gt;
 &lt;/p&gt;
+
+&lt;p&gt;For activity on my other profile, please visit &lt;a href=&#34;https://www.michaelpilosov.com/activity&#34; target=&#34;_blank&#34;&gt;my other website&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -324,26 +363,6 @@ $$  | \lbrace r \rbrace | = 10,$$
 $$ r_0 = 0.2500,$$
 $$ R = 1.00, $$
 $$r \sim \beta(0.478, 0.846), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Probably Art # 353: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000446445/</link>
-      <pubDate>Wed, 19 Dec 2018 01:24:06 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000446445/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_006_446445]_r[Betax041_001_[1000_1000]_t[Beta360_006_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;250 steps in 6 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00446445, \; $$
-$$ | \lbrace \theta \rbrace | = 6, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 0.41, $$
-$$r \sim \beta(1.000, 1.000), $$
 $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
 </description>
     </item>

@@ -15,10 +15,11 @@
   
     
   
-  <meta name="description" content="The command line is the best utility. Get used to it and you will become one with the machine.">
+  <meta name="description" content="I ran into a problem while upgrading code from Python 2 to Python 3 that required me to downgrade matplotlib to version 2.2.3 in order to get the functionality in place (all tests were passing except for plotting). Once that dust settled, I attempted to individually upgrade to matplotlib==3.0.2 and ran into trouble with how scatter parses color sequences.
+I had a lot of trouble finding a good solution online, but after sifting through a lot of forums and GitHub issues1, and trying many permutations of different syntaxes, I finally came around to a &ldquo;clean&rdquo; solution that passed the tests as they were written.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://www.mathematicalmichael.com/resources/bash/">
+  <link rel="alternate" hreflang="en-us" href="https://www.mathematicalmichael.com/post/matplotlib/">
 
   
 
@@ -108,7 +109,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://www.mathematicalmichael.com/resources/bash/">
+  <link rel="canonical" href="https://www.mathematicalmichael.com/post/matplotlib/">
 
   
   
@@ -122,21 +123,22 @@
   <meta property="twitter:creator" content="@Mathematical_MP">
   
   <meta property="og:site_name" content="Mathematical Michael">
-  <meta property="og:url" content="https://www.mathematicalmichael.com/resources/bash/">
-  <meta property="og:title" content="Linux and Bash | Mathematical Michael">
-  <meta property="og:description" content="The command line is the best utility. Get used to it and you will become one with the machine."><meta property="og:image" content="https://www.mathematicalmichael.com/img/logo.png">
+  <meta property="og:url" content="https://www.mathematicalmichael.com/post/matplotlib/">
+  <meta property="og:title" content="Matplotlib Scatter Plots | Mathematical Michael">
+  <meta property="og:description" content="I ran into a problem while upgrading code from Python 2 to Python 3 that required me to downgrade matplotlib to version 2.2.3 in order to get the functionality in place (all tests were passing except for plotting). Once that dust settled, I attempted to individually upgrade to matplotlib==3.0.2 and ran into trouble with how scatter parses color sequences.
+I had a lot of trouble finding a good solution online, but after sifting through a lot of forums and GitHub issues1, and trying many permutations of different syntaxes, I finally came around to a &ldquo;clean&rdquo; solution that passed the tests as they were written."><meta property="og:image" content="https://www.mathematicalmichael.com/img/logo.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-02-23T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-02-01T07:41:48-07:00">
   
-  <meta property="article:modified_time" content="2018-02-23T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2019-02-01T07:41:48-07:00">
   
 
   
 
-  <title>Linux and Bash | Mathematical Michael</title>
+  
+
+  <title>Matplotlib Scatter Plots | Mathematical Michael</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -352,7 +354,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Linux and Bash</h1>
+  <h1 itemprop="name">Matplotlib Scatter Plots</h1>
 
   
 
@@ -363,16 +365,20 @@
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Michael Pilosov">
-  </span>
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Michael Pilosov</span>
+    </span>
+    
+  </div>
   
 
   <span class="article-date">
     
-    <meta content="2018-02-23 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2018-02-23 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Feb 23, 2018
+    <meta content="2019-02-01 07:41:48 -0700 MST" itemprop="datePublished">
+    <time datetime="2019-02-01 07:41:48 -0700 MST" itemprop="dateModified">
+      Feb 1, 2019
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -392,28 +398,28 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Linux%20and%20Bash&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fbash%2f"
+         href="https://twitter.com/intent/tweet?text=Matplotlib%20Scatter%20Plots&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2fpost%2fmatplotlib%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fbash%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.mathematicalmichael.com%2fpost%2fmatplotlib%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fbash%2f&amp;title=Linux%20and%20Bash"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2fpost%2fmatplotlib%2f&amp;title=Matplotlib%20Scatter%20Plots"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
    <li>
       <a class="email"
-         href="mailto:?subject=Linux%20and%20Bash&amp;body=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fbash%2f">
+         href="mailto:?subject=Matplotlib%20Scatter%20Plots&amp;body=https%3a%2f%2fwww.mathematicalmichael.com%2fpost%2fmatplotlib%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -451,27 +457,34 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      
+      <p>I ran into a problem while upgrading code from Python 2 to Python 3 that required me to downgrade <code>matplotlib</code> to version <code>2.2.3</code> in order to get the functionality in place (all tests were passing except for plotting).
+Once that dust settled, I attempted to individually upgrade to <code>matplotlib==3.0.2</code> and ran into trouble with how <code>scatter</code> parses color sequences.</p>
 
-<h2 id="bash">Bash</h2>
+<p>I had a lot of trouble finding a good solution online, but after sifting through a lot of forums and GitHub issues<sup class="footnote-ref" id="fnref:github"><a href="#fn:github">1</a></sup>, and trying many permutations of different syntaxes, I finally came around to a &ldquo;clean&rdquo; solution that passed the tests as they were written.
+The issue was that the <code>color</code> argument must match the type of the <code>x</code> and <code>y</code> inputs into <code>scatter</code>, which was not the case before.</p>
 
-<p><a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html" target="_blank">For Loops</a></p>
+<p>The code I was working with formed <code>x</code> and <code>y</code> by indexing a 2-d <code>np.array</code> (call it <code>data</code>), and I found that using <code>np.reshape</code> as follows led to the easiest backwards-compatible solution:</p>
 
-<p><a href="https://www.digitalocean.com/community/tutorials/how-to-use-bash-s-job-control-to-manage-foreground-and-background-processes" target="_blank">Digital Ocean has a great writeup to get you started</a></p>
-
-<p><a href="https://www.geeksforgeeks.org/sed-command-in-unix/" target="_blank">sed: String Replacement</a></p>
-
-<p>Here is an illustrative example. We want to change a folder&rsquo;s permissions, but the path name is surrounded in quotation marks and needs to be extracted from the output of another command (<code>docker ps</code>).
-Our desired path is the second string in the output of <code>grep</code>, so we pass it to <code>awk</code> before <code>sed</code>:</p>
-
-<pre><code class="language-bash">sudo chmod 777 $(docker inspect shared-shared | grep &quot;Mountpoint&quot; | awk '{print $2}' | sed 's/&quot;//g' | sed 's/,//g')
+<pre><code class="language-python"># inds represents indices
+x = data[inds, 0]
+y = data[inds, 1]
+c = colors[inds] # colors is passed to be height of some function that takes x and y as inputs.
+plt.scatter(np.reshape(x,-1), 
+            np.reshape(y,-1), 
+            c=np.reshape(c,-1),
+            cmap=color_map) # color_map defined elsewhere
 </code></pre>
 
-<h2 id="linux">Linux</h2>
+<p>If <code>inds</code> is length-1 or length-N, this syntax still works and respects the new requirements for coloring scatterplots.</p>
+<div class="footnotes">
 
-<p><a href="https://www.cyberciti.biz/faq/unix-network-service-restart-stop/" target="_blank">Restarting Networking</a></p>
+<hr />
 
-<p><a href="https://fearby.com/article/securing-ubuntu-cloud/" target="_blank">Setting Up A Secure Ubuntu Server in the Cloud</a></p>
+<ol>
+<li id="fn:github">Places where the issue is mentioned or discussed: <a href="https://github.com/matplotlib/matplotlib/issues/12429" target="_blank">#12429</a>, <a href="https://github.com/matplotlib/matplotlib/issues/10365" target="_blank">#10365</a>
+ <a class="footnote-return" href="#fnref:github"><sup>^</sup></a></li>
+</ol>
+</div>
 
     </div>
 
@@ -483,6 +496,8 @@ Our desired path is the second string in the output of <code>grep</code>, so we 
     
 
 
+
+  
 
 
 
@@ -594,15 +609,10 @@ Our desired path is the second string in the output of <code>grep</code>, so we 
     <div class="article-widget">
       <div class="post-nav">
   
-  <div class="post-nav-item">
-    <div class="meta-nav">Next</div>
-    <a href="https://www.mathematicalmichael.com/resources/machinelearning/" rel="next">Machine Learning</a>
-  </div>
-  
   
   <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="https://www.mathematicalmichael.com/resources/git/" rel="prev">Git &amp; Github</a>
+    <a href="https://www.mathematicalmichael.com/post/activesubspaces/" rel="prev">Active Subspaces</a>
   </div>
   
 </div>
