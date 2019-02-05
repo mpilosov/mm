@@ -11,7 +11,124 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Random || Not Random # 365: Walk</title>
+      <title>Matplotlib Scatter Plots</title>
+      <link>https://www.mathematicalmichael.com/post/matplotlib/</link>
+      <pubDate>Fri, 01 Feb 2019 07:41:48 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/post/matplotlib/</guid>
+      <description>&lt;p&gt;I ran into a problem while upgrading code from Python 2 to Python 3 that required me to downgrade &lt;code&gt;matplotlib&lt;/code&gt; to version &lt;code&gt;2.2.3&lt;/code&gt; in order to get the functionality in place (all tests were passing except for plotting).
+Once that dust settled, I attempted to individually upgrade to &lt;code&gt;matplotlib==3.0.2&lt;/code&gt; and ran into trouble with how &lt;code&gt;scatter&lt;/code&gt; parses color sequences.&lt;/p&gt;
+
+&lt;p&gt;I had a lot of trouble finding a good solution online, but after sifting through a lot of forums and GitHub issues&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:github&#34;&gt;&lt;a href=&#34;#fn:github&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, and trying many permutations of different syntaxes, I finally came around to a &amp;ldquo;clean&amp;rdquo; solution that passed the tests as they were written.
+The issue was that the &lt;code&gt;color&lt;/code&gt; argument must match the type of the &lt;code&gt;x&lt;/code&gt; and &lt;code&gt;y&lt;/code&gt; inputs into &lt;code&gt;scatter&lt;/code&gt;, which was not the case before.&lt;/p&gt;
+
+&lt;p&gt;The code I was working with formed &lt;code&gt;x&lt;/code&gt; and &lt;code&gt;y&lt;/code&gt; by indexing a 2-d &lt;code&gt;np.array&lt;/code&gt; (call it &lt;code&gt;data&lt;/code&gt;), and I found that using &lt;code&gt;np.reshape&lt;/code&gt; as follows led to the easiest backwards-compatible solution:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# inds represents indices
+x = data[inds, 0]
+y = data[inds, 1]
+c = colors[inds] # colors is passed to be height of some function that takes x and y as inputs.
+plt.scatter(np.reshape(x,-1), 
+            np.reshape(y,-1), 
+            c=np.reshape(c,-1),
+            cmap=color_map) # color_map defined elsewhere
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If &lt;code&gt;inds&lt;/code&gt; is length-1 or length-N, this syntax still works and respects the new requirements for coloring scatterplots.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:github&#34;&gt;Places where the issue is mentioned or discussed: &lt;a href=&#34;https://github.com/matplotlib/matplotlib/issues/12429&#34; target=&#34;_blank&#34;&gt;#12429&lt;/a&gt;, &lt;a href=&#34;https://github.com/matplotlib/matplotlib/issues/10365&#34; target=&#34;_blank&#34;&gt;#10365&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:github&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active Subspaces</title>
+      <link>https://www.mathematicalmichael.com/post/activesubspaces/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/post/activesubspaces/</guid>
+      <description>&lt;p&gt;I ran a series of tests and google searches to convert a repository to Python 3 from Python 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;2to3&lt;/code&gt; was a good starting point but the &lt;code&gt;imports&lt;/code&gt; needed a lot of restructuring.&lt;/p&gt;
+
+&lt;p&gt;Then the other problems were all related to division operations. The default type is now Float, so &lt;code&gt;1/2&lt;/code&gt; returns &lt;code&gt;0.5&lt;/code&gt;, whereas in Python 2 it returns &lt;code&gt;0&lt;/code&gt; since the numerator is interpreted as an integer.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Drank coffee WAY too late in the evening and converted &lt;a href=&#34;https://twitter.com/DrPaulynomial?ref_src=twsrc%5Etfw&#34;&gt;@DrPaulynomial&lt;/a&gt;&amp;#39;s &lt;a href=&#34;https://twitter.com/hashtag/ActiveSubspaces?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ActiveSubspaces&lt;/a&gt; repo to &lt;a href=&#34;https://twitter.com/hashtag/Python3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Python3&lt;/a&gt;. Got to use my hub at &lt;a href=&#34;https://t.co/cYaLs3Qabi&#34;&gt;https://t.co/cYaLs3Qabi&lt;/a&gt; for development in a fresh environment, too! &lt;a href=&#34;https://twitter.com/hashtag/mathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#mathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/appliedmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#appliedmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/computationalmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#computationalmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/python2to3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#python2to3&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/dev?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#dev&lt;/a&gt; &lt;a href=&#34;https://t.co/30bprcephv&#34;&gt;pic.twitter.com/30bprcephv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mathematical Michael (@Mathematical_MP) &lt;a href=&#34;https://twitter.com/Mathematical_MP/status/1085431034261336065?ref_src=twsrc%5Etfw&#34;&gt;January 16, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The &lt;a href=&#34;https://github.com/paulcon/active_subspaces/pull/52&#34; target=&#34;_blank&#34;&gt;pull request&lt;/a&gt; in that image now needs to be merged, and likely amended with some Travis CI instructions to test for Python 3.6. At the very least, my passing status reflects backwards compatibility.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+
+&lt;script
+  src=&#34;https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js&#34;
+&gt;
+&lt;/script&gt;
+
+
+
+
+
+&lt;div class=&#34;calendar&#34;&gt;
+    
+    Loading the data just for you.
+&lt;/div&gt;
+
+&lt;script&gt;
+    new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
+&lt;/script&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;These set of commits mark my 20th contribution.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.mathematicalmichael.com/activity&#34;&gt;Full Activity&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GitHub Activity</title>
+      <link>https://www.mathematicalmichael.com/activity/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.mathematicalmichael.com/activity/</guid>
+      <description>&lt;p&gt;Here is a summary of my activity on Github from my new username.
+The primary repository is my thesis. I will gradually add public-facing projects here as well.
+
+&lt;script
+  src=&#34;https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js&#34;
+&gt;
+&lt;/script&gt;
+
+
+
+
+
+&lt;div class=&#34;calendar&#34;&gt;
+    
+    Loading the data just for you.
+&lt;/div&gt;
+
+&lt;script&gt;
+    new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
+&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;p&gt;For activity on my other profile, please visit &lt;a href=&#34;https://www.michaelpilosov.com/activity&#34; target=&#34;_blank&#34;&gt;my other website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 365: Walk</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001422527/</link>
       <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
       
@@ -31,7 +148,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 364: Polygon</title>
+      <title>Probably Art # 364: Polygon</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000292954/</link>
       <pubDate>Sun, 30 Dec 2018 01:11:41 -0700</pubDate>
       
@@ -51,7 +168,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 363: Line</title>
+      <title>Probably Art # 363: Line</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000035708/</link>
       <pubDate>Sat, 29 Dec 2018 23:02:58 -0700</pubDate>
       
@@ -71,7 +188,7 @@ $$\theta \sim \beta(1.442, 0.790). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 362: Walk</title>
+      <title>Probably Art # 362: Walk</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001240218/</link>
       <pubDate>Fri, 28 Dec 2018 13:36:33 -0700</pubDate>
       
@@ -91,7 +208,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 361: Walk</title>
+      <title>Probably Art # 361: Walk</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000126595/</link>
       <pubDate>Thu, 27 Dec 2018 23:46:24 -0700</pubDate>
       
@@ -111,7 +228,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 360: Walk</title>
+      <title>Probably Art # 360: Walk</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0004183970/</link>
       <pubDate>Wed, 26 Dec 2018 16:23:02 -0700</pubDate>
       
@@ -131,7 +248,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 359: Line</title>
+      <title>Probably Art # 359: Line</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0002575604/</link>
       <pubDate>Tue, 25 Dec 2018 09:34:49 -0700</pubDate>
       
@@ -151,7 +268,7 @@ $$\theta \sim \beta(3.000, 5.000). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 358: Polygon</title>
+      <title>Probably Art # 358: Polygon</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003993850/</link>
       <pubDate>Mon, 24 Dec 2018 16:08:34 -0700</pubDate>
       
@@ -171,7 +288,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 357: Line</title>
+      <title>Probably Art # 357: Line</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000150620/</link>
       <pubDate>Sun, 23 Dec 2018 04:04:53 -0700</pubDate>
       
@@ -191,7 +308,7 @@ $$\theta \sim \beta(8.000, 3.000). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 356: Walk</title>
+      <title>Probably Art # 356: Walk</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001438360/</link>
       <pubDate>Sat, 22 Dec 2018 08:48:57 -0700</pubDate>
       
@@ -211,7 +328,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 355: Line</title>
+      <title>Probably Art # 355: Line</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000047887/</link>
       <pubDate>Fri, 21 Dec 2018 09:42:33 -0700</pubDate>
       
@@ -231,7 +348,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Random || Not Random # 354: Polygon</title>
+      <title>Probably Art # 354: Polygon</title>
       <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000028094/</link>
       <pubDate>Thu, 20 Dec 2018 21:52:50 -0700</pubDate>
       
@@ -246,66 +363,6 @@ $$  | \lbrace r \rbrace | = 10,$$
 $$ r_0 = 0.2500,$$
 $$ R = 1.00, $$
 $$r \sim \beta(0.478, 0.846), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 353: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000446445/</link>
-      <pubDate>Wed, 19 Dec 2018 01:24:06 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000446445/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_006_446445]_r[Betax041_001_[1000_1000]_t[Beta360_006_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;250 steps in 6 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00446445, \; $$
-$$ | \lbrace \theta \rbrace | = 6, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 0.41, $$
-$$r \sim \beta(1.000, 1.000), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 352: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001580626/</link>
-      <pubDate>Tue, 18 Dec 2018 23:45:23 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0001580626/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_012_1580626]_r[Betax008_001_[1000_1000]_t[Beta360_012_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;250 steps in 12 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .01580626, \; $$
-$$ | \lbrace \theta \rbrace | = 12, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 0.08, $$
-$$r \sim \beta(1.000, 1.000), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Random || Not Random # 351: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000068800/</link>
-      <pubDate>Mon, 17 Dec 2018 04:36:42 -0700</pubDate>
-      
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000068800/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[070_007_2500]_r[Betax100_70000_[902_1305]_t[Beta360_071_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;70-sided polygon with vertices chosen from 7 distance(s) from the origin.&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00068800, \; $$
-$$ | \lbrace \theta \rbrace | = 70, $$
-$$  | \lbrace r \rbrace | = 7,$$
-$$ r_0 = 0.2500,$$
-$$ R = 1.00, $$
-$$r \sim \beta(0.902, 1.305), $$
 $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
 </description>
     </item>

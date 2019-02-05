@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://www.mathematicalmichael.com/post/matplotlib/</loc>
+      <lastmod>2019-02-01T07:41:48-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/post/activesubspaces/</loc>
+      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/activity/</loc>
+      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.mathematicalmichael.com/artwork/rnr_walks_0001422527/</loc>
       <lastmod>2018-12-31T04:10:58-07:00</lastmod>
     </url>
@@ -268,7 +292,7 @@
     
     <url>
     
-      <loc>https://www.mathematicalmichael.com/project/rab/</loc>
+      <loc>https://www.mathematicalmichael.com/project/rnr/</loc>
       <lastmod>2018-12-02T21:58:28-07:00</lastmod>
     </url>
     
@@ -276,7 +300,7 @@
     
     <url>
     
-      <loc>https://www.mathematicalmichael.com/project/rnr/</loc>
+      <loc>https://www.mathematicalmichael.com/project/rab/</loc>
       <lastmod>2018-12-02T21:58:28-07:00</lastmod>
     </url>
     
@@ -3543,6 +3567,15 @@
     
       <loc>https://www.mathematicalmichael.com/tags/deterministic/</loc>
       <lastmod>2018-12-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.mathematicalmichael.com/categories/documentation/</loc>
+      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

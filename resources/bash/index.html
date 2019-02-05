@@ -78,6 +78,8 @@
 
   <link rel="stylesheet" href="/styles.css">
   
+  <link rel="stylesheet" href="/css/style.css">
+  
 
   
   
@@ -456,6 +458,14 @@
 <p><a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html" target="_blank">For Loops</a></p>
 
 <p><a href="https://www.digitalocean.com/community/tutorials/how-to-use-bash-s-job-control-to-manage-foreground-and-background-processes" target="_blank">Digital Ocean has a great writeup to get you started</a></p>
+
+<p><a href="https://www.geeksforgeeks.org/sed-command-in-unix/" target="_blank">sed: String Replacement</a></p>
+
+<p>Here is an illustrative example. We want to change a folder&rsquo;s permissions, but the path name is surrounded in quotation marks and needs to be extracted from the output of another command (<code>docker ps</code>).
+Our desired path is the second string in the output of <code>grep</code>, so we pass it to <code>awk</code> before <code>sed</code>:</p>
+
+<pre><code class="language-bash">sudo chmod 777 $(docker inspect shared-shared | grep &quot;Mountpoint&quot; | awk '{print $2}' | sed 's/&quot;//g' | sed 's/,//g')
+</code></pre>
 
 <h2 id="linux">Linux</h2>
 
