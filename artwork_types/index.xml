@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artwork_types on Mathematical Michael</title>
-    <link>https://www.mathematicalmichael.com/artwork_types/</link>
+    <link>/artwork_types/</link>
     <description>Recent content in Artwork_types on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     <lastBuildDate>Sun, 30 Dec 2018 01:11:41 -0700</lastBuildDate>
     
-	<atom:link href="https://www.mathematicalmichael.com/artwork_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/artwork_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>10</title>
-      <link>https://www.mathematicalmichael.com/artwork_types/10/</link>
+      <link>/artwork_types/10/</link>
       <pubDate>Sun, 30 Dec 2018 01:11:41 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork_types/10/</guid>
+      <guid>/artwork_types/10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>7</title>
-      <link>https://www.mathematicalmichael.com/artwork_types/7/</link>
+      <link>/artwork_types/7/</link>
       <pubDate>Sat, 29 Dec 2018 23:02:58 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork_types/7/</guid>
+      <guid>/artwork_types/7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>8</title>
-      <link>https://www.mathematicalmichael.com/artwork_types/8/</link>
+      <link>/artwork_types/8/</link>
       <pubDate>Thu, 06 Dec 2018 17:32:15 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork_types/8/</guid>
+      <guid>/artwork_types/8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>9</title>
-      <link>https://www.mathematicalmichael.com/artwork_types/9/</link>
+      <link>/artwork_types/9/</link>
       <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork_types/9/</guid>
+      <guid>/artwork_types/9/</guid>
       <description></description>
     </item>
     

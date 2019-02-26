@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematical Michael on Mathematical Michael</title>
-    <link>https://www.mathematicalmichael.com/</link>
+    <link>/</link>
     <description>Recent content in Mathematical Michael on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Matplotlib Scatter Plots</title>
-      <link>https://www.mathematicalmichael.com/post/matplotlib/</link>
+      <link>/post/matplotlib/</link>
       <pubDate>Fri, 01 Feb 2019 07:41:48 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/post/matplotlib/</guid>
+      <guid>/post/matplotlib/</guid>
       <description>&lt;p&gt;I ran into a problem while upgrading code from Python 2 to Python 3 that required me to downgrade &lt;code&gt;matplotlib&lt;/code&gt; to version &lt;code&gt;2.2.3&lt;/code&gt; in order to get the functionality in place (all tests were passing except for plotting).
 Once that dust settled, I attempted to individually upgrade to &lt;code&gt;matplotlib==3.0.2&lt;/code&gt; and ran into trouble with how &lt;code&gt;scatter&lt;/code&gt; parses color sequences.&lt;/p&gt;
 
@@ -49,10 +49,10 @@ plt.scatter(np.reshape(x,-1),
     
     <item>
       <title>Active Subspaces</title>
-      <link>https://www.mathematicalmichael.com/post/activesubspaces/</link>
+      <link>/post/activesubspaces/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/post/activesubspaces/</guid>
+      <guid>/post/activesubspaces/</guid>
       <description>&lt;p&gt;I ran a series of tests and google searches to convert a repository to Python 3 from Python 2.&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;2to3&lt;/code&gt; was a good starting point but the &lt;code&gt;imports&lt;/code&gt; needed a lot of restructuring.&lt;/p&gt;
@@ -91,16 +91,16 @@ plt.scatter(np.reshape(x,-1),
 &lt;p&gt;&lt;em&gt;These set of commits mark my 20th contribution.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.mathematicalmichael.com/activity&#34;&gt;Full Activity&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/activity&#34;&gt;Full Activity&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GitHub Activity</title>
-      <link>https://www.mathematicalmichael.com/activity/</link>
+      <link>/activity/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/activity/</guid>
+      <guid>/activity/</guid>
       <description>&lt;p&gt;Here is a summary of my activity on Github from my new username.
 The primary repository is my thesis. I will gradually add public-facing projects here as well.
 
@@ -129,10 +129,10 @@ The primary repository is my thesis. I will gradually add public-facing projects
     
     <item>
       <title>Probably Art # 365: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001422527/</link>
+      <link>/artwork/rnr_walks_0001422527/</link>
       <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0001422527/</guid>
+      <guid>/artwork/rnr_walks_0001422527/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_006_1422527]_r[Betax058_001_[1000_1000]_t[Beta360_006_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;250 steps in 6 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
@@ -149,10 +149,10 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 364: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000292954/</link>
+      <link>/artwork/rnr_polygons_0000292954/</link>
       <pubDate>Sun, 30 Dec 2018 01:11:41 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000292954/</guid>
+      <guid>/artwork/rnr_polygons_0000292954/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[1834_009_2500]_r[Betax100_90000_[25000_44000]_t[Beta360_1835_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;1834-sided polygon with vertices chosen from 9 distance(s) from the origin.&lt;/p&gt;
@@ -169,10 +169,10 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 363: Line</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000035708/</link>
+      <link>/artwork/rnr_lines_0000035708/</link>
       <pubDate>Sat, 29 Dec 2018 23:02:58 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000035708/</guid>
+      <guid>/artwork/rnr_lines_0000035708/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[054_038]_r[Betax300_90000_[857_597]_t[Beta180_20000_[1442_790]]_S35708L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;2052 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 8 size(s).&lt;/p&gt;
@@ -189,10 +189,10 @@ $$\theta \sim \beta(1.442, 0.790). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 362: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001240218/</link>
+      <link>/artwork/rnr_walks_0001240218/</link>
       <pubDate>Fri, 28 Dec 2018 13:36:33 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0001240218/</guid>
+      <guid>/artwork/rnr_walks_0001240218/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_012_1240218]_r[Betax019_001_[1000_1000]_t[Beta360_012_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;250 steps in 12 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
@@ -209,10 +209,10 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 361: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0000126595/</link>
+      <link>/artwork/rnr_walks_0000126595/</link>
       <pubDate>Thu, 27 Dec 2018 23:46:24 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0000126595/</guid>
+      <guid>/artwork/rnr_walks_0000126595/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_008_126595]_r[Betax033_001_[1000_1000]_t[Beta360_008_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;250 steps in 8 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
@@ -229,10 +229,10 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 360: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0004183970/</link>
+      <link>/artwork/rnr_walks_0004183970/</link>
       <pubDate>Wed, 26 Dec 2018 16:23:02 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0004183970/</guid>
+      <guid>/artwork/rnr_walks_0004183970/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_010_4183970]_r[Betax008_008_[1000_1000]_t[Beta360_010_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;250 steps in 10 direction(s) chosen from 8 possible step size(s).&lt;/p&gt;
@@ -249,10 +249,10 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 359: Line</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0002575604/</link>
+      <link>/artwork/rnr_lines_0002575604/</link>
       <pubDate>Tue, 25 Dec 2018 09:34:49 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0002575604/</guid>
+      <guid>/artwork/rnr_lines_0002575604/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[009_023]_r[Betax400_90000_[37000_84000]_t[Beta180_80000_[3000_5000]]_S2575604L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;207 lines drawn through each origin in one of 8 direction(s) with lengths chosen from 8 size(s).&lt;/p&gt;
@@ -269,10 +269,10 @@ $$\theta \sim \beta(3.000, 5.000). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 358: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003993850/</link>
+      <link>/artwork/rnr_polygons_0003993850/</link>
       <pubDate>Mon, 24 Dec 2018 16:08:34 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003993850/</guid>
+      <guid>/artwork/rnr_polygons_0003993850/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[070_007_2500]_r[Betax100_70000_[32000_20000]_t[Beta360_071_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;70-sided polygon with vertices chosen from 7 distance(s) from the origin.&lt;/p&gt;
@@ -289,10 +289,10 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 357: Line</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000150620/</link>
+      <link>/artwork/rnr_lines_0000150620/</link>
       <pubDate>Sun, 23 Dec 2018 04:04:53 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000150620/</guid>
+      <guid>/artwork/rnr_lines_0000150620/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[033_044]_r[Betax300_20000_[23000_117000]_t[Beta180_50000_[8000_3000]]_S150620L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;1452 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).&lt;/p&gt;
@@ -309,10 +309,10 @@ $$\theta \sim \beta(8.000, 3.000). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 356: Walk</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_walks_0001438360/</link>
+      <link>/artwork/rnr_walks_0001438360/</link>
       <pubDate>Sat, 22 Dec 2018 08:48:57 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_walks_0001438360/</guid>
+      <guid>/artwork/rnr_walks_0001438360/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_012_1438360]_r[Betax024_001_[1000_1000]_t[Beta360_012_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;250 steps in 12 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
@@ -329,10 +329,10 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 355: Line</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_lines_0000047887/</link>
+      <link>/artwork/rnr_lines_0000047887/</link>
       <pubDate>Fri, 21 Dec 2018 09:42:33 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_lines_0000047887/</guid>
+      <guid>/artwork/rnr_lines_0000047887/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[032_023]_r[Betax400_40000_[1081_1249]_t[Beta_001_[1000_1000]]_S47887L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;736 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 3 size(s).&lt;/p&gt;
@@ -349,10 +349,10 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     
     <item>
       <title>Probably Art # 354: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000028094/</link>
+      <link>/artwork/rnr_polygons_0000028094/</link>
       <pubDate>Thu, 20 Dec 2018 21:52:50 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000028094/</guid>
+      <guid>/artwork/rnr_polygons_0000028094/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[133_010_2500]_r[Betax100_100000_[478_846]_t[Beta360_134_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;133-sided polygon with vertices chosen from 10 distance(s) from the origin.&lt;/p&gt;

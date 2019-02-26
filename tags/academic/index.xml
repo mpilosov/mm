@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>academic on Mathematical Michael</title>
-    <link>https://www.mathematicalmichael.com/tags/academic/</link>
+    <link>/tags/academic/</link>
     <description>Recent content in academic on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     <lastBuildDate>Wed, 05 Dec 2018 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://www.mathematicalmichael.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Regularization</title>
-      <link>https://www.mathematicalmichael.com/project/regular/</link>
+      <link>/project/regular/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/project/regular/</guid>
+      <guid>/project/regular/</guid>
       <description>.container{ max-width: 750px; }   MathJax.Hub.Config({ tex2jax: { inlineMath: [ [&#39;$&#39;,&#39;$&#39;], [&#34;\\(&#34;,&#34;\\)&#34;] ], displayMath: [ [&#39;$$&#39;,&#39;$$&#39;], [&#34;\\[&#34;,&#34;\\]&#34;] ], processEscapes: true, processEnvironments: true }, // Center justify equations in code and markdown cells. Elsewhere // we use CSS to left justify single line equations in code cells. displayAlign: &#39;center&#39;, &#34;HTML-CSS&#34;: { styles: {&#39;.MathJax_Display&#39;: {&#34;margin&#34;: 0}}, linebreaks: { automatic: true } } });   .cell.nbinteract-left { width: 50%; float: left; } .</description>
     </item>
     

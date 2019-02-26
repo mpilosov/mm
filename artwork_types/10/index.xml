@@ -2,1012 +2,1012 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>10 on Mathematical Michael</title>
-    <link>https://www.mathematicalmichael.com/artwork_types/10/</link>
+    <link>/artwork_types/10/</link>
     <description>Recent content in 10 on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     <lastBuildDate>Sun, 30 Dec 2018 01:11:41 -0700</lastBuildDate>
     
-	<atom:link href="https://www.mathematicalmichael.com/artwork_types/10/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/artwork_types/10/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Probably Art # 364: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000292954/</link>
+      <link>/artwork/rnr_polygons_0000292954/</link>
       <pubDate>Sun, 30 Dec 2018 01:11:41 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000292954/</guid>
+      <guid>/artwork/rnr_polygons_0000292954/</guid>
       <description>1834-sided polygon with vertices chosen from 9 distance(s) from the origin.
 $$ s = .00292954, \; $$ $$ | \lbrace \theta \rbrace | = 1834, $$ $$ | \lbrace r \rbrace | = 9,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(25.000, 44.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 358: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003993850/</link>
+      <link>/artwork/rnr_polygons_0003993850/</link>
       <pubDate>Mon, 24 Dec 2018 16:08:34 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003993850/</guid>
+      <guid>/artwork/rnr_polygons_0003993850/</guid>
       <description>70-sided polygon with vertices chosen from 7 distance(s) from the origin.
 $$ s = .03993850, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(32.000, 20.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 354: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000028094/</link>
+      <link>/artwork/rnr_polygons_0000028094/</link>
       <pubDate>Thu, 20 Dec 2018 21:52:50 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000028094/</guid>
+      <guid>/artwork/rnr_polygons_0000028094/</guid>
       <description>133-sided polygon with vertices chosen from 10 distance(s) from the origin.
 $$ s = .00028094, \; $$ $$ | \lbrace \theta \rbrace | = 133, $$ $$ | \lbrace r \rbrace | = 10,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.478, 0.846), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 351: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000068800/</link>
+      <link>/artwork/rnr_polygons_0000068800/</link>
       <pubDate>Mon, 17 Dec 2018 04:36:42 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000068800/</guid>
+      <guid>/artwork/rnr_polygons_0000068800/</guid>
       <description>70-sided polygon with vertices chosen from 7 distance(s) from the origin.
 $$ s = .00068800, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.902, 1.305), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 350: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0004748394/</link>
+      <link>/artwork/rnr_polygons_0004748394/</link>
       <pubDate>Sun, 16 Dec 2018 04:48:56 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0004748394/</guid>
+      <guid>/artwork/rnr_polygons_0004748394/</guid>
       <description>3144-sided polygon with vertices chosen from 10 distance(s) from the origin.
 $$ s = .04748394, \; $$ $$ | \lbrace \theta \rbrace | = 3144, $$ $$ | \lbrace r \rbrace | = 10,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.547, 1.153), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 344: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0004352794/</link>
+      <link>/artwork/rnr_polygons_0004352794/</link>
       <pubDate>Mon, 10 Dec 2018 20:43:56 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0004352794/</guid>
+      <guid>/artwork/rnr_polygons_0004352794/</guid>
       <description>70-sided polygon with vertices chosen from 10 distance(s) from the origin.
 $$ s = .04352794, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 10,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.785, 1.953), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 339: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000038014/</link>
+      <link>/artwork/rnr_polygons_0000038014/</link>
       <pubDate>Wed, 05 Dec 2018 03:28:21 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000038014/</guid>
+      <guid>/artwork/rnr_polygons_0000038014/</guid>
       <description>112-sided polygon with vertices chosen from 14 distance(s) from the origin.
 $$ s = .00038014, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 14,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.514, 0.861), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 337: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000064348/</link>
+      <link>/artwork/rnr_polygons_0000064348/</link>
       <pubDate>Mon, 03 Dec 2018 04:42:39 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000064348/</guid>
+      <guid>/artwork/rnr_polygons_0000064348/</guid>
       <description>70-sided polygon with vertices chosen from 20 distance(s) from the origin.
 $$ s = .00064348, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 20,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(40.000, 80.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 335: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000093902/</link>
+      <link>/artwork/rnr_polygons_0000093902/</link>
       <pubDate>Sat, 01 Dec 2018 09:38:16 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000093902/</guid>
+      <guid>/artwork/rnr_polygons_0000093902/</guid>
       <description>8160-sided polygon with vertices chosen from 13 distance(s) from the origin.
 $$ s = .00093902, \; $$ $$ | \lbrace \theta \rbrace | = 8160, $$ $$ | \lbrace r \rbrace | = 13,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.193, 0.320), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 330: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000082433/</link>
+      <link>/artwork/rnr_polygons_0000082433/</link>
       <pubDate>Mon, 26 Nov 2018 16:22:25 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000082433/</guid>
+      <guid>/artwork/rnr_polygons_0000082433/</guid>
       <description>7004-sided polygon with vertices chosen from 18 distance(s) from the origin.
 $$ s = .00082433, \; $$ $$ | \lbrace \theta \rbrace | = 7004, $$ $$ | \lbrace r \rbrace | = 18,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(38.000, 105.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 326: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000053581/</link>
+      <link>/artwork/rnr_polygons_0000053581/</link>
       <pubDate>Thu, 22 Nov 2018 20:16:22 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000053581/</guid>
+      <guid>/artwork/rnr_polygons_0000053581/</guid>
       <description>28-sided polygon with vertices chosen from 13 distance(s) from the origin.
 $$ s = .00053581, \; $$ $$ | \lbrace \theta \rbrace | = 28, $$ $$ | \lbrace r \rbrace | = 13,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.492, 0.379), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 325: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002847596/</link>
+      <link>/artwork/rnr_polygons_0002847596/</link>
       <pubDate>Wed, 21 Nov 2018 11:15:23 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002847596/</guid>
+      <guid>/artwork/rnr_polygons_0002847596/</guid>
       <description>6213-sided polygon with vertices chosen from 5 distance(s) from the origin.
 $$ s = .02847596, \; $$ $$ | \lbrace \theta \rbrace | = 6213, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.585, 1.741), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 319: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000137213/</link>
+      <link>/artwork/rnr_polygons_0000137213/</link>
       <pubDate>Thu, 15 Nov 2018 16:00:24 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000137213/</guid>
+      <guid>/artwork/rnr_polygons_0000137213/</guid>
       <description>6491-sided polygon with vertices chosen from 2 distance(s) from the origin.
 $$ s = .00137213, \; $$ $$ | \lbrace \theta \rbrace | = 6491, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(25.000, 93.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 318: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000033057/</link>
+      <link>/artwork/rnr_polygons_0000033057/</link>
       <pubDate>Wed, 14 Nov 2018 01:52:08 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000033057/</guid>
+      <guid>/artwork/rnr_polygons_0000033057/</guid>
       <description>6436-sided polygon with vertices chosen from 18 distance(s) from the origin.
 $$ s = .00033057, \; $$ $$ | \lbrace \theta \rbrace | = 6436, $$ $$ | \lbrace r \rbrace | = 18,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.257, 0.295), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 317: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000002236/</link>
+      <link>/artwork/rnr_polygons_0000002236/</link>
       <pubDate>Tue, 13 Nov 2018 12:42:33 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000002236/</guid>
+      <guid>/artwork/rnr_polygons_0000002236/</guid>
       <description>6197-sided polygon with vertices chosen from 6 distance(s) from the origin.
 $$ s = .00002236, \; $$ $$ | \lbrace \theta \rbrace | = 6197, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(12.000, 47.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 315: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000911185/</link>
+      <link>/artwork/rnr_polygons_0000911185/</link>
       <pubDate>Sun, 11 Nov 2018 23:32:57 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000911185/</guid>
+      <guid>/artwork/rnr_polygons_0000911185/</guid>
       <description>4804-sided polygon with vertices chosen from 5 distance(s) from the origin.
 $$ s = .00911185, \; $$ $$ | \lbrace \theta \rbrace | = 4804, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.359, 1.516), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 312: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000067231/</link>
+      <link>/artwork/rnr_polygons_0000067231/</link>
       <pubDate>Thu, 08 Nov 2018 10:39:10 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000067231/</guid>
+      <guid>/artwork/rnr_polygons_0000067231/</guid>
       <description>3155-sided polygon with vertices chosen from 14 distance(s) from the origin.
 $$ s = .00067231, \; $$ $$ | \lbrace \theta \rbrace | = 3155, $$ $$ | \lbrace r \rbrace | = 14,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(13.000, 13.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 310: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001235495/</link>
+      <link>/artwork/rnr_polygons_0001235495/</link>
       <pubDate>Tue, 06 Nov 2018 21:42:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001235495/</guid>
+      <guid>/artwork/rnr_polygons_0001235495/</guid>
       <description>4716-sided polygon with vertices chosen from 16 distance(s) from the origin.
 $$ s = .01235495, \; $$ $$ | \lbrace \theta \rbrace | = 4716, $$ $$ | \lbrace r \rbrace | = 16,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(26.000, 79.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 309: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000443808/</link>
+      <link>/artwork/rnr_polygons_0000443808/</link>
       <pubDate>Mon, 05 Nov 2018 20:27:57 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000443808/</guid>
+      <guid>/artwork/rnr_polygons_0000443808/</guid>
       <description>8300-sided polygon with vertices chosen from 11 distance(s) from the origin.
 $$ s = .00443808, \; $$ $$ | \lbrace \theta \rbrace | = 8300, $$ $$ | \lbrace r \rbrace | = 11,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.588, 1.775), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 305: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000027725/</link>
+      <link>/artwork/rnr_polygons_0000027725/</link>
       <pubDate>Thu, 01 Nov 2018 16:36:24 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000027725/</guid>
+      <guid>/artwork/rnr_polygons_0000027725/</guid>
       <description>1288-sided polygon with vertices chosen from 21 distance(s) from the origin.
 $$ s = .00027725, \; $$ $$ | \lbrace \theta \rbrace | = 1288, $$ $$ | \lbrace r \rbrace | = 21,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.216, 1.101), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 303: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000628662/</link>
+      <link>/artwork/rnr_polygons_0000628662/</link>
       <pubDate>Tue, 30 Oct 2018 01:22:36 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000628662/</guid>
+      <guid>/artwork/rnr_polygons_0000628662/</guid>
       <description>49-sided polygon with vertices chosen from 5 distance(s) from the origin.
 $$ s = .00628662, \; $$ $$ | \lbrace \theta \rbrace | = 49, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.401, 0.059), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 301: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000498392/</link>
+      <link>/artwork/rnr_polygons_0000498392/</link>
       <pubDate>Sun, 28 Oct 2018 06:08:53 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000498392/</guid>
+      <guid>/artwork/rnr_polygons_0000498392/</guid>
       <description>3740-sided polygon with vertices chosen from 16 distance(s) from the origin.
 $$ s = .00498392, \; $$ $$ | \lbrace \theta \rbrace | = 3740, $$ $$ | \lbrace r \rbrace | = 16,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.914, 0.259), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 299: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000083176/</link>
+      <link>/artwork/rnr_polygons_0000083176/</link>
       <pubDate>Fri, 26 Oct 2018 13:22:31 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000083176/</guid>
+      <guid>/artwork/rnr_polygons_0000083176/</guid>
       <description>112-sided polygon with vertices chosen from 6 distance(s) from the origin.
 $$ s = .00083176, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(26.000, 111.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 296: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000977770/</link>
+      <link>/artwork/rnr_polygons_0000977770/</link>
       <pubDate>Tue, 23 Oct 2018 05:29:08 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000977770/</guid>
+      <guid>/artwork/rnr_polygons_0000977770/</guid>
       <description>49-sided polygon with vertices chosen from 10 distance(s) from the origin.
 $$ s = .00977770, \; $$ $$ | \lbrace \theta \rbrace | = 49, $$ $$ | \lbrace r \rbrace | = 10,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(8.000, 114.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 292: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000079647/</link>
+      <link>/artwork/rnr_polygons_0000079647/</link>
       <pubDate>Fri, 19 Oct 2018 18:47:18 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000079647/</guid>
+      <guid>/artwork/rnr_polygons_0000079647/</guid>
       <description>5466-sided polygon with vertices chosen from 15 distance(s) from the origin.
 $$ s = .00079647, \; $$ $$ | \lbrace \theta \rbrace | = 5466, $$ $$ | \lbrace r \rbrace | = 15,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.975, 1.662), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 282: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000272715/</link>
+      <link>/artwork/rnr_polygons_0000272715/</link>
       <pubDate>Tue, 09 Oct 2018 02:31:09 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000272715/</guid>
+      <guid>/artwork/rnr_polygons_0000272715/</guid>
       <description>49-sided polygon with vertices chosen from 16 distance(s) from the origin.
 $$ s = .00272715, \; $$ $$ | \lbrace \theta \rbrace | = 49, $$ $$ | \lbrace r \rbrace | = 16,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(2.000, 46.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 280: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001087610/</link>
+      <link>/artwork/rnr_polygons_0001087610/</link>
       <pubDate>Sun, 07 Oct 2018 16:49:29 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001087610/</guid>
+      <guid>/artwork/rnr_polygons_0001087610/</guid>
       <description>1894-sided polygon with vertices chosen from 19 distance(s) from the origin.
 $$ s = .01087610, \; $$ $$ | \lbrace \theta \rbrace | = 1894, $$ $$ | \lbrace r \rbrace | = 19,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.827, 1.610), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 276: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000757884/</link>
+      <link>/artwork/rnr_polygons_0000757884/</link>
       <pubDate>Wed, 03 Oct 2018 23:18:31 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000757884/</guid>
+      <guid>/artwork/rnr_polygons_0000757884/</guid>
       <description>70-sided polygon with vertices chosen from 19 distance(s) from the origin.
 $$ s = .00757884, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 19,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.942, 1.565), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 275: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000403048/</link>
+      <link>/artwork/rnr_polygons_0000403048/</link>
       <pubDate>Tue, 02 Oct 2018 12:29:22 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000403048/</guid>
+      <guid>/artwork/rnr_polygons_0000403048/</guid>
       <description>49-sided polygon with vertices chosen from 13 distance(s) from the origin.
 $$ s = .00403048, \; $$ $$ | \lbrace \theta \rbrace | = 49, $$ $$ | \lbrace r \rbrace | = 13,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(11.000, 81.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 268: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000645996/</link>
+      <link>/artwork/rnr_polygons_0000645996/</link>
       <pubDate>Tue, 25 Sep 2018 01:06:17 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000645996/</guid>
+      <guid>/artwork/rnr_polygons_0000645996/</guid>
       <description>4594-sided polygon with vertices chosen from 18 distance(s) from the origin.
 $$ s = .00645996, \; $$ $$ | \lbrace \theta \rbrace | = 4594, $$ $$ | \lbrace r \rbrace | = 18,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(34.000, 8.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 260: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000199582/</link>
+      <link>/artwork/rnr_polygons_0000199582/</link>
       <pubDate>Mon, 17 Sep 2018 08:53:50 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000199582/</guid>
+      <guid>/artwork/rnr_polygons_0000199582/</guid>
       <description>30-sided polygon with vertices chosen from 20 distance(s) from the origin.
 $$ s = .00199582, \; $$ $$ | \lbrace \theta \rbrace | = 30, $$ $$ | \lbrace r \rbrace | = 20,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(27.000, 116.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 259: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000140969/</link>
+      <link>/artwork/rnr_polygons_0000140969/</link>
       <pubDate>Sun, 16 Sep 2018 04:07:41 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000140969/</guid>
+      <guid>/artwork/rnr_polygons_0000140969/</guid>
       <description>669-sided polygon with vertices chosen from 14 distance(s) from the origin.
 $$ s = .00140969, \; $$ $$ | \lbrace \theta \rbrace | = 669, $$ $$ | \lbrace r \rbrace | = 14,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.289, 1.461), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 255: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000107665/</link>
+      <link>/artwork/rnr_polygons_0000107665/</link>
       <pubDate>Wed, 12 Sep 2018 05:05:07 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000107665/</guid>
+      <guid>/artwork/rnr_polygons_0000107665/</guid>
       <description>112-sided polygon with vertices chosen from 10 distance(s) from the origin.
 $$ s = .00107665, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 10,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(32.000, 9.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 252: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000019651/</link>
+      <link>/artwork/rnr_polygons_0000019651/</link>
       <pubDate>Sun, 09 Sep 2018 11:44:01 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000019651/</guid>
+      <guid>/artwork/rnr_polygons_0000019651/</guid>
       <description>4143-sided polygon with vertices chosen from 21 distance(s) from the origin.
 $$ s = .00019651, \; $$ $$ | \lbrace \theta \rbrace | = 4143, $$ $$ | \lbrace r \rbrace | = 21,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(29.000, 111.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 250: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000655461/</link>
+      <link>/artwork/rnr_polygons_0000655461/</link>
       <pubDate>Fri, 07 Sep 2018 14:35:44 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000655461/</guid>
+      <guid>/artwork/rnr_polygons_0000655461/</guid>
       <description>5249-sided polygon with vertices chosen from 9 distance(s) from the origin.
 $$ s = .00655461, \; $$ $$ | \lbrace \theta \rbrace | = 5249, $$ $$ | \lbrace r \rbrace | = 9,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(28.000, 69.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 246: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000003505/</link>
+      <link>/artwork/rnr_polygons_0000003505/</link>
       <pubDate>Mon, 03 Sep 2018 03:28:37 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000003505/</guid>
+      <guid>/artwork/rnr_polygons_0000003505/</guid>
       <description>4556-sided polygon with vertices chosen from 3 distance(s) from the origin.
 $$ s = .00003505, \; $$ $$ | \lbrace \theta \rbrace | = 4556, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(29.000, 23.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 240: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000035278/</link>
+      <link>/artwork/rnr_polygons_0000035278/</link>
       <pubDate>Tue, 28 Aug 2018 14:32:24 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000035278/</guid>
+      <guid>/artwork/rnr_polygons_0000035278/</guid>
       <description>6224-sided polygon with vertices chosen from 16 distance(s) from the origin.
 $$ s = .00035278, \; $$ $$ | \lbrace \theta \rbrace | = 6224, $$ $$ | \lbrace r \rbrace | = 16,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.100, 1.442), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 237: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000026935/</link>
+      <link>/artwork/rnr_polygons_0000026935/</link>
       <pubDate>Sat, 25 Aug 2018 13:25:03 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000026935/</guid>
+      <guid>/artwork/rnr_polygons_0000026935/</guid>
       <description>6994-sided polygon with vertices chosen from 21 distance(s) from the origin.
 $$ s = .00026935, \; $$ $$ | \lbrace \theta \rbrace | = 6994, $$ $$ | \lbrace r \rbrace | = 21,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.467, 0.276), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 236: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000069854/</link>
+      <link>/artwork/rnr_polygons_0000069854/</link>
       <pubDate>Fri, 24 Aug 2018 02:20:36 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000069854/</guid>
+      <guid>/artwork/rnr_polygons_0000069854/</guid>
       <description>70-sided polygon with vertices chosen from 7 distance(s) from the origin.
 $$ s = .00069854, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(6.000, 80.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 234: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000176440/</link>
+      <link>/artwork/rnr_polygons_0000176440/</link>
       <pubDate>Wed, 22 Aug 2018 00:39:21 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000176440/</guid>
+      <guid>/artwork/rnr_polygons_0000176440/</guid>
       <description>1284-sided polygon with vertices chosen from 19 distance(s) from the origin.
 $$ s = .00176440, \; $$ $$ | \lbrace \theta \rbrace | = 1284, $$ $$ | \lbrace r \rbrace | = 19,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.076, 1.914), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 225: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000026552/</link>
+      <link>/artwork/rnr_polygons_0000026552/</link>
       <pubDate>Mon, 13 Aug 2018 04:10:35 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000026552/</guid>
+      <guid>/artwork/rnr_polygons_0000026552/</guid>
       <description>133-sided polygon with vertices chosen from 9 distance(s) from the origin.
 $$ s = .00026552, \; $$ $$ | \lbrace \theta \rbrace | = 133, $$ $$ | \lbrace r \rbrace | = 9,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.094, 1.389), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 221: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001193906/</link>
+      <link>/artwork/rnr_polygons_0001193906/</link>
       <pubDate>Thu, 09 Aug 2018 10:07:25 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001193906/</guid>
+      <guid>/artwork/rnr_polygons_0001193906/</guid>
       <description>49-sided polygon with vertices chosen from 12 distance(s) from the origin.
 $$ s = .01193906, \; $$ $$ | \lbrace \theta \rbrace | = 49, $$ $$ | \lbrace r \rbrace | = 12,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.689, 1.767), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 218: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000147668/</link>
+      <link>/artwork/rnr_polygons_0000147668/</link>
       <pubDate>Mon, 06 Aug 2018 01:19:27 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000147668/</guid>
+      <guid>/artwork/rnr_polygons_0000147668/</guid>
       <description>133-sided polygon with vertices chosen from 20 distance(s) from the origin.
 $$ s = .00147668, \; $$ $$ | \lbrace \theta \rbrace | = 133, $$ $$ | \lbrace r \rbrace | = 20,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.004, 1.471), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 216: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001585734/</link>
+      <link>/artwork/rnr_polygons_0001585734/</link>
       <pubDate>Sat, 04 Aug 2018 23:54:08 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001585734/</guid>
+      <guid>/artwork/rnr_polygons_0001585734/</guid>
       <description>91-sided polygon with vertices chosen from 5 distance(s) from the origin.
 $$ s = .01585734, \; $$ $$ | \lbrace \theta \rbrace | = 91, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(25.000, 38.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 213: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000001578/</link>
+      <link>/artwork/rnr_polygons_0000001578/</link>
       <pubDate>Wed, 01 Aug 2018 05:36:56 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000001578/</guid>
+      <guid>/artwork/rnr_polygons_0000001578/</guid>
       <description>5562-sided polygon with vertices chosen from 10 distance(s) from the origin.
 $$ s = .00001578, \; $$ $$ | \lbrace \theta \rbrace | = 5562, $$ $$ | \lbrace r \rbrace | = 10,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(32.000, 15.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 208: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000279711/</link>
+      <link>/artwork/rnr_polygons_0000279711/</link>
       <pubDate>Fri, 27 Jul 2018 03:09:02 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000279711/</guid>
+      <guid>/artwork/rnr_polygons_0000279711/</guid>
       <description>487-sided polygon with vertices chosen from 6 distance(s) from the origin.
 $$ s = .00279711, \; $$ $$ | \lbrace \theta \rbrace | = 487, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(18.000, 71.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 201: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002768299/</link>
+      <link>/artwork/rnr_polygons_0002768299/</link>
       <pubDate>Fri, 20 Jul 2018 13:58:55 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002768299/</guid>
+      <guid>/artwork/rnr_polygons_0002768299/</guid>
       <description>133-sided polygon with vertices chosen from 15 distance(s) from the origin.
 $$ s = .02768299, \; $$ $$ | \lbrace \theta \rbrace | = 133, $$ $$ | \lbrace r \rbrace | = 15,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.789, 1.066), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 198: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000169657/</link>
+      <link>/artwork/rnr_polygons_0000169657/</link>
       <pubDate>Tue, 17 Jul 2018 16:34:51 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000169657/</guid>
+      <guid>/artwork/rnr_polygons_0000169657/</guid>
       <description>70-sided polygon with vertices chosen from 8 distance(s) from the origin.
 $$ s = .00169657, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.308, 0.514), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 197: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001803699/</link>
+      <link>/artwork/rnr_polygons_0001803699/</link>
       <pubDate>Mon, 16 Jul 2018 10:47:16 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001803699/</guid>
+      <guid>/artwork/rnr_polygons_0001803699/</guid>
       <description>367-sided polygon with vertices chosen from 15 distance(s) from the origin.
 $$ s = .01803699, \; $$ $$ | \lbrace \theta \rbrace | = 367, $$ $$ | \lbrace r \rbrace | = 15,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(18.000, 4.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 193: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000765315/</link>
+      <link>/artwork/rnr_polygons_0000765315/</link>
       <pubDate>Thu, 12 Jul 2018 09:21:20 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000765315/</guid>
+      <guid>/artwork/rnr_polygons_0000765315/</guid>
       <description>112-sided polygon with vertices chosen from 15 distance(s) from the origin.
 $$ s = .00765315, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 15,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(34.000, 36.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 190: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000103293/</link>
+      <link>/artwork/rnr_polygons_0000103293/</link>
       <pubDate>Mon, 09 Jul 2018 10:53:15 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000103293/</guid>
+      <guid>/artwork/rnr_polygons_0000103293/</guid>
       <description>49-sided polygon with vertices chosen from 7 distance(s) from the origin.
 $$ s = .00103293, \; $$ $$ | \lbrace \theta \rbrace | = 49, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.626, 1.222), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 188: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000280337/</link>
+      <link>/artwork/rnr_polygons_0000280337/</link>
       <pubDate>Sat, 07 Jul 2018 10:42:47 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000280337/</guid>
+      <guid>/artwork/rnr_polygons_0000280337/</guid>
       <description>5226-sided polygon with vertices chosen from 20 distance(s) from the origin.
 $$ s = .00280337, \; $$ $$ | \lbrace \theta \rbrace | = 5226, $$ $$ | \lbrace r \rbrace | = 20,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(4.000, 78.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 187: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000037761/</link>
+      <link>/artwork/rnr_polygons_0000037761/</link>
       <pubDate>Fri, 06 Jul 2018 05:52:01 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000037761/</guid>
+      <guid>/artwork/rnr_polygons_0000037761/</guid>
       <description>133-sided polygon with vertices chosen from 7 distance(s) from the origin.
 $$ s = .00037761, \; $$ $$ | \lbrace \theta \rbrace | = 133, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.640, 0.972), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 176: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000327513/</link>
+      <link>/artwork/rnr_polygons_0000327513/</link>
       <pubDate>Mon, 25 Jun 2018 01:53:53 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000327513/</guid>
+      <guid>/artwork/rnr_polygons_0000327513/</guid>
       <description>5475-sided polygon with vertices chosen from 9 distance(s) from the origin.
 $$ s = .00327513, \; $$ $$ | \lbrace \theta \rbrace | = 5475, $$ $$ | \lbrace r \rbrace | = 9,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.863, 1.702), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 174: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000230617/</link>
+      <link>/artwork/rnr_polygons_0000230617/</link>
       <pubDate>Sat, 23 Jun 2018 12:03:00 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000230617/</guid>
+      <guid>/artwork/rnr_polygons_0000230617/</guid>
       <description>5852-sided polygon with vertices chosen from 10 distance(s) from the origin.
 $$ s = .00230617, \; $$ $$ | \lbrace \theta \rbrace | = 5852, $$ $$ | \lbrace r \rbrace | = 10,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.158, 1.034), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 173: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001787984/</link>
+      <link>/artwork/rnr_polygons_0001787984/</link>
       <pubDate>Fri, 22 Jun 2018 08:45:00 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001787984/</guid>
+      <guid>/artwork/rnr_polygons_0001787984/</guid>
       <description>28-sided polygon with vertices chosen from 5 distance(s) from the origin.
 $$ s = .01787984, \; $$ $$ | \lbrace \theta \rbrace | = 28, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(13.000, 24.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 166: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000111943/</link>
+      <link>/artwork/rnr_polygons_0000111943/</link>
       <pubDate>Fri, 15 Jun 2018 17:31:46 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000111943/</guid>
+      <guid>/artwork/rnr_polygons_0000111943/</guid>
       <description>2187-sided polygon with vertices chosen from 12 distance(s) from the origin.
 $$ s = .00111943, \; $$ $$ | \lbrace \theta \rbrace | = 2187, $$ $$ | \lbrace r \rbrace | = 12,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.382, 0.956), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 164: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003130956/</link>
+      <link>/artwork/rnr_polygons_0003130956/</link>
       <pubDate>Wed, 13 Jun 2018 23:29:49 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003130956/</guid>
+      <guid>/artwork/rnr_polygons_0003130956/</guid>
       <description>6955-sided polygon with vertices chosen from 18 distance(s) from the origin.
 $$ s = .03130956, \; $$ $$ | \lbrace \theta \rbrace | = 6955, $$ $$ | \lbrace r \rbrace | = 18,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.055, 1.352), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 162: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001082180/</link>
+      <link>/artwork/rnr_polygons_0001082180/</link>
       <pubDate>Mon, 11 Jun 2018 13:34:05 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001082180/</guid>
+      <guid>/artwork/rnr_polygons_0001082180/</guid>
       <description>91-sided polygon with vertices chosen from 6 distance(s) from the origin.
 $$ s = .01082180, \; $$ $$ | \lbrace \theta \rbrace | = 91, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.225, 0.222), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 160: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000071179/</link>
+      <link>/artwork/rnr_polygons_0000071179/</link>
       <pubDate>Sat, 09 Jun 2018 16:08:32 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000071179/</guid>
+      <guid>/artwork/rnr_polygons_0000071179/</guid>
       <description>49-sided polygon with vertices chosen from 3 distance(s) from the origin.
 $$ s = .00071179, \; $$ $$ | \lbrace \theta \rbrace | = 49, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.215, 0.514), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 158: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000030328/</link>
+      <link>/artwork/rnr_polygons_0000030328/</link>
       <pubDate>Thu, 07 Jun 2018 07:57:59 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000030328/</guid>
+      <guid>/artwork/rnr_polygons_0000030328/</guid>
       <description>7-sided polygon with vertices chosen from 16 distance(s) from the origin.
 $$ s = .00030328, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 16,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.436, 1.312), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 152: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000245880/</link>
+      <link>/artwork/rnr_polygons_0000245880/</link>
       <pubDate>Fri, 01 Jun 2018 10:59:36 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000245880/</guid>
+      <guid>/artwork/rnr_polygons_0000245880/</guid>
       <description>186-sided polygon with vertices chosen from 8 distance(s) from the origin.
 $$ s = .00245880, \; $$ $$ | \lbrace \theta \rbrace | = 186, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.694, 0.053), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 151: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0005336665/</link>
+      <link>/artwork/rnr_polygons_0005336665/</link>
       <pubDate>Thu, 31 May 2018 14:20:15 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0005336665/</guid>
+      <guid>/artwork/rnr_polygons_0005336665/</guid>
       <description>7827-sided polygon with vertices chosen from 20 distance(s) from the origin.
 $$ s = .05336665, \; $$ $$ | \lbrace \theta \rbrace | = 7827, $$ $$ | \lbrace r \rbrace | = 20,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.770, 0.628), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 149: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000146150/</link>
+      <link>/artwork/rnr_polygons_0000146150/</link>
       <pubDate>Tue, 29 May 2018 16:24:55 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000146150/</guid>
+      <guid>/artwork/rnr_polygons_0000146150/</guid>
       <description>1595-sided polygon with vertices chosen from 8 distance(s) from the origin.
 $$ s = .00146150, \; $$ $$ | \lbrace \theta \rbrace | = 1595, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(32.000, 72.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 146: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003134559/</link>
+      <link>/artwork/rnr_polygons_0003134559/</link>
       <pubDate>Sat, 26 May 2018 12:12:49 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003134559/</guid>
+      <guid>/artwork/rnr_polygons_0003134559/</guid>
       <description>112-sided polygon with vertices chosen from 20 distance(s) from the origin.
 $$ s = .03134559, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 20,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(5.000, 120.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 145: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0005564427/</link>
+      <link>/artwork/rnr_polygons_0005564427/</link>
       <pubDate>Fri, 25 May 2018 09:25:18 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0005564427/</guid>
+      <guid>/artwork/rnr_polygons_0005564427/</guid>
       <description>91-sided polygon with vertices chosen from 9 distance(s) from the origin.
 $$ s = .05564427, \; $$ $$ | \lbrace \theta \rbrace | = 91, $$ $$ | \lbrace r \rbrace | = 9,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(28.000, 115.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 138: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002191523/</link>
+      <link>/artwork/rnr_polygons_0002191523/</link>
       <pubDate>Fri, 18 May 2018 11:16:37 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002191523/</guid>
+      <guid>/artwork/rnr_polygons_0002191523/</guid>
       <description>3898-sided polygon with vertices chosen from 16 distance(s) from the origin.
 $$ s = .02191523, \; $$ $$ | \lbrace \theta \rbrace | = 3898, $$ $$ | \lbrace r \rbrace | = 16,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(14.000, 113.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 131: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000080091/</link>
+      <link>/artwork/rnr_polygons_0000080091/</link>
       <pubDate>Fri, 11 May 2018 14:15:52 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000080091/</guid>
+      <guid>/artwork/rnr_polygons_0000080091/</guid>
       <description>8210-sided polygon with vertices chosen from 11 distance(s) from the origin.
 $$ s = .00080091, \; $$ $$ | \lbrace \theta \rbrace | = 8210, $$ $$ | \lbrace r \rbrace | = 11,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.565, 0.162), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 130: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003177787/</link>
+      <link>/artwork/rnr_polygons_0003177787/</link>
       <pubDate>Thu, 10 May 2018 13:30:51 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003177787/</guid>
+      <guid>/artwork/rnr_polygons_0003177787/</guid>
       <description>2681-sided polygon with vertices chosen from 12 distance(s) from the origin.
 $$ s = .03177787, \; $$ $$ | \lbrace \theta \rbrace | = 2681, $$ $$ | \lbrace r \rbrace | = 12,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(38.000, 68.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 118: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000275166/</link>
+      <link>/artwork/rnr_polygons_0000275166/</link>
       <pubDate>Sat, 28 Apr 2018 22:16:25 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000275166/</guid>
+      <guid>/artwork/rnr_polygons_0000275166/</guid>
       <description>7-sided polygon with vertices chosen from 10 distance(s) from the origin.
 $$ s = .00275166, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 10,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.075, 1.850), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 117: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000787278/</link>
+      <link>/artwork/rnr_polygons_0000787278/</link>
       <pubDate>Fri, 27 Apr 2018 13:01:50 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000787278/</guid>
+      <guid>/artwork/rnr_polygons_0000787278/</guid>
       <description>133-sided polygon with vertices chosen from 18 distance(s) from the origin.
 $$ s = .00787278, \; $$ $$ | \lbrace \theta \rbrace | = 133, $$ $$ | \lbrace r \rbrace | = 18,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.017, 1.631), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 116: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000107056/</link>
+      <link>/artwork/rnr_polygons_0000107056/</link>
       <pubDate>Thu, 26 Apr 2018 10:43:28 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000107056/</guid>
+      <guid>/artwork/rnr_polygons_0000107056/</guid>
       <description>112-sided polygon with vertices chosen from 4 distance(s) from the origin.
 $$ s = .00107056, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.972, 1.956), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 114: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000137826/</link>
+      <link>/artwork/rnr_polygons_0000137826/</link>
       <pubDate>Tue, 24 Apr 2018 00:32:50 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000137826/</guid>
+      <guid>/artwork/rnr_polygons_0000137826/</guid>
       <description>5395-sided polygon with vertices chosen from 12 distance(s) from the origin.
 $$ s = .00137826, \; $$ $$ | \lbrace \theta \rbrace | = 5395, $$ $$ | \lbrace r \rbrace | = 12,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(16.000, 69.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 109: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000270873/</link>
+      <link>/artwork/rnr_polygons_0000270873/</link>
       <pubDate>Thu, 19 Apr 2018 04:22:57 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000270873/</guid>
+      <guid>/artwork/rnr_polygons_0000270873/</guid>
       <description>6308-sided polygon with vertices chosen from 16 distance(s) from the origin.
 $$ s = .00270873, \; $$ $$ | \lbrace \theta \rbrace | = 6308, $$ $$ | \lbrace r \rbrace | = 16,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.566, 1.862), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 106: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000925106/</link>
+      <link>/artwork/rnr_polygons_0000925106/</link>
       <pubDate>Mon, 16 Apr 2018 13:27:04 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000925106/</guid>
+      <guid>/artwork/rnr_polygons_0000925106/</guid>
       <description>8352-sided polygon with vertices chosen from 3 distance(s) from the origin.
 $$ s = .00925106, \; $$ $$ | \lbrace \theta \rbrace | = 8352, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(7.000, 62.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 102: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000063006/</link>
+      <link>/artwork/rnr_polygons_0000063006/</link>
       <pubDate>Thu, 12 Apr 2018 00:46:33 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000063006/</guid>
+      <guid>/artwork/rnr_polygons_0000063006/</guid>
       <description>1267-sided polygon with vertices chosen from 12 distance(s) from the origin.
 $$ s = .00063006, \; $$ $$ | \lbrace \theta \rbrace | = 1267, $$ $$ | \lbrace r \rbrace | = 12,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(14.000, 25.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 99: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003183951/</link>
+      <link>/artwork/rnr_polygons_0003183951/</link>
       <pubDate>Mon, 09 Apr 2018 18:27:57 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0003183951/</guid>
+      <guid>/artwork/rnr_polygons_0003183951/</guid>
       <description>49-sided polygon with vertices chosen from 7 distance(s) from the origin.
 $$ s = .03183951, \; $$ $$ | \lbrace \theta \rbrace | = 49, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.507, 1.608), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 78: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000276543/</link>
+      <link>/artwork/rnr_polygons_0000276543/</link>
       <pubDate>Mon, 19 Mar 2018 23:28:48 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000276543/</guid>
+      <guid>/artwork/rnr_polygons_0000276543/</guid>
       <description>3272-sided polygon with vertices chosen from 21 distance(s) from the origin.
 $$ s = .00276543, \; $$ $$ | \lbrace \theta \rbrace | = 3272, $$ $$ | \lbrace r \rbrace | = 21,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.544, 1.712), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 70: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002922293/</link>
+      <link>/artwork/rnr_polygons_0002922293/</link>
       <pubDate>Sun, 11 Mar 2018 16:32:47 -0600</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002922293/</guid>
+      <guid>/artwork/rnr_polygons_0002922293/</guid>
       <description>6729-sided polygon with vertices chosen from 11 distance(s) from the origin.
 $$ s = .02922293, \; $$ $$ | \lbrace \theta \rbrace | = 6729, $$ $$ | \lbrace r \rbrace | = 11,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.821, 1.073), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 64: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000008335/</link>
+      <link>/artwork/rnr_polygons_0000008335/</link>
       <pubDate>Mon, 05 Mar 2018 00:23:51 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000008335/</guid>
+      <guid>/artwork/rnr_polygons_0000008335/</guid>
       <description>112-sided polygon with vertices chosen from 11 distance(s) from the origin.
 $$ s = .00008335, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 11,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(19.000, 64.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 62: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000115084/</link>
+      <link>/artwork/rnr_polygons_0000115084/</link>
       <pubDate>Sat, 03 Mar 2018 08:40:34 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000115084/</guid>
+      <guid>/artwork/rnr_polygons_0000115084/</guid>
       <description>6716-sided polygon with vertices chosen from 21 distance(s) from the origin.
 $$ s = .00115084, \; $$ $$ | \lbrace \theta \rbrace | = 6716, $$ $$ | \lbrace r \rbrace | = 21,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.761, 0.380), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 60: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000108523/</link>
+      <link>/artwork/rnr_polygons_0000108523/</link>
       <pubDate>Thu, 01 Mar 2018 19:59:48 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000108523/</guid>
+      <guid>/artwork/rnr_polygons_0000108523/</guid>
       <description>7860-sided polygon with vertices chosen from 11 distance(s) from the origin.
 $$ s = .00108523, \; $$ $$ | \lbrace \theta \rbrace | = 7860, $$ $$ | \lbrace r \rbrace | = 11,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(41.000, 55.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 50: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000042414/</link>
+      <link>/artwork/rnr_polygons_0000042414/</link>
       <pubDate>Mon, 19 Feb 2018 05:31:54 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000042414/</guid>
+      <guid>/artwork/rnr_polygons_0000042414/</guid>
       <description>112-sided polygon with vertices chosen from 6 distance(s) from the origin.
 $$ s = .00042414, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(19.000, 29.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 45: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002772618/</link>
+      <link>/artwork/rnr_polygons_0002772618/</link>
       <pubDate>Wed, 14 Feb 2018 16:48:57 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002772618/</guid>
+      <guid>/artwork/rnr_polygons_0002772618/</guid>
       <description>7-sided polygon with vertices chosen from 2 distance(s) from the origin.
 $$ s = .02772618, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(38.000, 85.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 44: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000049067/</link>
+      <link>/artwork/rnr_polygons_0000049067/</link>
       <pubDate>Tue, 13 Feb 2018 14:58:53 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000049067/</guid>
+      <guid>/artwork/rnr_polygons_0000049067/</guid>
       <description>5526-sided polygon with vertices chosen from 14 distance(s) from the origin.
 $$ s = .00049067, \; $$ $$ | \lbrace \theta \rbrace | = 5526, $$ $$ | \lbrace r \rbrace | = 14,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.858, 1.552), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 43: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000039920/</link>
+      <link>/artwork/rnr_polygons_0000039920/</link>
       <pubDate>Mon, 12 Feb 2018 04:32:50 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000039920/</guid>
+      <guid>/artwork/rnr_polygons_0000039920/</guid>
       <description>719-sided polygon with vertices chosen from 18 distance(s) from the origin.
 $$ s = .00039920, \; $$ $$ | \lbrace \theta \rbrace | = 719, $$ $$ | \lbrace r \rbrace | = 18,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(32.000, 61.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 41: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002935264/</link>
+      <link>/artwork/rnr_polygons_0002935264/</link>
       <pubDate>Sat, 10 Feb 2018 19:12:40 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0002935264/</guid>
+      <guid>/artwork/rnr_polygons_0002935264/</guid>
       <description>70-sided polygon with vertices chosen from 13 distance(s) from the origin.
 $$ s = .02935264, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 13,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(2.000, 103.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 39: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001636908/</link>
+      <link>/artwork/rnr_polygons_0001636908/</link>
       <pubDate>Thu, 08 Feb 2018 19:29:10 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001636908/</guid>
+      <guid>/artwork/rnr_polygons_0001636908/</guid>
       <description>3401-sided polygon with vertices chosen from 21 distance(s) from the origin.
 $$ s = .01636908, \; $$ $$ | \lbrace \theta \rbrace | = 3401, $$ $$ | \lbrace r \rbrace | = 21,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.782, 0.088), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 37: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001245086/</link>
+      <link>/artwork/rnr_polygons_0001245086/</link>
       <pubDate>Tue, 06 Feb 2018 18:21:27 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0001245086/</guid>
+      <guid>/artwork/rnr_polygons_0001245086/</guid>
       <description>2406-sided polygon with vertices chosen from 12 distance(s) from the origin.
 $$ s = .01245086, \; $$ $$ | \lbrace \theta \rbrace | = 2406, $$ $$ | \lbrace r \rbrace | = 12,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(26.000, 120.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 36: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000347074/</link>
+      <link>/artwork/rnr_polygons_0000347074/</link>
       <pubDate>Mon, 05 Feb 2018 03:12:31 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000347074/</guid>
+      <guid>/artwork/rnr_polygons_0000347074/</guid>
       <description>7826-sided polygon with vertices chosen from 4 distance(s) from the origin.
 $$ s = .00347074, \; $$ $$ | \lbrace \theta \rbrace | = 7826, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.433, 1.217), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 34: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000454508/</link>
+      <link>/artwork/rnr_polygons_0000454508/</link>
       <pubDate>Sat, 03 Feb 2018 19:31:03 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000454508/</guid>
+      <guid>/artwork/rnr_polygons_0000454508/</guid>
       <description>70-sided polygon with vertices chosen from 10 distance(s) from the origin.
 $$ s = .00454508, \; $$ $$ | \lbrace \theta \rbrace | = 70, $$ $$ | \lbrace r \rbrace | = 10,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.690, 0.493), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 33: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000370460/</link>
+      <link>/artwork/rnr_polygons_0000370460/</link>
       <pubDate>Fri, 02 Feb 2018 12:50:31 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000370460/</guid>
+      <guid>/artwork/rnr_polygons_0000370460/</guid>
       <description>6905-sided polygon with vertices chosen from 15 distance(s) from the origin.
 $$ s = .00370460, \; $$ $$ | \lbrace \theta \rbrace | = 6905, $$ $$ | \lbrace r \rbrace | = 15,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(0.263, 0.974), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 25: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000077708/</link>
+      <link>/artwork/rnr_polygons_0000077708/</link>
       <pubDate>Thu, 25 Jan 2018 09:38:57 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000077708/</guid>
+      <guid>/artwork/rnr_polygons_0000077708/</guid>
       <description>91-sided polygon with vertices chosen from 15 distance(s) from the origin.
 $$ s = .00077708, \; $$ $$ | \lbrace \theta \rbrace | = 91, $$ $$ | \lbrace r \rbrace | = 15,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.514, 0.086), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 19: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000162236/</link>
+      <link>/artwork/rnr_polygons_0000162236/</link>
       <pubDate>Fri, 19 Jan 2018 07:20:15 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000162236/</guid>
+      <guid>/artwork/rnr_polygons_0000162236/</guid>
       <description>112-sided polygon with vertices chosen from 2 distance(s) from the origin.
 $$ s = .00162236, \; $$ $$ | \lbrace \theta \rbrace | = 112, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.302, 0.280), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 18: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000141819/</link>
+      <link>/artwork/rnr_polygons_0000141819/</link>
       <pubDate>Thu, 18 Jan 2018 07:13:22 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000141819/</guid>
+      <guid>/artwork/rnr_polygons_0000141819/</guid>
       <description>91-sided polygon with vertices chosen from 5 distance(s) from the origin.
 $$ s = .00141819, \; $$ $$ | \lbrace \theta \rbrace | = 91, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(41.000, 86.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 17: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000392325/</link>
+      <link>/artwork/rnr_polygons_0000392325/</link>
       <pubDate>Wed, 17 Jan 2018 01:09:35 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000392325/</guid>
+      <guid>/artwork/rnr_polygons_0000392325/</guid>
       <description>1807-sided polygon with vertices chosen from 19 distance(s) from the origin.
 $$ s = .00392325, \; $$ $$ | \lbrace \theta \rbrace | = 1807, $$ $$ | \lbrace r \rbrace | = 19,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.819, 0.738), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 14: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000772973/</link>
+      <link>/artwork/rnr_polygons_0000772973/</link>
       <pubDate>Sun, 14 Jan 2018 13:16:35 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000772973/</guid>
+      <guid>/artwork/rnr_polygons_0000772973/</guid>
       <description>7-sided polygon with vertices chosen from 18 distance(s) from the origin.
 $$ s = .00772973, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 18,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.828, 1.823), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 11: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000082764/</link>
+      <link>/artwork/rnr_polygons_0000082764/</link>
       <pubDate>Thu, 11 Jan 2018 13:49:57 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000082764/</guid>
+      <guid>/artwork/rnr_polygons_0000082764/</guid>
       <description>1808-sided polygon with vertices chosen from 14 distance(s) from the origin.
 $$ s = .00082764, \; $$ $$ | \lbrace \theta \rbrace | = 1808, $$ $$ | \lbrace r \rbrace | = 14,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(20.000, 44.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 8: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000294041/</link>
+      <link>/artwork/rnr_polygons_0000294041/</link>
       <pubDate>Mon, 08 Jan 2018 14:50:43 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000294041/</guid>
+      <guid>/artwork/rnr_polygons_0000294041/</guid>
       <description>7160-sided polygon with vertices chosen from 21 distance(s) from the origin.
 $$ s = .00294041, \; $$ $$ | \lbrace \theta \rbrace | = 7160, $$ $$ | \lbrace r \rbrace | = 21,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(35.000, 63.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>
     
     <item>
       <title>Probably Art # 7: Polygon</title>
-      <link>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000025226/</link>
+      <link>/artwork/rnr_polygons_0000025226/</link>
       <pubDate>Sun, 07 Jan 2018 09:27:59 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/artwork/rnr_polygons_0000025226/</guid>
+      <guid>/artwork/rnr_polygons_0000025226/</guid>
       <description>7-sided polygon with vertices chosen from 2 distance(s) from the origin.
 $$ s = .00025226, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(15.000, 52.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
     </item>

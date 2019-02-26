@@ -2,192 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mathematical Michael</title>
-    <link>https://www.mathematicalmichael.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     
-	<atom:link href="https://www.mathematicalmichael.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>academic</title>
-      <link>https://www.mathematicalmichael.com/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>advertising</title>
-      <link>https://www.mathematicalmichael.com/tags/advertising/</link>
+      <link>/tags/advertising/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/advertising/</guid>
+      <guid>/tags/advertising/</guid>
       <description></description>
     </item>
     
     <item>
       <title>advising</title>
-      <link>https://www.mathematicalmichael.com/tags/advising/</link>
+      <link>/tags/advising/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/advising/</guid>
+      <guid>/tags/advising/</guid>
       <description></description>
     </item>
     
     <item>
       <title>animation</title>
-      <link>https://www.mathematicalmichael.com/tags/animation/</link>
+      <link>/tags/animation/</link>
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/animation/</guid>
+      <guid>/tags/animation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>artful</title>
-      <link>https://www.mathematicalmichael.com/tags/artful/</link>
+      <link>/tags/artful/</link>
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/artful/</guid>
+      <guid>/tags/artful/</guid>
       <description></description>
     </item>
     
     <item>
       <title>artificial intelligence</title>
-      <link>https://www.mathematicalmichael.com/tags/artificial-intelligence/</link>
+      <link>/tags/artificial-intelligence/</link>
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/artificial-intelligence/</guid>
+      <guid>/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>circles</title>
-      <link>https://www.mathematicalmichael.com/tags/circles/</link>
+      <link>/tags/circles/</link>
       <pubDate>Thu, 06 Dec 2018 17:32:15 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/circles/</guid>
+      <guid>/tags/circles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deterministic</title>
-      <link>https://www.mathematicalmichael.com/tags/deterministic/</link>
+      <link>/tags/deterministic/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/deterministic/</guid>
+      <guid>/tags/deterministic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evolving</title>
-      <link>https://www.mathematicalmichael.com/tags/evolving/</link>
+      <link>/tags/evolving/</link>
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/evolving/</guid>
+      <guid>/tags/evolving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>humor</title>
-      <link>https://www.mathematicalmichael.com/tags/humor/</link>
+      <link>/tags/humor/</link>
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/humor/</guid>
+      <guid>/tags/humor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lines</title>
-      <link>https://www.mathematicalmichael.com/tags/lines/</link>
+      <link>/tags/lines/</link>
       <pubDate>Sat, 29 Dec 2018 23:02:58 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/lines/</guid>
+      <guid>/tags/lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>polygons</title>
-      <link>https://www.mathematicalmichael.com/tags/polygons/</link>
+      <link>/tags/polygons/</link>
       <pubDate>Sun, 30 Dec 2018 01:11:41 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/polygons/</guid>
+      <guid>/tags/polygons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>random</title>
-      <link>https://www.mathematicalmichael.com/tags/random/</link>
+      <link>/tags/random/</link>
       <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/random/</guid>
+      <guid>/tags/random/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scicomm</title>
-      <link>https://www.mathematicalmichael.com/tags/scicomm/</link>
+      <link>/tags/scicomm/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/scicomm/</guid>
+      <guid>/tags/scicomm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>siam</title>
-      <link>https://www.mathematicalmichael.com/tags/siam/</link>
+      <link>/tags/siam/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/siam/</guid>
+      <guid>/tags/siam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>twitter</title>
-      <link>https://www.mathematicalmichael.com/tags/twitter/</link>
+      <link>/tags/twitter/</link>
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/twitter/</guid>
+      <guid>/tags/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>unfinished</title>
-      <link>https://www.mathematicalmichael.com/tags/unfinished/</link>
+      <link>/tags/unfinished/</link>
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/unfinished/</guid>
+      <guid>/tags/unfinished/</guid>
       <description></description>
     </item>
     
     <item>
       <title>walks</title>
-      <link>https://www.mathematicalmichael.com/tags/walks/</link>
+      <link>/tags/walks/</link>
       <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/walks/</guid>
+      <guid>/tags/walks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>words</title>
-      <link>https://www.mathematicalmichael.com/tags/words/</link>
+      <link>/tags/words/</link>
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/words/</guid>
+      <guid>/tags/words/</guid>
       <description></description>
     </item>
     
     <item>
       <title>youtube</title>
-      <link>https://www.mathematicalmichael.com/tags/youtube/</link>
+      <link>/tags/youtube/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/tags/youtube/</guid>
+      <guid>/tags/youtube/</guid>
       <description></description>
     </item>
     
