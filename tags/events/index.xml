@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>documentation on Mathematical Michael</title>
-    <link>/categories/documentation/</link>
-    <description>Recent content in documentation on Mathematical Michael</description>
+    <title>events on Mathematical Michael</title>
+    <link>/tags/events/</link>
+    <description>Recent content in events on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="/categories/documentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/events/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Active Subspaces</title>
-      <link>/post/activesubspaces/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
-      
-      <guid>/post/activesubspaces/</guid>
-      <description>I ran a series of tests and google searches to convert a repository to Python 3 from Python 2.
-2to3 was a good starting point but the imports needed a lot of restructuring.
-Then the other problems were all related to division operations. The default type is now Float, so 1/2 returns 0.5, whereas in Python 2 it returns 0 since the numerator is interpreted as an integer.
-Drank coffee WAY too late in the evening and converted @DrPaulynomial&amp;#39;s #ActiveSubspaces repo to #Python3.</description>
-    </item>
     
     <item>
       <title>Math || Art</title>

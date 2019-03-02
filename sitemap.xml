@@ -3236,6 +3236,14 @@
     
     <url>
     
+      <loc>/post/mathart/</loc>
+      <lastmod>2017-04-20T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/framsc17/</loc>
       <lastmod>2017-03-04T00:00:00-07:00</lastmod>
     </url>
@@ -3538,6 +3546,15 @@
     
     <url>
     
+      <loc>/tags/art/</loc>
+      <lastmod>2017-04-20T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/artful/</loc>
       <lastmod>2018-12-02T21:58:28-07:00</lastmod>
       <priority>0</priority>
@@ -3576,6 +3593,15 @@
     
       <loc>/categories/documentation/</loc>
       <lastmod>2019-01-15T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/events/</loc>
+      <lastmod>2017-04-20T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3648,6 +3674,15 @@
     
       <loc>/tags/scicomm/</loc>
       <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/service/</loc>
+      <lastmod>2017-04-20T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
