@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/mika/</loc>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/matplotlib/</loc>
       <lastmod>2019-02-01T07:41:48-07:00</lastmod>
     </url>
@@ -1620,14 +1628,6 @@
     
     <url>
     
-      <loc>/talk/siam_an18/</loc>
-      <lastmod>2018-07-01T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/artwork/rnr_walks_0005157328/</loc>
       <lastmod>2018-06-30T17:33:17-06:00</lastmod>
     </url>
@@ -2388,14 +2388,6 @@
     
     <url>
     
-      <loc>/talk/siam_uq18/</loc>
-      <lastmod>2018-04-01T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/artwork/rnr_walks_0003486594/</loc>
       <lastmod>2018-03-31T18:22:14-06:00</lastmod>
     </url>
@@ -2622,14 +2614,6 @@
     
       <loc>/artwork/rnr_polygons_0000008335/</loc>
       <lastmod>2018-03-05T00:23:51-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/framsc18/</loc>
-      <lastmod>2018-03-05T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -3236,22 +3220,6 @@
     
     <url>
     
-      <loc>/talk/framsc17/</loc>
-      <lastmod>2017-03-04T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/siam_cse17/</loc>
-      <lastmod>2017-02-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/artwork/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
@@ -3268,120 +3236,8 @@
     
     <url>
     
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/framsc16/</loc>
-      <lastmod>2016-03-05T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/rmswuq15/</loc>
-      <lastmod>2015-07-15T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/siam_cse15/</loc>
-      <lastmod>2015-03-14T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/framsc15/</loc>
-      <lastmod>2015-02-28T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/great14-animation/</loc>
-      <lastmod>2014-04-13T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/great14-pharma/</loc>
-      <lastmod>2014-04-13T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/great14-art/</loc>
-      <lastmod>2014-04-13T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/jmm14/</loc>
-      <lastmod>2014-01-16T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/coplac13/</loc>
-      <lastmod>2014-01-16T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/upstat14-art/</loc>
-      <lastmod>2014-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/upstat14-pharma/</loc>
-      <lastmod>2014-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/great13-coffee/</loc>
-      <lastmod>2013-04-16T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/great13-poker/</loc>
-      <lastmod>2013-04-16T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -3574,6 +3430,15 @@
     
     <url>
     
+      <loc>/tags/consulting/</loc>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/deterministic/</loc>
       <lastmod>2018-12-05T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -3612,6 +3477,15 @@
     
       <loc>/tags/humor/</loc>
       <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/interviews/</loc>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3664,8 +3538,17 @@
     
     <url>
     
+      <loc>/tags/s3/</loc>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/scicomm/</loc>
-      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
