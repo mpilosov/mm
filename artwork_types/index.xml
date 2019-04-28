@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Sun, 30 Dec 2018 01:11:41 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 31 Dec 2018 04:10:58 -0700</lastBuildDate>
     
 	<atom:link href="/artwork_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>9</title>
+      <link>/artwork_types/9/</link>
+      <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
+      
+      <guid>/artwork_types/9/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>10</title>
@@ -36,15 +45,6 @@
       <pubDate>Thu, 06 Dec 2018 17:32:15 -0700</pubDate>
       
       <guid>/artwork_types/8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>9</title>
-      <link>/artwork_types/9/</link>
-      <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
-      
-      <guid>/artwork_types/9/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematical Michael on Mathematical Michael</title>
@@ -7,8 +6,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Math || Art</title>
+      <link>/post/mathart/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/post/mathart/</guid>
+      <description>&lt;p&gt;&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=https://michaelpilosov.com/project/mathart/&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/posts/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/posts/</guid>
+      <description>&lt;p&gt;&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=../post&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>&lt;p&gt;&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=../project&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Scientist Spotlight Series: Mika McKinnon</title>
@@ -25,7 +54,7 @@
 
 &lt;p&gt;I came across her Twitter yesterday while I was sheltering-in-place during the &lt;a href=&#34;https://www.denverpost.com/2019/03/13/colorado-weather-bomb-cyclone-blizzard/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;bomb cyclone&amp;rdquo;&lt;/a&gt; hitting Denver, and this tweet jumped out at me immediately (I ❤️2️⃣👀 &lt;em&gt;math&lt;/em&gt; on social media):&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt; &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Stargate, some Star Trek: Discovery, a bit of Madam Secretary, a whole lot of No Tomorrow, some kids shows... My math is all over your tv shows ;)&lt;/p&gt;&amp;mdash; Mika McKinnon (@mikamckinnon) &lt;a href=&#34;https://twitter.com/mikamckinnon/status/1105672294058414081?ref_src=twsrc%5Etfw&#34;&gt;March 13, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;center&gt; &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Stargate, some Star Trek: Discovery, a bit of Madam Secretary, a whole lot of No Tomorrow, some kids shows&amp;hellip; My math is all over your tv shows ;)&lt;/p&gt;&amp;mdash; Mika McKinnon (@mikamckinnon) &lt;a href=&#34;https://twitter.com/mikamckinnon/status/1105672294058414081?ref_src=twsrc%5Etfw&#34;&gt;March 13, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
  &lt;/center&gt;&lt;/p&gt;
 
@@ -181,23 +210,17 @@ plt.scatter(np.reshape(x,-1),
 
 &lt;p&gt;Then the other problems were all related to division operations. The default type is now Float, so &lt;code&gt;1/2&lt;/code&gt; returns &lt;code&gt;0.5&lt;/code&gt;, whereas in Python 2 it returns &lt;code&gt;0&lt;/code&gt; since the numerator is interpreted as an integer.&lt;/p&gt;
 
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Drank coffee WAY too late in the evening and converted &lt;a href=&#34;https://twitter.com/DrPaulynomial?ref_src=twsrc%5Etfw&#34;&gt;@DrPaulynomial&lt;/a&gt;&amp;#39;s &lt;a href=&#34;https://twitter.com/hashtag/ActiveSubspaces?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ActiveSubspaces&lt;/a&gt; repo to &lt;a href=&#34;https://twitter.com/hashtag/Python3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Python3&lt;/a&gt;. Got to use my hub at &lt;a href=&#34;https://t.co/cYaLs3Qabi&#34;&gt;https://t.co/cYaLs3Qabi&lt;/a&gt; for development in a fresh environment, too! &lt;a href=&#34;https://twitter.com/hashtag/mathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#mathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/appliedmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#appliedmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/computationalmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#computationalmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/python2to3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#python2to3&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/dev?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#dev&lt;/a&gt; &lt;a href=&#34;https://t.co/30bprcephv&#34;&gt;pic.twitter.com/30bprcephv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mathematical Michael (@Mathematical_MP) &lt;a href=&#34;https://twitter.com/Mathematical_MP/status/1085431034261336065?ref_src=twsrc%5Etfw&#34;&gt;January 16, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Drank coffee WAY too late in the evening and converted &lt;a href=&#34;https://twitter.com/DrPaulynomial?ref_src=twsrc%5Etfw&#34;&gt;@DrPaulynomial&lt;/a&gt;&amp;#39;s &lt;a href=&#34;https://twitter.com/hashtag/ActiveSubspaces?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ActiveSubspaces&lt;/a&gt; repo to &lt;a href=&#34;https://twitter.com/hashtag/Python3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Python3&lt;/a&gt;. Got to use my hub at &lt;a href=&#34;https://t.co/cYaLs3Qabi&#34;&gt;https://t.co/cYaLs3Qabi&lt;/a&gt; for development in a fresh environment, too! &lt;a href=&#34;https://twitter.com/hashtag/mathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#mathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/appliedmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#appliedmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/computationalmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#computationalmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/python2to3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#python2to3&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/dev?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#dev&lt;/a&gt; &lt;a href=&#34;https://t.co/30bprcephv&#34;&gt;pic.twitter.com/30bprcephv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mathematical Michael (@Mathematical_MP) &lt;a href=&#34;https://twitter.com/Mathematical_MP/status/1085431034261336065?ref_src=twsrc%5Etfw&#34;&gt;January 16, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&#34;https://github.com/paulcon/active_subspaces/pull/52&#34; target=&#34;_blank&#34;&gt;pull request&lt;/a&gt; in that image now needs to be merged, and likely amended with some Travis CI instructions to test for Python 3.6. At the very least, my passing status reflects backwards compatibility.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-
 &lt;script
   src=&#34;https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js&#34;
 &gt;
 &lt;/script&gt;
-
-
-
-
 
 &lt;div class=&#34;calendar&#34;&gt;
     
@@ -207,7 +230,6 @@ plt.scatter(np.reshape(x,-1),
 &lt;script&gt;
     new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
 &lt;/script&gt;
-
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;These set of commits mark my 20th contribution.&lt;/em&gt;&lt;/p&gt;
@@ -224,16 +246,12 @@ plt.scatter(np.reshape(x,-1),
       
       <guid>/activity/</guid>
       <description>&lt;p&gt;Here is a summary of my activity on Github from my new username.
-The primary repository is my thesis. I will gradually add public-facing projects here as well.
+The primary repository is my thesis. I will gradually add public-facing projects here as well.&lt;/p&gt;
 
 &lt;script
   src=&#34;https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js&#34;
 &gt;
 &lt;/script&gt;
-
-
-
-
 
 &lt;div class=&#34;calendar&#34;&gt;
     
@@ -243,7 +261,7 @@ The primary repository is my thesis. I will gradually add public-facing projects
 &lt;script&gt;
     new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
 &lt;/script&gt;
-&lt;/p&gt;
+ 
 
 &lt;p&gt;For activity on my other profile, please visit &lt;a href=&#34;https://www.michaelpilosov.com/activity&#34; target=&#34;_blank&#34;&gt;my other website&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -405,66 +423,6 @@ $$  | \lbrace r \rbrace | = 7,$$
 $$ r_0 = 0.2500,$$
 $$ R = 1.00, $$
 $$r \sim \beta(32.000, 20.000), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Probably Art # 357: Line</title>
-      <link>/artwork/rnr_lines_0000150620/</link>
-      <pubDate>Sun, 23 Dec 2018 04:04:53 -0700</pubDate>
-      
-      <guid>/artwork/rnr_lines_0000150620/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[033_044]_r[Betax300_20000_[23000_117000]_t[Beta180_50000_[8000_3000]]_S150620L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;1452 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00150620, \; $$
-$$ | \lbrace \theta \rbrace | = 5, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 3.00, $$
-$$r \sim \beta(23.000, 117.000), $$
-$$\theta \sim \beta(8.000, 3.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Probably Art # 356: Walk</title>
-      <link>/artwork/rnr_walks_0001438360/</link>
-      <pubDate>Sat, 22 Dec 2018 08:48:57 -0700</pubDate>
-      
-      <guid>/artwork/rnr_walks_0001438360/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_012_1438360]_r[Betax024_001_[1000_1000]_t[Beta360_012_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;250 steps in 12 direction(s) chosen from 1 possible step size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .01438360, \; $$
-$$ | \lbrace \theta \rbrace | = 12, $$
-$$  | \lbrace r \rbrace | = 1,$$
-$$ r_0 = 0.0000,$$
-$$ R = 0.24, $$
-$$r \sim \beta(1.000, 1.000), $$
-$$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Probably Art # 355: Line</title>
-      <link>/artwork/rnr_lines_0000047887/</link>
-      <pubDate>Fri, 21 Dec 2018 09:42:33 -0700</pubDate>
-      
-      <guid>/artwork/rnr_lines_0000047887/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[032_023]_r[Betax400_40000_[1081_1249]_t[Beta_001_[1000_1000]]_S47887L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;736 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 3 size(s).&lt;/p&gt;
-
-&lt;p&gt;$$ s = .00047887, \; $$
-$$ | \lbrace \theta \rbrace | = 1, $$
-$$  | \lbrace r \rbrace | = 3,$$
-$$ r_0 = 0.0000,$$
-$$ R = 4.00, $$
-$$r \sim \beta(1.082, 1.249), $$
 $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
 </description>
     </item>

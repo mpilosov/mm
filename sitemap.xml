@@ -1,11 +1,97 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>/post/mathart/</loc>
+      <lastmod>2019-03-19T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-03-19T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/posts/</loc>
+      <lastmod>2019-03-19T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/projects/</loc>
+      <lastmod>2019-03-19T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     <url>
     
       <loc>/post/mika/</loc>
       <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/consulting/</loc>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/interviews/</loc>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/s3/</loc>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/scicomm/</loc>
+      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -36,8 +122,71 @@
     
     <url>
     
+      <loc>/categories/documentation/</loc>
+      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/artwork_types/9/</loc>
+      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/artwork_types/</loc>
+      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/artwork/rnr_walks_0001422527/</loc>
       <lastmod>2018-12-31T04:10:58-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/random/</loc>
+      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/rnr/</loc>
+      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/walks/</loc>
+      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/artwork_types/10/</loc>
+      <lastmod>2018-12-30T01:11:41-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -52,8 +201,35 @@
     
     <url>
     
+      <loc>/tags/polygons/</loc>
+      <lastmod>2018-12-30T01:11:41-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/artwork_types/7/</loc>
+      <lastmod>2018-12-29T23:02:58-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/artwork/rnr_lines_0000035708/</loc>
       <lastmod>2018-12-29T23:02:58-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/lines/</loc>
+      <lastmod>2018-12-29T23:02:58-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -236,8 +412,26 @@
     
     <url>
     
+      <loc>/artwork_types/8/</loc>
+      <lastmod>2018-12-06T17:32:15-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/artwork/rnr_circles_0000056140/</loc>
       <lastmod>2018-12-06T17:32:15-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/circles/</loc>
+      <lastmod>2018-12-06T17:32:15-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -252,8 +446,35 @@
     
     <url>
     
+      <loc>/project/</loc>
+      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/regular/</loc>
       <lastmod>2018-12-05T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/deterministic/</loc>
+      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -310,6 +531,78 @@
     
       <loc>/project/rab/</loc>
       <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/animation/</loc>
+      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/artful/</loc>
+      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/artificial-intelligence/</loc>
+      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/evolving/</loc>
+      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/humor/</loc>
+      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/twitter/</loc>
+      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/unfinished/</loc>
+      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/words/</loc>
+      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -1100,6 +1393,33 @@
     
     <url>
     
+      <loc>/resources/</loc>
+      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/outreach/</loc>
+      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/youtube/</loc>
+      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/artwork/rnr_lines_0010728308/</loc>
       <lastmod>2018-08-26T17:39:07-06:00</lastmod>
     </url>
@@ -1126,6 +1446,33 @@
     
       <loc>/resources/siam/</loc>
       <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/academia/</loc>
+      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/advertising/</loc>
+      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/siam/</loc>
+      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -2676,6 +3023,15 @@
     
     <url>
     
+      <loc>/resume/</loc>
+      <lastmod>2018-03-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/resume/techskills/</loc>
       <lastmod>2018-03-01T00:00:00-07:00</lastmod>
     </url>
@@ -2910,6 +3266,15 @@
     
       <loc>/post/advising3/</loc>
       <lastmod>2018-02-05T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/advising/</loc>
+      <lastmod>2018-02-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -3220,236 +3585,8 @@
     
     <url>
     
-      <loc>/artwork/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork_types/10/</loc>
-      <lastmod>2018-12-30T01:11:41-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork_types/7/</loc>
-      <lastmod>2018-12-29T23:02:58-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork_types/8/</loc>
-      <lastmod>2018-12-06T17:32:15-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork_types/9/</loc>
-      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork_types/</loc>
-      <lastmod>2018-12-30T01:11:41-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/resources/</loc>
-      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/resume/</loc>
-      <lastmod>2018-03-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/academia/</loc>
-      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/advertising/</loc>
-      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/advising/</loc>
-      <lastmod>2018-02-05T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/animation/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/art/</loc>
       <lastmod>2017-04-20T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/artful/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/artificial-intelligence/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/circles/</loc>
-      <lastmod>2018-12-06T17:32:15-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/consulting/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/deterministic/</loc>
-      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/documentation/</loc>
-      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3466,96 +3603,6 @@
     
     <url>
     
-      <loc>/tags/evolving/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/humor/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/interviews/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/lines/</loc>
-      <lastmod>2018-12-29T23:02:58-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/outreach/</loc>
-      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/polygons/</loc>
-      <lastmod>2018-12-30T01:11:41-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/random/</loc>
-      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/rnr/</loc>
-      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/s3/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/scicomm/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/categories/service/</loc>
       <lastmod>2017-04-20T00:00:00-06:00</lastmod>
       <priority>0</priority>
@@ -3565,53 +3612,23 @@
     
     <url>
     
-      <loc>/tags/siam/</loc>
-      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>/artwork/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/twitter/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-      <priority>0</priority>
+      <loc>/post/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/unfinished/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/walks/</loc>
-      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/words/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/youtube/</loc>
-      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+      <loc>/publication_types/</loc>
       <priority>0</priority>
     </url>
     

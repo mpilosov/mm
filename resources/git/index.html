@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 3.2.0">
-  <meta name="generator" content="Hugo 0.52" />
+  <meta name="generator" content="Hugo 0.55.3" />
   <meta name="author" content="Michael Pilosov">
 
   
@@ -459,9 +459,11 @@
 
 <p><a href="http://rogerdudler.github.io/git-guide/" target="_blank">The guide everyone uses to get started</a></p>
 
-<p>Stop Asking for Password:</p>
+<p>Stop Asking for Password:
+<code>git config --global credential.helper cache</code></p>
 
-<p><code>git config --global credential.helper 'cache --timeout 28800'</code></p>
+<p>(change how long it lasts):
+<code>git config --global credential.helper 'cache --timeout 28800'</code></p>
 
 <p>And to forget:</p>
 

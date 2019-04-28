@@ -318,10 +318,7 @@ $$ s = .00000430, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rb
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
       <guid>/project/rnr/</guid>
-      <description>More description to come soon.
-I am reviving an old project that I have presented at a few conferences as an undergraduate. I won a cash prize for a talk I gave demonstrating an early version of this which involved my first graphical user interface.
-I am now transcribing work into Python to get away from the limitations of Matlab&amp;rsquo;s licensing structure.
-It is a lengthy process. Please be patient.</description>
+      <description>The core body of work from which my computational artistic endeavors stem.</description>
     </item>
     
     <item>
@@ -330,8 +327,7 @@ It is a lengthy process. Please be patient.</description>
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
       <guid>/project/rab/</guid>
-      <description>This once existed as a twitter bot. It will exist again shortly in another manifestation on this website soon.
-Please contact me if you would like to participate and have your own piece of art live on this website, updating every day.</description>
+      <description>Submit your request to birth an evolving random art piece on this site.</description>
     </item>
     
     <item>
@@ -1680,8 +1676,7 @@ $$ s = .00410145, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rb
       <pubDate>Sat, 21 Jul 2018 00:00:00 -0600</pubDate>
       
       <guid>/project/poker/</guid>
-      <description>This was a really fun project I undertook for a Math Club game night in 2016 with my friend Elliott Regan.
- current  min  max   Start New Game   var canvas = document.getElementById(&#39;plotCanvas&#39;); var ctx = canvas.getContext(&#39;2d&#39;); var num, maxnum, minnum; var interval = 5; var B = [0] var brakes = 200; var ht = canvas.height; var n = canvas.width; var alpha = 5; initPlot(); drawWalk(); function reset() { B = [0]; var id = window.</description>
+      <description>Like&amp;hellip; the stock market, but faster!</description>
     </item>
     
     <item>

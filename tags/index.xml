@@ -7,81 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
+    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>advertising</title>
-      <link>/tags/advertising/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/advertising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>advising</title>
-      <link>/tags/advising/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/advising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>animation</title>
-      <link>/tags/animation/</link>
-      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
-      
-      <guid>/tags/animation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>art</title>
-      <link>/tags/art/</link>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/tags/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>artful</title>
-      <link>/tags/artful/</link>
-      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
-      
-      <guid>/tags/artful/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>artificial intelligence</title>
-      <link>/tags/artificial-intelligence/</link>
-      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
-      
-      <guid>/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>circles</title>
-      <link>/tags/circles/</link>
-      <pubDate>Thu, 06 Dec 2018 17:32:15 -0700</pubDate>
-      
-      <guid>/tags/circles/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>consulting</title>
@@ -89,69 +18,6 @@
       <pubDate>Thu, 14 Mar 2019 00:00:00 -0600</pubDate>
       
       <guid>/tags/consulting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deterministic</title>
-      <link>/tags/deterministic/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/deterministic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>events</title>
-      <link>/tags/events/</link>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolving</title>
-      <link>/tags/evolving/</link>
-      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
-      
-      <guid>/tags/evolving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>humor</title>
-      <link>/tags/humor/</link>
-      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
-      
-      <guid>/tags/humor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lines</title>
-      <link>/tags/lines/</link>
-      <pubDate>Sat, 29 Dec 2018 23:02:58 -0700</pubDate>
-      
-      <guid>/tags/lines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>polygons</title>
-      <link>/tags/polygons/</link>
-      <pubDate>Sun, 30 Dec 2018 01:11:41 -0700</pubDate>
-      
-      <guid>/tags/polygons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random</title>
-      <link>/tags/random/</link>
-      <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
-      
-      <guid>/tags/random/</guid>
       <description></description>
     </item>
     
@@ -174,11 +40,110 @@
     </item>
     
     <item>
-      <title>siam</title>
-      <link>/tags/siam/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <title>random</title>
+      <link>/tags/random/</link>
+      <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
       
-      <guid>/tags/siam/</guid>
+      <guid>/tags/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>walks</title>
+      <link>/tags/walks/</link>
+      <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
+      
+      <guid>/tags/walks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polygons</title>
+      <link>/tags/polygons/</link>
+      <pubDate>Sun, 30 Dec 2018 01:11:41 -0700</pubDate>
+      
+      <guid>/tags/polygons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lines</title>
+      <link>/tags/lines/</link>
+      <pubDate>Sat, 29 Dec 2018 23:02:58 -0700</pubDate>
+      
+      <guid>/tags/lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>circles</title>
+      <link>/tags/circles/</link>
+      <pubDate>Thu, 06 Dec 2018 17:32:15 -0700</pubDate>
+      
+      <guid>/tags/circles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deterministic</title>
+      <link>/tags/deterministic/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/deterministic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>animation</title>
+      <link>/tags/animation/</link>
+      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
+      
+      <guid>/tags/animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artful</title>
+      <link>/tags/artful/</link>
+      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
+      
+      <guid>/tags/artful/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificial intelligence</title>
+      <link>/tags/artificial-intelligence/</link>
+      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
+      
+      <guid>/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evolving</title>
+      <link>/tags/evolving/</link>
+      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
+      
+      <guid>/tags/evolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humor</title>
+      <link>/tags/humor/</link>
+      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
+      
+      <guid>/tags/humor/</guid>
       <description></description>
     </item>
     
@@ -201,15 +166,6 @@
     </item>
     
     <item>
-      <title>walks</title>
-      <link>/tags/walks/</link>
-      <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
-      
-      <guid>/tags/walks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>words</title>
       <link>/tags/words/</link>
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
@@ -224,6 +180,51 @@
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>advertising</title>
+      <link>/tags/advertising/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/advertising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>siam</title>
+      <link>/tags/siam/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/siam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>advising</title>
+      <link>/tags/advising/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/advising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>art</title>
+      <link>/tags/art/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>/tags/events/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/events/</guid>
       <description></description>
     </item>
     

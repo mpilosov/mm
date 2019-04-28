@@ -148,10 +148,7 @@ $$ s = .00018514, \; $$ $$ | \lbrace \theta \rbrace | = 10, $$ $$ | \lbrace r \r
       <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
       
       <guid>/project/rnr/</guid>
-      <description>More description to come soon.
-I am reviving an old project that I have presented at a few conferences as an undergraduate. I won a cash prize for a talk I gave demonstrating an early version of this which involved my first graphical user interface.
-I am now transcribing work into Python to get away from the limitations of Matlab&amp;rsquo;s licensing structure.
-It is a lengthy process. Please be patient.</description>
+      <description>The core body of work from which my computational artistic endeavors stem.</description>
     </item>
     
     <item>
