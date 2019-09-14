@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 21:58:28 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 Dec 2018 21:58:28 +0000</lastBuildDate>
     
 	<atom:link href="/tags/artful/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,13 @@
     <item>
       <title>Moving Pictures</title>
       <link>/project/mov/</link>
-      <pubDate>Sun, 02 Dec 2018 21:58:28 -0700</pubDate>
+      <pubDate>Sun, 02 Dec 2018 21:58:28 +0000</pubDate>
       
       <guid>/project/mov/</guid>
-      <description>Taking still images and turning them into animations. Some of my earliest work in computational mathematics.</description>
+      <description>Please watch this space in the coming weeks.
+I am reviving an old project that I have presented at a few conferences as an undergraduate. This work kickstarted (well, more like it really developed) my deep love for coding.
+I am now transcribing work into Python to get away from the limitations of Matlab&amp;rsquo;s licensing structure.
+It is a lengthy process. Please be patient.</description>
     </item>
     
   </channel>

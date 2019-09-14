@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/logohead/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/logohead/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
       <description>About Me In my academic life, I work on a number of related problems in applied mathematics. In my artistic life, I explore the intersection of randomness and human proclivity towards pattern recognition.
@@ -34,7 +34,7 @@ After graduation, I hope to consult on diverse problems in a variety of fields/i
     <item>
       <title>Projects</title>
       <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/projects/</guid>
       <description></description>
@@ -43,7 +43,7 @@ After graduation, I hope to consult on diverse problems in a variety of fields/i
     <item>
       <title>Latest Artwork</title>
       <link>/home/artworks/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/artworks/</guid>
       <description></description>
@@ -52,7 +52,7 @@ After graduation, I hope to consult on diverse problems in a variety of fields/i
     <item>
       <title></title>
       <link>/home/project_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/home/project_carousel/</guid>
       <description></description>
@@ -61,7 +61,7 @@ After graduation, I hope to consult on diverse problems in a variety of fields/i
     <item>
       <title>Selected</title>
       <link>/home/artworks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/artworks_selected/</guid>
       <description></description>
@@ -70,7 +70,7 @@ After graduation, I hope to consult on diverse problems in a variety of fields/i
     <item>
       <title>Resources</title>
       <link>/home/resources/</link>
-      <pubDate>Fri, 20 Apr 2018 00:00:00 -0600</pubDate>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/resources/</guid>
       <description></description>
@@ -79,7 +79,7 @@ After graduation, I hope to consult on diverse problems in a variety of fields/i
     <item>
       <title>Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -88,7 +88,7 @@ After graduation, I hope to consult on diverse problems in a variety of fields/i
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -97,7 +97,7 @@ After graduation, I hope to consult on diverse problems in a variety of fields/i
     <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -108,7 +108,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Blog Posts</title>
       <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/posts/</guid>
       <description></description>
@@ -117,7 +117,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Fri, 20 Apr 2018 00:00:00 -0600</pubDate>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>
@@ -135,7 +135,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Tags</title>
       <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>

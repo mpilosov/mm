@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematical Michael on Mathematical Michael</title>
@@ -6,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Math || Art</title>
       <link>/post/mathart/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/mathart/</guid>
       <description>&lt;p&gt;&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=https://michaelpilosov.com/project/mathart/&#34; /&gt;&lt;/p&gt;
@@ -22,7 +23,7 @@
     <item>
       <title>Posts</title>
       <link>/posts/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/</guid>
       <description>&lt;p&gt;&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=../post&#34; /&gt;&lt;/p&gt;
@@ -32,7 +33,7 @@
     <item>
       <title>Projects</title>
       <link>/projects/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
       <description>&lt;p&gt;&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=../project&#34; /&gt;&lt;/p&gt;
@@ -42,7 +43,7 @@
     <item>
       <title>Scientist Spotlight Series: Mika McKinnon</title>
       <link>/post/mika/</link>
-      <pubDate>Thu, 14 Mar 2019 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/mika/</guid>
       <description>&lt;p&gt;Happy Pi Day!&lt;/p&gt;
@@ -54,7 +55,7 @@
 
 &lt;p&gt;I came across her Twitter yesterday while I was sheltering-in-place during the &lt;a href=&#34;https://www.denverpost.com/2019/03/13/colorado-weather-bomb-cyclone-blizzard/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;bomb cyclone&amp;rdquo;&lt;/a&gt; hitting Denver, and this tweet jumped out at me immediately (I ❤️2️⃣👀 &lt;em&gt;math&lt;/em&gt; on social media):&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt; &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Stargate, some Star Trek: Discovery, a bit of Madam Secretary, a whole lot of No Tomorrow, some kids shows&amp;hellip; My math is all over your tv shows ;)&lt;/p&gt;&amp;mdash; Mika McKinnon (@mikamckinnon) &lt;a href=&#34;https://twitter.com/mikamckinnon/status/1105672294058414081?ref_src=twsrc%5Etfw&#34;&gt;March 13, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;center&gt; &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Stargate, some Star Trek: Discovery, a bit of Madam Secretary, a whole lot of No Tomorrow, some kids shows... My math is all over your tv shows ;)&lt;/p&gt;&amp;mdash; Mika McKinnon (@mikamckinnon) &lt;a href=&#34;https://twitter.com/mikamckinnon/status/1105672294058414081?ref_src=twsrc%5Etfw&#34;&gt;March 13, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
  &lt;/center&gt;&lt;/p&gt;
 
@@ -201,7 +202,7 @@ plt.scatter(np.reshape(x,-1),
     <item>
       <title>Active Subspaces</title>
       <link>/post/activesubspaces/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/activesubspaces/</guid>
       <description>&lt;p&gt;I ran a series of tests and google searches to convert a repository to Python 3 from Python 2.&lt;/p&gt;
@@ -210,17 +211,23 @@ plt.scatter(np.reshape(x,-1),
 
 &lt;p&gt;Then the other problems were all related to division operations. The default type is now Float, so &lt;code&gt;1/2&lt;/code&gt; returns &lt;code&gt;0.5&lt;/code&gt;, whereas in Python 2 it returns &lt;code&gt;0&lt;/code&gt; since the numerator is interpreted as an integer.&lt;/p&gt;
 
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Drank coffee WAY too late in the evening and converted &lt;a href=&#34;https://twitter.com/DrPaulynomial?ref_src=twsrc%5Etfw&#34;&gt;@DrPaulynomial&lt;/a&gt;&amp;#39;s &lt;a href=&#34;https://twitter.com/hashtag/ActiveSubspaces?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ActiveSubspaces&lt;/a&gt; repo to &lt;a href=&#34;https://twitter.com/hashtag/Python3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Python3&lt;/a&gt;. Got to use my hub at &lt;a href=&#34;https://t.co/cYaLs3Qabi&#34;&gt;https://t.co/cYaLs3Qabi&lt;/a&gt; for development in a fresh environment, too! &lt;a href=&#34;https://twitter.com/hashtag/mathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#mathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/appliedmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#appliedmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/computationalmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#computationalmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/python2to3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#python2to3&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/dev?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#dev&lt;/a&gt; &lt;a href=&#34;https://t.co/30bprcephv&#34;&gt;pic.twitter.com/30bprcephv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mathematical Michael (@Mathematical_MP) &lt;a href=&#34;https://twitter.com/Mathematical_MP/status/1085431034261336065?ref_src=twsrc%5Etfw&#34;&gt;January 16, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Drank coffee WAY too late in the evening and converted &lt;a href=&#34;https://twitter.com/DrPaulynomial?ref_src=twsrc%5Etfw&#34;&gt;@DrPaulynomial&lt;/a&gt;&amp;#39;s &lt;a href=&#34;https://twitter.com/hashtag/ActiveSubspaces?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ActiveSubspaces&lt;/a&gt; repo to &lt;a href=&#34;https://twitter.com/hashtag/Python3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Python3&lt;/a&gt;. Got to use my hub at &lt;a href=&#34;https://t.co/cYaLs3Qabi&#34;&gt;https://t.co/cYaLs3Qabi&lt;/a&gt; for development in a fresh environment, too! &lt;a href=&#34;https://twitter.com/hashtag/mathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#mathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/appliedmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#appliedmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/computationalmathematics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#computationalmathematics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/python2to3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#python2to3&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/dev?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#dev&lt;/a&gt; &lt;a href=&#34;https://t.co/30bprcephv&#34;&gt;pic.twitter.com/30bprcephv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mathematical Michael (@mindthemaths) &lt;a href=&#34;https://twitter.com/mindthemaths/status/1085431034261336065?ref_src=twsrc%5Etfw&#34;&gt;January 16, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 
 &lt;p&gt;The &lt;a href=&#34;https://github.com/paulcon/active_subspaces/pull/52&#34; target=&#34;_blank&#34;&gt;pull request&lt;/a&gt; in that image now needs to be merged, and likely amended with some Travis CI instructions to test for Python 3.6. At the very least, my passing status reflects backwards compatibility.&lt;/p&gt;
 
 &lt;hr /&gt;
 
+
 &lt;script
   src=&#34;https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js&#34;
 &gt;
 &lt;/script&gt;
+
+
+
+
 
 &lt;div class=&#34;calendar&#34;&gt;
     
@@ -230,6 +237,7 @@ plt.scatter(np.reshape(x,-1),
 &lt;script&gt;
     new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
 &lt;/script&gt;
+
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;These set of commits mark my 20th contribution.&lt;/em&gt;&lt;/p&gt;
@@ -242,16 +250,20 @@ plt.scatter(np.reshape(x,-1),
     <item>
       <title>GitHub Activity</title>
       <link>/activity/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/activity/</guid>
       <description>&lt;p&gt;Here is a summary of my activity on Github from my new username.
-The primary repository is my thesis. I will gradually add public-facing projects here as well.&lt;/p&gt;
+The primary repository is my thesis. I will gradually add public-facing projects here as well.
 
 &lt;script
   src=&#34;https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js&#34;
 &gt;
 &lt;/script&gt;
+
+
+
+
 
 &lt;div class=&#34;calendar&#34;&gt;
     
@@ -261,7 +273,7 @@ The primary repository is my thesis. I will gradually add public-facing projects
 &lt;script&gt;
     new GitHubCalendar(&#34;.calendar&#34;, &#34;mathematicalmichael&#34;);
 &lt;/script&gt;
- 
+&lt;/p&gt;
 
 &lt;p&gt;For activity on my other profile, please visit &lt;a href=&#34;https://www.michaelpilosov.com/activity&#34; target=&#34;_blank&#34;&gt;my other website&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -270,7 +282,7 @@ The primary repository is my thesis. I will gradually add public-facing projects
     <item>
       <title>Probably Art # 365: Walk</title>
       <link>/artwork/rnr_walks_0001422527/</link>
-      <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
+      <pubDate>Mon, 31 Dec 2018 04:10:58 +0000</pubDate>
       
       <guid>/artwork/rnr_walks_0001422527/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_006_1422527]_r[Betax058_001_[1000_1000]_t[Beta360_006_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
@@ -290,7 +302,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     <item>
       <title>Probably Art # 364: Polygon</title>
       <link>/artwork/rnr_polygons_0000292954/</link>
-      <pubDate>Sun, 30 Dec 2018 01:11:41 -0700</pubDate>
+      <pubDate>Sun, 30 Dec 2018 01:11:41 +0000</pubDate>
       
       <guid>/artwork/rnr_polygons_0000292954/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[1834_009_2500]_r[Betax100_90000_[25000_44000]_t[Beta360_1835_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
@@ -310,7 +322,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     <item>
       <title>Probably Art # 363: Line</title>
       <link>/artwork/rnr_lines_0000035708/</link>
-      <pubDate>Sat, 29 Dec 2018 23:02:58 -0700</pubDate>
+      <pubDate>Sat, 29 Dec 2018 23:02:58 +0000</pubDate>
       
       <guid>/artwork/rnr_lines_0000035708/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[054_038]_r[Betax300_90000_[857_597]_t[Beta180_20000_[1442_790]]_S35708L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
@@ -330,7 +342,7 @@ $$\theta \sim \beta(1.442, 0.790). $$&lt;/p&gt;
     <item>
       <title>Probably Art # 362: Walk</title>
       <link>/artwork/rnr_walks_0001240218/</link>
-      <pubDate>Fri, 28 Dec 2018 13:36:33 -0700</pubDate>
+      <pubDate>Fri, 28 Dec 2018 13:36:33 +0000</pubDate>
       
       <guid>/artwork/rnr_walks_0001240218/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_012_1240218]_r[Betax019_001_[1000_1000]_t[Beta360_012_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
@@ -350,7 +362,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     <item>
       <title>Probably Art # 361: Walk</title>
       <link>/artwork/rnr_walks_0000126595/</link>
-      <pubDate>Thu, 27 Dec 2018 23:46:24 -0700</pubDate>
+      <pubDate>Thu, 27 Dec 2018 23:46:24 +0000</pubDate>
       
       <guid>/artwork/rnr_walks_0000126595/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_008_126595]_r[Betax033_001_[1000_1000]_t[Beta360_008_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
@@ -370,7 +382,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     <item>
       <title>Probably Art # 360: Walk</title>
       <link>/artwork/rnr_walks_0004183970/</link>
-      <pubDate>Wed, 26 Dec 2018 16:23:02 -0700</pubDate>
+      <pubDate>Wed, 26 Dec 2018 16:23:02 +0000</pubDate>
       
       <guid>/artwork/rnr_walks_0004183970/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/walk_[000_010_4183970]_r[Betax008_008_[1000_1000]_t[Beta360_010_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
@@ -390,7 +402,7 @@ $$\theta \sim \beta(1.000, 1.000). $$&lt;/p&gt;
     <item>
       <title>Probably Art # 359: Line</title>
       <link>/artwork/rnr_lines_0002575604/</link>
-      <pubDate>Tue, 25 Dec 2018 09:34:49 -0700</pubDate>
+      <pubDate>Tue, 25 Dec 2018 09:34:49 +0000</pubDate>
       
       <guid>/artwork/rnr_lines_0002575604/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/line_[009_023]_r[Betax400_90000_[37000_84000]_t[Beta180_80000_[3000_5000]]_S2575604L1V1C0s0r0.png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
@@ -410,7 +422,7 @@ $$\theta \sim \beta(3.000, 5.000). $$&lt;/p&gt;
     <item>
       <title>Probably Art # 358: Polygon</title>
       <link>/artwork/rnr_polygons_0003993850/</link>
-      <pubDate>Mon, 24 Dec 2018 16:08:34 -0700</pubDate>
+      <pubDate>Mon, 24 Dec 2018 16:08:34 +0000</pubDate>
       
       <guid>/artwork/rnr_polygons_0003993850/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../artwork/images/blob_[070_007_2500]_r[Betax100_70000_[32000_20000]_t[Beta360_071_[1000_1000]].png&#34; alt=&#34;artwork-here&#34; /&gt;&lt;/p&gt;
