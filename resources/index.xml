@@ -42,7 +42,7 @@ I still do not understand why their website assets are consistently ranked as ir
       <guid>/resources/python/</guid>
       <description>Things I Have Written How to set up anaconda - gists.github.com/mpilosov/
 String Formatting (making titles out of lowercase strings) 
-Logging import sys import logging # Take care of some logging # Remove all handlers associated with the root logger object. for handler in logging.root.handlers[:]: logging.root.removeHandler(handler) logging.basicConfig(filename=&#39;example.log&#39;,level=logging.INFO, filemode=&#39;w&#39;, format=&amp;quot;%(asctime)s [%(name)s - %(threadName)s] [%(levelname)s] %(message)s&amp;quot;, datefmt=&#39;%m/%d/%Y %I:%M:%S %p&#39;) logging.getLogger().addHandler(logging.StreamHandler(sys.stderr))  Virtual Environments The instructions for setting up a &amp;ldquo;new python&amp;rdquo; with isolated project dependencies (and link to Jupyter) are as follows (from within a project&amp;rsquo;s root directory): 1.</description>
+Logging import sys import logging # Take care of some logging # Remove all handlers associated with the root logger object. for handler in logging.root.handlers[:]: logging.root.removeHandler(handler) logging.basicConfig(filename=&#39;example.log&#39;,level=logging.INFO, filemode=&#39;w&#39;, format=&amp;quot;%(asctime)s [%(name)s - %(threadName)s] [%(levelname)s] %(message)s&amp;quot;, datefmt=&#39;%m/%d/%Y %I:%M:%S %p&#39;) logging.getLogger().addHandler(logging.StreamHandler(sys.stderr))  Virtual Environments The instructions for setting up a &amp;ldquo;new python&amp;rdquo; with isolated project dependencies (and link to Jupyter) are as follows (from within a project&amp;rsquo;s root directory):</description>
     </item>
     
     <item>

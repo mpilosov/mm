@@ -471,14 +471,17 @@ logging.getLogger().addHandler(logging.StreamHandler(sys.stderr))
 
 <h2 id="virtual-environments">Virtual Environments</h2>
 
-<p>The instructions for setting up a &ldquo;new python&rdquo; with isolated project dependencies (and link to Jupyter) are as follows (from within a project&rsquo;s root directory):
-1. <code>pip install virtualenv</code> (if you do not already have it)
-1. <code>mdkir venv</code> (make a folder called <code>venv</code> for the dependencies to live inside of)
-1. <code>virtualenv venv</code> (initialize virtual environment in the <code>venv</code> folder)
-1. <code>source venv/bin/activate</code> (activate the virtual environment. Validate that <code>which python</code> and <code>which pip</code> now point to the versions in this folder)
-1. <code>pip install -r requirements.txt</code> (install project dependencies)
-1. <code>python -m ipykernel install --user --name mypython --display-name &quot;EffYeahPython&quot;</code> (create ipython kernel named pystaff based on current activated environment, so that Jupyter can access it)
-(change <code>mypython</code> and <code>EffYeahPython</code> to your liking, you can name the folder <code>venv</code> whatever you want, and it can live anywhere you want it to, but inside of a project&rsquo;s directory &hellip; makes a lot of sense)</p>
+<p>The instructions for setting up a &ldquo;new python&rdquo; with isolated project dependencies (and link to Jupyter) are as follows (from within a project&rsquo;s root directory):</p>
+
+<ol>
+<li><code>pip install virtualenv</code> (if you do not already have it)</li>
+<li><code>mdkir venv</code> (make a folder called <code>venv</code> for the dependencies to live inside of)</li>
+<li><code>virtualenv venv</code> (initialize virtual environment in the <code>venv</code> folder)</li>
+<li><code>source venv/bin/activate</code> (activate the virtual environment. Validate that <code>which python</code> and <code>which pip</code> now point to the versions in this folder)</li>
+<li><code>pip install -r requirements.txt</code> (install project dependencies)</li>
+<li><code>python -m ipykernel install --user --name mypython --display-name &quot;EffYeahPython&quot;</code> (create ipython kernel named pystaff based on current activated environment, so that Jupyter can access it)
+(change <code>mypython</code> and <code>EffYeahPython</code> to your liking, you can name the folder <code>venv</code> whatever you want, and it can live anywhere you want it to, but inside of a project&rsquo;s directory &hellip; makes a lot of sense)</li>
+</ol>
 
 <h1 id="plotting">Plotting</h1>
 
