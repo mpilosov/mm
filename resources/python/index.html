@@ -489,19 +489,29 @@ logging.getLogger().addHandler(logging.StreamHandler(sys.stderr))
 <p>Access arguments with <code>args.longname</code>, where <code>longname</code> is <code>num</code> or <code>test</code> in the example above. The single-character version is just for command-line.
 Run <code>--help</code> to print the contents of <code>description</code>.</p>
 
+<p>Alternatively, include <a href="https://raw.githubusercontent.com/dmulholl/janus-python/master/janus.py" target="_blank">this file</a> in your project (repo linked below) from <a href="https://github.com/dmulholl/janus-python/blob/master/janus.py" target="_blank">dmulholl</a>, which enables a suite of convenience functions for argument parsing.</p>
+
 <h2 id="virtual-environments">Virtual Environments</h2>
 
 <p>The instructions for setting up a &ldquo;new python&rdquo; with isolated project dependencies (and link to Jupyter) are as follows (from within a project&rsquo;s root directory):</p>
 
 <ol>
 <li><code>pip install virtualenv</code> (if you do not already have it)</li>
-<li><code>mdkir venv</code> (make a folder called <code>venv</code> for the dependencies to live inside of)</li>
+<li><code>mkdir venv</code> (make a folder called <code>venv</code> for the dependencies to live inside of)</li>
 <li><code>virtualenv venv</code> (initialize virtual environment in the <code>venv</code> folder)</li>
 <li><code>source venv/bin/activate</code> (activate the virtual environment. Validate that <code>which python</code> and <code>which pip</code> now point to the versions in this folder)</li>
 <li><code>pip install -r requirements.txt</code> (install project dependencies)</li>
 <li><code>python -m ipykernel install --user --name mypython --display-name &quot;EffYeahPython&quot;</code> (create ipython kernel named pystaff based on current activated environment, so that Jupyter can access it)
 (change <code>mypython</code> and <code>EffYeahPython</code> to your liking, you can name the folder <code>venv</code> whatever you want, and it can live anywhere you want it to, but inside of a project&rsquo;s directory &hellip; makes a lot of sense)</li>
 </ol>
+
+<pre><code class="language-bash">pip install virtualenv
+mkdir -p venv
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python -m ipykernel install --user --name py3 --display-name &quot;Py3&quot;
+</code></pre>
 
 <h1 id="plotting">Plotting</h1>
 
