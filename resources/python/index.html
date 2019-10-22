@@ -458,6 +458,8 @@
 
 <h2 id="logging">Logging</h2>
 
+<p><code>filemode='w'</code> will wipe any existing logs and start fresh.</p>
+
 <pre><code class="language-python">import sys
 import logging
 
@@ -465,9 +467,27 @@ import logging
 # Remove all handlers associated with the root logger object.
 for handler in logging.root.handlers[:]:
     logging.root.removeHandler(handler)
-logging.basicConfig(filename='example.log',level=logging.INFO, filemode='w', format=&quot;%(asctime)s [%(name)s - %(threadName)s] [%(levelname)s]  %(message)s&quot;, datefmt='%m/%d/%Y %I:%M:%S %p')
+logging.basicConfig(filename='example.log',level=logging.INFO, filemode='a', format=&quot;%(asctime)s [%(name)s - %(threadName)s] [%(levelname)s]  %(message)s&quot;, datefmt='%m/%d/%Y %I:%M:%S %p')
 logging.getLogger().addHandler(logging.StreamHandler(sys.stderr))
 </code></pre>
+
+<h2 id="argument-parsing">Argument Parsing</h2>
+
+<p>From my twitterbot:</p>
+
+<pre><code class="language-python">if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser(description='Query twitter for a list of mentions. Load list of tweets already replied to. If mentions are new, reply to them.')
+    
+    parser.add_argument('-t', '--test', action='store_true', 
+        help=&quot;Runs bot in testing mode (doesn't actually tweet).&quot;)
+    parser.add_argument('-n', '--num', default = -1, type=int,
+        help=&quot;Run only for `n` most recent mentions&quot;)
+    args = parser.parse_args()
+</code></pre>
+
+<p>Access arguments with <code>args.longname</code>, where <code>longname</code> is <code>num</code> or <code>test</code> in the example above. The single-character version is just for command-line.
+Run <code>--help</code> to print the contents of <code>description</code>.</p>
 
 <h2 id="virtual-environments">Virtual Environments</h2>
 
