@@ -474,6 +474,19 @@ Our desired path is the second string in the output of <code>grep</code>, so we 
 
 <p><a href="https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/" target="_blank">Using multiple keys on the same computer</a></p>
 
+<p>Summary: set urls like this, where the url refers to the <code>Host</code> in file <code>~/.ssh/config</code> (shown below):</p>
+
+<pre><code class="language-sh">git remote set-url origin ssh://git@github.com/mathematicalmichael/repo.git
+</code></pre>
+
+<pre><code class="language-sh">Host github.com
+  Hostname github.com
+  User git
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_rsa
+</code></pre>
+
 <h2 id="linux">Linux</h2>
 
 <p><a href="https://www.cyberciti.biz/faq/unix-network-service-restart-stop/" target="_blank">Restarting Networking</a></p>
@@ -484,9 +497,9 @@ Our desired path is the second string in the output of <code>grep</code>, so we 
 
 <p><a href="https://www.tmuxcheatsheet.com" target="_blank">tmuxcheatsheet.com</a></p>
 
-<p><a href="https://www.passwordstore.org" target="_blank">pass - the standard unix password manager</a></p>
+<p><a href="https://www.passwordstore.org" target="_blank">pass - the standard UNIX password manager</a></p>
 
-<p><a href="https://leorobinovitch.com/2019/09/27/jupyter-with-docker.html" target="_blank">good write-up about jupyter with Docker</a></p>
+<p><a href="https://leorobinovitch.com/2019/09/27/jupyter-with-docker.html" target="_blank">good write-up about Jupyter with Docker</a></p>
 
 <p><a href="https://github.com/mathematicalmichael/docker-env" target="_blank">my own Docker environment setup</a></p>
 
