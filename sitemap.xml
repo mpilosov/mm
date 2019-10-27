@@ -1,18 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
       <loc>/post/mathart/</loc>
-      <lastmod>2019-03-19T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-03-19T00:00:00-06:00</lastmod>
+      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -20,7 +13,7 @@
     <url>
     
       <loc>/posts/</loc>
-      <lastmod>2019-03-19T00:00:00-06:00</lastmod>
+      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -28,47 +21,7 @@
     <url>
     
       <loc>/projects/</loc>
-      <lastmod>2019-03-19T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/consulting/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/interviews/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/s3/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/scicomm/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -76,15 +29,7 @@
     <url>
     
       <loc>/post/mika/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-03-14T00:00:00-06:00</lastmod>
+      <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -100,15 +45,7 @@
     <url>
     
       <loc>/post/activesubspaces/</loc>
-      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/documentation/</loc>
-      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
+      <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -116,23 +53,7 @@
     <url>
     
       <loc>/activity/</loc>
-      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork_types/9/</loc>
-      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork_types/</loc>
-      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
+      <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -140,47 +61,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001422527/</loc>
-      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/random/</loc>
-      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/rnr/</loc>
-      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/walks/</loc>
-      <lastmod>2018-12-31T04:10:58-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork_types/10/</loc>
-      <lastmod>2018-12-30T01:11:41-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/polygons/</loc>
-      <lastmod>2018-12-30T01:11:41-07:00</lastmod>
+      <lastmod>2018-12-31T04:10:58+00:00</lastmod>
     </url>
     
   
@@ -188,23 +69,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000292954/</loc>
-      <lastmod>2018-12-30T01:11:41-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork_types/7/</loc>
-      <lastmod>2018-12-29T23:02:58-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/lines/</loc>
-      <lastmod>2018-12-29T23:02:58-07:00</lastmod>
+      <lastmod>2018-12-30T01:11:41+00:00</lastmod>
     </url>
     
   
@@ -212,7 +77,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000035708/</loc>
-      <lastmod>2018-12-29T23:02:58-07:00</lastmod>
+      <lastmod>2018-12-29T23:02:58+00:00</lastmod>
     </url>
     
   
@@ -220,7 +85,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001240218/</loc>
-      <lastmod>2018-12-28T13:36:33-07:00</lastmod>
+      <lastmod>2018-12-28T13:36:33+00:00</lastmod>
     </url>
     
   
@@ -228,7 +93,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000126595/</loc>
-      <lastmod>2018-12-27T23:46:24-07:00</lastmod>
+      <lastmod>2018-12-27T23:46:24+00:00</lastmod>
     </url>
     
   
@@ -236,7 +101,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0004183970/</loc>
-      <lastmod>2018-12-26T16:23:02-07:00</lastmod>
+      <lastmod>2018-12-26T16:23:02+00:00</lastmod>
     </url>
     
   
@@ -244,7 +109,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0002575604/</loc>
-      <lastmod>2018-12-25T09:34:49-07:00</lastmod>
+      <lastmod>2018-12-25T09:34:49+00:00</lastmod>
     </url>
     
   
@@ -252,7 +117,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0003993850/</loc>
-      <lastmod>2018-12-24T16:08:34-07:00</lastmod>
+      <lastmod>2018-12-24T16:08:34+00:00</lastmod>
     </url>
     
   
@@ -260,7 +125,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000150620/</loc>
-      <lastmod>2018-12-23T04:04:53-07:00</lastmod>
+      <lastmod>2018-12-23T04:04:53+00:00</lastmod>
     </url>
     
   
@@ -268,7 +133,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001438360/</loc>
-      <lastmod>2018-12-22T08:48:57-07:00</lastmod>
+      <lastmod>2018-12-22T08:48:57+00:00</lastmod>
     </url>
     
   
@@ -276,7 +141,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000047887/</loc>
-      <lastmod>2018-12-21T09:42:33-07:00</lastmod>
+      <lastmod>2018-12-21T09:42:33+00:00</lastmod>
     </url>
     
   
@@ -284,7 +149,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000028094/</loc>
-      <lastmod>2018-12-20T21:52:50-07:00</lastmod>
+      <lastmod>2018-12-20T21:52:50+00:00</lastmod>
     </url>
     
   
@@ -292,7 +157,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000446445/</loc>
-      <lastmod>2018-12-19T01:24:06-07:00</lastmod>
+      <lastmod>2018-12-19T01:24:06+00:00</lastmod>
     </url>
     
   
@@ -300,7 +165,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001580626/</loc>
-      <lastmod>2018-12-18T23:45:23-07:00</lastmod>
+      <lastmod>2018-12-18T23:45:23+00:00</lastmod>
     </url>
     
   
@@ -308,7 +173,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000068800/</loc>
-      <lastmod>2018-12-17T04:36:42-07:00</lastmod>
+      <lastmod>2018-12-17T04:36:42+00:00</lastmod>
     </url>
     
   
@@ -316,7 +181,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0004748394/</loc>
-      <lastmod>2018-12-16T04:48:56-07:00</lastmod>
+      <lastmod>2018-12-16T04:48:56+00:00</lastmod>
     </url>
     
   
@@ -324,7 +189,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000039754/</loc>
-      <lastmod>2018-12-15T00:52:45-07:00</lastmod>
+      <lastmod>2018-12-15T00:52:45+00:00</lastmod>
     </url>
     
   
@@ -332,7 +197,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000120988/</loc>
-      <lastmod>2018-12-14T03:17:36-07:00</lastmod>
+      <lastmod>2018-12-14T03:17:36+00:00</lastmod>
     </url>
     
   
@@ -340,7 +205,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000079545/</loc>
-      <lastmod>2018-12-13T02:44:13-07:00</lastmod>
+      <lastmod>2018-12-13T02:44:13+00:00</lastmod>
     </url>
     
   
@@ -348,7 +213,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000902650/</loc>
-      <lastmod>2018-12-12T19:04:00-07:00</lastmod>
+      <lastmod>2018-12-12T19:04:00+00:00</lastmod>
     </url>
     
   
@@ -356,7 +221,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000717112/</loc>
-      <lastmod>2018-12-11T09:29:24-07:00</lastmod>
+      <lastmod>2018-12-11T09:29:24+00:00</lastmod>
     </url>
     
   
@@ -364,7 +229,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0004352794/</loc>
-      <lastmod>2018-12-10T20:43:56-07:00</lastmod>
+      <lastmod>2018-12-10T20:43:56+00:00</lastmod>
     </url>
     
   
@@ -372,7 +237,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000018514/</loc>
-      <lastmod>2018-12-09T06:45:51-07:00</lastmod>
+      <lastmod>2018-12-09T06:45:51+00:00</lastmod>
     </url>
     
   
@@ -380,7 +245,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000701258/</loc>
-      <lastmod>2018-12-08T22:12:12-07:00</lastmod>
+      <lastmod>2018-12-08T22:12:12+00:00</lastmod>
     </url>
     
   
@@ -388,23 +253,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000007840/</loc>
-      <lastmod>2018-12-07T01:54:34-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork_types/8/</loc>
-      <lastmod>2018-12-06T17:32:15-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/circles/</loc>
-      <lastmod>2018-12-06T17:32:15-07:00</lastmod>
+      <lastmod>2018-12-07T01:54:34+00:00</lastmod>
     </url>
     
   
@@ -412,7 +261,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000056140/</loc>
-      <lastmod>2018-12-06T17:32:15-07:00</lastmod>
+      <lastmod>2018-12-06T17:32:15+00:00</lastmod>
     </url>
     
   
@@ -420,31 +269,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000038014/</loc>
-      <lastmod>2018-12-05T03:28:21-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/deterministic/</loc>
-      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
+      <lastmod>2018-12-05T03:28:21+00:00</lastmod>
     </url>
     
   
@@ -452,7 +277,7 @@
     <url>
     
       <loc>/project/regular/</loc>
-      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -460,7 +285,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0001195386/</loc>
-      <lastmod>2018-12-04T22:43:38-07:00</lastmod>
+      <lastmod>2018-12-04T22:43:38+00:00</lastmod>
     </url>
     
   
@@ -468,7 +293,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000064348/</loc>
-      <lastmod>2018-12-03T04:42:39-07:00</lastmod>
+      <lastmod>2018-12-03T04:42:39+00:00</lastmod>
     </url>
     
   
@@ -476,31 +301,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000000430/</loc>
-      <lastmod>2018-12-02T23:34:43-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/animation/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/artful/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/artificial-intelligence/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <lastmod>2018-12-02T23:34:43+00:00</lastmod>
     </url>
     
   
@@ -508,23 +309,7 @@
     <url>
     
       <loc>/project/dye/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/evolving/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/humor/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
     </url>
     
   
@@ -532,7 +317,7 @@
     <url>
     
       <loc>/project/mov/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
     </url>
     
   
@@ -540,7 +325,7 @@
     <url>
     
       <loc>/project/rnr/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
     </url>
     
   
@@ -548,31 +333,7 @@
     <url>
     
       <loc>/project/rab/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/twitter/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/unfinished/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/words/</loc>
-      <lastmod>2018-12-02T21:58:28-07:00</lastmod>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
     </url>
     
   
@@ -580,7 +341,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000093902/</loc>
-      <lastmod>2018-12-01T09:38:16-07:00</lastmod>
+      <lastmod>2018-12-01T09:38:16+00:00</lastmod>
     </url>
     
   
@@ -588,7 +349,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000879983/</loc>
-      <lastmod>2018-11-30T19:38:34-07:00</lastmod>
+      <lastmod>2018-11-30T19:38:34+00:00</lastmod>
     </url>
     
   
@@ -596,7 +357,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0006636300/</loc>
-      <lastmod>2018-11-29T22:28:17-07:00</lastmod>
+      <lastmod>2018-11-29T22:28:17+00:00</lastmod>
     </url>
     
   
@@ -604,7 +365,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0002272903/</loc>
-      <lastmod>2018-11-28T08:50:47-07:00</lastmod>
+      <lastmod>2018-11-28T08:50:47+00:00</lastmod>
     </url>
     
   
@@ -612,7 +373,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000207881/</loc>
-      <lastmod>2018-11-27T06:13:14-07:00</lastmod>
+      <lastmod>2018-11-27T06:13:14+00:00</lastmod>
     </url>
     
   
@@ -620,7 +381,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000082433/</loc>
-      <lastmod>2018-11-26T16:22:25-07:00</lastmod>
+      <lastmod>2018-11-26T16:22:25+00:00</lastmod>
     </url>
     
   
@@ -628,7 +389,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0001562293/</loc>
-      <lastmod>2018-11-25T12:25:46-07:00</lastmod>
+      <lastmod>2018-11-25T12:25:46+00:00</lastmod>
     </url>
     
   
@@ -636,7 +397,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0002500175/</loc>
-      <lastmod>2018-11-24T11:14:58-07:00</lastmod>
+      <lastmod>2018-11-24T11:14:58+00:00</lastmod>
     </url>
     
   
@@ -644,7 +405,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000152334/</loc>
-      <lastmod>2018-11-23T15:05:07-07:00</lastmod>
+      <lastmod>2018-11-23T15:05:07+00:00</lastmod>
     </url>
     
   
@@ -652,7 +413,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000053581/</loc>
-      <lastmod>2018-11-22T20:16:22-07:00</lastmod>
+      <lastmod>2018-11-22T20:16:22+00:00</lastmod>
     </url>
     
   
@@ -660,7 +421,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0002847596/</loc>
-      <lastmod>2018-11-21T11:15:23-07:00</lastmod>
+      <lastmod>2018-11-21T11:15:23+00:00</lastmod>
     </url>
     
   
@@ -668,7 +429,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0005268423/</loc>
-      <lastmod>2018-11-20T16:09:56-07:00</lastmod>
+      <lastmod>2018-11-20T16:09:56+00:00</lastmod>
     </url>
     
   
@@ -676,7 +437,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000057371/</loc>
-      <lastmod>2018-11-19T11:58:58-07:00</lastmod>
+      <lastmod>2018-11-19T11:58:58+00:00</lastmod>
     </url>
     
   
@@ -684,7 +445,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001946231/</loc>
-      <lastmod>2018-11-18T05:33:11-07:00</lastmod>
+      <lastmod>2018-11-18T05:33:11+00:00</lastmod>
     </url>
     
   
@@ -692,7 +453,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000301944/</loc>
-      <lastmod>2018-11-17T02:49:36-07:00</lastmod>
+      <lastmod>2018-11-17T02:49:36+00:00</lastmod>
     </url>
     
   
@@ -700,7 +461,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001913071/</loc>
-      <lastmod>2018-11-16T07:41:24-07:00</lastmod>
+      <lastmod>2018-11-16T07:41:24+00:00</lastmod>
     </url>
     
   
@@ -708,7 +469,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000137213/</loc>
-      <lastmod>2018-11-15T16:00:24-07:00</lastmod>
+      <lastmod>2018-11-15T16:00:24+00:00</lastmod>
     </url>
     
   
@@ -716,7 +477,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000033057/</loc>
-      <lastmod>2018-11-14T01:52:08-07:00</lastmod>
+      <lastmod>2018-11-14T01:52:08+00:00</lastmod>
     </url>
     
   
@@ -724,7 +485,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000002236/</loc>
-      <lastmod>2018-11-13T12:42:33-07:00</lastmod>
+      <lastmod>2018-11-13T12:42:33+00:00</lastmod>
     </url>
     
   
@@ -732,7 +493,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001841999/</loc>
-      <lastmod>2018-11-12T19:42:16-07:00</lastmod>
+      <lastmod>2018-11-12T19:42:16+00:00</lastmod>
     </url>
     
   
@@ -740,7 +501,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000911185/</loc>
-      <lastmod>2018-11-11T23:32:57-07:00</lastmod>
+      <lastmod>2018-11-11T23:32:57+00:00</lastmod>
     </url>
     
   
@@ -748,7 +509,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000932023/</loc>
-      <lastmod>2018-11-10T14:23:53-07:00</lastmod>
+      <lastmod>2018-11-10T14:23:53+00:00</lastmod>
     </url>
     
   
@@ -756,7 +517,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000261665/</loc>
-      <lastmod>2018-11-09T06:39:34-07:00</lastmod>
+      <lastmod>2018-11-09T06:39:34+00:00</lastmod>
     </url>
     
   
@@ -764,7 +525,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000067231/</loc>
-      <lastmod>2018-11-08T10:39:10-07:00</lastmod>
+      <lastmod>2018-11-08T10:39:10+00:00</lastmod>
     </url>
     
   
@@ -772,7 +533,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000058579/</loc>
-      <lastmod>2018-11-07T03:50:25-07:00</lastmod>
+      <lastmod>2018-11-07T03:50:25+00:00</lastmod>
     </url>
     
   
@@ -780,7 +541,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0001235495/</loc>
-      <lastmod>2018-11-06T21:42:00-07:00</lastmod>
+      <lastmod>2018-11-06T21:42:00+00:00</lastmod>
     </url>
     
   
@@ -788,7 +549,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000443808/</loc>
-      <lastmod>2018-11-05T20:27:57-07:00</lastmod>
+      <lastmod>2018-11-05T20:27:57+00:00</lastmod>
     </url>
     
   
@@ -796,7 +557,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000046831/</loc>
-      <lastmod>2018-11-04T20:06:09-07:00</lastmod>
+      <lastmod>2018-11-04T20:06:09+00:00</lastmod>
     </url>
     
   
@@ -804,7 +565,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000110615/</loc>
-      <lastmod>2018-11-03T05:26:39-06:00</lastmod>
+      <lastmod>2018-11-03T05:26:39+00:00</lastmod>
     </url>
     
   
@@ -812,7 +573,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000004307/</loc>
-      <lastmod>2018-11-02T20:41:21-06:00</lastmod>
+      <lastmod>2018-11-02T20:41:21+00:00</lastmod>
     </url>
     
   
@@ -820,7 +581,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000027725/</loc>
-      <lastmod>2018-11-01T16:36:24-06:00</lastmod>
+      <lastmod>2018-11-01T16:36:24+00:00</lastmod>
     </url>
     
   
@@ -828,7 +589,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000318843/</loc>
-      <lastmod>2018-10-31T17:20:41-06:00</lastmod>
+      <lastmod>2018-10-31T17:20:41+00:00</lastmod>
     </url>
     
   
@@ -836,7 +597,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000628662/</loc>
-      <lastmod>2018-10-30T01:22:36-06:00</lastmod>
+      <lastmod>2018-10-30T01:22:36+00:00</lastmod>
     </url>
     
   
@@ -844,7 +605,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000330152/</loc>
-      <lastmod>2018-10-29T03:25:57-06:00</lastmod>
+      <lastmod>2018-10-29T03:25:57+00:00</lastmod>
     </url>
     
   
@@ -852,7 +613,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000498392/</loc>
-      <lastmod>2018-10-28T06:08:53-06:00</lastmod>
+      <lastmod>2018-10-28T06:08:53+00:00</lastmod>
     </url>
     
   
@@ -860,7 +621,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0003868800/</loc>
-      <lastmod>2018-10-27T16:13:08-06:00</lastmod>
+      <lastmod>2018-10-27T16:13:08+00:00</lastmod>
     </url>
     
   
@@ -868,7 +629,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000083176/</loc>
-      <lastmod>2018-10-26T13:22:31-06:00</lastmod>
+      <lastmod>2018-10-26T13:22:31+00:00</lastmod>
     </url>
     
   
@@ -876,7 +637,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001607732/</loc>
-      <lastmod>2018-10-25T23:16:09-06:00</lastmod>
+      <lastmod>2018-10-25T23:16:09+00:00</lastmod>
     </url>
     
   
@@ -884,7 +645,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000100188/</loc>
-      <lastmod>2018-10-24T02:51:57-06:00</lastmod>
+      <lastmod>2018-10-24T02:51:57+00:00</lastmod>
     </url>
     
   
@@ -892,7 +653,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000977770/</loc>
-      <lastmod>2018-10-23T05:29:08-06:00</lastmod>
+      <lastmod>2018-10-23T05:29:08+00:00</lastmod>
     </url>
     
   
@@ -900,7 +661,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000017996/</loc>
-      <lastmod>2018-10-22T22:11:19-06:00</lastmod>
+      <lastmod>2018-10-22T22:11:19+00:00</lastmod>
     </url>
     
   
@@ -908,7 +669,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0002013906/</loc>
-      <lastmod>2018-10-21T10:41:01-06:00</lastmod>
+      <lastmod>2018-10-21T10:41:01+00:00</lastmod>
     </url>
     
   
@@ -916,7 +677,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000120992/</loc>
-      <lastmod>2018-10-20T01:00:46-06:00</lastmod>
+      <lastmod>2018-10-20T01:00:46+00:00</lastmod>
     </url>
     
   
@@ -924,7 +685,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000079647/</loc>
-      <lastmod>2018-10-19T18:47:18-06:00</lastmod>
+      <lastmod>2018-10-19T18:47:18+00:00</lastmod>
     </url>
     
   
@@ -932,7 +693,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0003881292/</loc>
-      <lastmod>2018-10-18T09:06:32-06:00</lastmod>
+      <lastmod>2018-10-18T09:06:32+00:00</lastmod>
     </url>
     
   
@@ -940,7 +701,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0001463968/</loc>
-      <lastmod>2018-10-17T13:30:54-06:00</lastmod>
+      <lastmod>2018-10-17T13:30:54+00:00</lastmod>
     </url>
     
   
@@ -948,7 +709,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000106052/</loc>
-      <lastmod>2018-10-16T15:03:51-06:00</lastmod>
+      <lastmod>2018-10-16T15:03:51+00:00</lastmod>
     </url>
     
   
@@ -956,7 +717,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000913932/</loc>
-      <lastmod>2018-10-15T23:13:31-06:00</lastmod>
+      <lastmod>2018-10-15T23:13:31+00:00</lastmod>
     </url>
     
   
@@ -964,7 +725,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0004128704/</loc>
-      <lastmod>2018-10-14T18:32:27-06:00</lastmod>
+      <lastmod>2018-10-14T18:32:27+00:00</lastmod>
     </url>
     
   
@@ -972,7 +733,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000087622/</loc>
-      <lastmod>2018-10-13T21:56:46-06:00</lastmod>
+      <lastmod>2018-10-13T21:56:46+00:00</lastmod>
     </url>
     
   
@@ -980,7 +741,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000511368/</loc>
-      <lastmod>2018-10-12T02:23:22-06:00</lastmod>
+      <lastmod>2018-10-12T02:23:22+00:00</lastmod>
     </url>
     
   
@@ -988,7 +749,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000121198/</loc>
-      <lastmod>2018-10-11T17:06:28-06:00</lastmod>
+      <lastmod>2018-10-11T17:06:28+00:00</lastmod>
     </url>
     
   
@@ -996,7 +757,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000001832/</loc>
-      <lastmod>2018-10-10T01:59:32-06:00</lastmod>
+      <lastmod>2018-10-10T01:59:32+00:00</lastmod>
     </url>
     
   
@@ -1004,7 +765,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000272715/</loc>
-      <lastmod>2018-10-09T02:31:09-06:00</lastmod>
+      <lastmod>2018-10-09T02:31:09+00:00</lastmod>
     </url>
     
   
@@ -1012,7 +773,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000064500/</loc>
-      <lastmod>2018-10-08T03:00:07-06:00</lastmod>
+      <lastmod>2018-10-08T03:00:07+00:00</lastmod>
     </url>
     
   
@@ -1020,7 +781,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0001087610/</loc>
-      <lastmod>2018-10-07T16:49:29-06:00</lastmod>
+      <lastmod>2018-10-07T16:49:29+00:00</lastmod>
     </url>
     
   
@@ -1028,7 +789,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000457650/</loc>
-      <lastmod>2018-10-06T14:49:01-06:00</lastmod>
+      <lastmod>2018-10-06T14:49:01+00:00</lastmod>
     </url>
     
   
@@ -1036,7 +797,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000027622/</loc>
-      <lastmod>2018-10-05T07:18:17-06:00</lastmod>
+      <lastmod>2018-10-05T07:18:17+00:00</lastmod>
     </url>
     
   
@@ -1044,7 +805,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000497312/</loc>
-      <lastmod>2018-10-04T16:44:28-06:00</lastmod>
+      <lastmod>2018-10-04T16:44:28+00:00</lastmod>
     </url>
     
   
@@ -1052,7 +813,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000757884/</loc>
-      <lastmod>2018-10-03T23:18:31-06:00</lastmod>
+      <lastmod>2018-10-03T23:18:31+00:00</lastmod>
     </url>
     
   
@@ -1060,7 +821,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000403048/</loc>
-      <lastmod>2018-10-02T12:29:22-06:00</lastmod>
+      <lastmod>2018-10-02T12:29:22+00:00</lastmod>
     </url>
     
   
@@ -1068,7 +829,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000001899/</loc>
-      <lastmod>2018-10-01T07:48:06-06:00</lastmod>
+      <lastmod>2018-10-01T07:48:06+00:00</lastmod>
     </url>
     
   
@@ -1076,7 +837,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0005120161/</loc>
-      <lastmod>2018-09-30T19:40:48-06:00</lastmod>
+      <lastmod>2018-09-30T19:40:48+00:00</lastmod>
     </url>
     
   
@@ -1084,7 +845,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0005018513/</loc>
-      <lastmod>2018-09-29T17:20:48-06:00</lastmod>
+      <lastmod>2018-09-29T17:20:48+00:00</lastmod>
     </url>
     
   
@@ -1092,7 +853,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000133541/</loc>
-      <lastmod>2018-09-28T23:32:48-06:00</lastmod>
+      <lastmod>2018-09-28T23:32:48+00:00</lastmod>
     </url>
     
   
@@ -1100,7 +861,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0002314993/</loc>
-      <lastmod>2018-09-27T23:24:06-06:00</lastmod>
+      <lastmod>2018-09-27T23:24:06+00:00</lastmod>
     </url>
     
   
@@ -1108,7 +869,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0001034219/</loc>
-      <lastmod>2018-09-26T16:42:58-06:00</lastmod>
+      <lastmod>2018-09-26T16:42:58+00:00</lastmod>
     </url>
     
   
@@ -1116,7 +877,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000645996/</loc>
-      <lastmod>2018-09-25T01:06:17-06:00</lastmod>
+      <lastmod>2018-09-25T01:06:17+00:00</lastmod>
     </url>
     
   
@@ -1124,7 +885,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0007463041/</loc>
-      <lastmod>2018-09-24T19:24:25-06:00</lastmod>
+      <lastmod>2018-09-24T19:24:25+00:00</lastmod>
     </url>
     
   
@@ -1132,7 +893,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0003666505/</loc>
-      <lastmod>2018-09-23T19:56:52-06:00</lastmod>
+      <lastmod>2018-09-23T19:56:52+00:00</lastmod>
     </url>
     
   
@@ -1140,7 +901,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000184943/</loc>
-      <lastmod>2018-09-22T14:08:52-06:00</lastmod>
+      <lastmod>2018-09-22T14:08:52+00:00</lastmod>
     </url>
     
   
@@ -1148,7 +909,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0002445613/</loc>
-      <lastmod>2018-09-21T21:54:50-06:00</lastmod>
+      <lastmod>2018-09-21T21:54:50+00:00</lastmod>
     </url>
     
   
@@ -1156,7 +917,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000061721/</loc>
-      <lastmod>2018-09-20T03:53:22-06:00</lastmod>
+      <lastmod>2018-09-20T03:53:22+00:00</lastmod>
     </url>
     
   
@@ -1164,7 +925,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000437843/</loc>
-      <lastmod>2018-09-19T13:36:20-06:00</lastmod>
+      <lastmod>2018-09-19T13:36:20+00:00</lastmod>
     </url>
     
   
@@ -1172,7 +933,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000484105/</loc>
-      <lastmod>2018-09-18T07:40:21-06:00</lastmod>
+      <lastmod>2018-09-18T07:40:21+00:00</lastmod>
     </url>
     
   
@@ -1180,7 +941,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000199582/</loc>
-      <lastmod>2018-09-17T08:53:50-06:00</lastmod>
+      <lastmod>2018-09-17T08:53:50+00:00</lastmod>
     </url>
     
   
@@ -1188,7 +949,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000140969/</loc>
-      <lastmod>2018-09-16T04:07:41-06:00</lastmod>
+      <lastmod>2018-09-16T04:07:41+00:00</lastmod>
     </url>
     
   
@@ -1196,7 +957,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000167146/</loc>
-      <lastmod>2018-09-15T07:59:42-06:00</lastmod>
+      <lastmod>2018-09-15T07:59:42+00:00</lastmod>
     </url>
     
   
@@ -1204,7 +965,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000109293/</loc>
-      <lastmod>2018-09-14T07:17:24-06:00</lastmod>
+      <lastmod>2018-09-14T07:17:24+00:00</lastmod>
     </url>
     
   
@@ -1212,7 +973,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001889385/</loc>
-      <lastmod>2018-09-13T13:42:11-06:00</lastmod>
+      <lastmod>2018-09-13T13:42:11+00:00</lastmod>
     </url>
     
   
@@ -1220,7 +981,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000107665/</loc>
-      <lastmod>2018-09-12T05:05:07-06:00</lastmod>
+      <lastmod>2018-09-12T05:05:07+00:00</lastmod>
     </url>
     
   
@@ -1228,7 +989,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000611314/</loc>
-      <lastmod>2018-09-11T04:19:10-06:00</lastmod>
+      <lastmod>2018-09-11T04:19:10+00:00</lastmod>
     </url>
     
   
@@ -1236,7 +997,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001905141/</loc>
-      <lastmod>2018-09-10T18:50:35-06:00</lastmod>
+      <lastmod>2018-09-10T18:50:35+00:00</lastmod>
     </url>
     
   
@@ -1244,7 +1005,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000019651/</loc>
-      <lastmod>2018-09-09T11:44:01-06:00</lastmod>
+      <lastmod>2018-09-09T11:44:01+00:00</lastmod>
     </url>
     
   
@@ -1252,7 +1013,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000284705/</loc>
-      <lastmod>2018-09-08T07:04:28-06:00</lastmod>
+      <lastmod>2018-09-08T07:04:28+00:00</lastmod>
     </url>
     
   
@@ -1260,7 +1021,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000655461/</loc>
-      <lastmod>2018-09-07T14:35:44-06:00</lastmod>
+      <lastmod>2018-09-07T14:35:44+00:00</lastmod>
     </url>
     
   
@@ -1268,7 +1029,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000361849/</loc>
-      <lastmod>2018-09-06T09:32:53-06:00</lastmod>
+      <lastmod>2018-09-06T09:32:53+00:00</lastmod>
     </url>
     
   
@@ -1276,7 +1037,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000092401/</loc>
-      <lastmod>2018-09-05T03:21:01-06:00</lastmod>
+      <lastmod>2018-09-05T03:21:01+00:00</lastmod>
     </url>
     
   
@@ -1284,7 +1045,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000021645/</loc>
-      <lastmod>2018-09-04T04:26:54-06:00</lastmod>
+      <lastmod>2018-09-04T04:26:54+00:00</lastmod>
     </url>
     
   
@@ -1292,7 +1053,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000003505/</loc>
-      <lastmod>2018-09-03T03:28:37-06:00</lastmod>
+      <lastmod>2018-09-03T03:28:37+00:00</lastmod>
     </url>
     
   
@@ -1300,7 +1061,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000001981/</loc>
-      <lastmod>2018-09-02T00:51:29-06:00</lastmod>
+      <lastmod>2018-09-02T00:51:29+00:00</lastmod>
     </url>
     
   
@@ -1308,7 +1069,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000110101/</loc>
-      <lastmod>2018-09-01T09:51:14-06:00</lastmod>
+      <lastmod>2018-09-01T09:51:14+00:00</lastmod>
     </url>
     
   
@@ -1316,7 +1077,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0002774393/</loc>
-      <lastmod>2018-08-31T05:02:06-06:00</lastmod>
+      <lastmod>2018-08-31T05:02:06+00:00</lastmod>
     </url>
     
   
@@ -1324,7 +1085,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0003775400/</loc>
-      <lastmod>2018-08-30T07:50:38-06:00</lastmod>
+      <lastmod>2018-08-30T07:50:38+00:00</lastmod>
     </url>
     
   
@@ -1332,7 +1093,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001604187/</loc>
-      <lastmod>2018-08-29T14:54:01-06:00</lastmod>
+      <lastmod>2018-08-29T14:54:01+00:00</lastmod>
     </url>
     
   
@@ -1340,7 +1101,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000035278/</loc>
-      <lastmod>2018-08-28T14:32:24-06:00</lastmod>
+      <lastmod>2018-08-28T14:32:24+00:00</lastmod>
     </url>
     
   
@@ -1348,7 +1109,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0004665656/</loc>
-      <lastmod>2018-08-27T18:37:32-06:00</lastmod>
+      <lastmod>2018-08-27T18:37:32+00:00</lastmod>
     </url>
     
   
@@ -1363,32 +1124,8 @@
     
     <url>
     
-      <loc>/categories/outreach/</loc>
-      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/resources/</loc>
-      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/youtube/</loc>
-      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/artwork/rnr_lines_0010728308/</loc>
-      <lastmod>2018-08-26T17:39:07-06:00</lastmod>
+      <lastmod>2018-08-26T17:39:07+00:00</lastmod>
     </url>
     
   
@@ -1396,7 +1133,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000026935/</loc>
-      <lastmod>2018-08-25T13:25:03-06:00</lastmod>
+      <lastmod>2018-08-25T13:25:03+00:00</lastmod>
     </url>
     
   
@@ -1404,23 +1141,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000069854/</loc>
-      <lastmod>2018-08-24T02:20:36-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/academia/</loc>
-      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/advertising/</loc>
-      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+      <lastmod>2018-08-24T02:20:36+00:00</lastmod>
     </url>
     
   
@@ -1435,16 +1156,8 @@
     
     <url>
     
-      <loc>/tags/siam/</loc>
-      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/artwork/rnr_lines_0001756367/</loc>
-      <lastmod>2018-08-23T10:40:36-06:00</lastmod>
+      <lastmod>2018-08-23T10:40:36+00:00</lastmod>
     </url>
     
   
@@ -1452,7 +1165,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000176440/</loc>
-      <lastmod>2018-08-22T00:39:21-06:00</lastmod>
+      <lastmod>2018-08-22T00:39:21+00:00</lastmod>
     </url>
     
   
@@ -1460,7 +1173,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0004305320/</loc>
-      <lastmod>2018-08-21T10:08:33-06:00</lastmod>
+      <lastmod>2018-08-21T10:08:33+00:00</lastmod>
     </url>
     
   
@@ -1468,7 +1181,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000171610/</loc>
-      <lastmod>2018-08-20T11:49:13-06:00</lastmod>
+      <lastmod>2018-08-20T11:49:13+00:00</lastmod>
     </url>
     
   
@@ -1476,7 +1189,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000030738/</loc>
-      <lastmod>2018-08-19T02:29:30-06:00</lastmod>
+      <lastmod>2018-08-19T02:29:30+00:00</lastmod>
     </url>
     
   
@@ -1484,7 +1197,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0002025794/</loc>
-      <lastmod>2018-08-18T10:14:23-06:00</lastmod>
+      <lastmod>2018-08-18T10:14:23+00:00</lastmod>
     </url>
     
   
@@ -1492,7 +1205,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000048254/</loc>
-      <lastmod>2018-08-17T00:36:08-06:00</lastmod>
+      <lastmod>2018-08-17T00:36:08+00:00</lastmod>
     </url>
     
   
@@ -1500,7 +1213,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000052046/</loc>
-      <lastmod>2018-08-16T01:12:39-06:00</lastmod>
+      <lastmod>2018-08-16T01:12:39+00:00</lastmod>
     </url>
     
   
@@ -1508,7 +1221,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000333080/</loc>
-      <lastmod>2018-08-15T09:04:22-06:00</lastmod>
+      <lastmod>2018-08-15T09:04:22+00:00</lastmod>
     </url>
     
   
@@ -1516,7 +1229,7 @@
     <url>
     
       <loc>/post/start/</loc>
-      <lastmod>2018-08-15T00:00:00-06:00</lastmod>
+      <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1524,7 +1237,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000429924/</loc>
-      <lastmod>2018-08-14T02:32:05-06:00</lastmod>
+      <lastmod>2018-08-14T02:32:05+00:00</lastmod>
     </url>
     
   
@@ -1532,7 +1245,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000026552/</loc>
-      <lastmod>2018-08-13T04:10:35-06:00</lastmod>
+      <lastmod>2018-08-13T04:10:35+00:00</lastmod>
     </url>
     
   
@@ -1540,7 +1253,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001406366/</loc>
-      <lastmod>2018-08-12T11:46:00-06:00</lastmod>
+      <lastmod>2018-08-12T11:46:00+00:00</lastmod>
     </url>
     
   
@@ -1548,7 +1261,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000046486/</loc>
-      <lastmod>2018-08-11T03:18:19-06:00</lastmod>
+      <lastmod>2018-08-11T03:18:19+00:00</lastmod>
     </url>
     
   
@@ -1556,7 +1269,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0001120150/</loc>
-      <lastmod>2018-08-10T11:04:05-06:00</lastmod>
+      <lastmod>2018-08-10T11:04:05+00:00</lastmod>
     </url>
     
   
@@ -1564,7 +1277,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0001193906/</loc>
-      <lastmod>2018-08-09T10:07:25-06:00</lastmod>
+      <lastmod>2018-08-09T10:07:25+00:00</lastmod>
     </url>
     
   
@@ -1572,7 +1285,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000040782/</loc>
-      <lastmod>2018-08-08T05:50:56-06:00</lastmod>
+      <lastmod>2018-08-08T05:50:56+00:00</lastmod>
     </url>
     
   
@@ -1580,7 +1293,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000018023/</loc>
-      <lastmod>2018-08-07T14:05:53-06:00</lastmod>
+      <lastmod>2018-08-07T14:05:53+00:00</lastmod>
     </url>
     
   
@@ -1588,7 +1301,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000147668/</loc>
-      <lastmod>2018-08-06T01:19:27-06:00</lastmod>
+      <lastmod>2018-08-06T01:19:27+00:00</lastmod>
     </url>
     
   
@@ -1596,7 +1309,7 @@
     <url>
     
       <loc>/post/hallucinating/</loc>
-      <lastmod>2018-08-06T00:00:00-06:00</lastmod>
+      <lastmod>2018-08-06T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1604,7 +1317,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000000525/</loc>
-      <lastmod>2018-08-05T07:36:35-06:00</lastmod>
+      <lastmod>2018-08-05T07:36:35+00:00</lastmod>
     </url>
     
   
@@ -1612,7 +1325,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0001585734/</loc>
-      <lastmod>2018-08-04T23:54:08-06:00</lastmod>
+      <lastmod>2018-08-04T23:54:08+00:00</lastmod>
     </url>
     
   
@@ -1620,7 +1333,7 @@
     <url>
     
       <loc>/post/machinelearning/</loc>
-      <lastmod>2018-08-04T00:00:00-06:00</lastmod>
+      <lastmod>2018-08-04T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1628,7 +1341,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000327215/</loc>
-      <lastmod>2018-08-03T15:03:29-06:00</lastmod>
+      <lastmod>2018-08-03T15:03:29+00:00</lastmod>
     </url>
     
   
@@ -1636,7 +1349,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000247494/</loc>
-      <lastmod>2018-08-02T21:20:05-06:00</lastmod>
+      <lastmod>2018-08-02T21:20:05+00:00</lastmod>
     </url>
     
   
@@ -1644,7 +1357,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000001578/</loc>
-      <lastmod>2018-08-01T05:36:56-06:00</lastmod>
+      <lastmod>2018-08-01T05:36:56+00:00</lastmod>
     </url>
     
   
@@ -1652,7 +1365,7 @@
     <url>
     
       <loc>/post/linkedin-contacts/</loc>
-      <lastmod>2018-08-01T00:00:00-06:00</lastmod>
+      <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1660,7 +1373,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000081815/</loc>
-      <lastmod>2018-07-31T01:58:55-06:00</lastmod>
+      <lastmod>2018-07-31T01:58:55+00:00</lastmod>
     </url>
     
   
@@ -1668,7 +1381,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000082509/</loc>
-      <lastmod>2018-07-30T18:41:40-06:00</lastmod>
+      <lastmod>2018-07-30T18:41:40+00:00</lastmod>
     </url>
     
   
@@ -1676,7 +1389,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000200170/</loc>
-      <lastmod>2018-07-29T01:46:07-06:00</lastmod>
+      <lastmod>2018-07-29T01:46:07+00:00</lastmod>
     </url>
     
   
@@ -1684,7 +1397,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0009491623/</loc>
-      <lastmod>2018-07-28T17:46:35-06:00</lastmod>
+      <lastmod>2018-07-28T17:46:35+00:00</lastmod>
     </url>
     
   
@@ -1692,7 +1405,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000279711/</loc>
-      <lastmod>2018-07-27T03:09:02-06:00</lastmod>
+      <lastmod>2018-07-27T03:09:02+00:00</lastmod>
     </url>
     
   
@@ -1700,7 +1413,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000298657/</loc>
-      <lastmod>2018-07-26T11:24:16-06:00</lastmod>
+      <lastmod>2018-07-26T11:24:16+00:00</lastmod>
     </url>
     
   
@@ -1708,7 +1421,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000053424/</loc>
-      <lastmod>2018-07-25T16:38:21-06:00</lastmod>
+      <lastmod>2018-07-25T16:38:21+00:00</lastmod>
     </url>
     
   
@@ -1716,7 +1429,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000586515/</loc>
-      <lastmod>2018-07-24T22:36:27-06:00</lastmod>
+      <lastmod>2018-07-24T22:36:27+00:00</lastmod>
     </url>
     
   
@@ -1724,7 +1437,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0002062739/</loc>
-      <lastmod>2018-07-23T05:34:50-06:00</lastmod>
+      <lastmod>2018-07-23T05:34:50+00:00</lastmod>
     </url>
     
   
@@ -1732,7 +1445,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0002532365/</loc>
-      <lastmod>2018-07-22T14:59:44-06:00</lastmod>
+      <lastmod>2018-07-22T14:59:44+00:00</lastmod>
     </url>
     
   
@@ -1740,7 +1453,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000410145/</loc>
-      <lastmod>2018-07-21T02:46:22-06:00</lastmod>
+      <lastmod>2018-07-21T02:46:22+00:00</lastmod>
     </url>
     
   
@@ -1748,7 +1461,7 @@
     <url>
     
       <loc>/project/poker/</loc>
-      <lastmod>2018-07-21T00:00:00-06:00</lastmod>
+      <lastmod>2018-07-21T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1756,7 +1469,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0002768299/</loc>
-      <lastmod>2018-07-20T13:58:55-06:00</lastmod>
+      <lastmod>2018-07-20T13:58:55+00:00</lastmod>
     </url>
     
   
@@ -1764,7 +1477,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000129622/</loc>
-      <lastmod>2018-07-19T13:23:01-06:00</lastmod>
+      <lastmod>2018-07-19T13:23:01+00:00</lastmod>
     </url>
     
   
@@ -1772,7 +1485,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0003521043/</loc>
-      <lastmod>2018-07-18T23:21:13-06:00</lastmod>
+      <lastmod>2018-07-18T23:21:13+00:00</lastmod>
     </url>
     
   
@@ -1780,7 +1493,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000169657/</loc>
-      <lastmod>2018-07-17T16:34:51-06:00</lastmod>
+      <lastmod>2018-07-17T16:34:51+00:00</lastmod>
     </url>
     
   
@@ -1788,7 +1501,7 @@
     <url>
     
       <loc>/post/rocky/</loc>
-      <lastmod>2018-07-17T00:00:00-06:00</lastmod>
+      <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1796,7 +1509,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0001803699/</loc>
-      <lastmod>2018-07-16T10:47:16-06:00</lastmod>
+      <lastmod>2018-07-16T10:47:16+00:00</lastmod>
     </url>
     
   
@@ -1804,7 +1517,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0002824674/</loc>
-      <lastmod>2018-07-15T14:56:21-06:00</lastmod>
+      <lastmod>2018-07-15T14:56:21+00:00</lastmod>
     </url>
     
   
@@ -1820,7 +1533,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0002736931/</loc>
-      <lastmod>2018-07-14T13:25:44-06:00</lastmod>
+      <lastmod>2018-07-14T13:25:44+00:00</lastmod>
     </url>
     
   
@@ -1828,7 +1541,7 @@
     <url>
     
       <loc>/post/skillsgap/</loc>
-      <lastmod>2018-07-14T00:00:00-06:00</lastmod>
+      <lastmod>2018-07-14T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1836,7 +1549,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001585163/</loc>
-      <lastmod>2018-07-13T11:25:45-06:00</lastmod>
+      <lastmod>2018-07-13T11:25:45+00:00</lastmod>
     </url>
     
   
@@ -1844,7 +1557,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000765315/</loc>
-      <lastmod>2018-07-12T09:21:20-06:00</lastmod>
+      <lastmod>2018-07-12T09:21:20+00:00</lastmod>
     </url>
     
   
@@ -1852,7 +1565,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000061622/</loc>
-      <lastmod>2018-07-11T18:18:20-06:00</lastmod>
+      <lastmod>2018-07-11T18:18:20+00:00</lastmod>
     </url>
     
   
@@ -1860,7 +1573,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000203489/</loc>
-      <lastmod>2018-07-10T02:26:28-06:00</lastmod>
+      <lastmod>2018-07-10T02:26:28+00:00</lastmod>
     </url>
     
   
@@ -1868,7 +1581,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000103293/</loc>
-      <lastmod>2018-07-09T10:53:15-06:00</lastmod>
+      <lastmod>2018-07-09T10:53:15+00:00</lastmod>
     </url>
     
   
@@ -1876,7 +1589,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0001447379/</loc>
-      <lastmod>2018-07-08T14:56:22-06:00</lastmod>
+      <lastmod>2018-07-08T14:56:22+00:00</lastmod>
     </url>
     
   
@@ -1884,7 +1597,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000280337/</loc>
-      <lastmod>2018-07-07T10:42:47-06:00</lastmod>
+      <lastmod>2018-07-07T10:42:47+00:00</lastmod>
     </url>
     
   
@@ -1892,7 +1605,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000037761/</loc>
-      <lastmod>2018-07-06T05:52:01-06:00</lastmod>
+      <lastmod>2018-07-06T05:52:01+00:00</lastmod>
     </url>
     
   
@@ -1900,7 +1613,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000054064/</loc>
-      <lastmod>2018-07-05T16:59:19-06:00</lastmod>
+      <lastmod>2018-07-05T16:59:19+00:00</lastmod>
     </url>
     
   
@@ -1908,7 +1621,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000021927/</loc>
-      <lastmod>2018-07-04T03:09:55-06:00</lastmod>
+      <lastmod>2018-07-04T03:09:55+00:00</lastmod>
     </url>
     
   
@@ -1916,7 +1629,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000014799/</loc>
-      <lastmod>2018-07-03T09:50:16-06:00</lastmod>
+      <lastmod>2018-07-03T09:50:16+00:00</lastmod>
     </url>
     
   
@@ -1924,7 +1637,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000009823/</loc>
-      <lastmod>2018-07-02T00:23:14-06:00</lastmod>
+      <lastmod>2018-07-02T00:23:14+00:00</lastmod>
     </url>
     
   
@@ -1932,7 +1645,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000004368/</loc>
-      <lastmod>2018-07-01T18:33:51-06:00</lastmod>
+      <lastmod>2018-07-01T18:33:51+00:00</lastmod>
     </url>
     
   
@@ -1940,7 +1653,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0005157328/</loc>
-      <lastmod>2018-06-30T17:33:17-06:00</lastmod>
+      <lastmod>2018-06-30T17:33:17+00:00</lastmod>
     </url>
     
   
@@ -1948,7 +1661,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0003829219/</loc>
-      <lastmod>2018-06-29T18:38:37-06:00</lastmod>
+      <lastmod>2018-06-29T18:38:37+00:00</lastmod>
     </url>
     
   
@@ -1956,7 +1669,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001444272/</loc>
-      <lastmod>2018-06-28T04:20:13-06:00</lastmod>
+      <lastmod>2018-06-28T04:20:13+00:00</lastmod>
     </url>
     
   
@@ -1964,7 +1677,7 @@
     <url>
     
       <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-06:00</lastmod>
+      <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1972,7 +1685,7 @@
     <url>
     
       <loc>/research/</loc>
-      <lastmod>2018-06-28T00:00:00-06:00</lastmod>
+      <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1980,7 +1693,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0010220074/</loc>
-      <lastmod>2018-06-27T16:47:46-06:00</lastmod>
+      <lastmod>2018-06-27T16:47:46+00:00</lastmod>
     </url>
     
   
@@ -1988,7 +1701,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000292250/</loc>
-      <lastmod>2018-06-26T00:53:43-06:00</lastmod>
+      <lastmod>2018-06-26T00:53:43+00:00</lastmod>
     </url>
     
   
@@ -1996,7 +1709,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000327513/</loc>
-      <lastmod>2018-06-25T01:53:53-06:00</lastmod>
+      <lastmod>2018-06-25T01:53:53+00:00</lastmod>
     </url>
     
   
@@ -2004,7 +1717,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000018208/</loc>
-      <lastmod>2018-06-24T01:27:30-06:00</lastmod>
+      <lastmod>2018-06-24T01:27:30+00:00</lastmod>
     </url>
     
   
@@ -2012,7 +1725,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000230617/</loc>
-      <lastmod>2018-06-23T12:03:00-06:00</lastmod>
+      <lastmod>2018-06-23T12:03:00+00:00</lastmod>
     </url>
     
   
@@ -2020,7 +1733,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0001787984/</loc>
-      <lastmod>2018-06-22T08:45:00-06:00</lastmod>
+      <lastmod>2018-06-22T08:45:00+00:00</lastmod>
     </url>
     
   
@@ -2028,7 +1741,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000152401/</loc>
-      <lastmod>2018-06-21T09:18:16-06:00</lastmod>
+      <lastmod>2018-06-21T09:18:16+00:00</lastmod>
     </url>
     
   
@@ -2036,7 +1749,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000096428/</loc>
-      <lastmod>2018-06-20T22:36:52-06:00</lastmod>
+      <lastmod>2018-06-20T22:36:52+00:00</lastmod>
     </url>
     
   
@@ -2044,7 +1757,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000138940/</loc>
-      <lastmod>2018-06-19T04:30:04-06:00</lastmod>
+      <lastmod>2018-06-19T04:30:04+00:00</lastmod>
     </url>
     
   
@@ -2052,7 +1765,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000756232/</loc>
-      <lastmod>2018-06-18T20:47:54-06:00</lastmod>
+      <lastmod>2018-06-18T20:47:54+00:00</lastmod>
     </url>
     
   
@@ -2060,7 +1773,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000019808/</loc>
-      <lastmod>2018-06-17T01:40:34-06:00</lastmod>
+      <lastmod>2018-06-17T01:40:34+00:00</lastmod>
     </url>
     
   
@@ -2068,7 +1781,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000064216/</loc>
-      <lastmod>2018-06-16T21:58:26-06:00</lastmod>
+      <lastmod>2018-06-16T21:58:26+00:00</lastmod>
     </url>
     
   
@@ -2076,7 +1789,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000111943/</loc>
-      <lastmod>2018-06-15T17:31:46-06:00</lastmod>
+      <lastmod>2018-06-15T17:31:46+00:00</lastmod>
     </url>
     
   
@@ -2084,7 +1797,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0003647816/</loc>
-      <lastmod>2018-06-14T22:55:32-06:00</lastmod>
+      <lastmod>2018-06-14T22:55:32+00:00</lastmod>
     </url>
     
   
@@ -2092,7 +1805,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0003130956/</loc>
-      <lastmod>2018-06-13T23:29:49-06:00</lastmod>
+      <lastmod>2018-06-13T23:29:49+00:00</lastmod>
     </url>
     
   
@@ -2100,7 +1813,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000000724/</loc>
-      <lastmod>2018-06-12T04:46:24-06:00</lastmod>
+      <lastmod>2018-06-12T04:46:24+00:00</lastmod>
     </url>
     
   
@@ -2108,7 +1821,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0001082180/</loc>
-      <lastmod>2018-06-11T13:34:05-06:00</lastmod>
+      <lastmod>2018-06-11T13:34:05+00:00</lastmod>
     </url>
     
   
@@ -2116,7 +1829,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000111648/</loc>
-      <lastmod>2018-06-10T12:27:47-06:00</lastmod>
+      <lastmod>2018-06-10T12:27:47+00:00</lastmod>
     </url>
     
   
@@ -2124,7 +1837,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000071179/</loc>
-      <lastmod>2018-06-09T16:08:32-06:00</lastmod>
+      <lastmod>2018-06-09T16:08:32+00:00</lastmod>
     </url>
     
   
@@ -2132,7 +1845,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000511496/</loc>
-      <lastmod>2018-06-08T04:40:35-06:00</lastmod>
+      <lastmod>2018-06-08T04:40:35+00:00</lastmod>
     </url>
     
   
@@ -2140,7 +1853,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000030328/</loc>
-      <lastmod>2018-06-07T07:57:59-06:00</lastmod>
+      <lastmod>2018-06-07T07:57:59+00:00</lastmod>
     </url>
     
   
@@ -2148,7 +1861,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000982072/</loc>
-      <lastmod>2018-06-06T23:27:52-06:00</lastmod>
+      <lastmod>2018-06-06T23:27:52+00:00</lastmod>
     </url>
     
   
@@ -2156,7 +1869,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000616733/</loc>
-      <lastmod>2018-06-05T10:11:09-06:00</lastmod>
+      <lastmod>2018-06-05T10:11:09+00:00</lastmod>
     </url>
     
   
@@ -2164,7 +1877,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001396760/</loc>
-      <lastmod>2018-06-04T21:02:15-06:00</lastmod>
+      <lastmod>2018-06-04T21:02:15+00:00</lastmod>
     </url>
     
   
@@ -2172,7 +1885,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000035599/</loc>
-      <lastmod>2018-06-03T14:30:00-06:00</lastmod>
+      <lastmod>2018-06-03T14:30:00+00:00</lastmod>
     </url>
     
   
@@ -2180,7 +1893,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000011394/</loc>
-      <lastmod>2018-06-02T17:46:40-06:00</lastmod>
+      <lastmod>2018-06-02T17:46:40+00:00</lastmod>
     </url>
     
   
@@ -2188,7 +1901,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000245880/</loc>
-      <lastmod>2018-06-01T10:59:36-06:00</lastmod>
+      <lastmod>2018-06-01T10:59:36+00:00</lastmod>
     </url>
     
   
@@ -2196,7 +1909,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0005336665/</loc>
-      <lastmod>2018-05-31T14:20:15-06:00</lastmod>
+      <lastmod>2018-05-31T14:20:15+00:00</lastmod>
     </url>
     
   
@@ -2204,7 +1917,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000189797/</loc>
-      <lastmod>2018-05-30T20:05:57-06:00</lastmod>
+      <lastmod>2018-05-30T20:05:57+00:00</lastmod>
     </url>
     
   
@@ -2212,7 +1925,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000146150/</loc>
-      <lastmod>2018-05-29T16:24:55-06:00</lastmod>
+      <lastmod>2018-05-29T16:24:55+00:00</lastmod>
     </url>
     
   
@@ -2220,7 +1933,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0004849789/</loc>
-      <lastmod>2018-05-28T08:38:00-06:00</lastmod>
+      <lastmod>2018-05-28T08:38:00+00:00</lastmod>
     </url>
     
   
@@ -2228,7 +1941,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000245615/</loc>
-      <lastmod>2018-05-27T19:27:07-06:00</lastmod>
+      <lastmod>2018-05-27T19:27:07+00:00</lastmod>
     </url>
     
   
@@ -2236,7 +1949,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0003134559/</loc>
-      <lastmod>2018-05-26T12:12:49-06:00</lastmod>
+      <lastmod>2018-05-26T12:12:49+00:00</lastmod>
     </url>
     
   
@@ -2244,7 +1957,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0005564427/</loc>
-      <lastmod>2018-05-25T09:25:18-06:00</lastmod>
+      <lastmod>2018-05-25T09:25:18+00:00</lastmod>
     </url>
     
   
@@ -2252,7 +1965,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0003717437/</loc>
-      <lastmod>2018-05-24T18:43:53-06:00</lastmod>
+      <lastmod>2018-05-24T18:43:53+00:00</lastmod>
     </url>
     
   
@@ -2260,7 +1973,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0002218542/</loc>
-      <lastmod>2018-05-23T12:03:35-06:00</lastmod>
+      <lastmod>2018-05-23T12:03:35+00:00</lastmod>
     </url>
     
   
@@ -2268,7 +1981,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0007089577/</loc>
-      <lastmod>2018-05-22T21:51:16-06:00</lastmod>
+      <lastmod>2018-05-22T21:51:16+00:00</lastmod>
     </url>
     
   
@@ -2276,7 +1989,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000211253/</loc>
-      <lastmod>2018-05-21T18:07:47-06:00</lastmod>
+      <lastmod>2018-05-21T18:07:47+00:00</lastmod>
     </url>
     
   
@@ -2284,7 +1997,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000111057/</loc>
-      <lastmod>2018-05-20T01:04:28-06:00</lastmod>
+      <lastmod>2018-05-20T01:04:28+00:00</lastmod>
     </url>
     
   
@@ -2292,7 +2005,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000212744/</loc>
-      <lastmod>2018-05-19T12:39:41-06:00</lastmod>
+      <lastmod>2018-05-19T12:39:41+00:00</lastmod>
     </url>
     
   
@@ -2300,7 +2013,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0002191523/</loc>
-      <lastmod>2018-05-18T11:16:37-06:00</lastmod>
+      <lastmod>2018-05-18T11:16:37+00:00</lastmod>
     </url>
     
   
@@ -2308,7 +2021,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000243228/</loc>
-      <lastmod>2018-05-17T14:11:08-06:00</lastmod>
+      <lastmod>2018-05-17T14:11:08+00:00</lastmod>
     </url>
     
   
@@ -2316,7 +2029,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0004896925/</loc>
-      <lastmod>2018-05-16T22:28:42-06:00</lastmod>
+      <lastmod>2018-05-16T22:28:42+00:00</lastmod>
     </url>
     
   
@@ -2324,7 +2037,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000110147/</loc>
-      <lastmod>2018-05-15T13:30:57-06:00</lastmod>
+      <lastmod>2018-05-15T13:30:57+00:00</lastmod>
     </url>
     
   
@@ -2332,7 +2045,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0002033857/</loc>
-      <lastmod>2018-05-14T12:52:41-06:00</lastmod>
+      <lastmod>2018-05-14T12:52:41+00:00</lastmod>
     </url>
     
   
@@ -2340,7 +2053,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000013987/</loc>
-      <lastmod>2018-05-13T03:52:22-06:00</lastmod>
+      <lastmod>2018-05-13T03:52:22+00:00</lastmod>
     </url>
     
   
@@ -2348,7 +2061,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0001542461/</loc>
-      <lastmod>2018-05-12T11:24:51-06:00</lastmod>
+      <lastmod>2018-05-12T11:24:51+00:00</lastmod>
     </url>
     
   
@@ -2356,7 +2069,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000080091/</loc>
-      <lastmod>2018-05-11T14:15:52-06:00</lastmod>
+      <lastmod>2018-05-11T14:15:52+00:00</lastmod>
     </url>
     
   
@@ -2364,7 +2077,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0003177787/</loc>
-      <lastmod>2018-05-10T13:30:51-06:00</lastmod>
+      <lastmod>2018-05-10T13:30:51+00:00</lastmod>
     </url>
     
   
@@ -2372,7 +2085,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000022667/</loc>
-      <lastmod>2018-05-09T08:18:11-06:00</lastmod>
+      <lastmod>2018-05-09T08:18:11+00:00</lastmod>
     </url>
     
   
@@ -2388,7 +2101,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000003301/</loc>
-      <lastmod>2018-05-08T12:58:18-06:00</lastmod>
+      <lastmod>2018-05-08T12:58:18+00:00</lastmod>
     </url>
     
   
@@ -2396,7 +2109,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000009688/</loc>
-      <lastmod>2018-05-07T16:48:19-06:00</lastmod>
+      <lastmod>2018-05-07T16:48:19+00:00</lastmod>
     </url>
     
   
@@ -2404,7 +2117,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000035627/</loc>
-      <lastmod>2018-05-06T22:24:34-06:00</lastmod>
+      <lastmod>2018-05-06T22:24:34+00:00</lastmod>
     </url>
     
   
@@ -2412,7 +2125,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000254097/</loc>
-      <lastmod>2018-05-05T04:11:48-06:00</lastmod>
+      <lastmod>2018-05-05T04:11:48+00:00</lastmod>
     </url>
     
   
@@ -2420,7 +2133,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000382673/</loc>
-      <lastmod>2018-05-04T06:31:23-06:00</lastmod>
+      <lastmod>2018-05-04T06:31:23+00:00</lastmod>
     </url>
     
   
@@ -2428,7 +2141,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000046037/</loc>
-      <lastmod>2018-05-03T02:48:34-06:00</lastmod>
+      <lastmod>2018-05-03T02:48:34+00:00</lastmod>
     </url>
     
   
@@ -2436,7 +2149,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000006027/</loc>
-      <lastmod>2018-05-02T03:09:36-06:00</lastmod>
+      <lastmod>2018-05-02T03:09:36+00:00</lastmod>
     </url>
     
   
@@ -2444,7 +2157,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000007249/</loc>
-      <lastmod>2018-05-01T23:35:24-06:00</lastmod>
+      <lastmod>2018-05-01T23:35:24+00:00</lastmod>
     </url>
     
   
@@ -2452,7 +2165,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000507066/</loc>
-      <lastmod>2018-04-30T20:49:44-06:00</lastmod>
+      <lastmod>2018-04-30T20:49:44+00:00</lastmod>
     </url>
     
   
@@ -2460,7 +2173,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000284527/</loc>
-      <lastmod>2018-04-29T01:50:40-06:00</lastmod>
+      <lastmod>2018-04-29T01:50:40+00:00</lastmod>
     </url>
     
   
@@ -2468,7 +2181,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000275166/</loc>
-      <lastmod>2018-04-28T22:16:25-06:00</lastmod>
+      <lastmod>2018-04-28T22:16:25+00:00</lastmod>
     </url>
     
   
@@ -2476,7 +2189,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000787278/</loc>
-      <lastmod>2018-04-27T13:01:50-06:00</lastmod>
+      <lastmod>2018-04-27T13:01:50+00:00</lastmod>
     </url>
     
   
@@ -2484,7 +2197,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000107056/</loc>
-      <lastmod>2018-04-26T10:43:28-06:00</lastmod>
+      <lastmod>2018-04-26T10:43:28+00:00</lastmod>
     </url>
     
   
@@ -2492,7 +2205,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000098091/</loc>
-      <lastmod>2018-04-25T11:02:00-06:00</lastmod>
+      <lastmod>2018-04-25T11:02:00+00:00</lastmod>
     </url>
     
   
@@ -2500,7 +2213,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000137826/</loc>
-      <lastmod>2018-04-24T00:32:50-06:00</lastmod>
+      <lastmod>2018-04-24T00:32:50+00:00</lastmod>
     </url>
     
   
@@ -2508,7 +2221,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0005491730/</loc>
-      <lastmod>2018-04-23T19:23:11-06:00</lastmod>
+      <lastmod>2018-04-23T19:23:11+00:00</lastmod>
     </url>
     
   
@@ -2516,7 +2229,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0006197576/</loc>
-      <lastmod>2018-04-22T15:23:15-06:00</lastmod>
+      <lastmod>2018-04-22T15:23:15+00:00</lastmod>
     </url>
     
   
@@ -2524,7 +2237,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000097065/</loc>
-      <lastmod>2018-04-21T00:55:04-06:00</lastmod>
+      <lastmod>2018-04-21T00:55:04+00:00</lastmod>
     </url>
     
   
@@ -2532,7 +2245,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0004769026/</loc>
-      <lastmod>2018-04-20T19:30:09-06:00</lastmod>
+      <lastmod>2018-04-20T19:30:09+00:00</lastmod>
     </url>
     
   
@@ -2540,7 +2253,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000270873/</loc>
-      <lastmod>2018-04-19T04:22:57-06:00</lastmod>
+      <lastmod>2018-04-19T04:22:57+00:00</lastmod>
     </url>
     
   
@@ -2548,7 +2261,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000133788/</loc>
-      <lastmod>2018-04-18T15:20:38-06:00</lastmod>
+      <lastmod>2018-04-18T15:20:38+00:00</lastmod>
     </url>
     
   
@@ -2556,7 +2269,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001575048/</loc>
-      <lastmod>2018-04-17T13:51:04-06:00</lastmod>
+      <lastmod>2018-04-17T13:51:04+00:00</lastmod>
     </url>
     
   
@@ -2564,7 +2277,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000925106/</loc>
-      <lastmod>2018-04-16T13:27:04-06:00</lastmod>
+      <lastmod>2018-04-16T13:27:04+00:00</lastmod>
     </url>
     
   
@@ -2572,7 +2285,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000544161/</loc>
-      <lastmod>2018-04-15T02:11:25-06:00</lastmod>
+      <lastmod>2018-04-15T02:11:25+00:00</lastmod>
     </url>
     
   
@@ -2580,7 +2293,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000146982/</loc>
-      <lastmod>2018-04-14T06:04:21-06:00</lastmod>
+      <lastmod>2018-04-14T06:04:21+00:00</lastmod>
     </url>
     
   
@@ -2588,7 +2301,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000043629/</loc>
-      <lastmod>2018-04-13T15:24:39-06:00</lastmod>
+      <lastmod>2018-04-13T15:24:39+00:00</lastmod>
     </url>
     
   
@@ -2604,7 +2317,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000063006/</loc>
-      <lastmod>2018-04-12T00:46:33-06:00</lastmod>
+      <lastmod>2018-04-12T00:46:33+00:00</lastmod>
     </url>
     
   
@@ -2612,7 +2325,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000012045/</loc>
-      <lastmod>2018-04-11T08:11:52-06:00</lastmod>
+      <lastmod>2018-04-11T08:11:52+00:00</lastmod>
     </url>
     
   
@@ -2620,7 +2333,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000142046/</loc>
-      <lastmod>2018-04-10T04:25:52-06:00</lastmod>
+      <lastmod>2018-04-10T04:25:52+00:00</lastmod>
     </url>
     
   
@@ -2628,7 +2341,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0003183951/</loc>
-      <lastmod>2018-04-09T18:27:57-06:00</lastmod>
+      <lastmod>2018-04-09T18:27:57+00:00</lastmod>
     </url>
     
   
@@ -2636,7 +2349,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000066618/</loc>
-      <lastmod>2018-04-08T09:29:18-06:00</lastmod>
+      <lastmod>2018-04-08T09:29:18+00:00</lastmod>
     </url>
     
   
@@ -2644,7 +2357,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000031377/</loc>
-      <lastmod>2018-04-07T02:54:39-06:00</lastmod>
+      <lastmod>2018-04-07T02:54:39+00:00</lastmod>
     </url>
     
   
@@ -2652,7 +2365,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000149226/</loc>
-      <lastmod>2018-04-06T05:44:31-06:00</lastmod>
+      <lastmod>2018-04-06T05:44:31+00:00</lastmod>
     </url>
     
   
@@ -2660,7 +2373,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000611331/</loc>
-      <lastmod>2018-04-05T11:43:04-06:00</lastmod>
+      <lastmod>2018-04-05T11:43:04+00:00</lastmod>
     </url>
     
   
@@ -2668,7 +2381,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000022862/</loc>
-      <lastmod>2018-04-04T04:32:07-06:00</lastmod>
+      <lastmod>2018-04-04T04:32:07+00:00</lastmod>
     </url>
     
   
@@ -2676,7 +2389,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000074820/</loc>
-      <lastmod>2018-04-03T09:05:14-06:00</lastmod>
+      <lastmod>2018-04-03T09:05:14+00:00</lastmod>
     </url>
     
   
@@ -2684,7 +2397,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000435990/</loc>
-      <lastmod>2018-04-02T21:57:57-06:00</lastmod>
+      <lastmod>2018-04-02T21:57:57+00:00</lastmod>
     </url>
     
   
@@ -2692,7 +2405,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000003843/</loc>
-      <lastmod>2018-04-01T22:21:50-06:00</lastmod>
+      <lastmod>2018-04-01T22:21:50+00:00</lastmod>
     </url>
     
   
@@ -2700,7 +2413,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0003486594/</loc>
-      <lastmod>2018-03-31T18:22:14-06:00</lastmod>
+      <lastmod>2018-03-31T18:22:14+00:00</lastmod>
     </url>
     
   
@@ -2708,7 +2421,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0002199415/</loc>
-      <lastmod>2018-03-30T07:45:15-06:00</lastmod>
+      <lastmod>2018-03-30T07:45:15+00:00</lastmod>
     </url>
     
   
@@ -2716,7 +2429,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000068959/</loc>
-      <lastmod>2018-03-29T06:56:35-06:00</lastmod>
+      <lastmod>2018-03-29T06:56:35+00:00</lastmod>
     </url>
     
   
@@ -2724,7 +2437,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000195467/</loc>
-      <lastmod>2018-03-28T02:49:24-06:00</lastmod>
+      <lastmod>2018-03-28T02:49:24+00:00</lastmod>
     </url>
     
   
@@ -2740,7 +2453,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000188758/</loc>
-      <lastmod>2018-03-27T06:28:41-06:00</lastmod>
+      <lastmod>2018-03-27T06:28:41+00:00</lastmod>
     </url>
     
   
@@ -2748,7 +2461,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0002864033/</loc>
-      <lastmod>2018-03-26T07:32:08-06:00</lastmod>
+      <lastmod>2018-03-26T07:32:08+00:00</lastmod>
     </url>
     
   
@@ -2756,7 +2469,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000039455/</loc>
-      <lastmod>2018-03-25T01:26:41-06:00</lastmod>
+      <lastmod>2018-03-25T01:26:41+00:00</lastmod>
     </url>
     
   
@@ -2764,7 +2477,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000728599/</loc>
-      <lastmod>2018-03-24T17:31:46-06:00</lastmod>
+      <lastmod>2018-03-24T17:31:46+00:00</lastmod>
     </url>
     
   
@@ -2772,7 +2485,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0001954917/</loc>
-      <lastmod>2018-03-23T21:57:02-06:00</lastmod>
+      <lastmod>2018-03-23T21:57:02+00:00</lastmod>
     </url>
     
   
@@ -2780,7 +2493,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000386595/</loc>
-      <lastmod>2018-03-22T02:17:24-06:00</lastmod>
+      <lastmod>2018-03-22T02:17:24+00:00</lastmod>
     </url>
     
   
@@ -2788,7 +2501,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000070090/</loc>
-      <lastmod>2018-03-21T20:31:22-06:00</lastmod>
+      <lastmod>2018-03-21T20:31:22+00:00</lastmod>
     </url>
     
   
@@ -2796,7 +2509,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001049415/</loc>
-      <lastmod>2018-03-20T02:59:32-06:00</lastmod>
+      <lastmod>2018-03-20T02:59:32+00:00</lastmod>
     </url>
     
   
@@ -2804,7 +2517,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000276543/</loc>
-      <lastmod>2018-03-19T23:28:48-06:00</lastmod>
+      <lastmod>2018-03-19T23:28:48+00:00</lastmod>
     </url>
     
   
@@ -2812,7 +2525,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000515359/</loc>
-      <lastmod>2018-03-18T13:52:05-06:00</lastmod>
+      <lastmod>2018-03-18T13:52:05+00:00</lastmod>
     </url>
     
   
@@ -2820,7 +2533,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0003097115/</loc>
-      <lastmod>2018-03-17T16:43:27-06:00</lastmod>
+      <lastmod>2018-03-17T16:43:27+00:00</lastmod>
     </url>
     
   
@@ -2828,7 +2541,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0005610935/</loc>
-      <lastmod>2018-03-16T15:18:03-06:00</lastmod>
+      <lastmod>2018-03-16T15:18:03+00:00</lastmod>
     </url>
     
   
@@ -2836,7 +2549,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000169060/</loc>
-      <lastmod>2018-03-15T00:27:46-06:00</lastmod>
+      <lastmod>2018-03-15T00:27:46+00:00</lastmod>
     </url>
     
   
@@ -2844,7 +2557,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000548183/</loc>
-      <lastmod>2018-03-14T07:26:26-06:00</lastmod>
+      <lastmod>2018-03-14T07:26:26+00:00</lastmod>
     </url>
     
   
@@ -2852,7 +2565,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001526970/</loc>
-      <lastmod>2018-03-13T05:37:44-06:00</lastmod>
+      <lastmod>2018-03-13T05:37:44+00:00</lastmod>
     </url>
     
   
@@ -2860,7 +2573,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000447103/</loc>
-      <lastmod>2018-03-12T21:54:21-06:00</lastmod>
+      <lastmod>2018-03-12T21:54:21+00:00</lastmod>
     </url>
     
   
@@ -2868,7 +2581,7 @@
     <url>
     
       <loc>/post/function/</loc>
-      <lastmod>2018-03-12T00:00:00-06:00</lastmod>
+      <lastmod>2018-03-12T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -2876,7 +2589,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0002922293/</loc>
-      <lastmod>2018-03-11T16:32:47-06:00</lastmod>
+      <lastmod>2018-03-11T16:32:47+00:00</lastmod>
     </url>
     
   
@@ -2884,7 +2597,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000499515/</loc>
-      <lastmod>2018-03-10T20:47:19-07:00</lastmod>
+      <lastmod>2018-03-10T20:47:19+00:00</lastmod>
     </url>
     
   
@@ -2892,7 +2605,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000040564/</loc>
-      <lastmod>2018-03-09T08:35:32-07:00</lastmod>
+      <lastmod>2018-03-09T08:35:32+00:00</lastmod>
     </url>
     
   
@@ -2900,7 +2613,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0003355359/</loc>
-      <lastmod>2018-03-08T17:01:53-07:00</lastmod>
+      <lastmod>2018-03-08T17:01:53+00:00</lastmod>
     </url>
     
   
@@ -2908,7 +2621,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000104544/</loc>
-      <lastmod>2018-03-07T02:24:28-07:00</lastmod>
+      <lastmod>2018-03-07T02:24:28+00:00</lastmod>
     </url>
     
   
@@ -2916,7 +2629,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000546103/</loc>
-      <lastmod>2018-03-06T07:35:37-07:00</lastmod>
+      <lastmod>2018-03-06T07:35:37+00:00</lastmod>
     </url>
     
   
@@ -2924,7 +2637,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000008335/</loc>
-      <lastmod>2018-03-05T00:23:51-07:00</lastmod>
+      <lastmod>2018-03-05T00:23:51+00:00</lastmod>
     </url>
     
   
@@ -2932,7 +2645,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000136683/</loc>
-      <lastmod>2018-03-04T02:19:23-07:00</lastmod>
+      <lastmod>2018-03-04T02:19:23+00:00</lastmod>
     </url>
     
   
@@ -2940,7 +2653,7 @@
     <url>
     
       <loc>/post/process/</loc>
-      <lastmod>2018-03-04T00:00:00-07:00</lastmod>
+      <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -2948,7 +2661,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000115084/</loc>
-      <lastmod>2018-03-03T08:40:34-07:00</lastmod>
+      <lastmod>2018-03-03T08:40:34+00:00</lastmod>
     </url>
     
   
@@ -2956,7 +2669,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000329339/</loc>
-      <lastmod>2018-03-02T11:04:36-07:00</lastmod>
+      <lastmod>2018-03-02T11:04:36+00:00</lastmod>
     </url>
     
   
@@ -2964,7 +2677,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000108523/</loc>
-      <lastmod>2018-03-01T19:59:48-07:00</lastmod>
+      <lastmod>2018-03-01T19:59:48+00:00</lastmod>
     </url>
     
   
@@ -2972,7 +2685,7 @@
     <url>
     
       <loc>/resume/employment/</loc>
-      <lastmod>2018-03-01T00:00:00-07:00</lastmod>
+      <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -2980,15 +2693,7 @@
     <url>
     
       <loc>/resume/honors/</loc>
-      <lastmod>2018-03-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/resume/</loc>
-      <lastmod>2018-03-01T00:00:00-07:00</lastmod>
+      <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -2996,7 +2701,7 @@
     <url>
     
       <loc>/resume/techskills/</loc>
-      <lastmod>2018-03-01T00:00:00-07:00</lastmod>
+      <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -3004,7 +2709,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000740728/</loc>
-      <lastmod>2018-02-28T02:06:59-07:00</lastmod>
+      <lastmod>2018-02-28T02:06:59+00:00</lastmod>
     </url>
     
   
@@ -3012,7 +2717,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0005618906/</loc>
-      <lastmod>2018-02-27T17:22:30-07:00</lastmod>
+      <lastmod>2018-02-27T17:22:30+00:00</lastmod>
     </url>
     
   
@@ -3020,7 +2725,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000047104/</loc>
-      <lastmod>2018-02-26T07:38:17-07:00</lastmod>
+      <lastmod>2018-02-26T07:38:17+00:00</lastmod>
     </url>
     
   
@@ -3028,7 +2733,7 @@
     <url>
     
       <loc>/post/honda/</loc>
-      <lastmod>2018-02-26T00:00:00-07:00</lastmod>
+      <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -3036,7 +2741,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000074644/</loc>
-      <lastmod>2018-02-25T19:31:06-07:00</lastmod>
+      <lastmod>2018-02-25T19:31:06+00:00</lastmod>
     </url>
     
   
@@ -3044,7 +2749,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001401020/</loc>
-      <lastmod>2018-02-24T03:18:25-07:00</lastmod>
+      <lastmod>2018-02-24T03:18:25+00:00</lastmod>
     </url>
     
   
@@ -3052,15 +2757,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000166955/</loc>
-      <lastmod>2018-02-23T05:15:28-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork/rnr_walks_0000252428/</loc>
-      <lastmod>2018-02-22T21:10:47-07:00</lastmod>
+      <lastmod>2018-02-23T05:15:28+00:00</lastmod>
     </url>
     
   
@@ -3075,8 +2772,16 @@
     
     <url>
     
+      <loc>/artwork/rnr_walks_0000252428/</loc>
+      <lastmod>2018-02-22T21:10:47+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/artwork/rnr_lines_0000099500/</loc>
-      <lastmod>2018-02-21T23:04:51-07:00</lastmod>
+      <lastmod>2018-02-21T23:04:51+00:00</lastmod>
     </url>
     
   
@@ -3084,7 +2789,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0004125864/</loc>
-      <lastmod>2018-02-20T23:58:16-07:00</lastmod>
+      <lastmod>2018-02-20T23:58:16+00:00</lastmod>
     </url>
     
   
@@ -3092,7 +2797,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000042414/</loc>
-      <lastmod>2018-02-19T05:31:54-07:00</lastmod>
+      <lastmod>2018-02-19T05:31:54+00:00</lastmod>
     </url>
     
   
@@ -3100,7 +2805,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001980710/</loc>
-      <lastmod>2018-02-18T18:01:52-07:00</lastmod>
+      <lastmod>2018-02-18T18:01:52+00:00</lastmod>
     </url>
     
   
@@ -3108,7 +2813,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000111156/</loc>
-      <lastmod>2018-02-17T21:22:36-07:00</lastmod>
+      <lastmod>2018-02-17T21:22:36+00:00</lastmod>
     </url>
     
   
@@ -3116,7 +2821,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001288636/</loc>
-      <lastmod>2018-02-16T16:58:48-07:00</lastmod>
+      <lastmod>2018-02-16T16:58:48+00:00</lastmod>
     </url>
     
   
@@ -3124,7 +2829,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000168029/</loc>
-      <lastmod>2018-02-15T02:48:36-07:00</lastmod>
+      <lastmod>2018-02-15T02:48:36+00:00</lastmod>
     </url>
     
   
@@ -3132,7 +2837,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0002772618/</loc>
-      <lastmod>2018-02-14T16:48:57-07:00</lastmod>
+      <lastmod>2018-02-14T16:48:57+00:00</lastmod>
     </url>
     
   
@@ -3140,7 +2845,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000049067/</loc>
-      <lastmod>2018-02-13T14:58:53-07:00</lastmod>
+      <lastmod>2018-02-13T14:58:53+00:00</lastmod>
     </url>
     
   
@@ -3148,7 +2853,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000039920/</loc>
-      <lastmod>2018-02-12T04:32:50-07:00</lastmod>
+      <lastmod>2018-02-12T04:32:50+00:00</lastmod>
     </url>
     
   
@@ -3156,7 +2861,7 @@
     <url>
     
       <loc>/post/deadlines/</loc>
-      <lastmod>2018-02-12T00:00:00-07:00</lastmod>
+      <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -3164,15 +2869,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000048675/</loc>
-      <lastmod>2018-02-11T05:07:26-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/artwork/rnr_polygons_0002935264/</loc>
-      <lastmod>2018-02-10T19:12:40-07:00</lastmod>
+      <lastmod>2018-02-11T05:07:26+00:00</lastmod>
     </url>
     
   
@@ -3187,8 +2884,16 @@
     
     <url>
     
+      <loc>/artwork/rnr_polygons_0002935264/</loc>
+      <lastmod>2018-02-10T19:12:40+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/artwork/rnr_lines_0000011870/</loc>
-      <lastmod>2018-02-09T06:32:00-07:00</lastmod>
+      <lastmod>2018-02-09T06:32:00+00:00</lastmod>
     </url>
     
   
@@ -3196,7 +2901,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0001636908/</loc>
-      <lastmod>2018-02-08T19:29:10-07:00</lastmod>
+      <lastmod>2018-02-08T19:29:10+00:00</lastmod>
     </url>
     
   
@@ -3204,7 +2909,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000330157/</loc>
-      <lastmod>2018-02-07T12:56:52-07:00</lastmod>
+      <lastmod>2018-02-07T12:56:52+00:00</lastmod>
     </url>
     
   
@@ -3212,7 +2917,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0001245086/</loc>
-      <lastmod>2018-02-06T18:21:27-07:00</lastmod>
+      <lastmod>2018-02-06T18:21:27+00:00</lastmod>
     </url>
     
   
@@ -3220,15 +2925,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000347074/</loc>
-      <lastmod>2018-02-05T03:12:31-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/advising/</loc>
-      <lastmod>2018-02-05T00:00:00-07:00</lastmod>
+      <lastmod>2018-02-05T03:12:31+00:00</lastmod>
     </url>
     
   
@@ -3236,7 +2933,7 @@
     <url>
     
       <loc>/post/advising3/</loc>
-      <lastmod>2018-02-05T00:00:00-07:00</lastmod>
+      <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -3244,7 +2941,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000241148/</loc>
-      <lastmod>2018-02-04T06:44:14-07:00</lastmod>
+      <lastmod>2018-02-04T06:44:14+00:00</lastmod>
     </url>
     
   
@@ -3252,7 +2949,7 @@
     <url>
     
       <loc>/post/advising2/</loc>
-      <lastmod>2018-02-04T00:00:00-07:00</lastmod>
+      <lastmod>2018-02-04T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -3260,7 +2957,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000454508/</loc>
-      <lastmod>2018-02-03T19:31:03-07:00</lastmod>
+      <lastmod>2018-02-03T19:31:03+00:00</lastmod>
     </url>
     
   
@@ -3268,7 +2965,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000370460/</loc>
-      <lastmod>2018-02-02T12:50:31-07:00</lastmod>
+      <lastmod>2018-02-02T12:50:31+00:00</lastmod>
     </url>
     
   
@@ -3276,7 +2973,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000105577/</loc>
-      <lastmod>2018-02-01T14:14:25-07:00</lastmod>
+      <lastmod>2018-02-01T14:14:25+00:00</lastmod>
     </url>
     
   
@@ -3284,7 +2981,7 @@
     <url>
     
       <loc>/post/advising1/</loc>
-      <lastmod>2018-02-01T00:00:00-07:00</lastmod>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -3292,7 +2989,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0006261041/</loc>
-      <lastmod>2018-01-31T22:13:38-07:00</lastmod>
+      <lastmod>2018-01-31T22:13:38+00:00</lastmod>
     </url>
     
   
@@ -3300,7 +2997,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000221823/</loc>
-      <lastmod>2018-01-30T13:02:00-07:00</lastmod>
+      <lastmod>2018-01-30T13:02:00+00:00</lastmod>
     </url>
     
   
@@ -3308,7 +3005,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000235455/</loc>
-      <lastmod>2018-01-29T02:00:34-07:00</lastmod>
+      <lastmod>2018-01-29T02:00:34+00:00</lastmod>
     </url>
     
   
@@ -3316,7 +3013,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000685193/</loc>
-      <lastmod>2018-01-28T02:43:39-07:00</lastmod>
+      <lastmod>2018-01-28T02:43:39+00:00</lastmod>
     </url>
     
   
@@ -3324,7 +3021,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0003886521/</loc>
-      <lastmod>2018-01-27T15:54:22-07:00</lastmod>
+      <lastmod>2018-01-27T15:54:22+00:00</lastmod>
     </url>
     
   
@@ -3332,7 +3029,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000565169/</loc>
-      <lastmod>2018-01-26T06:08:07-07:00</lastmod>
+      <lastmod>2018-01-26T06:08:07+00:00</lastmod>
     </url>
     
   
@@ -3340,7 +3037,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000077708/</loc>
-      <lastmod>2018-01-25T09:38:57-07:00</lastmod>
+      <lastmod>2018-01-25T09:38:57+00:00</lastmod>
     </url>
     
   
@@ -3348,7 +3045,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000141633/</loc>
-      <lastmod>2018-01-24T07:34:34-07:00</lastmod>
+      <lastmod>2018-01-24T07:34:34+00:00</lastmod>
     </url>
     
   
@@ -3356,7 +3053,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0002324137/</loc>
-      <lastmod>2018-01-23T07:23:10-07:00</lastmod>
+      <lastmod>2018-01-23T07:23:10+00:00</lastmod>
     </url>
     
   
@@ -3364,7 +3061,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000044803/</loc>
-      <lastmod>2018-01-22T06:08:23-07:00</lastmod>
+      <lastmod>2018-01-22T06:08:23+00:00</lastmod>
     </url>
     
   
@@ -3372,7 +3069,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000033801/</loc>
-      <lastmod>2018-01-21T12:40:28-07:00</lastmod>
+      <lastmod>2018-01-21T12:40:28+00:00</lastmod>
     </url>
     
   
@@ -3380,7 +3077,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0001457893/</loc>
-      <lastmod>2018-01-20T14:52:23-07:00</lastmod>
+      <lastmod>2018-01-20T14:52:23+00:00</lastmod>
     </url>
     
   
@@ -3388,7 +3085,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000162236/</loc>
-      <lastmod>2018-01-19T07:20:15-07:00</lastmod>
+      <lastmod>2018-01-19T07:20:15+00:00</lastmod>
     </url>
     
   
@@ -3396,7 +3093,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000141819/</loc>
-      <lastmod>2018-01-18T07:13:22-07:00</lastmod>
+      <lastmod>2018-01-18T07:13:22+00:00</lastmod>
     </url>
     
   
@@ -3404,7 +3101,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000392325/</loc>
-      <lastmod>2018-01-17T01:09:35-07:00</lastmod>
+      <lastmod>2018-01-17T01:09:35+00:00</lastmod>
     </url>
     
   
@@ -3412,7 +3109,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0001997761/</loc>
-      <lastmod>2018-01-16T21:28:17-07:00</lastmod>
+      <lastmod>2018-01-16T21:28:17+00:00</lastmod>
     </url>
     
   
@@ -3420,7 +3117,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000230733/</loc>
-      <lastmod>2018-01-15T03:01:05-07:00</lastmod>
+      <lastmod>2018-01-15T03:01:05+00:00</lastmod>
     </url>
     
   
@@ -3428,7 +3125,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000772973/</loc>
-      <lastmod>2018-01-14T13:16:35-07:00</lastmod>
+      <lastmod>2018-01-14T13:16:35+00:00</lastmod>
     </url>
     
   
@@ -3436,7 +3133,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0001390331/</loc>
-      <lastmod>2018-01-13T06:43:07-07:00</lastmod>
+      <lastmod>2018-01-13T06:43:07+00:00</lastmod>
     </url>
     
   
@@ -3444,7 +3141,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0003492837/</loc>
-      <lastmod>2018-01-12T20:01:19-07:00</lastmod>
+      <lastmod>2018-01-12T20:01:19+00:00</lastmod>
     </url>
     
   
@@ -3452,7 +3149,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000082764/</loc>
-      <lastmod>2018-01-11T13:49:57-07:00</lastmod>
+      <lastmod>2018-01-11T13:49:57+00:00</lastmod>
     </url>
     
   
@@ -3460,7 +3157,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000105663/</loc>
-      <lastmod>2018-01-10T06:17:03-07:00</lastmod>
+      <lastmod>2018-01-10T06:17:03+00:00</lastmod>
     </url>
     
   
@@ -3468,7 +3165,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000498705/</loc>
-      <lastmod>2018-01-09T02:36:50-07:00</lastmod>
+      <lastmod>2018-01-09T02:36:50+00:00</lastmod>
     </url>
     
   
@@ -3476,7 +3173,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000294041/</loc>
-      <lastmod>2018-01-08T14:50:43-07:00</lastmod>
+      <lastmod>2018-01-08T14:50:43+00:00</lastmod>
     </url>
     
   
@@ -3484,7 +3181,7 @@
     <url>
     
       <loc>/artwork/rnr_polygons_0000025226/</loc>
-      <lastmod>2018-01-07T09:27:59-07:00</lastmod>
+      <lastmod>2018-01-07T09:27:59+00:00</lastmod>
     </url>
     
   
@@ -3492,7 +3189,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000052077/</loc>
-      <lastmod>2018-01-06T21:43:24-07:00</lastmod>
+      <lastmod>2018-01-06T21:43:24+00:00</lastmod>
     </url>
     
   
@@ -3500,7 +3197,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000022848/</loc>
-      <lastmod>2018-01-05T01:59:20-07:00</lastmod>
+      <lastmod>2018-01-05T01:59:20+00:00</lastmod>
     </url>
     
   
@@ -3508,7 +3205,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000583781/</loc>
-      <lastmod>2018-01-04T20:01:23-07:00</lastmod>
+      <lastmod>2018-01-04T20:01:23+00:00</lastmod>
     </url>
     
   
@@ -3516,7 +3213,7 @@
     <url>
     
       <loc>/artwork/rnr_walks_0000106212/</loc>
-      <lastmod>2018-01-03T10:23:52-07:00</lastmod>
+      <lastmod>2018-01-03T10:23:52+00:00</lastmod>
     </url>
     
   
@@ -3524,7 +3221,7 @@
     <url>
     
       <loc>/artwork/rnr_circles_0000362981/</loc>
-      <lastmod>2018-01-02T20:38:57-07:00</lastmod>
+      <lastmod>2018-01-02T20:38:57+00:00</lastmod>
     </url>
     
   
@@ -3532,23 +3229,7 @@
     <url>
     
       <loc>/artwork/rnr_lines_0000067524/</loc>
-      <lastmod>2018-01-01T06:51:28-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/art/</loc>
-      <lastmod>2017-04-20T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/events/</loc>
-      <lastmod>2017-04-20T00:00:00-06:00</lastmod>
+      <lastmod>2018-01-01T06:51:28+00:00</lastmod>
     </url>
     
   
@@ -3556,15 +3237,7 @@
     <url>
     
       <loc>/post/mathart/</loc>
-      <lastmod>2017-04-20T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/service/</loc>
-      <lastmod>2017-04-20T00:00:00-06:00</lastmod>
+      <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -3572,7 +3245,7 @@
     <url>
     
       <loc>/artwork/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -3580,7 +3253,78 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/artwork_types/10/</loc>
+      <lastmod>2018-12-30T01:11:41+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/artwork_types/7/</loc>
+      <lastmod>2018-12-29T23:02:58+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/artwork_types/8/</loc>
+      <lastmod>2018-12-06T17:32:15+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/artwork_types/9/</loc>
+      <lastmod>2018-12-31T04:10:58+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/artwork_types/</loc>
+      <lastmod>2018-12-30T01:11:41+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -3588,6 +3332,303 @@
     <url>
     
       <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/resources/</loc>
+      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/resume/</loc>
+      <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/academia/</loc>
+      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/advertising/</loc>
+      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/advising/</loc>
+      <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/animation/</loc>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/art/</loc>
+      <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/artful/</loc>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/artificial-intelligence/</loc>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/circles/</loc>
+      <lastmod>2018-12-06T17:32:15+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/consulting/</loc>
+      <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/deterministic/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/documentation/</loc>
+      <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/events/</loc>
+      <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/evolving/</loc>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/humor/</loc>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/interviews/</loc>
+      <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/lines/</loc>
+      <lastmod>2018-12-29T23:02:58+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/outreach/</loc>
+      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/polygons/</loc>
+      <lastmod>2018-12-30T01:11:41+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/random/</loc>
+      <lastmod>2018-12-31T04:10:58+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/rnr/</loc>
+      <lastmod>2018-12-31T04:10:58+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/s3/</loc>
+      <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/scicomm/</loc>
+      <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/service/</loc>
+      <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/siam/</loc>
+      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/twitter/</loc>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/unfinished/</loc>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/walks/</loc>
+      <lastmod>2018-12-31T04:10:58+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/words/</loc>
+      <lastmod>2018-12-02T21:58:28+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/youtube/</loc>
+      <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   

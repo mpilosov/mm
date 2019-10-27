@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,11 @@
     <item>
       <title>Math || Art</title>
       <link>/post/mathart/</link>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/mathart/</guid>
-      <description>Math or Art?: An event</description>
+      <description>Description Here is the proposal I submitted, with extraneous details (budgets) stripped away for clarity
+ This event will be an excellent opportunity to expose the broader CU Denver community to the beauty and prevalence of mathematics. This is related to the integral mission of the Society for Industrial and Applied Mathematics (SIAM) as well as the CU Denver Math Club. We want to demonstrate to people that our field doesn’t have to feel like an esoteric and unfamiliar place, especially owing to its widespread prevalence in people’s lives, which goes unnoticed.</description>
     </item>
     
   </channel>

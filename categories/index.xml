@@ -7,35 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>interviews</title>
-      <link>/categories/interviews/</link>
-      <pubDate>Thu, 14 Mar 2019 00:00:00 -0600</pubDate>
+      <title>academia</title>
+      <link>/categories/academia/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/interviews/</guid>
+      <guid>/categories/academia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>documentation</title>
       <link>/categories/documentation/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/documentation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>rnr</title>
-      <link>/categories/rnr/</link>
-      <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
+      <title>interviews</title>
+      <link>/categories/interviews/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/rnr/</guid>
+      <guid>/categories/interviews/</guid>
       <description></description>
     </item>
     
@@ -49,18 +48,18 @@
     </item>
     
     <item>
-      <title>academia</title>
-      <link>/categories/academia/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <title>rnr</title>
+      <link>/categories/rnr/</link>
+      <pubDate>Mon, 31 Dec 2018 04:10:58 +0000</pubDate>
       
-      <guid>/categories/academia/</guid>
+      <guid>/categories/rnr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>service</title>
       <link>/categories/service/</link>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/categories/service/</guid>
       <description></description>
