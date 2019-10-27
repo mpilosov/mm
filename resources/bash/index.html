@@ -465,11 +465,14 @@ Our desired path is the second string in the output of <code>grep</code>, so we 
 <pre><code class="language-sh">sudo chmod 777 $(docker inspect shared-shared | grep &quot;Mountpoint&quot; | awk '{print $2}' | sed 's/&quot;//g' | sed 's/,//g')
 </code></pre>
 
-<p><a href="https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent" target="_blank">GitHub&rsquo;s ssh walkthrough</a>
-<a href="http://rabexc.org/posts/using-ssh-agent" target="_blank">ssh-agent: logging in remotely</a></p>
+<p><a href="https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent" target="_blank">GitHub&rsquo;s ssh walkthrough</a></p>
+
+<p><a href="http://rabexc.org/posts/using-ssh-agent" target="_blank">ssh-agent: logging in remotely</a></p>
 
 <pre><code class="language-sh">ssh-copy-id name-of-remote-server
 </code></pre>
+
+<p><a href="https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/" target="_blank">Using multiple keys on the same computer</a></p>
 
 <h2 id="linux">Linux</h2>
 
