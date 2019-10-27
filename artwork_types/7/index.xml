@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Mathematical Michael</title>
+    <link>/artwork_types/7/</link>
+    <description>Recent content in 7 on Mathematical Michael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
+    <lastBuildDate>Sat, 29 Dec 2018 23:02:58 +0000</lastBuildDate>
+    
+	<atom:link href="/artwork_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Probably Art # 363: Line</title>
+      <link>/artwork/rnr_lines_0000035708/</link>
+      <pubDate>Sat, 29 Dec 2018 23:02:58 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000035708/</guid>
+      <description>2052 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 8 size(s).
+$$ s = .00035708, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(0.857, 0.597), $$ $$\theta \sim \beta(1.442, 0.790). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 359: Line</title>
+      <link>/artwork/rnr_lines_0002575604/</link>
+      <pubDate>Tue, 25 Dec 2018 09:34:49 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0002575604/</guid>
+      <description>207 lines drawn through each origin in one of 8 direction(s) with lengths chosen from 8 size(s).
+$$ s = .02575604, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 4.00, $$ $$r \sim \beta(37.000, 84.000), $$ $$\theta \sim \beta(3.000, 5.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 357: Line</title>
+      <link>/artwork/rnr_lines_0000150620/</link>
+      <pubDate>Sun, 23 Dec 2018 04:04:53 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000150620/</guid>
+      <description>1452 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00150620, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(23.000, 117.000), $$ $$\theta \sim \beta(8.000, 3.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 355: Line</title>
+      <link>/artwork/rnr_lines_0000047887/</link>
+      <pubDate>Fri, 21 Dec 2018 09:42:33 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000047887/</guid>
+      <description>736 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 3 size(s).
+$$ s = .00047887, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0000,$$ $$ R = 4.00, $$ $$r \sim \beta(1.082, 1.249), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 342: Line</title>
+      <link>/artwork/rnr_lines_0000701258/</link>
+      <pubDate>Sat, 08 Dec 2018 22:12:12 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000701258/</guid>
+      <description>3807 lines draw from each origin in one of 2 direction(s) with lengths chosen from 6 size(s).
+$$ s = .00701258, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(0.328, 0.068), $$ $$\theta \sim \beta(1.813, 1.499). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 341: Line</title>
+      <link>/artwork/rnr_lines_0000007840/</link>
+      <pubDate>Fri, 07 Dec 2018 01:54:34 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000007840/</guid>
+      <description>1748 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00007840, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.610, 0.950). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 334: Line</title>
+      <link>/artwork/rnr_lines_0000879983/</link>
+      <pubDate>Fri, 30 Nov 2018 19:38:34 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000879983/</guid>
+      <description>130 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00879983, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.753, 0.058). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 328: Line</title>
+      <link>/artwork/rnr_lines_0002500175/</link>
+      <pubDate>Sat, 24 Nov 2018 11:14:58 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0002500175/</guid>
+      <description>258 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 6 size(s).
+$$ s = .02500175, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.0000,$$ $$ R = 0.75, $$ $$r \sim \beta(1.679, 1.777), $$ $$\theta \sim \beta(1.892, 0.237). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 327: Line</title>
+      <link>/artwork/rnr_lines_0000152334/</link>
+      <pubDate>Fri, 23 Nov 2018 15:05:07 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000152334/</guid>
+      <description>2555 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00152334, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.904, 1.709). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 324: Line</title>
+      <link>/artwork/rnr_lines_0005268423/</link>
+      <pubDate>Tue, 20 Nov 2018 16:09:56 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0005268423/</guid>
+      <description>2356 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 4 size(s).
+$$ s = .05268423, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(0.072, 0.690), $$ $$\theta \sim \beta(1.159, 1.778). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 323: Line</title>
+      <link>/artwork/rnr_lines_0000057371/</link>
+      <pubDate>Mon, 19 Nov 2018 11:58:58 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000057371/</guid>
+      <description>2052 lines drawn through each origin in one of 8 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00057371, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(3.000, 5.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 322: Line</title>
+      <link>/artwork/rnr_lines_0001946231/</link>
+      <pubDate>Sun, 18 Nov 2018 05:33:11 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001946231/</guid>
+      <description>481 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 3 size(s).
+$$ s = .01946231, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.343, 1.155), $$ $$\theta \sim \beta(0.849, 1.953). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 320: Line</title>
+      <link>/artwork/rnr_lines_0001913071/</link>
+      <pubDate>Fri, 16 Nov 2018 07:41:24 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001913071/</guid>
+      <description>1950 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 8 size(s).
+$$ s = .01913071, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(1.105, 0.116), $$ $$\theta \sim \beta(0.185, 0.675). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 313: Line</title>
+      <link>/artwork/rnr_lines_0000261665/</link>
+      <pubDate>Fri, 09 Nov 2018 06:39:34 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000261665/</guid>
+      <description>650 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 2 size(s).
+$$ s = .00261665, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(31.000, 31.000), $$ $$\theta \sim \beta(4.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 311: Line</title>
+      <link>/artwork/rnr_lines_0000058579/</link>
+      <pubDate>Wed, 07 Nov 2018 03:50:25 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000058579/</guid>
+      <description>1015 lines draw from each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00058579, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.498, 0.529). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 307: Line</title>
+      <link>/artwork/rnr_lines_0000110615/</link>
+      <pubDate>Sat, 03 Nov 2018 05:26:39 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000110615/</guid>
+      <description>1311 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00110615, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(2.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 304: Line</title>
+      <link>/artwork/rnr_lines_0000318843/</link>
+      <pubDate>Wed, 31 Oct 2018 17:20:41 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000318843/</guid>
+      <description>507 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00318843, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 1.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(2.000, 7.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 300: Line</title>
+      <link>/artwork/rnr_lines_0003868800/</link>
+      <pubDate>Sat, 27 Oct 2018 16:13:08 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0003868800/</guid>
+      <description>270 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 1 size(s).
+$$ s = .03868800, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.75, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.729, 1.443). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 288: Line</title>
+      <link>/artwork/rnr_lines_0000913932/</link>
+      <pubDate>Mon, 15 Oct 2018 23:13:31 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000913932/</guid>
+      <description>837 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 3 size(s).
+$$ s = .00913932, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(21.000, 100.000), $$ $$\theta \sim \beta(7.000, 5.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 287: Line</title>
+      <link>/artwork/rnr_lines_0004128704/</link>
+      <pubDate>Sun, 14 Oct 2018 18:32:27 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0004128704/</guid>
+      <description>1827 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 7 size(s).
+$$ s = .04128704, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(2.000, 116.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 283: Line</title>
+      <link>/artwork/rnr_lines_0000001832/</link>
+      <pubDate>Wed, 10 Oct 2018 01:59:32 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000001832/</guid>
+      <description>708 lines draw from each origin in one of 4 direction(s) with lengths chosen from 4 size(s).
+$$ s = .00001832, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(0.900, 0.106), $$ $$\theta \sim \beta(0.108, 0.113). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 281: Line</title>
+      <link>/artwork/rnr_lines_0000064500/</link>
+      <pubDate>Mon, 08 Oct 2018 03:00:07 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000064500/</guid>
+      <description>1800 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00064500, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.25, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.397, 0.876). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 278: Line</title>
+      <link>/artwork/rnr_lines_0000027622/</link>
+      <pubDate>Fri, 05 Oct 2018 07:18:17 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000027622/</guid>
+      <description>400 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 3 size(s).
+$$ s = .00027622, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0000,$$ $$ R = 2.50, $$ $$r \sim \beta(1.135, 1.954), $$ $$\theta \sim \beta(1.730, 0.622). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 277: Line</title>
+      <link>/artwork/rnr_lines_0000497312/</link>
+      <pubDate>Thu, 04 Oct 2018 16:44:28 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000497312/</guid>
+      <description>300 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00497312, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(9.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 274: Line</title>
+      <link>/artwork/rnr_lines_0000001899/</link>
+      <pubDate>Mon, 01 Oct 2018 07:48:06 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000001899/</guid>
+      <description>1457 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00001899, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.061, 0.755). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 273: Line</title>
+      <link>/artwork/rnr_lines_0005120161/</link>
+      <pubDate>Sun, 30 Sep 2018 19:40:48 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0005120161/</guid>
+      <description>2352 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 1 size(s).
+$$ s = .05120161, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.767, 0.353). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 271: Line</title>
+      <link>/artwork/rnr_lines_0000133541/</link>
+      <pubDate>Fri, 28 Sep 2018 23:32:48 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000133541/</guid>
+      <description>594 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 2 size(s).
+$$ s = .00133541, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0000,$$ $$ R = 1.38, $$ $$r \sim \beta(1.907, 0.128), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 266: Line</title>
+      <link>/artwork/rnr_lines_0003666505/</link>
+      <pubDate>Sun, 23 Sep 2018 19:56:52 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0003666505/</guid>
+      <description>1652 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 1 size(s).
+$$ s = .03666505, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.514, 1.404). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 264: Line</title>
+      <link>/artwork/rnr_lines_0002445613/</link>
+      <pubDate>Fri, 21 Sep 2018 21:54:50 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0002445613/</guid>
+      <description>1254 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 2 size(s).
+$$ s = .02445613, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0000,$$ $$ R = 2.75, $$ $$r \sim \beta(10.000, 58.000), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 256: Line</title>
+      <link>/artwork/rnr_lines_0001889385/</link>
+      <pubDate>Thu, 13 Sep 2018 13:42:11 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001889385/</guid>
+      <description>686 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 5 size(s).
+$$ s = .01889385, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(0.749, 0.648), $$ $$\theta \sim \beta(0.037, 0.971). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 254: Line</title>
+      <link>/artwork/rnr_lines_0000611314/</link>
+      <pubDate>Tue, 11 Sep 2018 04:19:10 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000611314/</guid>
+      <description>3600 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00611314, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.030, 0.994). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 248: Line</title>
+      <link>/artwork/rnr_lines_0000092401/</link>
+      <pubDate>Wed, 05 Sep 2018 03:21:01 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000092401/</guid>
+      <description>396 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00092401, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.797, 1.614). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 247: Line</title>
+      <link>/artwork/rnr_lines_0000021645/</link>
+      <pubDate>Tue, 04 Sep 2018 04:26:54 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000021645/</guid>
+      <description>325 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00021645, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.852, 0.530). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 242: Line</title>
+      <link>/artwork/rnr_lines_0003775400/</link>
+      <pubDate>Thu, 30 Aug 2018 07:50:38 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0003775400/</guid>
+      <description>805 lines drawn through each origin in one of 8 direction(s) with lengths chosen from 1 size(s).
+$$ s = .03775400, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.88, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.329, 0.836). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 241: Line</title>
+      <link>/artwork/rnr_lines_0001604187/</link>
+      <pubDate>Wed, 29 Aug 2018 14:54:01 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001604187/</guid>
+      <description>1404 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 3 size(s).
+$$ s = .01604187, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(12.000, 5.000), $$ $$\theta \sim \beta(4.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 238: Line</title>
+      <link>/artwork/rnr_lines_0010728308/</link>
+      <pubDate>Sun, 26 Aug 2018 17:39:07 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0010728308/</guid>
+      <description>1410 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 2 size(s).
+$$ s = .10728308, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0000,$$ $$ R = 1.88, $$ $$r \sim \beta(24.000, 111.000), $$ $$\theta \sim \beta(8.000, 5.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 235: Line</title>
+      <link>/artwork/rnr_lines_0001756367/</link>
+      <pubDate>Thu, 23 Aug 2018 10:40:36 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001756367/</guid>
+      <description>50 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 1 size(s).
+$$ s = .01756367, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 0.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.189, 1.878). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 233: Line</title>
+      <link>/artwork/rnr_lines_0004305320/</link>
+      <pubDate>Tue, 21 Aug 2018 10:08:33 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0004305320/</guid>
+      <description>891 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 7 size(s).
+$$ s = .04305320, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.121, 0.542), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 229: Line</title>
+      <link>/artwork/rnr_lines_0000048254/</link>
+      <pubDate>Fri, 17 Aug 2018 00:36:08 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000048254/</guid>
+      <description>1715 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 6 size(s).
+$$ s = .00048254, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.736, 1.080), $$ $$\theta \sim \beta(0.325, 0.611). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 228: Line</title>
+      <link>/artwork/rnr_lines_0000052046/</link>
+      <pubDate>Thu, 16 Aug 2018 01:12:39 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000052046/</guid>
+      <description>1813 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 7 size(s).
+$$ s = .00052046, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(1.469, 1.355), $$ $$\theta \sim \beta(1.719, 1.858). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 224: Line</title>
+      <link>/artwork/rnr_lines_0001406366/</link>
+      <pubDate>Sun, 12 Aug 2018 11:46:00 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001406366/</guid>
+      <description>660 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 5 size(s).
+$$ s = .01406366, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0000,$$ $$ R = 1.88, $$ $$r \sim \beta(0.643, 0.997), $$ $$\theta \sim \beta(0.463, 1.014). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 220: Line</title>
+      <link>/artwork/rnr_lines_0000040782/</link>
+      <pubDate>Wed, 08 Aug 2018 05:50:56 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000040782/</guid>
+      <description>3196 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00040782, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.829, 1.511). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 219: Line</title>
+      <link>/artwork/rnr_lines_0000018023/</link>
+      <pubDate>Tue, 07 Aug 2018 14:05:53 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000018023/</guid>
+      <description>160 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 6 size(s).
+$$ s = .00018023, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.426, 0.525), $$ $$\theta \sim \beta(1.897, 1.527). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 209: Line</title>
+      <link>/artwork/rnr_lines_0009491623/</link>
+      <pubDate>Sat, 28 Jul 2018 17:46:35 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0009491623/</guid>
+      <description>940 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 3 size(s).
+$$ s = .09491623, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(0.135, 0.862), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 206: Line</title>
+      <link>/artwork/rnr_lines_0000053424/</link>
+      <pubDate>Wed, 25 Jul 2018 16:38:21 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000053424/</guid>
+      <description>962 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00053424, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 4.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.003, 1.886). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 203: Line</title>
+      <link>/artwork/rnr_lines_0002532365/</link>
+      <pubDate>Sun, 22 Jul 2018 14:59:44 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0002532365/</guid>
+      <description>1650 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .02532365, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(38.000, 111.000), $$ $$\theta \sim \beta(7.000, 8.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 202: Line</title>
+      <link>/artwork/rnr_lines_0000410145/</link>
+      <pubDate>Sat, 21 Jul 2018 02:46:22 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000410145/</guid>
+      <description>960 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 6 size(s).
+$$ s = .00410145, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.268, 1.289), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 199: Line</title>
+      <link>/artwork/rnr_lines_0003521043/</link>
+      <pubDate>Wed, 18 Jul 2018 23:21:13 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0003521043/</guid>
+      <description>240 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 7 size(s).
+$$ s = .03521043, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.275, 1.175), $$ $$\theta \sim \beta(0.707, 0.704). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 194: Line</title>
+      <link>/artwork/rnr_lines_0001585163/</link>
+      <pubDate>Fri, 13 Jul 2018 11:25:45 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001585163/</guid>
+      <description>3139 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 1 size(s).
+$$ s = .01585163, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.954, 1.595). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 186: Line</title>
+      <link>/artwork/rnr_lines_0000054064/</link>
+      <pubDate>Thu, 05 Jul 2018 16:59:19 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000054064/</guid>
+      <description>2254 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00054064, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(5.000, 5.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 184: Line</title>
+      <link>/artwork/rnr_lines_0000014799/</link>
+      <pubDate>Tue, 03 Jul 2018 09:50:16 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000014799/</guid>
+      <description>564 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 7 size(s).
+$$ s = .00014799, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.171, 1.552), $$ $$\theta \sim \beta(1.461, 1.264). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 182: Line</title>
+      <link>/artwork/rnr_lines_0000004368/</link>
+      <pubDate>Sun, 01 Jul 2018 18:33:51 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000004368/</guid>
+      <description>1826 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00004368, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.240, 0.131). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 180: Line</title>
+      <link>/artwork/rnr_lines_0003829219/</link>
+      <pubDate>Fri, 29 Jun 2018 18:38:37 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0003829219/</guid>
+      <description>2752 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 5 size(s).
+$$ s = .03829219, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(21.000, 112.000), $$ $$\theta \sim \beta(5.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 179: Line</title>
+      <link>/artwork/rnr_lines_0001444272/</link>
+      <pubDate>Thu, 28 Jun 2018 04:20:13 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001444272/</guid>
+      <description>4559 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 3 size(s).
+$$ s = .01444272, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(0.583, 0.298), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 175: Line</title>
+      <link>/artwork/rnr_lines_0000018208/</link>
+      <pubDate>Sun, 24 Jun 2018 01:27:30 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000018208/</guid>
+      <description>3150 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00018208, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(0.155, 1.507), $$ $$\theta \sim \beta(1.725, 1.556). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 171: Line</title>
+      <link>/artwork/rnr_lines_0000096428/</link>
+      <pubDate>Wed, 20 Jun 2018 22:36:52 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000096428/</guid>
+      <description>3828 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 3 size(s).
+$$ s = .00096428, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 3,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.945, 1.469), $$ $$\theta \sim \beta(0.267, 0.364). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 170: Line</title>
+      <link>/artwork/rnr_lines_0000138940/</link>
+      <pubDate>Tue, 19 Jun 2018 04:30:04 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000138940/</guid>
+      <description>1533 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00138940, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.62, $$ $$r \sim \beta(1.967, 1.771), $$ $$\theta \sim \beta(1.231, 1.458). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 165: Line</title>
+      <link>/artwork/rnr_lines_0003647816/</link>
+      <pubDate>Thu, 14 Jun 2018 22:55:32 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0003647816/</guid>
+      <description>1125 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .03647816, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.130, 0.023). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 156: Line</title>
+      <link>/artwork/rnr_lines_0000616733/</link>
+      <pubDate>Tue, 05 Jun 2018 10:11:09 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000616733/</guid>
+      <description>966 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00616733, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.88, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.642, 1.313). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 150: Line</title>
+      <link>/artwork/rnr_lines_0000189797/</link>
+      <pubDate>Wed, 30 May 2018 20:05:57 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000189797/</guid>
+      <description>840 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 5 size(s).
+$$ s = .00189797, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0000,$$ $$ R = 2.50, $$ $$r \sim \beta(31.000, 58.000), $$ $$\theta \sim \beta(7.000, 9.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 148: Line</title>
+      <link>/artwork/rnr_lines_0004849789/</link>
+      <pubDate>Mon, 28 May 2018 08:38:00 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0004849789/</guid>
+      <description>1155 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 1 size(s).
+$$ s = .04849789, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.62, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.302, 0.955). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 147: Line</title>
+      <link>/artwork/rnr_lines_0000245615/</link>
+      <pubDate>Sun, 27 May 2018 19:27:07 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000245615/</guid>
+      <description>1820 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00245615, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 4.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.286, 1.517). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 144: Line</title>
+      <link>/artwork/rnr_lines_0003717437/</link>
+      <pubDate>Thu, 24 May 2018 18:43:53 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0003717437/</guid>
+      <description>901 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 2 size(s).
+$$ s = .03717437, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(20.000, 86.000), $$ $$\theta \sim \beta(8.000, 8.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 139: Line</title>
+      <link>/artwork/rnr_lines_0000212744/</link>
+      <pubDate>Sat, 19 May 2018 12:39:41 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000212744/</guid>
+      <description>336 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 8 size(s).
+$$ s = .00212744, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.917, 1.752), $$ $$\theta \sim \beta(0.487, 1.851). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 129: Line</title>
+      <link>/artwork/rnr_lines_0000022667/</link>
+      <pubDate>Wed, 09 May 2018 08:18:11 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000022667/</guid>
+      <description>714 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00022667, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(7.000, 2.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 125: Line</title>
+      <link>/artwork/rnr_lines_0000254097/</link>
+      <pubDate>Sat, 05 May 2018 04:11:48 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000254097/</guid>
+      <description>1679 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00254097, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(4.000, 9.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 124: Line</title>
+      <link>/artwork/rnr_lines_0000382673/</link>
+      <pubDate>Fri, 04 May 2018 06:31:23 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000382673/</guid>
+      <description>1185 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00382673, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(9.000, 113.000), $$ $$\theta \sim \beta(6.000, 2.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 115: Line</title>
+      <link>/artwork/rnr_lines_0000098091/</link>
+      <pubDate>Wed, 25 Apr 2018 11:02:00 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000098091/</guid>
+      <description>63 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00098091, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.856, 1.220). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 112: Line</title>
+      <link>/artwork/rnr_lines_0006197576/</link>
+      <pubDate>Sun, 22 Apr 2018 15:23:15 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0006197576/</guid>
+      <description>2277 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .06197576, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.88, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.582, 0.679). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 111: Line</title>
+      <link>/artwork/rnr_lines_0000097065/</link>
+      <pubDate>Sat, 21 Apr 2018 00:55:04 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000097065/</guid>
+      <description>210 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 7 size(s).
+$$ s = .00097065, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(0.472, 1.266), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 107: Line</title>
+      <link>/artwork/rnr_lines_0001575048/</link>
+      <pubDate>Tue, 17 Apr 2018 13:51:04 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001575048/</guid>
+      <description>1274 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 1 size(s).
+$$ s = .01575048, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(0.441, 0.209), $$ $$\theta \sim \beta(0.363, 1.652). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 104: Line</title>
+      <link>/artwork/rnr_lines_0000146982/</link>
+      <pubDate>Sat, 14 Apr 2018 06:04:21 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000146982/</guid>
+      <description>2450 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 4 size(s).
+$$ s = .00146982, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.544, 0.620), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 100: Line</title>
+      <link>/artwork/rnr_lines_0000142046/</link>
+      <pubDate>Tue, 10 Apr 2018 04:25:52 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000142046/</guid>
+      <description>1755 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00142046, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.780, 0.447). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 94: Line</title>
+      <link>/artwork/rnr_lines_0000022862/</link>
+      <pubDate>Wed, 04 Apr 2018 04:32:07 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000022862/</guid>
+      <description>261 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00022862, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 1.12, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.765, 0.210). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 92: Line</title>
+      <link>/artwork/rnr_lines_0000435990/</link>
+      <pubDate>Mon, 02 Apr 2018 21:57:57 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000435990/</guid>
+      <description>1947 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00435990, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.290, 0.099). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 85: Line</title>
+      <link>/artwork/rnr_lines_0002864033/</link>
+      <pubDate>Mon, 26 Mar 2018 07:32:08 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0002864033/</guid>
+      <description>210 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 5 size(s).
+$$ s = .02864033, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0000,$$ $$ R = 0.62, $$ $$r \sim \beta(0.714, 1.398), $$ $$\theta \sim \beta(0.165, 0.524). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 83: Line</title>
+      <link>/artwork/rnr_lines_0000728599/</link>
+      <pubDate>Sat, 24 Mar 2018 17:31:46 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000728599/</guid>
+      <description>754 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00728599, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.400, 1.700). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 80: Line</title>
+      <link>/artwork/rnr_lines_0000070090/</link>
+      <pubDate>Wed, 21 Mar 2018 20:31:22 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000070090/</guid>
+      <description>680 lines drawn through each origin in one of 8 direction(s) with lengths chosen from 8 size(s).
+$$ s = .00070090, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 2.50, $$ $$r \sim \beta(0.839, 1.472), $$ $$\theta \sim \beta(1.400, 1.995). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 79: Line</title>
+      <link>/artwork/rnr_lines_0001049415/</link>
+      <pubDate>Tue, 20 Mar 2018 02:59:32 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001049415/</guid>
+      <description>3330 lines draw from each origin in one of 7 direction(s) with lengths chosen from 1 size(s).
+$$ s = .01049415, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 4.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.977, 1.654). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 76: Line</title>
+      <link>/artwork/rnr_lines_0003097115/</link>
+      <pubDate>Sat, 17 Mar 2018 16:43:27 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0003097115/</guid>
+      <description>1395 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 4 size(s).
+$$ s = .03097115, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(8.000, 45.000), $$ $$\theta \sim \beta(2.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 74: Line</title>
+      <link>/artwork/rnr_lines_0000169060/</link>
+      <pubDate>Thu, 15 Mar 2018 00:27:46 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000169060/</guid>
+      <description>1302 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 8 size(s).
+$$ s = .00169060, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 2.62, $$ $$r \sim \beta(1.700, 1.098), $$ $$\theta \sim \beta(0.903, 0.833). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 73: Line</title>
+      <link>/artwork/rnr_lines_0000548183/</link>
+      <pubDate>Wed, 14 Mar 2018 07:26:26 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000548183/</guid>
+      <description>2752 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00548183, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.00, $$ $$r \sim \beta(0.536, 1.126), $$ $$\theta \sim \beta(1.340, 1.251). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 72: Line</title>
+      <link>/artwork/rnr_lines_0001526970/</link>
+      <pubDate>Tue, 13 Mar 2018 05:37:44 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001526970/</guid>
+      <description>432 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 8 size(s).
+$$ s = .01526970, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 1.12, $$ $$r \sim \beta(0.706, 0.029), $$ $$\theta \sim \beta(1.655, 0.534). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 69: Line</title>
+      <link>/artwork/rnr_lines_0000499515/</link>
+      <pubDate>Sat, 10 Mar 2018 20:47:19 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000499515/</guid>
+      <description>4018 lines drawn through each origin in one of 5 direction(s) with lengths chosen from 7 size(s).
+$$ s = .00499515, \; $$ $$ | \lbrace \theta \rbrace | = 5, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.229, 1.292), $$ $$\theta \sim \beta(0.039, 0.961). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 61: Line</title>
+      <link>/artwork/rnr_lines_0000329339/</link>
+      <pubDate>Fri, 02 Mar 2018 11:04:36 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000329339/</guid>
+      <description>1850 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 2 size(s).
+$$ s = .00329339, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 2,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(0.539, 0.250), $$ $$\theta \sim \beta(0.956, 1.485). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 55: Line</title>
+      <link>/artwork/rnr_lines_0001401020/</link>
+      <pubDate>Sat, 24 Feb 2018 03:18:25 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001401020/</guid>
+      <description>1007 lines drawn through each origin in one of 8 direction(s) with lengths chosen from 1 size(s).
+$$ s = .01401020, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 2.38, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.852, 1.496). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 52: Line</title>
+      <link>/artwork/rnr_lines_0000099500/</link>
+      <pubDate>Wed, 21 Feb 2018 23:04:51 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000099500/</guid>
+      <description>2520 lines drawn through each origin in one of 4 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00099500, \; $$ $$ | \lbrace \theta \rbrace | = 4, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.033, 0.303). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 51: Line</title>
+      <link>/artwork/rnr_lines_0004125864/</link>
+      <pubDate>Tue, 20 Feb 2018 23:58:16 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0004125864/</guid>
+      <description>1554 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 1 size(s).
+$$ s = .04125864, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(8.000, 6.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 40: Line</title>
+      <link>/artwork/rnr_lines_0000011870/</link>
+      <pubDate>Fri, 09 Feb 2018 06:32:00 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000011870/</guid>
+      <description>1792 lines drawn through each origin in one of 3 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00011870, \; $$ $$ | \lbrace \theta \rbrace | = 3, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(0.941, 0.268), $$ $$\theta \sim \beta(1.872, 0.246). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 35: Line</title>
+      <link>/artwork/rnr_lines_0000241148/</link>
+      <pubDate>Sun, 04 Feb 2018 06:44:14 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000241148/</guid>
+      <description>285 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 6 size(s).
+$$ s = .00241148, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 6,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(15.000, 102.000), $$ $$\theta \sim \beta(5.000, 4.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 32: Line</title>
+      <link>/artwork/rnr_lines_0000105577/</link>
+      <pubDate>Thu, 01 Feb 2018 14:14:25 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000105577/</guid>
+      <description>2900 lines drawn through each origin in one of 2 direction(s) with lengths chosen from 5 size(s).
+$$ s = .00105577, \; $$ $$ | \lbrace \theta \rbrace | = 2, $$ $$ | \lbrace r \rbrace | = 5,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(9.000, 112.000), $$ $$\theta \sim \beta(2.000, 7.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 28: Line</title>
+      <link>/artwork/rnr_lines_0000685193/</link>
+      <pubDate>Sun, 28 Jan 2018 02:43:39 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000685193/</guid>
+      <description>814 lines drawn through each origin in one of 1 direction(s) with lengths chosen from 8 size(s).
+$$ s = .00685193, \; $$ $$ | \lbrace \theta \rbrace | = 1, $$ $$ | \lbrace r \rbrace | = 8,$$ $$ r_0 = 0.0000,$$ $$ R = 2.75, $$ $$r \sim \beta(1.793, 1.178), $$ $$\theta \sim \beta(1.000, 1.000). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 23: Line</title>
+      <link>/artwork/rnr_lines_0002324137/</link>
+      <pubDate>Tue, 23 Jan 2018 07:23:10 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0002324137/</guid>
+      <description>2088 lines drawn through each origin in one of 8 direction(s) with lengths chosen from 4 size(s).
+$$ s = .02324137, \; $$ $$ | \lbrace \theta \rbrace | = 8, $$ $$ | \lbrace r \rbrace | = 4,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.166, 1.745), $$ $$\theta \sim \beta(0.223, 1.464). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 13: Line</title>
+      <link>/artwork/rnr_lines_0001390331/</link>
+      <pubDate>Sat, 13 Jan 2018 06:43:07 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0001390331/</guid>
+      <description>384 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 1 size(s).
+$$ s = .01390331, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 1.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(1.113, 0.929). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 9: Line</title>
+      <link>/artwork/rnr_lines_0000498705/</link>
+      <pubDate>Tue, 09 Jan 2018 02:36:50 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000498705/</guid>
+      <description>1848 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00498705, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(0.707, 0.857). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 6: Line</title>
+      <link>/artwork/rnr_lines_0000052077/</link>
+      <pubDate>Sat, 06 Jan 2018 21:43:24 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000052077/</guid>
+      <description>2349 lines drawn through each origin in one of 7 direction(s) with lengths chosen from 7 size(s).
+$$ s = .00052077, \; $$ $$ | \lbrace \theta \rbrace | = 7, $$ $$ | \lbrace r \rbrace | = 7,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(0.325, 1.309), $$ $$\theta \sim \beta(1.956, 1.197). $$</description>
+    </item>
+    
+    <item>
+      <title>Probably Art # 1: Line</title>
+      <link>/artwork/rnr_lines_0000067524/</link>
+      <pubDate>Mon, 01 Jan 2018 06:51:28 +0000</pubDate>
+      
+      <guid>/artwork/rnr_lines_0000067524/</guid>
+      <description>2610 lines drawn through each origin in one of 6 direction(s) with lengths chosen from 1 size(s).
+$$ s = .00067524, \; $$ $$ | \lbrace \theta \rbrace | = 6, $$ $$ | \lbrace r \rbrace | = 1,$$ $$ r_0 = 0.0000,$$ $$ R = 3.00, $$ $$r \sim \beta(1.000, 1.000), $$ $$\theta \sim \beta(9.000, 8.000). $$</description>
+    </item>
+    
+  </channel>
+</rss>
