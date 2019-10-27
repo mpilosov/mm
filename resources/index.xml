@@ -93,7 +93,8 @@ Tensorflow Models</description>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/resources/bash/</guid>
-      <description>Bash For Loops
+      <description>Bash Great reference Ctrl, Alt
+For Loops
 Digital Ocean has a great writeup to get you started
 Shell sed: String Replacement
 Here is an illustrative example. We want to change a folder&amp;rsquo;s permissions, but the path name is surrounded in quotation marks and needs to be extracted from the output of another command (docker ps). Our desired path is the second string in the output of grep, so we pass it to awk before sed:</description>
