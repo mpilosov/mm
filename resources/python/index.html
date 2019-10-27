@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 3.2.0">
-  <meta name="generator" content="Hugo 0.53" />
+  <meta name="generator" content="Hugo 0.58.2" />
   <meta name="author" content="Michael Pilosov">
 
   
@@ -501,9 +501,9 @@ Run <code>--help</code> to print the contents of <code>description</code>.</p>
 <li><code>virtualenv venv</code> (initialize virtual environment in the <code>venv</code> folder)</li>
 <li><code>source venv/bin/activate</code> (activate the virtual environment. Validate that <code>which python</code> and <code>which pip</code> now point to the versions in this folder)</li>
 <li><code>pip install -r requirements.txt</code> (install project dependencies)</li>
-<li><code>python -m ipykernel install --user --name mypython --display-name &quot;EffYeahPython&quot;</code> (create ipython kernel named pystaff based on current activated environment, so that Jupyter can access it)
-(change <code>mypython</code> and <code>EffYeahPython</code> to your liking, you can name the folder <code>venv</code> whatever you want, and it can live anywhere you want it to, but inside of a project&rsquo;s directory &hellip; makes a lot of sense)</li>
-</ol>
+
+<li><p><code>python -m ipykernel install --user --name mypython --display-name &quot;EffYeahPython&quot;</code> (create ipython kernel named pystaff based on current activated environment, so that Jupyter can access it)
+(change <code>mypython</code> and <code>EffYeahPython</code> to your liking, you can name the folder <code>venv</code> whatever you want, and it can live anywhere you want it to, but inside of a project&rsquo;s directory &hellip; makes a lot of sense)</p>
 
 <pre><code class="language-sh">pip install virtualenv
 mkdir -p venv
@@ -511,7 +511,8 @@ virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python -m ipykernel install --user --name py3 --display-name &quot;Py3&quot;
-</code></pre>
+</code></pre></li>
+</ol>
 
 <h2 id="imports">Imports</h2>
 
@@ -551,10 +552,10 @@ my_time = (datetime(1970,1,1) + timedelta(seconds=my_seconds)).time()
 </code></pre>
 
 <div class="alert alert-warning">
-  <p>Note that <code>timedelta</code> is not overflow safe, which leads to numerical error.</p>
+  
+Note that `timedelta` is not overflow safe, which leads to numerical error.
 
 </div>
-
 
 <p>Example of <code>timedelta</code> arithmetic gone wrong:</p>
 
@@ -870,7 +871,7 @@ my_time = (datetime(1970,1,1) + timedelta(seconds=my_seconds)).time()
     
     
     
-    <script src="/js/academic.min.d037ee5294b166a79dec317c58aea9cc.js"></script>
+    <script src="/js/academic.min.5752a62e7c04993e8f13fbc193e7a138.js"></script>
 
     
 

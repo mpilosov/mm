@@ -18,10 +18,7 @@
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/resources/scicomm/</guid>
-      <description>It is really difficult for content creators to figure out how to balance creative storytelling and scientific communication. Here are some channels on youtube that I believe are doing a great job at it. Do feel free to contact me and suggest more!
-Verge Science | The Verge A division of Vox, they do very compelling work and have engaging hosts.
-  
-SciShow | Affiliates Science of all kinds.</description>
+      <description>Striking a balance between information and entertainment is difficult. Here are some youtube channels to learn from.</description>
     </item>
     
     <item>
@@ -30,8 +27,7 @@ SciShow | Affiliates Science of all kinds.</description>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/resources/siam/</guid>
-      <description>I have been advertising events hosted by SIAM for several years now as part of my dedication to service to my graduate department at CU Denver. One thing I consistently struggled with was finding high-quality versions of the SIAM logo for use in the posters I was making.
-I still do not understand why their website assets are consistently ranked as irrelevant on Google image search For the longest time I was pulling images from other people&amp;rsquo;s websites that Google was scraping more successfully.</description>
+      <description>Have an event through your SIAM Student Chapter? Start here for high-res images.</description>
     </item>
     
     <item>
@@ -40,10 +36,7 @@ I still do not understand why their website assets are consistently ranked as ir
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/resources/python/</guid>
-      <description>Things I Have Written How to set up anaconda - gists.github.com/mpilosov/
-String Formatting (making titles out of lowercase strings) 
-Logging filemode=&#39;w&#39; will wipe any existing logs and start fresh.
-import sys import logging # Take care of some logging # Remove all handlers associated with the root logger object. for handler in logging.root.handlers[:]: logging.root.removeHandler(handler) logging.basicConfig(filename=&#39;example.log&#39;,level=logging.INFO, filemode=&#39;a&#39;, format=&amp;quot;%(asctime)s [%(name)s - %(threadName)s] [%(levelname)s] %(message)s&amp;quot;, datefmt=&#39;%m/%d/%Y %I:%M:%S %p&#39;) logging.getLogger().addHandler(logging.StreamHandler(sys.stderr))  Argument Parsing From my twitterbot:</description>
+      <description>My favorite programming language. Here are links that will help.</description>
     </item>
     
     <item>
@@ -52,10 +45,7 @@ import sys import logging # Take care of some logging # Remove all handlers asso
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/resources/sharing/</guid>
-      <description>Distributing Projects with PyPy (pip)
-Unit Testing with Nose
-Some Nosetests examples
-BeakerX has a suite of tools for easy reproducibility in the browser</description>
+      <description>Writing code is one thing, doing so in a comprehensible way is another.</description>
     </item>
     
     <item>
@@ -64,11 +54,7 @@ BeakerX has a suite of tools for easy reproducibility in the browser</descriptio
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/resources/writing/</guid>
-      <description>Vim How to map keys (avoid using Esc)
-Markdown The comprehensive guide in which I ctrl+F almost everything
-Someone made a good walkthrough that I often refer to
-Cheat Sheet from Assemble.io
-On Writing Jordan B Peterson&amp;rsquo;s Guide to Writing an Essay is remarkably helpful when dealing with writers block. Most of the advice generalizes well beyond topics in the humanities.</description>
+      <description>Markdown, Vim, and how to be a better writer.</description>
     </item>
     
     <item>
@@ -77,14 +63,7 @@ On Writing Jordan B Peterson&amp;rsquo;s Guide to Writing an Essay is remarkably
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/resources/machinelearning/</guid>
-      <description>Reading List: The Mathematics of Machine Learning
-Real-Time Object Recognition (YOLO)
-Machine Learning is Fun! (a series)
-Image Classification with Keras
-Transfer Learning and Image Recognition (repo)
-A Good Intro to Machine Learning  (defunct series but very cool attempt)
-Tensorflow Tutorial
-Tensorflow Models</description>
+      <description>Links and online resources I found useful.</description>
     </item>
     
     <item>
@@ -93,10 +72,7 @@ Tensorflow Models</description>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/resources/bash/</guid>
-      <description>Bash For Loops
-Digital Ocean has a great writeup to get you started
-Shell sed: String Replacement
-Here is an illustrative example. We want to change a folder&amp;rsquo;s permissions, but the path name is surrounded in quotation marks and needs to be extracted from the output of another command (docker ps). Our desired path is the second string in the output of grep, so we pass it to awk before sed:</description>
+      <description>The command line is the best utility. Get used to it and you will become one with the machine.</description>
     </item>
     
     <item>
@@ -105,12 +81,7 @@ Here is an illustrative example. We want to change a folder&amp;rsquo;s permissi
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/resources/git/</guid>
-      <description>My Gists on Github are a good place to see what I have found useful to write down for future reference.
-The use of sines and cosines in programming (or, how to make pretty pictures!)
-Git (version control) The guide everyone uses to get started
-Stop Asking for Password: git config --global credential.helper cache
-(change how long it lasts): git config --global credential.helper &#39;cache --timeout 28800&#39;
-And to forget:</description>
+      <description>Version control with Git (and Github).</description>
     </item>
     
   </channel>

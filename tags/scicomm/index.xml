@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/scicomm/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,10 @@
     <item>
       <title>Scientist Spotlight Series: Mika McKinnon</title>
       <link>/post/mika/</link>
-      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 -0600</pubDate>
       
       <guid>/post/mika/</guid>
-      <description>Happy Pi Day!
-In celebration of this wonderful number, today I thought I&amp;rsquo;d highlight a scientist who is out there in the wild doing math and weaving it into the content we consume. Meet Mika McKinnon:  Hi! I&amp;#39;m a disaster researcher (landslides in space with @ESPRESSO_SSERVI!), TV &amp;amp; movie science consultant, field geophysicist, &amp;amp; freelance science communicator. I&amp;#39;m usually somewhere along the West Coast of North America.
-Easiest way to contact me is https://t.</description>
+      <description>Ever wonder how shows and movies make sure their science is sound?</description>
     </item>
     
     <item>
@@ -29,10 +27,7 @@ Easiest way to contact me is https://t.</description>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/resources/scicomm/</guid>
-      <description>It is really difficult for content creators to figure out how to balance creative storytelling and scientific communication. Here are some channels on youtube that I believe are doing a great job at it. Do feel free to contact me and suggest more!
-Verge Science | The Verge A division of Vox, they do very compelling work and have engaging hosts.
-  
-SciShow | Affiliates Science of all kinds.</description>
+      <description>Striking a balance between information and entertainment is difficult. Here are some youtube channels to learn from.</description>
     </item>
     
   </channel>

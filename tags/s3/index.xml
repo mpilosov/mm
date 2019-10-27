@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
-    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/s3/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,10 @@
     <item>
       <title>Scientist Spotlight Series: Mika McKinnon</title>
       <link>/post/mika/</link>
-      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 -0600</pubDate>
       
       <guid>/post/mika/</guid>
-      <description>Happy Pi Day!
-In celebration of this wonderful number, today I thought I&amp;rsquo;d highlight a scientist who is out there in the wild doing math and weaving it into the content we consume. Meet Mika McKinnon:  Hi! I&amp;#39;m a disaster researcher (landslides in space with @ESPRESSO_SSERVI!), TV &amp;amp; movie science consultant, field geophysicist, &amp;amp; freelance science communicator. I&amp;#39;m usually somewhere along the West Coast of North America.
-Easiest way to contact me is https://t.</description>
+      <description>Ever wonder how shows and movies make sure their science is sound?</description>
     </item>
     
   </channel>
