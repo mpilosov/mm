@@ -462,13 +462,31 @@
 
 <pre><code class="language-python">import sys
 import logging
+import logging.handlers
 
 # Take care of some logging
+logger_filename = 'twitterbot.log'
+
 # Remove all handlers associated with the root logger object.
+# this part may be unecessary??
 for handler in logging.root.handlers[:]:
     logging.root.removeHandler(handler)
-logging.basicConfig(filename='example.log',level=logging.INFO, filemode='a', format=&quot;%(asctime)s [%(name)s - %(threadName)s] [%(levelname)s]  %(message)s&quot;, datefmt='%m/%d/%Y %I:%M:%S %p')
-logging.getLogger().addHandler(logging.StreamHandler(sys.stderr))
+
+loglevel = logging.INFO
+format_str = &quot;%(asctime)s [%(name)s - %(threadName)s] [%(levelname)s - %(funcName)s()]  %(message)s&quot;
+date_format = '%m/%d/%Y %I:%M:%S %p'
+
+root_logger = logging.getLogger()
+root_logger.setLevel(loglevel)
+handler = logging.handlers.RotatingFileHandler(
+    filename=logger_filename,
+    maxBytes=1048576,
+    backupCount=5,
+    encoding='utf8',)
+formatter = logging.Formatter(format_str)
+handler.setFormatter(formatter)
+root_logger.addHandler(handler)
+root_logger.addHandler(logging.StreamHandler(sys.stderr))
 </code></pre>
 
 <h2 id="argument-parsing">Argument Parsing</h2>

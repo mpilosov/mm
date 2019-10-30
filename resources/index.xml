@@ -43,7 +43,7 @@ I still do not understand why their website assets are consistently ranked as ir
       <description>Things I Have Written How to set up anaconda - gists.github.com/mpilosov/
 String Formatting (making titles out of lowercase strings) 
 Logging filemode=&#39;w&#39; will wipe any existing logs and start fresh.
-import sys import logging # Take care of some logging # Remove all handlers associated with the root logger object. for handler in logging.root.handlers[:]: logging.root.removeHandler(handler) logging.basicConfig(filename=&#39;example.log&#39;,level=logging.INFO, filemode=&#39;a&#39;, format=&amp;quot;%(asctime)s [%(name)s - %(threadName)s] [%(levelname)s] %(message)s&amp;quot;, datefmt=&#39;%m/%d/%Y %I:%M:%S %p&#39;) logging.getLogger().addHandler(logging.StreamHandler(sys.stderr))  Argument Parsing From my twitterbot:</description>
+import sys import logging import logging.handlers # Take care of some logging logger_filename = &#39;twitterbot.log&#39; # Remove all handlers associated with the root logger object. # this part may be unecessary?? for handler in logging.root.handlers[:]: logging.root.removeHandler(handler) loglevel = logging.INFO format_str = &amp;quot;%(asctime)s [%(name)s - %(threadName)s] [%(levelname)s - %(funcName)s()] %(message)s&amp;quot; date_format = &#39;%m/%d/%Y %I:%M:%S %p&#39; root_logger = logging.</description>
     </item>
     
     <item>
