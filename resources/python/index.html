@@ -489,6 +489,9 @@ root_logger.addHandler(handler)
 root_logger.addHandler(logging.StreamHandler(sys.stderr))
 </code></pre>
 
+<p>This will enable UTF-8 encoding, so it should run across all types of devices.
+Here is a good <a href="https://stackoverflow.com/questions/21129020/how-to-fix-unicodedecodeerror-ascii-codec-cant-decode-byte" target="_blank">stack overflow answer</a> that explains exactly what is going on with how Python handles ASCII and Unicode.</p>
+
 <h2 id="argument-parsing">Argument Parsing</h2>
 
 <p>From my twitterbot:</p>
