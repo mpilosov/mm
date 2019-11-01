@@ -2,48 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mathematical Michael</title>
-    <link>https://www.mathematicalmichael.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Mathematical Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Michael Pilosov</copyright>
     
-	<atom:link href="https://www.mathematicalmichael.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>academia</title>
-      <link>https://www.mathematicalmichael.com/categories/academia/</link>
+      <link>/categories/academia/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/categories/academia/</guid>
+      <guid>/categories/academia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>documentation</title>
-      <link>https://www.mathematicalmichael.com/categories/documentation/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
+      <link>/categories/documentation/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/categories/documentation/</guid>
+      <guid>/categories/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interviews</title>
+      <link>/categories/interviews/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/interviews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>outreach</title>
-      <link>https://www.mathematicalmichael.com/categories/outreach/</link>
+      <link>/categories/outreach/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/categories/outreach/</guid>
+      <guid>/categories/outreach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rnr</title>
-      <link>https://www.mathematicalmichael.com/categories/rnr/</link>
-      <pubDate>Mon, 31 Dec 2018 04:10:58 -0700</pubDate>
+      <link>/categories/rnr/</link>
+      <pubDate>Mon, 31 Dec 2018 04:10:58 +0000</pubDate>
       
-      <guid>https://www.mathematicalmichael.com/categories/rnr/</guid>
+      <guid>/categories/rnr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service</title>
+      <link>/categories/service/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/service/</guid>
       <description></description>
     </item>
     

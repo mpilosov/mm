@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 3.2.0">
-  <meta name="generator" content="Hugo 0.52" />
+  <meta name="generator" content="Hugo 0.53" />
   <meta name="author" content="Michael Pilosov">
 
   
@@ -18,7 +18,7 @@
   <meta name="description" content="My favorite programming language. Here are links that will help.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://www.mathematicalmichael.com/resources/python/">
+  <link rel="alternate" hreflang="en-us" href="/resources/python/">
 
   
 
@@ -100,15 +100,15 @@
   
 
   
-  <link rel="alternate" href="https://www.mathematicalmichael.com/index.xml" type="application/rss+xml" title="Mathematical Michael">
-  <link rel="feed" href="https://www.mathematicalmichael.com/index.xml" type="application/rss+xml" title="Mathematical Michael">
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Mathematical Michael">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Mathematical Michael">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://www.mathematicalmichael.com/resources/python/">
+  <link rel="canonical" href="/resources/python/">
 
   
   
@@ -122,9 +122,9 @@
   <meta property="twitter:creator" content="@Mathematical_MP">
   
   <meta property="og:site_name" content="Mathematical Michael">
-  <meta property="og:url" content="https://www.mathematicalmichael.com/resources/python/">
+  <meta property="og:url" content="/resources/python/">
   <meta property="og:title" content="Python | Mathematical Michael">
-  <meta property="og:description" content="My favorite programming language. Here are links that will help."><meta property="og:image" content="https://www.mathematicalmichael.com/img/logo.png">
+  <meta property="og:description" content="My favorite programming language. Here are links that will help."><meta property="og:image" content="/img/logo.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-07-15T00:00:00&#43;00:00">
@@ -319,10 +319,6 @@
         
 
         
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
 
       </ul>
 
@@ -392,28 +388,28 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Python&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fpython%2f"
+         href="https://twitter.com/intent/tweet?text=Python&amp;url=%2fresources%2fpython%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fpython%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fresources%2fpython%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fpython%2f&amp;title=Python"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fresources%2fpython%2f&amp;title=Python"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
    <li>
       <a class="email"
-         href="mailto:?subject=Python&amp;body=https%3a%2f%2fwww.mathematicalmichael.com%2fresources%2fpython%2f">
+         href="mailto:?subject=Python&amp;body=%2fresources%2fpython%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -460,7 +456,101 @@
 <p><a href="https://gist.github.com/mpilosov/ec4bfdf41f5196812fe8efca96683cbe" target="_blank">String Formatting (making titles out of lowercase strings)</a>
 <script src="https://gist.github.com/mpilosov/ec4bfdf41f5196812fe8efca96683cbe.js"></script></p>
 
-<h1 id="plotting">Plotting</h1>
+<h2 id="logging">Logging</h2>
+
+<p><code>filemode='w'</code> will wipe any existing logs and start fresh.</p>
+
+<pre><code class="language-python">import sys
+import logging
+import logging.handlers
+
+# Take care of some logging
+logger_filename = 'twitterbot.log'
+
+# Remove all handlers associated with the root logger object.
+# this part may be unecessary??
+for handler in logging.root.handlers[:]:
+    logging.root.removeHandler(handler)
+
+loglevel = logging.INFO
+format_str = &quot;%(asctime)s [%(name)s - %(threadName)s] [%(levelname)s - %(funcName)s()]  %(message)s&quot;
+date_format = '%m/%d/%Y %I:%M:%S %p'
+
+root_logger = logging.getLogger()
+root_logger.setLevel(loglevel)
+handler = logging.handlers.RotatingFileHandler(
+    filename=logger_filename,
+    maxBytes=1048576,
+    backupCount=5,
+    encoding='utf8',)
+formatter = logging.Formatter(format_str)
+handler.setFormatter(formatter)
+root_logger.addHandler(handler)
+root_logger.addHandler(logging.StreamHandler(sys.stderr))
+</code></pre>
+
+<p>This will enable UTF-8 encoding, so it should run across all types of devices.
+Here is a good <a href="https://stackoverflow.com/questions/21129020/how-to-fix-unicodedecodeerror-ascii-codec-cant-decode-byte" target="_blank">stack overflow answer</a> that explains exactly what is going on with how Python handles ASCII and Unicode.</p>
+
+<h2 id="argument-parsing">Argument Parsing</h2>
+
+<p>From my twitterbot:</p>
+
+<pre><code class="language-python">if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser(description='Query twitter for a list of mentions. Load list of tweets already replied to. If mentions are new, reply to them.')
+    
+    parser.add_argument('-t', '--test', action='store_true', 
+        help=&quot;Runs bot in testing mode (doesn't actually tweet).&quot;)
+    parser.add_argument('-n', '--num', default = -1, type=int,
+        help=&quot;Run only for `n` most recent mentions&quot;)
+    args = parser.parse_args()
+</code></pre>
+
+<p>Access arguments with <code>args.longname</code>, where <code>longname</code> is <code>num</code> or <code>test</code> in the example above. The single-character version is just for command-line.
+Run <code>--help</code> to print the contents of <code>description</code>.</p>
+
+<p>Alternatively, include <a href="https://raw.githubusercontent.com/dmulholl/janus-python/master/janus.py" target="_blank">this file</a> in your project (repo linked below) from <a href="https://github.com/dmulholl/janus-python/blob/master/janus.py" target="_blank">dmulholl</a>, which enables a suite of convenience functions for argument parsing.</p>
+
+<h2 id="virtual-environments">Virtual Environments</h2>
+
+<p>The instructions for setting up a &ldquo;new python&rdquo; with isolated project dependencies (and link to Jupyter) are as follows (from within a project&rsquo;s root directory):</p>
+
+<ol>
+<li><code>pip install virtualenv</code> (if you do not already have it)</li>
+<li><code>mkdir venv</code> (make a folder called <code>venv</code> for the dependencies to live inside of)</li>
+<li><code>virtualenv venv</code> (initialize virtual environment in the <code>venv</code> folder)</li>
+<li><code>source venv/bin/activate</code> (activate the virtual environment. Validate that <code>which python</code> and <code>which pip</code> now point to the versions in this folder)</li>
+<li><code>pip install -r requirements.txt</code> (install project dependencies)</li>
+<li><code>python -m ipykernel install --user --name mypython --display-name &quot;EffYeahPython&quot;</code> (create ipython kernel named pystaff based on current activated environment, so that Jupyter can access it)
+(change <code>mypython</code> and <code>EffYeahPython</code> to your liking, you can name the folder <code>venv</code> whatever you want, and it can live anywhere you want it to, but inside of a project&rsquo;s directory &hellip; makes a lot of sense)</li>
+</ol>
+
+<pre><code class="language-sh">pip install virtualenv
+mkdir -p venv
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python -m ipykernel install --user --name py3 --display-name &quot;Py3&quot;
+</code></pre>
+
+<h2 id="imports">Imports</h2>
+
+<p>In order to import files from sub-directories of your project, put a file (yes, it can be completely empty, apparently) called <code>__init__.py</code> in the folder, communicating to the Python interpreter that this directory should be importable.
+For example:</p>
+
+<pre><code>- foo/
+|- __init__.py
+|- newfun.py
+|- mysubmodule/
+  |- __init__.py
+  |- otherfun.py
+- main.py
+</code></pre>
+
+<p>Now <code>main.py</code> can <code>import foo.newfun</code> and <code>import foo.mysubmodule.otherfun</code></p>
+
+<h2 id="plotting">Plotting</h2>
 
 <p><a href="https://gist.github.com/mpilosov/eed1040215fec8455a2f1633db83f598" target="_blank">Quick Marginal Distribution Visualization with Seaborn</a></p>
 
@@ -472,9 +562,31 @@
 
 <p><a href="https://gist.github.com/mpilosov/2af9eb6bf8dd0259c99bb0306ffa84f9" target="_blank">Three-Dimensional Projections (with Linear Algebra)</a></p>
 
+<h2 id="time">Time</h2>
+
+<pre><code class="language-python">import datetime
+str(datetime.timedelta(seconds=500000))
+
+# you cannot add timedelta to time, but you can add it to datetime
+my_time = (datetime(1970,1,1) + timedelta(seconds=my_seconds)).time()
+</code></pre>
+
+<div class="alert alert-warning">
+  <p>Note that <code>timedelta</code> is not overflow safe, which leads to numerical error.</p>
+
+</div>
+
+
+<p>Example of <code>timedelta</code> arithmetic gone wrong:</p>
+
+<pre><code class="language-python">str(timedelta(hours=8) - timedelta(hours=10)) # result: -1 days
+</code></pre>
+
 <hr />
 
 <h1 id="things-others-have-written">Things Others Have Written</h1>
+
+<p><a href="https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/" target="_blank">Advanced Jupyter Notebook Tricks (and tips, though some may be outdated)</a></p>
 
 <p><a href="https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/" target="_blank">Jupyter Shortcuts</a></p>
 
@@ -484,7 +596,7 @@
 
 <p><a href="https://www.saltycrane.com/blog/2008/01/how-to-use-args-and-kwargs-in-python/" target="_blank">Using *args and **kwargs in Python</a></p>
 
-<p><a href="https://github.com/dmulholland/janus" target="_blank">Package for SUPER EASY, unordered command-line flag/options/argument parsing. Make your Python apps slick AF</a></p>
+<p><a href="https://github.com/dmulholland/janus" target="_blank">Package for simplified command-line flag/options/argument parsing</a></p>
 
 <p><a href="http://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html" target="_blank">Jupyter Notebook Math Examples - Markdown Syntax</a></p>
 
@@ -493,6 +605,8 @@
 <p><a href="https://python-graph-gallery.com/2d-density-plot/" target="_blank">Plotting Options in Python (2D Density Plots and more)</a></p>
 
 <p><a href="https://github.com/sympy/sympy/wiki/Quick-examples" target="_blank">Some SymPy examples</a></p>
+
+<p><a href="https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update" target="_blank">twitter API</a></p>
 
     </div>
 
@@ -530,8 +644,8 @@
         
       
       <li>
-        <a itemprop="sameAs" href="//facebook.com/mathematicalmichael" >
-          <i class="fab fa-facebook"></i>
+        <a itemprop="sameAs" href="//linkedin.com/in/mathematicalmichael" >
+          <i class="fab fa-linkedin"></i>
         </a>
       </li>
       
@@ -617,13 +731,13 @@
   
   <div class="post-nav-item">
     <div class="meta-nav">Next</div>
-    <a href="https://www.mathematicalmichael.com/resources/siam/" rel="next">Assets for SIAM Advertising</a>
+    <a href="/resources/siam/" rel="next">Assets for SIAM Advertising</a>
   </div>
   
   
   <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="https://www.mathematicalmichael.com/resources/sharing/" rel="prev">Sharing Your Code</a>
+    <a href="/resources/sharing/" rel="prev">Sharing Your Code</a>
   </div>
   
 </div>
