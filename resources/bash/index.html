@@ -489,6 +489,20 @@ Our desired path is the second string in the output of <code>grep</code>, so we 
   IdentityFile ~/.ssh/id_rsa
 </code></pre>
 
+<h2 id="pgp-gnupg">pgp / gnupg</h2>
+
+<p><a href="http://blog.ghostinthemachines.com/2015/03/01/how-to-use-gpg-command-line/" target="_blank">walkthrough</a>
+<a href="https://www.passwordstore.org/" target="_blank">password manager</a></p>
+
+<p>To enter password via command-line, select pinetry-tty after running the following:</p>
+
+<pre><code>sudo apt install pinentry-tty
+sudo update-alternatives --config pinentry
+export GPG_TTY=$(tty)
+</code></pre>
+
+<p>To restart, <code>echo RELOADAGENT | gpg-connect-agent</code></p>
+
 <h2 id="linux-ubuntu-general">Linux (Ubuntu), General</h2>
 
 <p><a href="http://manpages.ubuntu.com/manpages/bionic/man8/apt-mark.8.html" target="_blank">Mark packages to avoid upgrade</a></p>
