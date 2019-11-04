@@ -582,6 +582,20 @@ my_time = (datetime(1970,1,1) + timedelta(seconds=my_seconds)).time()
 <pre><code class="language-python">str(timedelta(hours=8) - timedelta(hours=10)) # result: -1 days
 </code></pre>
 
+<h2 id="f-strings">f-strings</h2>
+
+<p>Python 2.7+:</p>
+
+<pre><code class="language-python">greeting = &quot;Welcome, {name}!&quot;.format(name=user.first_name)
+</code></pre>
+
+<p>Python 3.6+:</p>
+
+<pre><code class="language-python">greeting = f&quot;Welcome, {user.first_name}!&quot;
+</code></pre>
+
+<p>(example courtesy of <a href="https://www.linkedin.com/in/mileserickson/" target="_blank">Miles Erickson</a></p>
+
 <hr />
 
 <h1 id="things-others-have-written">Things Others Have Written</h1>
