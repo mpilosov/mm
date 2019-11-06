@@ -489,6 +489,13 @@ Our desired path is the second string in the output of <code>grep</code>, so we 
   IdentityFile ~/.ssh/id_rsa
 </code></pre>
 
+<h2 id="make-gnumake">make (GNUMake)</h2>
+
+<p>Autocomplete make targets</p>
+
+<pre><code class="language-sh">complete -W &quot;\`grep -oE '^[a-zA-Z0-9_.-]+:([^=]|$)' ?akefile | sed 's/[^a-zA-Z0-9_.-]*$//'\`&quot; make
+</code></pre>
+
 <h2 id="pgp-gnupg">pgp / gnupg</h2>
 
 <p><a href="http://blog.ghostinthemachines.com/2015/03/01/how-to-use-gpg-command-line/" target="_blank">walkthrough</a>
