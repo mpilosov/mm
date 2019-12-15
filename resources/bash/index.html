@@ -474,6 +474,8 @@ Our desired path is the second string in the output of <code>grep</code>, so we 
 <pre><code class="language-sh">ssh-copy-id name-of-remote-server
 </code></pre>
 
+<p><a href="https://medium.com/@trionkidnapper/ssh-keys-with-multiple-github-accounts-c67db56f191e" target="_blank">SSH Keys with Multiple GitHub Accounts</a></p>
+
 <p><a href="https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/" target="_blank">Using multiple keys on the same computer</a></p>
 
 <p>Summary: set urls like this, where the url refers to the <code>Host</code> in file <code>~/.ssh/config</code> (shown below):</p>
@@ -487,6 +489,12 @@ Our desired path is the second string in the output of <code>grep</code>, so we 
   AddKeysToAgent yes
   UseKeychain yes
   IdentityFile ~/.ssh/id_rsa
+</code></pre>
+
+<p>You need to add the key to your agent.</p>
+
+<pre><code class="language-sh">eval &quot;$(ssh-agent -s)&quot;
+ssh-add ~/.ssh/id_rsa_personal
 </code></pre>
 
 <h2 id="make-gnumake">make (GNUMake)</h2>
