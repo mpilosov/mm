@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>humor on Mathematical Michael</title>
+    <link>/tags/humor/</link>
+    <description>Recent content in humor on Mathematical Michael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Michael Pilosov</copyright>
+    <lastBuildDate>Sun, 02 Dec 2018 21:58:28 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/humor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Daily Ye</title>
+      <link>/project/dye/</link>
+      <pubDate>Sun, 02 Dec 2018 21:58:28 +0000</pubDate>
+      
+      <guid>/project/dye/</guid>
+      <description>This project is a work in progress. Mostly I am in need of help sorting through lyrics and removing contributions from collaborators, which Mr. West has many of.</description>
+    </item>
+    
+  </channel>
+</rss>
